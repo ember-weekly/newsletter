@@ -1,0 +1,186 @@
+issue: 63
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.0.35 Released"
+                description: "More enhancements and bug fixes including a first pass at ember-addon support, and easier install of ember-data, ic-ajax, firebase and more."
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.35
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Authentication for Single Page Apps"
+                description: "Matthew Beale introduces [Torii](http://vestorly.github.io/torii/), a authorization service library for your Ember application which makes adding social login a whole lot simpler."
+                link: http://madhatted.com/2014/6/17/authentication-for-single-page-apps
+            -
+                title: "Wicked Good Ember Summary by Rob Yurkowski"
+                description: "Rob Yurkowski live-blogged his trip to Boston for Wicked Good Ember 2014 and includes summaries of all the talks."
+                link: http://rob.yurkowski.net/tech/2014/06/16/wickedgoodember/
+            -
+                title: "A Thorough Guide to Ember Data"
+                description: "An impressive deep dive into using Ember Data. Especially worth a read if you're getting started with Ember Data."
+                link: http://www.toptal.com/emberjs/a-thorough-guide-to-ember-data
+            -
+                title: "Shared Terminology Yet Different Concepts Between Ember.js and Rails"
+                description: "A nice summary of the differences between the concepts used in Ember and Rails - useful for anyone coming from a Rails background."
+                link: http://robots.thoughtbot.com/shared-terminology-yet-different-concepts-between-emberjs-and-rails
+            -
+                title: "Ember-CLI a Beginner Tutorial"
+                description: "A brief introduction to Ember-CLI, including how to get started."
+                link: http://www.codeomnib.us/ember-cli-beginner-tutorial/
+            -
+                title: "Using Ember-CLI and Sinon"
+                description: "A guide to including Sinon in your Ember-CLI based project."
+                link: http://knomedia.github.io/blog/2014/05/31/using-ember-cli-and-sinon/
+
+    -
+        heading: "Wicked Good Ember Conf Slides"
+        description: "A collection of slides from the talks at last week's Wicked Good Ember Conference in Boston."
+        isList: true
+        headlines:
+            -
+                title: "Building Native Web Apps - Joe Fiorini"
+                isList: true
+                link: https://speakerdeck.com/joefiorini/building-native-web-apps
+            -
+                title: "Ember + D3: Data Visualization with Ember Components - Phil Renaud"
+                isList: true
+                link: http://embervis.affin.io/slides/#/
+            -
+                title: "Ember: The Magic, Demystified - Robert Jackson"
+                isList: true
+                link: https://speakerdeck.com/rwjblue/ember-the-magic-demystified
+            -
+                title: "Push Patterns in Ember and Ember Data - Luke Melia"
+                isList: true
+                link: https://speakerdeck.com/lukemelia/push-patterns-in-ember-and-ember-data
+            -
+                title: "Autonomous Web Applications with Ember.js and Orbit.js - Dan Gebhardt"
+                isList: true
+                link: https://speakerdeck.com/dgeb/autonomous-web-applications-with-ember-dot-js-and-orbit-dot-js
+            -
+                title: "Writing tests for Ember apps: Enjoying the experience - Katie Gengler"
+                isList: true
+                link: https://speakerdeck.com/katiegengler/writing-tests-for-ember-apps-enjoying-the-experience
+            -
+                title: "Extending Browser Applications - Robin Ward"
+                isList: true
+                link: http://eviltrout.com/extending/
+            # -
+            #     title: ""
+            #     isList: true
+            #     link:
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-orbit"
+                description: "A library that integrates [Orbit.js](https://github.com/orbitjs/orbit.js/tree/master) with Ember to provide flexibility and control in your application's data layer."
+                link: https://github.com/orbitjs/ember-orbit
+    #         -
+    #             title: "Torii"
+    #             description: "Torii is an authorization service library for your Ember.js application."
+    #             link: http://vestorly.github.io/torii/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Emberkit - Alex Speller"
+                description: "Alex gives an introduction to Emberkit, his Ember and Rails code kit to get a Software as a Service application up and running quickly."
+                link: http://vimeo.com/98276162
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+        -
+            title: Ember.js Denver
+            description: "Model relationships, big(ish) data, query params, and more. 24th June, 6:00pm @ Cirro, Denver."
+            link: "http://www.meetup.com/Ember-js-Denver/events/186920002/"
+        -
+            title: Ember.js San Francisco
+            description: "24th June, 6:30pm @ Practice Fusion, San Francisco."
+            link: "http://www.meetup.com/Ember-SF/events/168264722/"
+        -
+            title: Ember.js NYC
+            description: "Hacker Hours: Ember pairs & musical chairs. 24th June, 7:00pm @ SimpleReach, New York."
+            link: "http://www.meetup.com/EmberJS-NYC/events/189485302/"
+        -
+            title: Ember-SC
+            description: "24th June, 7:00pm @ Washio Dojo, Santa Monica."
+            link: "http://www.meetup.com/Ember-SC/events/183127442/"
+        -
+            title: Ember.js Budapest
+            description: "Web Components - Ember style. 24th June, 7:00pm @ LogMeIn HQ, Budapest."
+            link: "http://www.meetup.com/ember-bp/events/187569212/"
+        -
+            title: Ember.js Philly
+            description: "From beginner to advanced with Ember-CLI. 25th June, 6:30pm."
+            link: "http://www.meetup.com/EmberJS-Philly/events/184174332/"
+        -
+            title: Chicago Ember.js
+            description: "Building Chrome Extensions with Ember. 26th June, 6:30pm @ Groupon - 3rd Floor, Chicago."
+            link: "http://www.meetup.com/Chicago-Ember-js/events/188131692/"
+        -
+            title: Ember.JS SLC
+            description: "Ember-CLI and Mobile Development with Ember. 26th June, 6:30pm @ Instructure, Salt Lake City."
+            link: "http://www.meetup.com/EmberJS-SLC/events/190347812/"
+        -
+            title: Ember.js NYC
+            description: "Ember Mixins, Authentication with Torii. 26th June, 7:00pm @ Pivotal Labs, New York."
+            link: "http://www.meetup.com/EmberJS-NYC/events/181912422/"
+        -
+            title: Ember ATX
+            description: "26th June, 7:00pm @ The FrontSide, Austin."
+            link: "http://www.meetup.com/Ember-ATX/events/185955512/"
+        -
+            title: Ember-SC
+            description: "Hackfest at the Beach. 28th June, 10:00am."
+            link: "http://www.meetup.com/Ember-SC/events/dkrvnjysjblc/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

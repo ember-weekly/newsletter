@@ -1,0 +1,150 @@
+issue: 31
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.2.0 Beta 3 Available"
+                description: "Mainly Bugfixes in this latest beta."
+                link: http://emberjs.com/builds/#/beta/latest
+            -
+                title: "Handlebars 1.1 Released"
+                description: "Includes AMD+ES6 support, whitespace control and a slew of bug fixes."
+                link: https://github.com/wycats/handlebars.js/blob/master/release-notes.md#v112---november-5th-2013
+            -
+                title: "Ember Inspector 0.0.4 Released"
+                description: "Includes a few improvements and bug fixes, including an improved view tree. [Ember Inspector for Firefox](https://github.com/tildeio/ember-extension/pull/60) was also just merged ([demo](https://www.youtube.com/watch?v=qYCL4HOtddY&feature=youtu.be)). Find the source code at [tildeio/ember-extension](https://github.com/tildeio/ember-extension)."
+                link: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "An In-Depth Introduction To Ember.js"
+                description: "A comprehensive guide to Ember by Julien Knebel on Smashing Magazine."
+                link: http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/
+            -
+                title: "Understanding Nesting in Ember.js"
+                description: "Uģis Ozols discusses how your routes should be nested like your UI."
+                link: http://ugisozols.com/blog/2013/11/05/understanding-nesting-in-emberjs/
+            -
+                title: "Embereños: Joe Fiorini - D-I"
+                description: "Weekly interviews with companies and people using ember. This week's interview is with Joe Fiorini of D-I."
+                link: http://emberenos.com/interviews/2013/11/6/joe-fiorini-d-i
+            -
+                title: "Composable Computed Properties"
+                description: "A [recent pull request](https://github.com/emberjs/ember.js/pull/3696) by Alex Navasardyan could soon bring the powerful ability to combine computed properties."
+                link: http://discuss.emberjs.com/t/composable-computed-properties/3256
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Don't struggle to figure out SEO for your Ember.js app"
+                description: "BromBone takes care of it for you. We render html snapshots of your pages that Google can read. Learn more about how you can get your Ember.js pages listed in Google."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberFest 2013: Query Params with the Ember Router"
+                description: "Alex Speller introduces Ember Query, a library enabling query string usage in Ember: introduction, advanced usage, tips & tricks, the future."
+                link: http://www.infoq.com/presentations/ember-query-string
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Addepar Ember Charts"
+                description: "A charting library built with the Ember.js and d3.js frameworks. It includes time series, bar, pie, and scatter charts which are easy to extend and modify."
+                link: http://addepar.github.io/#/ember-charts/overview
+            -
+                title: "Addepar Ember Widgets"
+                description: "Includes easy to extend components such as select, popover, modal, carousel, and accordion built on bootstrap 3.0 CSS."
+                link: http://addepar.github.io/#/ember-widgets/overview
+            -
+                title: "Ember-Rails"
+                description: "Updated to v0.14.0. Ember-Rails makes developing an Ember application much easier in Rails 3.1+. Also check out [Ember App Kit Rails](https://github.com/dockyard/ember-appkit-rails)."
+                link: https://github.com/emberjs/ember-rails
+            -
+                title: "Filter Content Example"
+                description: "A simple example of how to filter content using a text field, by Eric Berry."
+                link: http://emberjs.jsbin.com/OtUqoBi/1/edit
+            -
+                title: "Bootstrap Dropdown Component"
+                description: "By Heyjin Kim."
+                link: http://emberjs.jsbin.com/emberjs-dropdown-component/10/edit
+            -
+                title: "Float Label Input"
+                description: "By Ricardo Mendes. And [adapted](http://jsbin.com/eSUKuJE/1) by Alexandre Rocha."
+                link: http://emberjs.jsbin.com/Iwuwoja/54/edit
+            -
+                title: "Hydro Class"
+                description: "A full Class system for JavaScript. It's very much inspired by Ember.js' object system, but ported over to Node."
+                link: https://github.com/TheHydroImpulse/class
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            # -
+            #     title: "At BackOps we get it done!"
+            #     description: "BackOps is transforming the way businesses manage their back office. We’re looking for a kick-ass Front-End Eng. to develop fast and efficient front-ends with Ember on the front and Rails on the back. So if this is you, come work with us!"
+            #     link: http://www.jobscore.com/jobs/backops/front-end-developer-san-francisco-ca/bg8MAIJgSr4R14eJe4egig?ref=rss&sid=68
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Toronto, Canada Meetup"
+                description: "7th November, 7:00pm @ Pharmacy."
+                link: http://www.torontoemberjs.com/
+            -
+                title: "Southern California Meetup"
+                description: "12th November, 7:00pm @ SendGrid."
+                link: http://www.meetup.com/Ember-SC/events/147455692/
+            -
+                title: "Puerto Rico Meetup"
+                description: "12th November, 6:00pm @ Blimp HQ."
+                link: http://www.meetup.com/Ember-PR/events/149075732/
+            -
+                title: "London Meetup"
+                description: "13th November, 6:30pm @ Enthuse.me."
+                link: http://www.meetup.com/London-Emberjs-User-Group/events/148037482/
+            -
+                title: "Boston Meetup"
+                description: "14th November, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/146077642/
+            -
+                title: "Austin, TX Meetup"
+                description: "14th November, 7:00pm @ The FrontSide."
+                link: http://www.meetup.com/Ember-ATX/events/141533102/
+            -
+                title: "NEW: São Paulo, Brazil Meetup"
+                description: "14th November, 7:00pm."
+                link: http://www.meetup.com/Ember-js-Sao-Paulo/events/149014782/
+            -
+                title: "EmberFest 2014"
+                description: "EmberFest, \"The Biggest Ember.js Event in Europe!\", will be back on 27-29th August 2014 in Barcelona, Spain. Sign up to the mailing list for more news."
+                link: http://emberfest.eu/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+

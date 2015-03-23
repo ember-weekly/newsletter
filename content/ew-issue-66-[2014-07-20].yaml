@@ -1,0 +1,148 @@
+issue: 66
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.6.1 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/07/15/ember-1-6-1-released.html
+            -
+                title: "Ember 1.6.0 & 1.7 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/07/07/ember-1-6-0-and-ember-1-7-0-beta-released.html
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Demystifying Ember Async Testing"
+                description: ""
+                link: http://coryforsyth.com/2014/07/10/demystifing-ember-async-testing/
+            -
+                title: "Ember.js: parallel loading of several resources"
+                description: ""
+                link: http://www.novelys.com/blog/2014/07/07/ember-parallel-loading-of-several-resources.html?
+            -
+                title: "Direct image uploads from the browser to the cloud with Ember and Cloudinary"
+                description: ""
+                link: http://beerlington.com/blog/2014/07/13/direct-image-uploads-with-emberjs-and-cloudinary/
+            -
+                title: "New Dependency Injection & Service Lookup Guide"
+                description: ""
+                link: http://emberjs.com/guides/understanding-ember/dependency-injection-and-service-lookup/
+            -
+                title: "Simple Collection sorting and filtering with Ember"
+                description: ""
+                link: http://blog.crowdint.com/2014/07/08/simple-collection-s-sorting-and-filtering-with-ember-js.html
+            # -
+            #     title: "ToDo MVC with Ember-CLI (part 1)"
+            #     description: ""
+            #     link: http://www.cubicleapps.com/articles/todo-mvc-with-ember-cli-part-1
+            -
+                title: "Rock & Roll with Ember.js - New eBook by Balint Erdi"
+                description: ""
+                link: http://www.rockandrollwithemberjs.com/
+            -
+                title: "How we created our startup in under a month using Ember"
+                description: ""
+                link: http://flowpro.io/blog/ember-js-flowpro
+            -
+                title: "Tom Dale Talks Frameworks, Standards and Open Source"
+                description: ""
+                link: http://insideintercom.io/tom-dale-talks-frameworks-standards-and-open-source/?
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Liquid Fire - Ember Animation Support"
+                description: ""
+                # description: "Comprehensive animation support for ambitious Ember applications."
+                link: https://github.com/ef4/liquid-fire
+            -
+                title: "Ember Data Route - Ensure you clean up after your models"
+                description: ""
+                link: https://github.com/dockyard/ember-data-route
+            -
+                title: "Ember CLI, Rails & OAuth Example"
+                description: ""
+                link: https://github.com/HeroicEric/ember-cli-rails-oauth-example
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Embularactymerbone - Ryan Florence @ JSConf 2014"
+                description: ""
+                link: https://www.youtube.com/watch?v=CBhDdWY1uv8
+            -
+                title: "Animations, Integration Testing & Ember Array - Ember Boston July Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=S4M78SO3gAc
+            -
+                title: "Unit Testing in Ember - Stefan Fochler @ Ember Munich"
+                description: ""
+                link: https://www.youtube.com/watch?v=6KE-Fj-NbnU
+            -
+                title: "Using Ember Simple Auth with Ember-CLI - Marco Otte Witte @ Ember Munich"
+                description: ""
+                link: https://www.youtube.com/watch?v=EkedSQH6yBo
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "NEW: Ember.js Dallas"
+                description: "21st July, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/191608922/"
+            -
+                title: Ember.js Adelaide
+                description: "Nested Routes by Pascal and Introduction to Ember Run loop by Rahul. 22nd July, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/190862192/"
+            -
+                title: Ember.js San Francisco
+                description: "22nd July, 6:30pm @ Firebase HQ 3.0, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/184385342/"
+            -
+                title: Ember.JS SLC
+                description: "Injecting Ember into Existing Apps and Live Code Review!. 22nd July, 6:30pm @ Instructure, Salt Lake City."
+                link: "http://www.meetup.com/EmberJS-SLC/events/191610842/"
+            -
+                title: Ember.js Denver
+                description: "22nd July, 6:30pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/195256752/"
+            -
+                title: Ember.js Meetup - Vancouver
+                description: "Ember CLI, Ember inspector, Ember components and more. 22nd July, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/194078372/"
+            -
+                title: Ember.js Philly
+                description: "From beginner to advanced with Ember-CLI. 23rd July, 6:30pm."
+                link: "http://www.meetup.com/EmberJS-Philly/events/184174332/"
+            -
+                title: Ember.js NYC
+                description: "JSON API with Steve Klabnik and Liquid Fire with Edward Faulkner. 25th July, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/191260582/"
+            -
+                title: Ember ATX
+                description: "25th July, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/191542542/"

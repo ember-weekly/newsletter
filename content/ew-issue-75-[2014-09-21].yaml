@@ -1,0 +1,160 @@
+issue: 75
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Inspector 1.5.0 Released"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/blob/master/CHANGELOG.md#ember-inspector-150
+            -
+                title: "Ember-CLI v0.0.46 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.46
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Working with SVG in Ember"
+                description: ""
+                link: http://www.benlesh.com/2014/09/working-with-svg-in-ember.html?spref=tw
+            -
+                title: "Routeless Ember.js Controllers"
+                description: ""
+                link: http://ember.zone/routeless-ember-js-controllers/
+            -
+                title: "Reimagining Upside's Front End with Ember.js"
+                description: ""
+                link: http://www.upsideadvisor.com/blog/reimagining-upside-s-front-end-with-ember-js#.VB98z2SwJy8
+            -
+                title: "Ember Data Meeting Minutes - 2014/08/20"
+                description: ""
+                link: http://emberjs.com/blog/2014/08/23/ember-data-meeting-minutes-2014-08-20.html
+            -
+                title: "Core Team Meeting Minutes - 2014/08/01"
+                description: ""
+                link: http://emberjs.com/blog/2014/09/13/core-team-meeting-minutes-2014-08-01.html
+            -
+                title: "Core Team Meeting Minutes - 2014/08/14"
+                description: ""
+                link: http://emberjs.com/blog/2014/09/13/core-team-meeting-minutes-2014-08-14.html
+            -
+                title: "Core Team Meeting Minutes - 2014/09/12"
+                description: ""
+                link: http://emberjs.com/blog/2014/09/13/core-team-meeting-minutes-2014-09-12.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-computed-change-gate: Only trigger observers if the value has changed"
+                description: ""
+                link: https://github.com/GavinJoyce/ember-computed-change-gate
+            -
+                title: "Ember Chart: An Ember-CLI Add-on for Chart.js"
+                description: ""
+                link: https://github.com/aomra015/ember-cli-chart
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "This job will let you solve challenges you've never experienced"
+    #            description: "Pitchtarget is a marketing platform that makes complex tasks easy. If you think you've built great UXs, you should join us. We are looking for Frontend Engineers who love Ember and know how to quickly shop great interfaces and experiences."
+    #            link: http://www.pitchtarget.com/careers/?position=frontend-developer
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js Introduction by Kasper Tidemann"
+                description: ""
+                link: https://www.youtube.com/watch?v=L3sYt8PPHyI
+            -
+                title: "Building an Ember-CLI Add-on Using TDD by Gavin Joyce"
+                description: ""
+                link: https://www.youtube.com/watch?v=PDgvMAyA8ic
+            -
+                title: "HTMLBars by Kris Selden"
+                description: ""
+                link: https://www.youtube.com/watch?v=nJ7QJVfYXSU
+            -
+                title: "Atomic Ember Development by Martin Pratt"
+                description: ""
+                link: http://vimeo.com/106261416
+            -
+                title: "Tom Dale Talks About the Humans Behind Tilde and Ember.js"
+                description: ""
+                link: https://www.youtube.com/watch?v=hiwZUxc1Fpw
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: LA Hack Night
+                description: "23rd September, 6:30pm @ Wiredrive, Marina del Rey."
+                link: "http://www.meetup.com/Ember-SC/events/203280902/"
+            -
+                title: Vancouver
+                description: "23rd September, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/208051772/"
+            -
+                title: Chicago
+                description: "24th September, 6:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/203279182/"
+            -
+                title: Salt Lake City
+                description: "25th September, 6:30pm @ Instructure, Salt Lake City."
+                link: "http://www.meetup.com/EmberJS-SLC/events/198259802/"
+            -
+                title: New York
+                description: "25th September, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/203798642/"
+            -
+                title: Austin
+                description: "25th September, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/204861992/"
+            -
+                title: Southern California
+                description: "27th September, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/207318132/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

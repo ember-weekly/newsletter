@@ -1,0 +1,141 @@
+issue: 34
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.2.0 released"
+                description: "Features include:  support for nested loading/error substates, components/helpers registered on the container can be rendered in templates via their dasherized names, non-block form link-to helper, Handlebars v1.1 support and bug fixes. ([changelog](https://github.com/emberjs/ember.js/blob/v1.2.0/CHANGELOG))"
+                link: http://emberjs.com/builds/#/release/latest
+            -
+                title: "Ember 1.3.0 Beta 1 Available"
+                description: "Mainly bug fixes and Ember Testing improvements. ([changelog](https://github.com/emberjs/ember.js/blob/v1.3.0-beta.1/CHANGELOG.md#ember-130beta1))"
+                link: http://emberjs.com/builds/#/beta/latest
+            -
+                title: "Ember Inspector fo Firefox"
+                description: "The popular tool for debugging your Ember applications is also available on Firefox [as well as Chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)."
+                link: https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Internationalization Support in Ember.js"
+                description: "A guide to using [i18n-js](https://github.com/fnando/i18n-js) to support multiple languages in your Ember application."
+                link: http://eviltrout.com/2013/11/24/i18n-in-ember.html
+            -
+                title: "Testing Ember.js applications with Konacha"
+                description: "A detailed look at testing an Ember application with the Konacha ruby gem (based on Mocha & Chai)."
+                link: http://blog.crowdint.com/2013/11/20/testing-ember-js-applications-with-konacha.html
+            -
+                title: "Building Ember.js Applications for Production"
+                description: "A look at using [Brunch](http://brunch.io/) for tooling in an Ember application."
+                link: http://elweb.co/building-ember-js-applications-for-production/
+            -
+                title: "Ember Data Documentation [Updated]"
+                description: "There's been [gradual improvement](https://github.com/emberjs/website/issues/1064) of the Ember Data docs recently, with many improvements now live in the guides."
+                link: http://emberjs.com/guides/models/
+            -
+                title: "Embereños, The Ugly."
+                description: "A look back at what Ember developers find most frustrating and what's being done to address these complaints."
+                link: http://emberenos.com/interviews/2013/11/27/embereos-the-ugly
+            -
+                title: "Angular.js vs Ember.js Star Rating Component Comparison"
+                description: ""
+                link: http://www.wintellect.com/blogs/nstieglitz/angular.js-vs-ember.js-star-rating-component-comparison
+            -
+                title: "Ember.js Basics - What is Ember?"
+                description: ""
+                link: http://www.infragistics.com/community/blogs/brent_schooley/archive/2013/11/07/ember-js-basics-what-is-ember.aspx
+            -
+                title: "Using Bower with Rails and Ember.js"
+                description: ""
+                link: http://aaronortbals.com/articles/using-bower-with-rails-and-ember-js/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "ng-embereño - Anglular.js from an Ember.js perspective by Alex Matchneer"
+                description: "The video from Alex's popular NYC November meetup talk. Also checkout the [slides](https://docs.google.com/presentation/d/1e0z1pT9JuEh8G5DOtib6XFDHK0GUFtrZrU3IfxJynaA/preview?sle=true#slide=id.p)."
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=7ecsYtRiD5Q#t=3390
+            -
+                title: "Creating a Multimedia Application by Denis Nazarov"
+                description: "A NYC November meetup talk on ways to create interactive applications using videos and animations. ([slides](https://docs.google.com/presentation/d/1kQKg_2ZsJMnMVTvfcR1e1oUZRFfLkppLuLwCy4qtFvI/edit))"
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=7ecsYtRiD5Q#t=2425
+            -
+                title: "Build An Ember.js App"
+                description: "A free screencast series by Balint Erdi to help you get up & running with Ember. [Sign up for emailed updates](https://balinterdi.leadpages.net/emberjs-mailing-list/)."
+                link: http://us6.campaign-archive1.com/?u=6bdf378a5947221cb5387b72f&id=535cfda776&e=d95175c360
+            -
+                title: "Experiences Building a Hypervideo-based Web App with Ember.js, Popcorn.js and HTML5"
+                description: "Thomas Herrmann discusses the advantages, challenges and lessons learned in building a multimedia-heavy, interactive HTML5 application with Ember.js."
+                link: http://www.infoq.com/presentations/hypermedia-emberjs-html5
+            -
+                title: "Ember Testing Discussions with Stefan Penner & Friends"
+                description: "A collection of videos as a response to [Ryan Florence's gist](https://gist.github.com/rpflorence/02e35f0968af95c51307) on difficulties testing Ember applications. Includes an explanation of Autorun and Promises in Ember Testing, Unit Testing, Global Namespace, Modules and Testing Models. Also see the [Notes & Resolutions](https://gist.github.com/stefanpenner/67d2b6efba50969f4efc) and the [original video](https://www.youtube.com/watch?v=QBLMdlnNhkY)."
+                link: https://www.youtube.com/channel/UCabmYipmSafv_Rn2DPyU3OA?feature=watch
+            -
+                title: "Ember Build Tools Showdown"
+                description: "A talk by Eric Berry at the Ember Salt Lake City meetup covering the different build tool options for Ember and evaluates the pros and cons of each. ([slides](https://speakerdeck.com/cavneb/ember-build-tools-showdown))"
+                link: https://www.youtube.com/watch?v=b1VfmeXznfk&feature=player_detailpage&list=UU7zhgq6ntpbl0tgOsTTsenw#t=640
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ic-ajax"
+                description: "An Ember-friendly jQuery.ajax wrapper which returns RSVP promises and improves testing support."
+                link: https://github.com/instructure/ic-ajax
+            -
+                title: "Ember Google Analytics"
+                description: "A plugin that allows your Ember application to easily work with Google Analytics."
+                link: https://github.com/ryanto/ember-google-analytics
+            -
+                title: "Ember Addon Kit"
+                description: "Boilerplate repository for creating ember addons."
+                link: https://github.com/rpflorence/ember-addon-kit
+            -
+                title: "Ember App Kit"
+                description: "Ember App Kit aims to be the foundation for ambitious web applications built with Ember. Includes, a sane project structure, ES6 module support, project compilation & minification, testing, linting & preprocessor support."
+                link: https://github.com/stefanpenner/ember-app-kit
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         # -
+    #         #     title: "At BackOps we get it done!"
+    #         #     description: "BackOps is transforming the way businesses manage their back office. We’re looking for a kick-ass Front-End Eng. to develop fast and efficient front-ends with Ember on the front and Rails on the back. So if this is you, come work with us!"
+    #         #     link: http://www.jobscore.com/jobs/backops/front-end-developer-san-francisco-ca/bg8MAIJgSr4R14eJe4egig?ref=rss&sid=68
+    #         -
+    #            title: "Looking for an Ember Developer?"
+    #            description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #            domain: emberweekly.com
+    #            link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Brussels, Belgium Meetup"
+                description: "4th December, 8:00pm."
+                link: http://www.meetup.com/Ember-js-Brussels/events/148770752/
+            -
+                title: "Boston Meetup - Ember.js Install Fest for Rails Devs"
+                description: "5th December, 6:00pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/150977252/
+            -
+                title: "NEW: Ember Twin Cities, Saint Paul, MN Meetup"
+                description: "9th January 2014, 6:30pm @ Tightrope Media Systems."
+                link: http://www.meetup.com/Ember-Twin-Cities/events/152633082/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+

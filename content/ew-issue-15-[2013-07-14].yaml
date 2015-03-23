@@ -1,0 +1,186 @@
+issue: 15
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Authentication With EmberJS"
+                description: "An in-depth multi-part blog series looking at how to do authentication with Ember using Rails::Api and Ember Tools. ([code](https://github.com/cavneb/simple_auth))"
+                link: http://coderberry.me/blog/2013/07/08/authentication-with-emberjs-part-1/
+            -
+                title: "Get started with Ember.js in 5 minutes"
+                description: "A look at using [Yeoman](http://yeoman.io/) and the [Ember Generator](https://github.com/yeoman/generator-ember) to bootstrap an Ember application."
+                link: http://matthewlehner.net/get-started-with-ember-js-in-5-minutes/
+            -
+                title: "Diving into Ember.js - Part 1"
+                description: "A quick guide to getting going with Ember.js and [Padrinorb](http://www.padrinorb.com/)."
+                link: http://altoros.github.io/2013/diving-into-emberjs-part-1/
+            -
+                title: "Sort lists with Ember ArrayController"
+                description: ""
+                link: http://www.estellamadison.com/#/posts/7729704464532575256
+            -
+                title: "Intermediate Ember Controller Concepts"
+                description: ""
+                link: http://blog.gaslight.co/post/54512786990/intermediate-ember-controller-concepts
+            -
+                title: "Adding Hood.ie storage to the EmberJS TodoMVC app"
+                description: ""
+                link: http://www.roberthorvick.com/2013/07/02/adding-hood-ie-storage-to-the-emberjs-todomvc-app/
+            -
+                title: "Ember.js Data Model Inheritance"
+                description: ""
+                link: https://coderwall.com/p/hi6hya
+            -
+                title: "Table Sorting with Ember"
+                description: ""
+                link: http://hawkins.io/2013/07/table-sorting-with-ember/
+            -
+                title: "Ember's BufferedProxy and analog to Ruby's method_missing"
+                description: ""
+                link: http://coryforsyth.com/2013/06/27/ember-buffered-proxy-and-method-missing/
+
+    -
+        heading: "Ember Fest"
+        image: "https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/ac25c8565ec37f9299ac75ca0/images/logo_smallf3833f.png"
+        advert: true
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany. A three day event featuring Training sessions, a full day Hackathon and a full day Conference. This will be the European Ember.js event of the year! Starting on August 29th and ending on August 30th, with a conference dinner and after party."
+                # image: https://si0.twimg.com/profile_images/378800000030945398/cf9a81d8d81affa2126f00af65708ed6.png
+                link: http://emberfest.eu/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Fireside Chat with Ember Core Team Members"
+                description: "In June, 5 of the Ember Core Team discussed Ember & its future at an Ember NYC event. ([audio only](https://soundcloud.com/ember-js-nyc/fireside-chat-with-ember-core))"
+                link: https://www.youtube.com/watch?v=L9OOMygo1HI&feature=youtu.be
+            -
+                title: "Ember and Containers - Boston Meetup"
+                description: "[Matthew Beale](https://github.com/mixonic) talks about containers & resolvers in Ember. ([slides](http://www.slideshare.net/mixonic/ember-and-containers))"
+                link: https://www.youtube.com/watch?v=jPI0kZIIBoU&feature=youtu.be&t=2m51s
+            -
+                title: "The Ember Router and its Facelift - Boston Meetup"
+                description: "[Alex Matchneer](https://twitter.com/machty) covers the RC6 router facelift."
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=jPI0kZIIBoU#t=2447s
+            -
+                title: "Ember in Production - MelbJS"
+                description: "[James Rosen](https://twitter.com/jamesarosen) talks at the MelbJS meetup at Aconex in Melbourne."
+                link: http://vimeo.com/channels/melbjs/68302295
+            -
+                title: "jQuery Isn't Enough: An Introduction to Ember.js"
+                description: "[Katie Gengler](https://twitter.com/katiegengler)'s talk from jQuery Conference Portland 2013"
+                link: https://www.youtube.com/watch?v=1ZdBeDL0s7I&feature=youtu.be
+    # -
+    #     heading: "Jobs"
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember Developer?"
+    #            description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #            domain: emberweekly.com
+    #            link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember App Kit"
+                description: "\"Ember App Kit is a foundation for your ambitious web applications built in Ember\". It's still early but it's great to have some influential community members working to make it easier to work with Ember projects. Find more information on the [wiki](https://github.com/stefanpenner/ember-app-kit/wiki/Getting-Started)."
+                link: https://github.com/stefanpenner/ember-app-kit
+            -
+                title: "Ember Bootstrap"
+                description: "v0.0.2 of the unofficial 'Ember Add-on' which provides a set of UI elements styled using Twitter Bootstrap."
+                link: https://github.com/emberjs-addons/ember-bootstrap
+            -
+                title: "Ember Model localStorage Adapter"
+                description: "Initial work on a localStorage adapter for [Ember Model](https://github.com/ebryn/ember-model) by [Erik Bryn](https://twitter.com/ebryn)."
+                link: https://github.com/ebryn/ember-model-localstorage-adapter
+            -
+                title: "Ember Model Parse Adapter"
+                description: "Initial spike on a [Parse](https://www.parse.com/) adapter for [Ember Model](https://github.com/ebryn/ember-model) by [Erik Bryn](https://twitter.com/ebryn)."
+                link: https://github.com/ebryn/ember-model-parse-adapter
+            -
+                title: "Yeoman Ember Generator"
+                description: "v0.5.0 - now with basic scaffolding and Ember Data by default."
+                link: https://github.com/yeoman/generator-ember
+            -
+                title: "Ember Visualizations"
+                description: "Basic integration between Ember.js and D3 for common graphs and charts."
+                link: http://christophermeiklejohn.com/ember-visualizations/
+            -
+                title: "Ember Data CouchDB Adapter"
+                description: "An Ember.js adapter for Apache CouchDB"
+                link: https://github.com/roundscope/ember-couchdb-adapter
+            -
+                title: "Ember Testing UI"
+                description: "JS and CSS modifications to QUnit test runner when running ember-testing integration tests"
+                link: https://github.com/joeytrapp/ember-testing-ui
+
+    -
+        heading: "Ember.Component"
+        headlines:
+            -
+                title: "Read text files declaratively with Ember.Component"
+                description: "An Ember.Component example by [Ryan Florence](https://twitter.com/ryanflorence)."
+                link: http://jsbin.com/ehetaj/2/edit
+            -
+                title: "Auto-Suggest built with Ember.Component"
+                description: "A (WIP) auto-suggest component by [Paul Cowan](https://twitter.com/dagda1) using the new [Ember.Component](http://emberjs.com/api/classes/Ember.Component.html)."
+                link: https://github.com/dagda1/ember-autosuggest
+            -
+                title: "Bar Chart using D3 and Ember.Component"
+                description: ""
+                link: http://jsbin.com/heyjinjs-d3ember/5/edit
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "San Francisco Meetup"
+                description: "16th July, 7:00pm @ Practice Fusion."
+                link: http://www.meetup.com/Ember-SF/events/126610552/
+            -
+                title: "Ottawa Meetup"
+                description: "16th July, 6:30pm @ Shopify. Project Night."
+                link: http://www.meetup.com/Ember-js-Ottawa/events/129537932/
+            -
+                title: "Berlin Meetup"
+                description: "17th July, 7:30pm."
+                link: http://www.meetup.com/Ember-js-Berlin/events/113649852/
+            -
+                title: "Seattle Meetup"
+                description: "17th July, 6:30pm @ Urbanspoon."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/126721392/
+            -
+                title: "Chicago Meetup"
+                description: "18th July, 6:30pm @ Trunk Club."
+                link: http://www.meetup.com/Chicago-Ember-js/events/127603492/
+            -
+                title: "Southern California Meetup"
+                description: "18th July, 7:00pm @ SignNow."
+                link: http://www.meetup.com/Ember-SC/events/125461412/
+            -
+                title: "MilwaukeeJS Meetup"
+                description: "23rd July, 7:00pm @ Corvisa Services. The past, present, and future of web apps with Erik Bryn."
+                link: http://www.meetup.com/milwaukeejs/events/122653522/
+            -
+                title: "NEW: Washington Meetup"
+                description: "6th August, 7:00pm @ Jack Rose Dining Saloon. There's a new Ember meetup group in Washington, DC."
+                link: http://www.meetup.com/Ember-JS-DC/events/128544622/
+            -
+                title: "NEW: Denver Meetup"
+                description: "A new Ember meetup group for those of you in Denver, Colorado."
+                link: http://www.meetup.com/Ember-js-Denver/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "GitHub Issues built with Ember"
+                description: "Github issues rebuilt as an ember app (WIP)."
+                link: https://github.com/southpolesteve/github-ember

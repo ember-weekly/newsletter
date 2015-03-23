@@ -1,0 +1,153 @@
+issue: 50
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "The Road to Ember Data 1.0"
+                description: "The Ember Team give an update on the state of Ember Data and the remaining issues that need to be addressed before 1.0 final."
+                link: http://emberjs.com/blog/2014/03/18/the-road-to-ember-data-1-0.html
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Inspector 1.2.0 Released"
+                description: "Includes a new info tab which shows library versions, collapsable promises, better AMD support and the ability to show a little Tomster icon if the current website is using Ember (must be enabled in the extension options)."
+                link: https://github.com/tildeio/ember-extension/blob/master/CHANGELOG.md
+
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Launching and Open Sourcing emberflare.com"
+                description: "[EmberFlare](https://emberflare.com/) is a community driven website where everyone can share links to Ember resources and posts. Think [/r/emberjs](http://www.reddit.com/r/emberjs) but written in Ember."
+                link: http://ugisozols.com/blog/2014/03/17/launching-and-opensourcing-emberflare-dot-com/
+            -
+                title: "Ember.js Getters and Setters"
+                description: "A look at some methods provided on top of the get/set primitives, including get/setProperties, get/setEach, and macros."
+                link: http://balinterdi.com/2014/03/19/ember-dot-js-getters-and-setters.html
+            -
+                title: "Firebase: Announcing New Bindings for Ember.js"
+                description: "Firebase recently announced a big update to their EmberFire library. The new version works directly with Ember Data and brings support for relationships."
+                link: https://www.firebase.com/blog/2014-03-21-new-firebase-ember-bindings.html
+            -
+                title: "Ember.Object Slides by Brian Cardarella"
+                description: "An in-depth introduction to ``Ember.Object`` including gets/sets, extending, mixins, inheritance, computed properties, observers and events."
+                link: https://docs.google.com/presentation/d/1au6pyQS-cn8ZIjS64BOB1O6h-nPZF0DtnV5W4QB6UIQ
+            -
+                title: "Ember.js Tutorial, Part 2: Routes"
+                description: "A practical look at setting up routes in an Ember application."
+                link: http://blog.christophwagner.me/post/79916530970/ember-js-tutorial-part-2-routes
+            -
+                title: "Laravel 4 Real Time Chat"
+                description: "An example of setting up a real time chat application with Laravel 4 in the backend and Ember on the front."
+                link: https://medium.com/laravel-4/eaa550829538
+            -
+                title: "Everyone Who Tried to Convince Me To Use Ember Was Wrong"
+                description: "Rob Conery discusses his initial frustration with trying to learn Ember and why he's come around to Ember's way of doing things."
+                link: http://www.wekeroad.com/2014/03/22/every-who-tried-to-convince-me-to-use-ember-was-wrong/
+            # -
+            #     title: "Ember Components Make My ♥ Sing"
+            #     description: "A brief introduction to Ember Components and why they're so useful."
+            #     link: http://johnkpaul.github.io/presentations/manhattanjs/components
+            # -
+            #     title: "embertuts.com #1 - REST Backend para ember.js (Spanish)"
+            #     description: "I'll be honest, I don't understand a word of Spanish, but hopefully it'll be useful to some of you! :)"
+            #     link: http://www.youtube.com/watch?v=CzAmipn4w6g
+            
+
+    # -
+    #     heading: "Promoted"
+    
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+
+    -
+        heading: "Core Team Meeting Minutes"
+        description: "The minutes from the last three weeks were posted with updates on the issues and pull requests being reviewed."
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/03/21"
+                description: ""
+                link: http://emberjs.com/blog/2014/03/22/core-team-meeting-minutes-2014-03-21.html
+            -
+                title: "Core Team Meeting Minutes - 2014/03/14"
+                description: 
+                link: http://emberjs.com/blog/2014/03/22/core-team-meeting-minutes-2014-03-14.html
+            -
+                title: "Core Team Meeting Minutes - 2014/03/07"
+                description: 
+                link: http://emberjs.com/blog/2014/03/22/core-team-meeting-minutes-2014-03-07.html
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Asynchronous File Uploads in Ember.js"
+                description: "A talk by Wesley Workman from the March Embernati meetup. ([code](https://github.com/workmanw/embernati-upload-demo) | [demo](http://workmanw.github.io/embernati-upload-demo))"
+                link: http://www.youtube.com/watch?v=7Z3HCTFFCKc
+            -
+                title: "Ember Sparks 3: Metaprogramming with defineProperty"
+                description: "Jeffrey Biles shows how you can use ``defineProperty`` in your Ember objects."
+                link: http://www.youtube.com/watch?v=p33vk9ykc3s
+            -
+                title: "Ember Sparks 4: Setting up Testing"
+                description: "A guide to setting up a testing environment for your Ember application using Karma."
+                link: https://www.youtube.com/watch?v=dgjn20T218A&feature=youtu.be
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: "Ember.JS SLC"
+                description: "Promises/RSVP, Ember with Bootstrap and Lightening Talks. 27th March, 7:30pm @ Instructure, Salt Lake City."
+                link: "http://www.meetup.com/EmberJS-SLC/events/168736452/"
+            - 
+                title: "Ember.js NYC"
+                description: "Ember Sherpa on \"How to Learn Ember\". 27th March, 8:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/161761132/"
+            - 
+                title: "Ember ATX"
+                description: "27th March, 8:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/161994592/"
+            - 
+                title: "NEW: Ember Bangalore"
+                description: "First meetup is on Google Hangouts. 27th March, 10:00pm @ Bangalore, India."
+                link: http://www.meetup.com/EmberJS-Bangalore/events/172927302/
+            - 
+                title: "Wicked Good Ember 2014 Conference"
+                description: "17th June @ Boston, MA"
+                link: http://wickedgoodember.com/
+
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "EmberConf 2014 Hype Video"
+                description: "If you're lucky enough to be heading to Portland this week for EmberConf, you're in for a teat! Enjoy."
+                link: http://www.youtube.com/watch?v=FYP21ZFiVZg

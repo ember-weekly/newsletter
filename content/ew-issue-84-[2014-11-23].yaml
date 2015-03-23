@@ -1,0 +1,185 @@
+issue: 84
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Organize Your Ember App with Pods"
+                description: ""
+                link: http://cball.me/organize-your-ember-app-with-pods/
+            -
+                title: "Igor Terzic Joins The Core Team"
+                description: ""
+                link: http://emberjs.com/blog/2014/11/16/igor-terzic-joins-the-core-team.html
+            -
+                title: "Building With Ember.js at Yahoo"
+                description: ""
+                link: http://www.talentbuddy.co/blog/building-with-ember-js-at-yahoo/
+            -
+                title: "Building With Ember.js at Groupon"
+                description: ""
+                link: http://www.talentbuddy.co/blog/building-with-ember-js-at-groupon/
+            -
+                title: "Ember for Designers: Alternate States"
+                description: ""
+                link: http://robots.thoughtbot.com/ember-for-designers-alternate-states
+            -
+                title: "Simple Text Search Computed Property Macro"
+                description: ""
+                link: https://medium.com/the-ember-way/ember-simple-text-search-computed-property-macro-1b7ca6a25ad2
+            -
+                title: "Detecting if a DOM Element is in the Viewport"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/ember-js-detecting-if-a-dom-element-is-in-the-viewport-eafcc77a6f86
+            -
+                title: "Flexure: A Lightweight Model Framework for Ember.js"
+                description: ""
+                link: http://spin.atomicobject.com/2014/11/18/flexure-emberjs-model-framework/
+            -
+                title: "Emberdoro - The Pomodoro Timer"
+                description: ""
+                link: http://blog.willrax.com/building-emberdoro/
+            # -
+            #     title: "Rendering Dynamic Content"
+            #     description: ""
+            #     link: http://www.thesoftwaresimpleton.com/blog/2014/11/18/dynamic-content/
+            -
+                title: "Using Ember Inspector in Capybara Acceptance Tests"
+                description: ""
+                link: http://eclips3.net/2014/11/19/using-ember-inspector-in-capybara-acceptance-tests/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-remote-inspector: Remotely Inspect Apps on Mobile Devices Using WebSockets"
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-remote-inspector
+            -
+                title: "ember-feature-flags: Ember-CLI Addon for Feature Flags"
+                description: ""
+                link: https://www.npmjs.org/package/ember-feature-flags
+            -
+                title: "ember-cli-stripe: Stripe Checkout for Ember"
+                description: ""
+                link: https://github.com/sweettooth/ember-cli-stripe
+            -
+                title: "ember-cli-i18n: Simple Internationalization for Ember"
+                description: ""
+                link: https://github.com/dockyard/ember-cli-i18n
+            -
+                title: "ember-cli-fontcustom: Build Custom Web Fonts From SVG files"
+                description: ""
+                link: https://github.com/Kinvey/ember-cli-fontcustom
+            -
+                title: "ember-faker: Fake Data for Testing or Prototyping"
+                description: ""
+                link: https://www.npmjs.org/package/ember-faker
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Full-stack JavaScript Software Developer"
+               description: "Join a world class team that’s committed to open source and building an awesome user experience. We’re looking for people who love writing great code and working closely with design, product, and other developers to make awesome features."
+               link: http://franq.workable.com/jobs/24642
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "The Road to Ember 2.0 with Tom Dale & Yehuda Katz - The Changelog Podcast"
+                description: ""
+                link: http://thechangelog.com/131/
+            -
+                title: "The Ember.js Framework: Everything You Need To Know - Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=f-6Qd3nuv4w
+            -
+                title: "jQuery to Ember: How to Make the Jump Without Falling"
+                description: ""
+                link: https://www.youtube.com/watch?v=A9DPwWQEuy4
+            -
+                title: "Ember & React Made Easy"
+                description: ""
+                link: https://plus.google.com/events/c05atb6tofij1hr1rgtsvi2uclg
+            -
+                title: "Ember NYC September Meetup: Ember-CLI, JS Performance & More"
+                description: ""
+                link: https://www.youtube.com/watch?v=e1l07N0ukzY
+            -
+                title: "Ember NYC October Meetup: Spooky Ember, Ember Tips & More"
+                description: ""
+                link: https://www.youtube.com/watch?v=Fxua8T6FT3U
+            -
+                title: "Ember Orlando November Meetup: Ember Games: Catching Fire"
+                description: ""
+                link: https://www.youtube.com/watch?v=6UY4Rgb9mLY
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver
+                description: "25th November & 2nd December, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/218665569/"
+            -
+                title: New York
+                description: "25th November & 3rd December, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/215895962/"
+            -
+                title: Saint Louis
+                description: "1st December, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/217630292/"
+            -
+                title: Philadelphia
+                description: "2nd December, 6:30pm @ Benjamin's Desk, Philadelphia."
+                link: "http://www.meetup.com/EmberJS-Philly/events/218637050/"
+            -
+                title: Portland
+                description: "2nd December, 6:30pm @ AppNexus, Inc., Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/216432262/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

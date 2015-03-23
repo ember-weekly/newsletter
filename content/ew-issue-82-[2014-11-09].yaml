@@ -1,0 +1,166 @@
+issue: 82
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "RFC: The Road to Ember 2.0"
+                description: ""
+                link: https://github.com/emberjs/rfcs/pull/15
+            -
+                title: "Contribute to Ember 2.0 - No Coding Required."
+                description: ""
+                link: http://madhatted.com/2014/11/5/contribute-to-ember-js-2-0-no-coding-required
+
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.8.1 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/11/04/ember-1-8-1-released.html
+            -
+                title: "Ember v1.9.0 Beta 1 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.9.0-beta.1
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Innovating Fast And Slow: Ember Insists, \"We Don't Need To Break The Web\" "
+                description: ""
+                link: http://readwrite.com/2014/11/04/emberjs-javascript-framework-we-dont-need-to-break-the-web
+            -
+                title: "The Case for Ember For Enterprise"
+                description: ""
+                link: http://blog.greenarrow.me/the-case-for-ember-for-enterprise/
+            -
+                title: "A Guide to Learning Ember"
+                description: ""
+                link: http://richardgmartin.me/web-development/learn-ember/
+            -
+                title: "Ember is for Designers"
+                description: ""
+                link: http://robots.thoughtbot.com/ember-is-for-designers
+            -
+                title: "Angular.js vs Ember.js - An In-depth Comparison"
+                description: ""
+                link: http://angularjs-emberjs-compare.bguiz.com/
+            -
+                title: "The Top Mistakes Developers Make Using Ember & Rails"
+                description: ""
+                link: http://www.airpair.com/ember.js/posts/top-mistakes-ember-rails
+            -
+                title: "Understanding the Ember-Data Identity Map"
+                description: ""
+                link: https://haagen-software.no/blog/post/2014_11_07_understanding_ember_data
+            -
+                title: "Understanding Ember-Data Store#find"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/11/04/understading-ember-data-store-find/
+            -
+                title: "Building Real World Pagination with Ember"
+                description: ""
+                link: http://webcloud.info/blog/2014/11/01/building-a-real-world-pagination-with-ember-js-the-right-way/
+            -
+                title: "Compile Handlebar Templates for Ember with Gulp"
+                description: ""
+                link: http://www.briangonzalez.org/compile-handlebars-templates-for-ember-with-gulp/
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/gaslight-logo--primary.png"
+        advert: true
+        headlines:
+            -
+                title: "Gaslight - Technology to Solve Your Trickiest Business Problems"
+                description: "Need a trusted development partner? Gaslight turns business obstacles into opportunities with design and technology. We’ll help you identify, plan and build the tech you need to move forward. Learn how: [teamgaslight.com](https://teamgaslight.com/)"
+                link: https://teamgaslight.com/
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-react - Set of Utilities to Use React Inside of Ember"
+                description: ""
+                link: https://ghempton.github.io/ember-react/
+            -
+                title: "ember-can - Simple Authorisation Addon for Ember apps"
+                description: ""
+                link: https://github.com/minutebase/ember-can
+            -
+                title: "ember-cli-coffees6 - Support ES6 Syntax Natively in CoffeeScript"
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-coffees6
+            -
+                title: "ember-cli-spinkit - SpinKit Loading Spinner for Your App"
+                description: ""
+                link: https://github.com/pogopaule/ember-cli-spinkit
+            -
+                title: "ember-drag-drop - Ember-CLI Drag and Drop Addon"
+                description: ""
+                link: https://github.com/mharris717/ember-drag-drop
+            # -
+            #     title: "Getting Polymer WebComponents running in Ember"
+            #     description: ""
+            #     link: https://gist.github.com/dnegstad/eee660aa32efd906082c
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Frontside Podcast: Ember-Metal, HTMLbars, and the Death of Script Tags"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/13
+            -
+                title: "EmberGrep Released - Ember Videos to Get You Up and Running"
+                description: ""
+                link: https://embergrep.com/
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "emberGarten: Training & Symposium - 20% off!"
+                description: "Use the code \"``EmberWeekly``\" to get 20% off. 15th November @ Gladstone Hotel, Toronto"
+                link: https://unspace.ca/embergarten/
+            -
+                title: Atlanta
+                description: "11th November, 7:00pm @ Big Nerd Ranch, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/215314672/"
+            -
+                title: San Francisco
+                description: "13th November, 6:30pm @ Neo, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/201901122/"
+            -
+                title: Boston
+                description: "13th November, 6:45pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/217386742/"
+            -
+                title: St. Paul
+                description: "13th November, 7:00pm @ Tightrope Media Systems, St. Paul."
+                link: "http://www.meetup.com/EmberMN/events/215398302/"
+            -
+                title: Montevideo
+                description: "13th November, 6:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/216337432/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

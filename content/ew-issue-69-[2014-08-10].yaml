@@ -1,0 +1,138 @@
+issue: 69
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.7 Beta 5"
+                description: ""
+                link: https://github.com/emberjs/ember.js/blob/v1.7.0-beta.5/CHANGELOG.md
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Handling environment data with Ember.js"
+                description: ""
+                link: http://ember.zone/handling-environment-data-with-ember-js/
+            -
+                title: "Server Side Validations with Ember Data and DS.Errors"
+                description: ""
+                link: http://alexspeller.com/server-side-validations-with-ember-data-and-ds-errors/
+            -
+                title: "The State of the Componentised Web"
+                description: ""
+                link: http://www.futureinsights.com/home/the-state-of-the-componentised-web.html
+            -
+                title: "Getting Started with Ember.js using Ember-CLI"
+                description: ""
+                link: http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/#_=_
+            -
+                title: "Ember CLI with Firebase Tutorial"
+                description: ""
+                link: http://www.programwitherik.com/ember-cli-with-firebase-tutorial
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Rocks - An alternative command line utility to Ember-CLI"
+                description: ""
+                link: https://github.com/mattma/ember-rocks
+            -
+                title: "Ember-CLI Growl - A growl notification system Ember-CLI add-on"
+                description: ""
+                link: https://github.com/ngenworks/ember-cli-growl
+            -
+                title: "Ember-CLI Loading Slider - A YouTube like loading indicator Ember-CLI add-on"
+                description: ""
+                link: https://github.com/ngenworks/ember-cli-loading-slider
+            -
+                title: "Ember Graph - Ember persistence library for complex object graphs"
+                description: ""
+                link: https://github.com/gordonkristan/ember-graph
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.js Oslo
+                description: "11th August, 7:00pm @ Teknologihuset, Oslo."
+                link: "http://www.meetup.com/Ember-js-Oslo/events/184407992/"
+            -
+                title: Ember.js NYC
+                description: "13th August, 7:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/199504962/"
+            -
+                title: Boston Ember.js Group
+                description: "14th August, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/183867072/"
+            -
+                title: Ember-SC
+                description: "16th August, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/194525722/"
+            -
+                title: Ember.js Meetup - Vancouver
+                description: "19th August, 6:00pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/199726312/"
+            -
+                title: Ember.js Portland
+                description: "19th August, 6:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/190997372/"
+            -
+                title: Ember.js Orlando
+                description: "19th August, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/198032852/"
+            -
+                title: Ember.js Belgium
+                description: "20th August, 8:00pm @ TenForce, Leuven."
+                link: "http://www.meetup.com/Ember-js-Brussels/events/198180452/"
+
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

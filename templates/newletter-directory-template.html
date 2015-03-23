@@ -1,0 +1,43 @@
+
+<style type="text/css">
+	.headline p a:not(.headline-source){
+        text-decoration:none !important;
+        color:#bf351c !important;
+    }
+    .sponsor-text a[href="http://launchbit.com/sp/13977-9440/"]{
+    	display:none;
+    }
+    .sponsor-text a{
+    	text-decoration:none !important;
+        color:#bf351c !important;
+    }
+</style>
+
+
+*|IF:LAUNCHBIT = on|*
+
+<hr style="border:0px;border-top:1px solid #bf351c; margin: 25px 0 40px;" />
+<div class="news-section">
+	<div class="headline" style="padding:8px 0;">
+		<h1 style="display: block;font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size: 16px;font-style: normal;font-weight: bold;line-height: 200%;letter-spacing: normal;margin: 0;text-align: left;color: #888888 !important;">From our sponsors</h1>
+
+		<table>
+			<tbody>
+				<tr>
+					<td width="130">
+						<a href="*|LBADLINK|**|EMAIL_UID|*"><img src="*|LBIMAGEURL|*" /></a>
+					</td>
+					<td>
+						<p class="sponsor-text" style="font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size:16px; margin-top: 5px;">
+							<a href="*|LBADLINK|**|EMAIL_UID|*">*|LBTITLE|*</a> *|HTML:LBADTEXT|* 
+							<img src="*|LBPIXEL|**|EMAIL_UID|*" />
+						</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<p style="font-size: 0.8em;color: #808080 !important; text-decoration: none !important; font-weight: normal;word-wrap: break-word !important;">Reply to this email for more information on sponsoring Ember Weekly.</p>
+	</div>
+</div>
+*|END:IF|*

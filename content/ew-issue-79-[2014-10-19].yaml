@@ -1,0 +1,172 @@
+issue: 79
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.1.2 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.1.2
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Handlebars Version Compatibility - Handlebars 2.0.0 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/10/16/handlebars-update.html
+            -
+                title: "A 50,000 Foot Overview of the Ember.js Run Loop"
+                description: ""
+                link: http://ember.zone/a-50000-foot-overview-of-the-ember-js-run-loop
+            -
+                title: "Working with JavaScript Plugins in Ember-CLI: Part 2"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/10/17/working-with-javascript-plugins-in-ember-cli-part-2/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-validations - 2.0.0 alpha 1, now an Ember-CLI addon"
+                description: ""
+                link: https://www.npmjs.org/package/ember-validations
+            -
+                title: "ember-cli-dotenv - Keep your environment variables in a .env file"
+                description: ""
+                link: https://github.com/fivetanley/ember-cli-dotenv
+            -
+                title: "ember-undo-stack - A simple undo/redo stack for Ember objects"
+                description: ""
+                link: https://github.com/intercom/ember-undo-stack
+            -
+                title: "ember-cli-cordova - A tool for creating hybrid apps using a Ember-CLI and Cordova"
+                description: ""
+                link: https://github.com/poetic/ember-cli-cordova
+            -
+                title: "ember-cli-cal - Calendar component for Ember-CLI"
+                description: ""
+                link: https://github.com/netgusto/ember-cli-cal
+            -
+                title: "ember-autoresize - An Ember-CLI addon to provide autoresize functionality to Ember"
+                description: ""
+                link: https://github.com/paddle8/ember-autoresize
+            -
+                title: "ember-delay - Create promises which resolve after a specified delay"
+                description: ""
+                link: https://github.com/GavinJoyce/ember-delay
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Updating a Project to Ember-CLI 0.1.1 - Cory Forsyth"
+                description: ""
+                link: http://vimeo.com/108956126
+            -
+                title: "Writing Ember.js Components with Ember-CLI - Joachim Haagen Skeie"
+                description: ""
+                link: https://www.youtube.com/watch?v=WVZXywVpP34
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Denver
+                description: "20th October, 6:00pm @ Rally Software, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/212799252/"
+            -
+                title: Dallas
+                description: "20th October, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/209907952/"
+            -
+                title: Adelaide
+                description: "21st October, 6:00pm @ Katalyst Interactive, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/211857392/"
+            -
+                title: Vancouver
+                description: "21st & 28th October, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/213174582/"
+            -
+                title: Atlanta
+                description: "21st October, 7:00pm @ Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/211269472/"
+            -
+                title: Orlando
+                description: "21st October, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/210465262/"
+            -
+                title: Paris
+                description: "21st October, 7:00pm @ Mobiskill, Paris."
+                link: "http://www.meetup.com/EmberJS-Paris/events/193876922/"
+            -
+                title: Seattle
+                description: "22nd October, 6:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/211669982/"
+            -
+                title: New York
+                description: "22nd October, 7:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/211005272/"
+            -
+                title: Indianapolis
+                description: "22nd October, 7:00pm @ TinderBox, Indianapolis."
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/211824632/"
+            -
+                title: Southern California
+                description: "23rd & 25th October, 7:00pm."
+                link: "http://www.meetup.com/Ember-SC/events/212379052/"
+            -
+                title: Austin
+                description: "23rd October, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/208639902/"
+            -
+                title: Berlin
+                description: "23rd October, 7:00pm."
+                link: "http://www.meetup.com/Ember-js-Berlin/events/212237182/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

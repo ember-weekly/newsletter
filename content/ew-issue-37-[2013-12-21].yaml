@@ -1,0 +1,138 @@
+issue: 37
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "What's Coming In Ember In 2014"
+                description: "It looks like 2014 is going to be an exciting year for Ember. The blog post covers the discussions and results of the core team's face-to-face meeting last week. Highlights include tooling (build tools, modules, inspector, etc), HTMLBars, distributing components, emberdart, and innovative ways to open a beer."
+                link: http://emberjs.com/blog/2013/12/17/whats-coming-in-ember-in-2014.html
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.3.0 Beta 3 Available"
+                description: "Mainly bug fixes and updated documentation. ([commits](https://github.com/emberjs/ember.js/compare/v1.3.0-beta.2...v1.3.0-beta.3))"
+                link: https://github.com/emberjs/ember.js/blob/9985c77f8ddb7fb78bafd36fd6f0fe98ef565351/CHANGELOG.md#ember-130beta3-december-20-2013
+            -
+                title: "Ember Data 1.0.0 Beta 4 Available"
+                description: ""
+                link: https://github.com/emberjs/data/blob/v1.0.0-beta.4/CHANGELOG.md
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "ES6 modules and EmberJS: a taste of the future (part 2)"
+                description: "A follow up to [part 1](http://thau.me/2013/12/es6-modules-and-emberjs-a-taste-of-the-future-part-1/) which looked at ES6 modules, this post looks closer at how ES6 modules are used in Ember App Kit (EAK) as well as how EAK can simplify building Ember applications."
+                link: http://thau.me/2013/12/es6-modules-and-emberjs-a-taste-of-the-future-part-2/
+            -
+                title: "Ember Inspector on a Firefox near you"
+                description: "(...or Cross-Browser Add-ons for Fun or Profit). An interesting article where the Ember inspector takes centre stage in a detailed account of porting the Chrome version to Firefox. Learn not only how to write cross-browser extensions but how the Ember Inspector is built."
+                link: https://hacks.mozilla.org/2013/12/ember-inspector-on-a-firefox-near-you-2/
+            -
+                title: "Building an Ember.js App With Firebase"
+                description: "A re-post on the official Firebase blog of Balint Erdi's [blog post](http://balinterdi.com/2013/12/11/build-an-ember-dot-js-app-with-firebase.html) on building Ember apps with the official Firebase library, [EmberFire](https://github.com/firebase/emberFire)."
+                link: https://www.firebase.com/blog/2013-12-16-emberfire-guest-blog.html
+            -
+                title: "Facebook React vs. Ember"
+                description: "A comparison of creating components with Facebook's React and Ember through a series of examples."
+                link: http://instructure.github.io/blog/2013/12/17/facebook-react-vs-ember/
+            -
+                title: "Choosing a JavaScript MVC Framework"
+                description: "A comparison of the major MVC frameworks/libraries including Ember."
+                link: http://www.funnyant.com/choosing-javascript-mvc-framework/
+            -
+                title: "Changing the URL Type of Your Ember.js App"
+                description: "A look at how to make Ember use the History API instead of the hashchange event."
+                link: http://balinterdi.com/2013/12/17/change-the-url-type-of-your-ember-app.html
+            -
+                title: "How To Use History.js With Ember.js"
+                description: ""
+                link: http://www.pansapien.com/ember/router/2013/11/how-to-use-history-js-with-ember-js/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Warming Up With Ember.js"
+                description: "The first part of the Codeschool Ember turorial is now available, which aims to get you up and running with Ember."
+                link: http://ember.codeschool.com/levels/1
+            -
+                title: "Complex Architectures in Ember"
+                description: "Matthew Beale explains how messages are passed between views, controllers and routes in Ember.js. Also check out Matthew's [updated slides](http://madhatted.com/2013/8/31/emberfest-presentation-complex-architectures-in-ember)."
+                link: http://www.infoq.com/presentations/emberjs-messages-views-controller-router
+            -
+                title: "Testing Ember.js"
+                description: "A talk from the December Ember London meetup by Jamie White."
+                link: http://vimeo.com/81988531
+            -
+                title: "Fireplace, a Firebase Adapter for Ember.js"
+                description: "A talk from the December Ember London meetup by Richard Livsey."
+                link: http://vimeo.com/81960885
+            -
+                title: "Offline Support with Ember.js"
+                description: "A talk from the December Ember London meetup by Kasper Tidemann."
+                link: http://vimeo.com/81960884
+            -
+                title: "Building a Client-Side With Ember and Rails - Yehuda Katz @ Rails Israel 2013"
+                description: "\"In this talk, Yehuda will help you decide when to build an application using Ember.js, and show you how to use the ember-rails gem to turbocharge your development.\""
+                link: https://www.youtube.com/watch?v=BpQj9_qEUAc
+            -
+                title: "The relationship between Ember Components and W3C Spec"
+                description: "An introduction to Ember Components - from the December Boston meetup."
+                link: https://www.youtube.com/watch?v=W0BU6TH6C-M
+            -
+                title: "Ember App Kit Rails and Pizza Time App"
+                description: "A talk on using [ember-appkit-rails](https://github.com/dockyard/ember-appkit-rails) to build a simple web app - from the December Boston meetup."
+                link: https://www.youtube.com/watch?v=W0BU6TH6C-M#t=2150
+            -
+                title: "Benchmarking Ember Applications"
+                description: "Alex Navasardyan chats about benchmarking at the December Boston meetup."
+                link: https://www.youtube.com/watch?v=HsAp4i0So1s
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Introducing Fireplace"
+                description: "[Fireplace](https://github.com/rlivsey/fireplace) is a Firebase library for Ember that is more akin to [Ember Model](https://github.com/ebryn/ember-model) or Ember Data than the official [EmberFire](https://github.com/firebase/emberFire). Also see the video from the December Ember London meetup above."
+                link: http://livsey.org/blog/2013/12/13/introducing-fireplace/
+            -
+                title: "Ember VCRProxy"
+                description: "Record changes to an ObjectProxy and allow them to be stepped through or jumped to. ([demo](http://emberjs.jsbin.com/EJEcoxO/5/edit))"
+                link: https://github.com/mixonic/ember-vcr-proxy
+            -
+                title: "originate-ember-addon"
+                description: "A [loom](https://github.com/rpflorence/loom) origin for Ember add-ons."
+                link: https://github.com/rpflorence/originate-ember-addon
+            -
+                title: "``Em.computed`` with a plain old JavaScript Object"
+                description: "You don't have to use an ``Ember.Object`` to take advantage of computed properties."
+                link: https://gist.github.com/rjackson/7945867
+            -
+                title: "Ember.Enumerable groupBy Computed Property"
+                description: ""
+                link: http://discuss.emberjs.com/t/ember-enumerable-no-group-by/3594/5
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember Developer?"
+    #            description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #            domain: emberweekly.com
+    #            link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Boston Meetup - Ember.js for Rails Devs"
+                description: "2nd January, 6:00pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/152055202/

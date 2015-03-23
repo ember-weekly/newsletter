@@ -1,0 +1,174 @@
+issue: 12
+strapline: "Ember 1.0 RC6, Articles, Resources & lots more..."
+content:
+
+    -
+       heading: "Releases"
+       headlines:
+            -
+               title: "Ember 1.0 RC6 Released"
+               description: "Not officially announced at time of writing, but RC6 has been [tagged](https://github.com/emberjs/ember.js/commit/893bbc4ecc3ad38b4a83370edeb966eae3d824f4) and released on the website. This release includes the Async Router API changes mentioned last week. See the [changelog](https://github.com/emberjs/ember.js/blob/893bbc4ecc3ad38b4a83370edeb966eae3d824f4/CHANGELOG) for more details."
+               link: http://emberjs.com/
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Experimenting with Ember.js & ShareJS, part II"
+                description: "Matthew Beale dives deeper into Ember's ability to integrate live concurrent editing using ShareJS. Also see [part 1](http://madhatted.com/2013/6/10/experimenting-with-ember-js-sharejs)."
+                link: http://madhatted.com/2013/6/23/experimenting-with-ember-js-sharejs-part-ii
+            -
+                title: "Reviewing the Heretical Guide to Ember.js"
+                description: "[Philip Poots](https://twitter.com/pootsbook) reviews Giles Bowkett's [Heretical Guide to Ember.js](http://gilesbowkett.blogspot.co.uk/2013/06/heretical-guide-to-ember-js.html) eBook, which was released this week."
+                link: http://blog.emberwatch.com/2013/06/20/heretical-guide-to-ember-js-review.html
+            -
+                title: "Alternatives to Ember Data"
+                description: "A quick look at Ember-Model, Ember-Resource, Ember-RESTless, Emu & Ember-REST."
+                link: http://blog.emberwatch.com/2013/06/19/alternatives-ember-data.html
+            -
+                title: "Ember & Stripe Checkout: Time to Get Paid"
+                description: "Also see Adam's follow up post [Ember & Stripe Custom Forms: Getting Paid Again](http://hawkins.io/2013/06/ember-and-stripe-with-custom-forms/)."
+                link: http://hawkins.io/2013/06/ember-and-stripe-checkout/
+            -
+                title: "Adding Support for Search Engines to your Javascript Applications"
+                description: "A look at how Discourse allows their Ember app to be indexed by search engines."
+                link: http://eviltrout.com/2013/06/19/adding-support-for-search-engines-to-your-javascript-applications.html
+            -
+                title: "Searching for Ember.js"
+                description: "How Balanced built its new search system using Ember."
+                link: http://blog.balancedpayments.com/ember-building-search/
+            -
+                title: "Using Flash Messages With EmberJS"
+                description: ""
+                link: http://coderberry.me/blog/2013/06/20/using-flash-messages-with-emberjs/
+            -
+                title: "DS.Fixture Adapter Considered Harmful"
+                description: ""
+                link: http://hawkins.io/2013/06/fixture-adapter-considered-harmful/
+            -
+                title: "An AutoSave Pattern for Ember and Ember Data"
+                description: ""
+                link: http://blog.gaslight.co/post/53361504301/an-autosave-pattern-for-ember-and-ember-data
+            -
+                title: "Logging in the Ember Namespace"
+                description: ""
+                link: http://blog.emberwatch.com/2013/06/18/logging-in-the-ember-js-namespace.html
+            -
+                title: "Authentication in ember.js"
+                description: ""
+                link: http://log.simplabs.com/post/53016599611/authentication-in-ember-js
+            -
+                title: "Simple User Settings with Ember Data"
+                description: ""
+                link: http://hawkins.io/2013/06/simple-user-settings-with-ember-data/
+
+
+    -
+        heading: "Ember Fest"
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany and will be a three day event featuring Training sessions, a full day Hackathon as well as a full day Conference. This will by far be the European Ember.js event of the year, starting on August 29th and ending on August 30th with a conference dinner and an after party."
+                link: http://emberfest.eu/
+
+    # -
+    #     heading: "Jobs"
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember Developer?"
+    #            description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #            domain: emberweekly.com
+    #            link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "JavaScript Jabber Podcast: Ember Tools with Ryan Florence"
+                description: "Ryan Florence discusses Ember Tools on episode 64 of JavaScript Jabber."
+                link: http://javascriptjabber.com/064-jsj-ember-tools-with-ryan-florence/
+            -
+                title: "Herding Code 169: Tom Dale & Rob Conery on the Ember/Angular Cage Match @ NDC"
+                description: "An interesting chat with Tom & Rob after their epic Ember vs Angular cage match. Covers some of the differences highlighted in the cage match as well as some friendly banter."
+                link: http://herdingcode.com/herding-code-169-tom-dale-and-rob-conery-on-the-emberjs-angularjs-cage-match-at-ndc/
+            -
+                title: "Embercasts: Client-side Authentication Part 2"
+                description: "This episode finishes off what was started in [Part 1](http://www.embercasts.com/episodes/client-side-authentication-part-1), making use of some new router capabilities available on Ember 1.0.0 RC6."
+                link: http://www.embercasts.com/episodes/client-side-authentication-part-2
+            -
+                title: "thoughtbot podcast: Not everything needs to be extracted with Tom Dale & Yehuda Katz"
+                description: "An infomative chat with Tom & Yehuda about Ember, API design & Tilde. Definetly worth a listen."
+                link: http://learn.thoughtbot.com/podcast/53
+
+    -
+        heading: "Interesting Commits"
+        headlines:
+            -
+               title: "Ember.Component"
+               description: "Ember.Control (later renamed [Ember.Component](https://github.com/emberjs/ember.js/commit/c52e4200b57c399192582598e991accd3332b44a)) brings web component semantics to Ember."
+               link: https://github.com/emberjs/ember.js/commit/ad4d1ef5fdda67c503c24346e097ddf06f77787f
+
+    -
+       heading: "Resources"
+       headlines:
+           -
+               title: "Ember.js Resources"
+               description: "A collection of EmberJS tutorials, insights and more..."
+               link: https://github.com/UpWorks/emberjs-resources
+           -
+               title: "Ember Addons"
+               description: "A curated list of high quality of community addons to Ember.js."
+               link: http://emberaddons.com/
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cpm"
+                description: "A collection of Computed Property Macros for Ember by [James Rosen](https://twitter.com/jamesarosen)"
+                link: https://github.com/jamesarosen/ember-cpm
+            -
+                title: "Ember TreeView"
+                description: "A proof-of-concept tree component with drag'n'drop support, reordering, & multi-selection, built with Ember."
+                link: https://github.com/bobey/ember-treeview
+            -
+                title: "What if Bugzilla had an Ember.js frontend?"
+                description: "Erik Bryn & buddies are up to something - [Bugzilla frontend written in Ember.js](http://bugzilla.erikbryn.com)."
+                link: https://github.com/ebryn/bugzilla-ember
+            -
+                title: "Custom Resolvers"
+                description: "Examples of es6/AMD & minispade custom resolvers. Find out more in the [Ember.DefaultResolver](http://emberjs.com/api/classes/Ember.DefaultResolver.html) documentation."
+                link: https://twitter.com/lukemelia/status/347195490674307072?refsrc=email
+            -
+                title: "django-ember-rest"
+                description: ""
+                link: https://github.com/kelonye/django-ember-rest
+
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember NYC Meetup"
+                description: "26th June, 7:00pm @ Harvest HQ. \"Fireside chat\" with Ember.js core team members Tom Dale, Yehuda Katz, and more"
+                link: http://www.meetup.com/EmberJS-NYC/events/124082552/
+            -
+                title: "Nick Kleinschmidt on Getting Started with Ember.js"
+                description: "26th June, 6:00pm @ Balanced, San Francisco."
+                link: http://balancedpayments.eventbrite.com/
+            -
+                title: "Ember ATX Meetup"
+                description: "27th June, 7:00pm @ The FrontSide."
+                link: http://www.meetup.com/Ember-ATX/events/120416662/
+            -
+                title: "Boston OpenHack"
+                description: "27th June, 6:00pm @ MAARK."
+                link: http://www.meetup.com/Boston-Ember-js/events/125517732/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Come play with Ember..."
+                description: "Who could resist??"
+                link: https://twitter.com/peterc/status/348074909630595072/photo/1

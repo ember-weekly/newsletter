@@ -1,0 +1,129 @@
+issue: 68
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Reading"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.js Oslo
+                description: "11th August, 7:00pm @ Teknologihuset, Oslo."
+                link: "http://www.meetup.com/Ember-js-Oslo/events/184407992/"
+            -
+                title: Boston Ember.js Group
+                description: "14th August, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/183867072/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 2nd August, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/190516632/"
+            -
+                title: STL Ember.js
+                description: "Ember 101 & Creating Components. 4th August, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682702/"
+            -
+                title: Ember.js Vancouver
+                description: "5th August, 6:00pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/196875582/"
+            -
+                title: Toronto Ember.js Meetup
+                description: "7th August, 6:30pm @ Pharmacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/196614382/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

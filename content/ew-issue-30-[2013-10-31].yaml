@@ -1,0 +1,140 @@
+issue: 30
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.1.2 Released"
+                description: "This release fixes a regression that was found in Ember 1.1.1 with regards to components."
+                link: http://emberjs.com/blog/2013/10/25/ember-1-1-2-released.html
+            -
+                title: "Ember 1.2 Beta 2 Available"
+                description: "The second 1.2 beta was released along with 1.1.2. The release contains a couple of bug fixes."
+                link: http://emberjs.com/builds/#/beta/latest
+            -
+                title: "Ember 1.1.1 and 1.2 Beta Released"
+                description: "The official blog post about the previous releases mentioned in last week's issue."
+                link: http://emberjs.com/blog/2013/10/24/ember-1-1-1-and-ember-1-2-0-beta-released.html
+    -
+        heading: "Reading"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember Data: 1.0 Betas by Yehuda Katz"
+                description: "Slides from a talk by Yehuda on the latest Ember Data Betas."
+                link: https://docs.google.com/presentation/d/1L9OoQZlP-UuHUvf1YWSoyh9lBbagVeuqlfg4ceuvWOg/edit#slide=id.p
+            -
+                title: "Ember.js: Marking Links as Active"
+                description: "A nice guide on giving visual feedback on active links and nested links. Top tip: use ``currentWhen`` on the ``link-to`` helper when nested."
+                link: http://blog.safaribooksonline.com/2013/10/29/marking-links-as-active-in-ember-js-markdown/
+            -
+                title: "Embereños: Vinay Pandey - Khelkund"
+                description: "Weekly interviews with companies and people using ember. This week's interview is with Vinay Pandey of Khelkund."
+                link: http://emberenos.com/interviews/2013/10/30/vinay-pandey-khelkund
+            -
+                title: "MVC is Not Enough by Yehuda Katz"
+                description: "Slides from a talk by Yehuda discussing how routes make app development easier in Ember."
+                link: https://docs.google.com/presentation/d/1y5AZN0qbjkMuyxxicfV_XPe_aLePdnkuR69tUOQTVo0/edit#slide=id.p
+            -
+                title: "Taking Ember for a Spin"
+                description: "A balanced comparison of building a shopping list app with Ember and Angular."
+                link: http://floatleft.com/notebook/taking-ember-for-a-spin/
+            -
+                title: "Ember.js Date Pickers – It’s Easy!"
+                description: ""
+                link: http://spin.atomicobject.com/2013/10/29/ember-js-date-picker/
+            -
+                title: "Ember Feature Flags Guide"
+                description: ""
+                link: http://emberjs.com/guides/configuring-ember/feature-flags/
+            -
+                title: "A Live Polling System in Ember.js"
+                description: ""
+                link: http://yoranbrondsema.com/live-polling-system-ember-js/
+            -
+                title: "Creating a Rails-Style Flash Object with Ember.js"
+                description: ""
+                link: http://wearestac.com/blog/creating-a-rails-style-flash-object-with-ember-js
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js and URLs by Tom Dale"
+                description: "Tom's talk from the combined EmberATX/AustinJS meetup. Includes an update on Ember and it's roadmap, as well as why Ember apps are built around URLs."
+                link: http://vimeo.com/77760308
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Chosem"
+                description: "A select component heavily inspired by Harvest's Chosen."
+                link: https://github.com/iest/Chosem
+            -
+                title: "Ember App Kit Rails"
+                description: "Ember App Kit for Rails' Asset Pipeline."
+                link: https://github.com/dockyard/ember-appkit-rails
+            -
+                title: "JSBin Inception Component"
+                description: "Eric Berry shows us how to embed a JSBin using an Ember component."
+                link: http://emberjs.jsbin.com/EMANugI/6/edit
+            -
+                title: "Ember JJ-Abrams Resolver"
+                description: "The Ember App Kit resolver, based on ES6 semantics, has been extracted into it's own project."
+                link: https://github.com/stefanpenner/ember-jj-abrams-resolver
+            -
+                title: "ember-oauth2"
+                description: "Library for using OAuth 2.0 Implicit Grant flow (Client-Side Flow) with Ember.js."
+                link: https://github.com/amkirwan/ember-oauth2
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            # -
+            #     title: "At BackOps we get it done!"
+            #     description: "BackOps is transforming the way businesses manage their back office. We’re looking for a kick-ass Front-End Eng. to develop fast and efficient front-ends with Ember on the front and Rails on the back. So if this is you, come work with us!"
+            #     link: http://www.jobscore.com/jobs/backops/front-end-developer-san-francisco-ca/bg8MAIJgSr4R14eJe4egig?ref=rss&sid=68
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Brussels, Belgium Meetup"
+                description: "31st October, 8:00pm @ Salle Fénix at Betacowork / ICAB."
+                link: http://www.meetup.com/Ember-js-Brussels/events/144929462/
+            -
+                title: "Berlin, Germany Meetup"
+                description: "5th November, 7:00pm @ Wooga."
+                link: http://www.meetup.com/Ember-js-Berlin/events/142564822/
+            -
+                title: "New York Hacker Hours"
+                description: "5th November, 6:00pm @ SimpleReach."
+                link: http://www.meetup.com/EmberJS-NYC/events/147077062/
+            -
+                title: "Toronto, Canada Meetup"
+                description: "7th November, 7:00pm @ Pharmacy."
+                link: http://www.torontoemberjs.com/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Ember Code Quality on Code Climate"
+                description: "With Code Climate recently announcing support for JavaScript, Ember was one of the first Open Source JavaScript projects to open up its code for analysis."
+                link: https://codeclimate.com/github/emberjs/ember.js
+
+

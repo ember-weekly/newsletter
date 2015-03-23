@@ -1,0 +1,132 @@
+issue: 41
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Security Releases - Ember 1.0.1, 1.1.3, 1.2.1, And 1.3.1"
+                description: "These releases contain fixes for two potential XSS vulnerabilities and it's advised that you update your applications immediately."
+                link: http://emberjs.com/blog/2014/01/14/ember-security-releases.html
+            -
+                title: "Ember Data 1.0 Beta 5 Available"
+                description: "As well as various fixes, this release comes with [updated documentation](http://emberjs.com/api/data/)."
+                link: https://github.com/emberjs/data/blob/v1.0.0-beta.5/CHANGELOG.md
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "net tuts: Ember.js Testing"
+                description: "A guide to using Karma and QUnit to unit test your Ember application by Toran Billups."
+                link: http://net.tutsplus.com/tutorials/javascript-ajax/ember-js-testing/
+            -
+                title: How Real-time Updates Work in Discourse
+                description: "Balint Erdi looks at how Discourse uses the  message_bus ruby gem to provide real-time updates in the app."
+                link: http://balinterdi.com/2014/01/14/how-real-time-updates-work-in-discourse.html
+            -
+                title: "Ember.js say hello to Apigility"
+                description: "A guide to integrating Ember and [Apigility](http://www.apigility.org/)."
+                link: http://lab.empirio.no/emberjs-say-hello-to-apigility.html
+            -
+                title: "Ember App Kit: Mock and proxy requests"
+                description: "Documentation was recently added on the ability to mock and proxy your server request out of the box with Ember App Kit."
+                link: http://iamstef.net/ember-app-kit/guides/mock-and-proxy-requests.html
+            -
+                title: Client-side File Processing in Ember.js
+                description: "A look at how to process XML & CSV files in your Ember app instead of uploading them to the server."
+                link: http://spin.atomicobject.com/2014/01/15/client-side-file-processing-ember-js/
+            -
+                title: A Guide To Testing EmberJS Applications
+                description: "A collection of articles on testing your Ember Application."
+                link: http://codingvalue.com/blog/testing-emberjs-guide/
+            -
+                title: Ember and OAuth
+                description: "A brief tour of OAuth2 and it's use with Ember and other Client-side frameworks by Matthew Rudy Jacobs."
+                link: https://speakerdeck.com/matthewrudy/ember-and-oauth
+            -
+                title: "Ember.js - Creating a Custom #link-to Handlebars Helper"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2014/01/11/custome-link-to/
+            -
+                title: Emberjs - Creating a Timeago Helper
+                description: 
+                link: http://www.thesoftwaresimpleton.com/blog/2014/01/18/timeago-helper/
+
+    # -
+    #     heading: "Promoted"
+    
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: HTMLBars progress
+                description: "Early indications are that HTMLBars will bring some nice performance improvements to Ember."
+                link: https://twitter.com/ebryn/status/424247675026808832
+            -
+                title: Checkbox Toggles
+                description: "A checkbox list [implementation by Matthew Beale](https://twitter.com/mixonic/status/424368928869998592)."
+                link: http://emberjs.jsbin.com/EbOZIBa/2/edit
+            -
+                title: document.title integration
+                description: "Alex Matchneer has been working on allowing easy ``document.title`` integration in Ember."
+                link: https://twitter.com/machty/status/422960572301193216
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: Ember.js - An Application Framework For The Future
+                description: "Joachim Haagen Skeie gives an introduction to Ember. ([source code](https://github.com/joachimhs/WarmCroc-Ember))."
+                link: http://vimeo.com/84212104
+    #         -
+    #             title:
+    #             description: 
+    #             link: 
+
+
+    -
+        heading: "Events"
+        headlines:
+        - 
+            title: Ember.js San Francisco
+            description: "January 2014 Meetup—We're Back!. 21st January, 1:30pm @ Microsoft, San Francisco."
+            link: "http://www.meetup.com/Ember-SF/events/155996392/"
+        - 
+            title: Ember.JS SLC
+            description: "Ember Run Loop and Testing Ember Apps. 23rd January, 1:30pm @ Instructure, Salt Lake City."
+            link: "http://www.meetup.com/EmberJS-SLC/events/155678492/"
+        - 
+            title: Ember.js Barcelona
+            description: "Ember.js BCN Kick off. 23rd January, 1:30pm @ Itnig's networking place, Barcelona."
+            link: "http://www.meetup.com/Ember-js-Barcelona/events/157538792/"
+        - 
+            title: Ember.js NYC
+            description: "January: Ember Dependency Injection, the Run Loop and more.... 23rd January, 2:00pm @ Pivotal Labs, New York."
+            link: "http://www.meetup.com/EmberJS-NYC/events/151950262/"
+        - 
+            title: Ember ATX
+            description: "Ember ATX Meetup. 23rd January, 2:00pm @ The FrontSide, Austin."
+            link: "http://www.meetup.com/Ember-ATX/events/153953522/"
+        - 
+            title: Ember.Melb.js
+            description: "January Meet. 28th January, 2:00pm @ York Butter Factory, Melbourne."
+            link: "http://www.meetup.com/Ember-Melb-JS/events/160672192/"
+
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Ember - the only award-winning JavaScript framework"
+                description: "Yup, Ember was a winner in InfoWorld's 2014 Technology of the Year Award."
+                link: http://www.infoworld.com/slideshow/135876/infoworlds-2014-technology-of-the-year-award-winners-234225#slide15

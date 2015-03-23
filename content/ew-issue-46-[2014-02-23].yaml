@@ -1,0 +1,130 @@
+issue: 46
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Inspector 1.1 Released"
+                description: "The biggest change in this (auto-updated) release is the new promise tab which help visualize and debug promises in your application."
+                link: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/02/14"
+                description: "Ghost Admin discussions, old stackoverflow questions & beta 'go' decisions."
+                link: http://emberjs.com/blog/2014/02/15/core-team-meeting-minutes-2014-02-14.html
+            -
+                title: "Broccoli: First Beta Release"
+                description: "Jo Liss announced the first release of Broccoli, a new build tool comparable to the Rails asset pipeline, built with node. It focuses on lightening fast re-builds and will be the foundation of the future Ember CLI tools."
+                link: http://www.solitr.com/blog/2014/02/broccoli-first-release/
+            -
+                title: "Ember.js – What it is and why we need to care about it"
+                description: "A quick introduction to Ember on Mozilla Hacks."
+                link: https://hacks.mozilla.org/2014/02/ember-js-what-it-is-and-why-we-need-to-care-about-it/
+            -
+                title: "Ember Controller versus ObjectController"
+                description: "A guide to the differences between the two controller types. Also see Cory's [EmberDump video](http://vimeo.com/87040410) on the same topic."
+                link: http://coryforsyth.com/2014/02/17/ember-controller-versus-objectcontroller/
+            -
+                title: "Ember.js - reduceComputed and Property Brace Expansion"
+                description: "A look at how ``reduceComputed`` allows you to watch for the values that change in an array. Also an example use of the new Property Brace Expansion feature."
+                link: http://www.thesoftwaresimpleton.com/blog/2014/02/19/reduce-computed/
+            -
+                title: "Drag and Drop With Ember.js"
+                description: "A guide to using the HTML5 Drag and Drop API to create draggable views."
+                link: http://nepalonrails.com/blog/2014/02/drag-and-drop-with-emberjs/
+            -
+                title: "Readers' Letters: Making an Ember.js Component Even Better"
+                description: "In this follow on post, Balint Erdi incorporates feedback form readers into his post on Ember Components."
+                link: http://balinterdi.com/2014/02/18/readers-letters-making-an-ember-dot-js-component-even-better.html
+            -
+                title: "Building an Ember app with Ember Appkit Rails - Part 3"
+                description: "Also see conclusion in [part 4](http://blog.munroegroupsolutions.com/2014/02/18/building-an-ember-app-with-ember-app-kit-rails-part-4/)."
+                link: http://blog.munroegroupsolutions.com/2014/02/17/building-an-ember-app-with-ember-app-kit-rails-part-3/
+            -
+                title: "Backburner.js - A light weight queueing library"
+                description: "Slides by Pavithra Kodmad introducing backburner.js - the library used for Ember's run loop."
+                link: http://slid.es/pavithrakodmad/b#/
+            -
+                title: "Using OpenLayers 3 with Ember.js"
+                description: "A look at using OpenLayers 3 to build maps with Ember."
+                link: http://boundlessgeo.com/2014/02/openlayers-3-ember/
+            -
+                title: "Router, Routes and Templates"
+                description: 
+                link: http://blog.abuiles.com/blog/2014/02/21/router-routes-and-templates/
+            -
+                title: "Session timeout for your Ember application"
+                description: 
+                link: http://www.justinball.com/2014/01/02/session-timeout-for-your-ember-application
+            -
+                title: "Beware invalid html in your ember.js app"
+                description: 
+                link: http://www.toranbillups.com/blog/archive/2014/02/16/Beware-invalid-html-in-your-emberjs-app/
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "rsvp-tools"
+                description: "A set of tools for wrapping asynchronous APIs in RSVP promises."
+                link: https://github.com/mixonic/rsvp-tools
+            -
+                title: "ember-dc"
+                description: "Multi-Dimensional charts, graphs, maps with crossfilter and d3.js."
+                link: https://github.com/andrewreedy/ember-dc
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Building URL-Driven Web Apps with Ember.js"
+                description: "Tom Dale examines the core architecture of a URL-driven web app built with JavaScript, then discusses a specific implementation of it with Ember.js. (From QCon)"
+                link: http://www.infoq.com/presentations/emberjs-url
+            -
+                title: "EmberDump: displaying transition errors in error substates"
+                description: "Learn how the errors thrown during transitions become the model of the error substate that gets entered."
+                link: http://www.youtube.com/watch?v=Tn6oZPMyx0s
+            -
+                title: "Awesome Ember Tricks by Robin Ward"
+                description: "Robin gives a brief introduction to Ember and discusses the Ember run loop, custom resolvers, computed property macros, view cloaking & view performance."
+                link: http://www.youtube.com/watch?v=kBhGXX4zbXw
+            -
+                title: "February San Francisco Meetup"
+                description: "Tom Dale & Yehuda Katz talk about [How Ember's Concepts Scale](https://speakerdeck.com/wycats/ember-how-the-concepts-scale-up), and Samuel Mueller discusses how they're [using Ember at Yahoo](http://slid.es/sjmueller/ember-yahoo)."
+                link: http://www.youtube.com/watch?v=dbTnG6LrY7s
+            -
+                title: "February Boston Meetup"
+                description: "Talks include An Intro to Ember's Resolver, CORS & Ember, Live Polling System in Ember, Ember is Hard, EAK & POD Components, and Ember Crawl: Making your app indexable by search engines."
+                link: http://www.youtube.com/watch?v=HbmEMoBd7N0
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.JS DC
+                description: "Dig into ember's routes, conventions, logic hooks...etc. 25th February, 6:30pm @ Offices of Resonate Insights, Reston."
+                link: "http://www.meetup.com/Ember-JS-DC/events/165762722/"
+            - 
+                title: Ember.js NYC
+                description: "Ember.js hacker hours with Erik Bryn. 25th February, 7:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/167165272/"
+            - 
+                title: Ember.JS SLC
+                description: "CoffeeScript, Ember Architecture and Ember + Firebase. 27th February, 6:30pm @ Instructure, Salt Lake City."
+                link: "http://www.meetup.com/EmberJS-SLC/events/162315072/"
+            - 
+                title: Ember.js NYC
+                description: "Erik Bryn on the future of Ember's templating. 27th February, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/161760992/"
+            - 
+                title: Ember ATX
+                description: "27th February, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/161190822/"
+

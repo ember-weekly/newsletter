@@ -1,0 +1,152 @@
+issue: 28
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.1.0 Beta 4 Released"
+                description: "This will be the final beta before the release of 1.1 final. The release consists of mainly bug fixes."
+                link: http://emberjs.com/builds/#/beta/latest
+    -
+        heading: "Reading"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Guide to loading/error events and substates"
+                description: "Alex Matchneer has put together a detail guide for the [proposed changes](http://discuss.emberjs.com/t/proposal-nested-loading-routes/2895) to the router's loading and error states. Also check out his [Seattle Meetup talk](https://www.youtube.com/watch?v=flEFh-iWC5A) below."
+                link: https://gist.github.com/machty/6944577
+            -
+                title: "Fun with Backburner.js"
+                description: "A look at the micro-library behind Ember's Run Loop."
+                link: http://aaron.haurwitz.com/#!/posts/fun-with-backburnerjs
+            -
+                title: "Embereños: Charles Lee - Pluck"
+                description: "Weekly interviews with companies and people using ember. This week's interview is with Charles Lee of Pluck."
+                link: http://emberenos.com/interviews/2013/10/15/charles-lee-pluck
+            -
+                title: "Ember Components – Reusable Building Blocks For Your Application"
+                description: "An introduction to Ember and how to use ``Ember.Component``."
+                link: http://flippinawesome.org/2013/10/14/ember-components-reuseable-building-blocks-for-your-application/
+            -
+                title: "Building a tag editor with Ember.js"
+                description: "A tag editor component in 30 lines of code, by Gavin Joyce."
+                link: http://www.gavinjoyce.com/2013/10/16/building-a-tag-editor-ember-component.html
+            -
+                title: "Run Loop Queues"
+                description: "Robert Jackson gives a summary of how Ember's Run Loop uses queues, and the responsibility of each queue."
+                link: http://discuss.emberjs.com/t/run-loop-queues/2955
+            -
+                title: "Guide: Asynchronous side-effects in testing"
+                description: "Taras Mankovski discusses how to handle asynchronicity in your tests."
+                link: http://discuss.emberjs.com/t/guide-asynchronous-side-effects-in-testing/2905
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Loading Routes Facelift with Alex Matchneer"
+                description: "Alex discusses his [current efforts](http://discuss.emberjs.com/t/proposal-nested-loading-routes/2895) to improve Ember's loading/error routes at the Seattle Meetup. Also check out his [detailed guide](https://gist.github.com/machty/6944577) above."
+                link: https://www.youtube.com/watch?v=flEFh-iWC5A
+            -
+                title: "Ember Components explained by Alex Matchneer"
+                description: "Alex explains the basic of a simple component, how to pass values into a component and how to push actions out of the component."
+                link: https://www.youtube.com/watch?v=9z6YlH6524g
+            -
+                title: "Ember Templates by Patrick Holloway"
+                description: "An introduction to Handlebars and templates at the Boston Meetup."
+                link: https://www.youtube.com/watch?v=eUCRk94UVOY#t=91
+            -
+                title: "Template-less Ember Components with Kris Selden"
+                description: ""
+                link: https://www.youtube.com/watch?v=tULySd8MvS4
+            -
+                title: "Ember-Validations and Ember-EasyForm by Brian Cardarella"
+                description: ""
+                link: https://www.youtube.com/watch?v=eUCRk94UVOY#t=3510
+
+    -
+        heading: "Code"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Binding to non-Ember Objects"
+                description: "Stefan Penner shows you can bind to plain JavaScript not just ``Ember.Object``. Simply use ``Ember.get`` / ``Ember.set`` for Key-Value Observing."
+                link: http://emberjs.jsbin.com/oZizIwu/4/edit
+            -
+                title: "Ember-Data Factory"
+                description: "Updated to support Ember-Data 1.0 beta. Allows you to define and create factories instead of using fixtures. It is best used with the ember-testing package."
+                link: https://github.com/teddyzeenny/ember-data-factory
+            -
+                title: "EmberFire - Official Firebase Bindings"
+                description: "Firebase are looking for developer feedback on their Ember binding library for Firebase."
+                link: https://github.com/firebase/emberFire
+            -
+                title: "Ember.SimpleAuth Rails Demo"
+                description: "Demo showcasing Ember.SimpleAuth with Rails 4."
+                link: https://github.com/ugisozols/ember-simple-auth-rails-demo
+            -
+                title: "Debugging Initializer"
+                description: "An Ember Initializer to simplify debugging in the console."
+                link: http://discuss.emberjs.com/t/debugging-in-one-place/2963
+            -
+                title: "Prerender"
+                description: "Allows your Ember (or any JavaScript) apps to be crawled by search engines."
+                link: http://prerender.io/
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Washington, DC Meetup"
+                description: "17th October, 6:30pm @ Logik."
+                link: http://www.meetup.com/Ember-JS-DC/events/135170402/
+            -
+                title: "Oslo, Norway Meetup"
+                description: "17th October, 6:00pm @ Teknologihuset."
+                link: http://www.meetup.com/Ember-js-Oslo/events/140872742/
+            -
+                title: "Seattle Meetup"
+                description: "23th October, 5:30pm @ Urbanspoon. Super Seattle JS."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/142416402/
+            -
+                title: "New York Meetup"
+                description: "24th October, 7:00pm @ Pivotal Labs."
+                link: http://www.meetup.com/EmberJS-NYC/events/135943842/
+            -
+                title: "Salt Lake City Meetup"
+                description: "24th October, 6:30pm @ Instructure."
+                link: http://www.meetup.com/EmberJS-SLC/events/141939662/
+            -
+                title: "NEW! Vancouver, Canada Meetup"
+                description: "24th October, 6:30pm."
+                link: http://www.meetup.com/Vancouver-Ember-js/events/142304532/
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+

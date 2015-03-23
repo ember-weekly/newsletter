@@ -1,0 +1,132 @@
+issue: 67
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Built with Ember - A Showcase of Ambitious Web Applications Built Using Ember"
+                description: ""
+                link: http://builtwithember.io/
+            -
+                title: "Designing Composable Components"
+                description: ""
+                link: https://speakerdeck.com/blesh/emberjs-designing-composable-components
+            -
+                title: "Getting started with Ember.js"
+                description: ""
+                link: http://jpadilla.com/post/92755227972/getting-started-with-ember-js
+            -
+                title: "Lightning Fast (Front-End) Deployments with Rails"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/07/08/lightning-fast-deployments-with-rails/
+            -
+                title: "You Might Just Want Ember Data"
+                description: ""
+                link: http://ryantablada.com/post/you-might-just-want-ember-data
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: "Ember Components - a set of rich web components written for Ember"
+    #             description: ""
+    #             link: http://indexiatech.github.io/ember-components/#/overview
+    #         # -
+    #         #     title: ""
+    #         #     description: ""
+    #         #     link:
+    #         # -
+    #         #     title: ""
+    #         #     description: ""
+    #         #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "A Closer Look at Computed Properties - Tom Close"
+                description: ""
+                link: http://vimeo.com/101568056
+            -
+                title: "Migrating Complicated Apps to Ember.js - Miles Tinsley"
+                description: ""
+                link: http://vimeo.com/101568057
+            -
+                title: "Using Ember Data with a Non-standard Backend - Bryan Crotaz & Andy Pye"
+                description: ""
+                link: http://vimeo.com/101579258
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember-SC
+                description: "29th July, 7:00pm @ Pivotshare, Irvine."
+                link: "http://www.meetup.com/Ember-SC/events/190062132/"
+            -
+                title: Chicago Ember.js
+                description: "Lightning Fast HTML & CSS Prototyping with Ember-CLI. 31st July, 6:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/192878992/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 2nd August, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/190516632/"
+            -
+                title: STL Ember.js
+                description: "4th August, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682702/"
+            -
+                title: Ember.js Meetup - Vancouver
+                description: "Ember Build & Learn Night. 5th August, 6:00pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/196875582/"
+            -
+                title: Ember.js Ottawa
+                description: "6th August, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/194420282/"
+            -
+                title: Toronto Ember.js Meetup
+                description: "7th August, 6:30pm @ Pharmacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/196614382/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,200 @@
+issue: 2
+strapline: "Testing Ember, Ember-Data Adapters, Handlebars Helpers & lots more..."
+content:
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Calling a Handlebars Helper From Another Handlebars Helper"
+                description: "Handlebars helpers can simplify your templates a lot. The ability to call a helper from another helper can lead to good code reuse."
+                domain: thesoftwaresimpleton.com
+                link: http://www.thesoftwaresimpleton.com/blog/2013/04/07/handlebars-helper/
+            -
+                title: "Unit testing your ember.js templates with jasmine"
+                description: "A two part ([1](http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/),[2](http://toranbillups.com/blog/archive/2013/04/09/Unit-testing-your-emberjs-templates-with-jasmine-part-2/)) write-up on how to test your Ember handlebars templates using jasmine."
+                domain: toranbillups.com
+                link: http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/
+            -
+                title: "Reopen application where the user left it"
+                description: "A quick solution to allow you to remember where the user was the last time they used the app. Useful for iOS web apps."
+                domain: stve.cx
+                link: http://stve.cx/2013/04/ember-js-reopen-application-where-the-user-left-it/
+            -
+                title: "Ember Data and the Meetup API"
+                description: "One of the first examples using the [(WIP) BasicAdapter](http://emberjs.com/blog/2013/03/22/stabilizing-ember-data.html#toc_the-basic-adapter) in Ember-Data."
+                domain: mrloop.com
+                link: http://blog.mrloop.com/blog/2013/04/07/ember-data-and-the-meetup-api/
+            -
+                title: "Ember Testing Discussion"
+                description: "Some good discussion on testing Ember applications & testing guides happening on the Ember discourse forum."
+                domain: discuss.emberjs.com
+                link: http://discuss.emberjs.com/t/working-on-a-testing-guide-was-detailed-ember-js-testing-example/887/
+    -
+        heading: "Promoted Link"
+        headlines:
+            -
+                title: "Sponsor Ember Weekly"
+                description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+                domain: emberweekly.com
+                link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+    -
+        heading: "Getting Started"
+        headlines:
+            -
+                title: "Why I Love Ember.js"
+                description: "[@himkp](https://twitter.com/himkp) outlines how he fell in love with Ember. A good summary of Ember's Pros."
+                domain: fleon.org
+                link: http://fleon.org/post/47401547699/why-i-love-ember-js
+            -
+                title: "Anonymous Open Letter to the Ember.js Core Team"
+                description: "One developers frustrations with Ember & Ember-Data with response from core developer, Tom Dale."
+                domain: gist.github.com
+                link: https://gist.github.com/anonymous/5378663
+            -
+                title: "Getting Started with Ember.js"
+                description: "A quick-start guide that is intended for JavaScript developers that want to get started building a simple Ember application."
+                domain: tech.pro
+                link: http://tech.pro/tutorial/1166/getting-started-with-emberjs
+            -
+                title: "Ember at Embedly: Templates & the Router"
+                description: "A [follow-up](http://blog.embed.ly/post/46586649344/introduction-to-ember-development) introduction to using templates with the router in Ember."
+                domain: embed.ly
+                link: http://blog.embed.ly/post/47205604241/ember-at-embedly-templates-and-the-router
+            -
+                title: "Effortless Abstraction with Ember.js"
+                description: "A look at how Computed Properties, Data Bindings & Observers make writing applications with Ember simpler."
+                domain: atomicobject.com
+                link: http://spin.atomicobject.com/2013/04/14/effortless-abstraction-ember/
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Introduction to Ember with Extensive Q&A - NYC Meetup"
+                description: "Luke Melia provides a thorough introduction to Ember.js (including a number of deeper discussions of value to intermediate/advanced Ember developers) at the March NYC meetup"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=7O9X5oeAJm4
+            -
+                title: "Ember Jeopardy & Lightening Talks - NYC Meetup"
+                description: "An Ember-themed Jeopardy game show led to many topic discussions, and also three talks: Crambear - Flashcards in Ember, Drag and Drop in Ember.js, Automatic Model Generation from Rails"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=7O9X5oeAJm4
+            -
+                title: "How I learned Ember - CinciJS"
+                description: "The story & timeline of a developer learning Ember with some useful tips for anyone starting out."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=LyHK18s9taM
+            -
+                title: "Philadelphia ETE JavaScript Frameworks Panel Podcast"
+                description: "A podcast recording from the Philadelphia Emerging Technologies for the Enterprise Javascript frameworks panel with insight from Ember's Yehuda Katz."
+                domain: chariotsolutions.com
+                link: http://emergingtech.chariotsolutions.com/2013/04/techcast-ete-2013-session-1-the-ete-javascript-frameworks-panel/
+    # -
+        # heading: "Built with Ember"
+        # headlines:
+        #     -
+        #         title: "Ember Chat"
+        #         description: "A chatroom service built with Ember.js by a few community members. Source is available [on GitHub](https://github.com/ebryn/emberchat)."
+        #         domain: erikbryn.com
+        #         link: http://emberchat.erikbryn.com/
+        #     -
+        #         title: "emberjs-movies"
+        #         description: "An example application built with Ember.js and Ember Data using the Basic Adapter and the The Open Movie Database API."
+        #         domain: github.com
+        #         link: https://github.com/ttdonovan/emberjs-movies
+    -
+        heading: "Jobs"
+        headlines:
+            -
+                title: "Looking for an Ember Developer?"
+                description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+                domain: emberweekly.com
+                link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Using Ember.js & Firebase for powerful real-time applications"
+                description: "An Ember-Data Adapter for the popular 'store-as-a-service' - [Firebase](https://www.firebase.com/). Post covers a real-time chat application example."
+                domain: thomasboyt.com
+                link: http://www.thomasboyt.com/2013/04/13/emberjs-and-firebase.html
+            -
+                title: "IndexedDB & Cache Adapters"
+                description: "An experimental gist for an Ember-Data IndexedDB Adapter. Also work-in-progress on a [CacheAdapter](https://gist.github.com/leepfrog/5359583)."
+                domain: gist.github.com
+                link: https://gist.github.com/leepfrog/5352059
+            -
+                title: "emu - Simple data access library for Ember.js"
+                description: "Another take on a simple data access library for Ember."
+                domain: github.com
+                link: https://github.com/charlieridley/emu
+            -
+                title: "ember-bridge-adapter"
+                description: "An experimental library for bridging a LocalStorage adapter and a RestAdapter in Ember Data."
+                domain: github.com
+                link: https://github.com/kristianmandrup/ember-bridge-adapter
+            -
+                title: "ember-factories"
+                description: "A simple factory library for use with Ember. Still Young. [Demo app](https://github.com/kristianmandrup/factories)."
+                domain: github.com
+                link: https://github.com/kristianmandrup/ember-factories
+            -
+                title: "ember-konacha-rails"
+                description: "Generate Konacha spec infrastructure for your Ember-Rails apps. Under development."
+                domain: github.com
+                link: https://github.com/kristianmandrup/ember-konacha-rails
+            -
+                title: "ember-tools"
+                description: "Updated to support RC2. Provides organization, scaffolding, template compiling, generators, building & general bootstrapping for your ember project. Code available [on github](https://github.com/rpflorence/ember-tools)."
+                domain: npmjs.org
+                link: https://npmjs.org/package/ember-tools
+            -
+                title: "ember-animated-outlet"
+                description: "Ember Animated Outlet is a plug'n'play module to support animated route transitions in Ember.js."
+                domain: github.com
+                link: https://github.com/billysbilling/ember-animated-outlet
+    # -
+    #     heading: "Missed Last Week"
+    #     description: "I was a bit too excited with getting the first edition out last month and forgot to include a few links…oops…"
+    #     headlines:
+    #         -
+    #             title: "Building an App with Ember.js"
+    #             description: "Tom Dale gives a 30min introduction on putting together a blogging app in Ember. Now part of the official docs."
+    #             domain: youtube.com
+    #             link: https://www.youtube.com/watch?v=Ga99hMi7wfY
+    #         -
+    #             title: "HAL API - OC Meetup"
+    #             description: "Demonstration of using a HAL api in place of ember-data with the Peepcode Ember app."
+    #             domain: youtube.com
+    #             link: https://www.youtube.com/watch?v=9K1_n4MhPd8
+    #         -
+    #             title: "EmberScript - Seattle Meetup"
+    #             description: "A lightening talk introduction to EmberScript - Ember-infused CoffeeScript"
+    #             domain: youtube.com
+    #             link: https://www.youtube.com/watch?v=tcG058l2xh4
+    #         -
+    #             title: "Ember at Embedly: Introduction to Ember Development"
+    #             description: "Another getting started with ember post, especially useful if you're using Yeoman or Grunt."
+    #             domain: embed.ly
+    #             link: http://blog.embed.ly/post/46586649344/introduction-to-ember-development
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Hacker Hours - EmberJS NYC"
+                description: "If you're in NYC, pop in to get help, give help, and hack. An informal session to allow people to work on their Ember projects, and ask & answer questions. April 16th @ 6-8pm."
+                domain: meetup.com
+                link: http://www.meetup.com/EmberJS-NYC/events/113241122/
+            -
+                title: "Ember Fest"
+                description: "EmberCamp Europe is now Ember Fest and will be held in Munich, August 28-30th. Early bird tickets are [now available](http://emberfest.eu/pages/tickets)."
+                domain: emberfest.eu
+                link: http://emberfest.eu/
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "emberjs-movies"
+                description: "An example application built with Ember.js and Ember Data using the Basic Adapter and the The Open Movie Database API."
+                domain: github.com
+                link: https://github.com/ttdonovan/emberjs-movies

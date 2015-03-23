@@ -1,0 +1,139 @@
+issue: 9
+strapline: "Ember RC5, Ember Data 0.13, Getting Started Guide & more..."
+content:
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.0 RC5 Released"
+                description: "Shortly after [RC4 was released](http://emberjs.com/blog/2013/05/28/ember-1-0-rc4.html), RC5 was hot on its heels. RC5 contains mainly regressions found in RC4"
+                domain: emberjs.com
+                link: http://emberjs.com/blog/2013/06/01/ember-1-0-rc5.html
+            -
+                title: "Ember 1.0 RC4 Released"
+                description: "This release included the [potentially breaking setupController](https://github.com/emberjs/ember.js/commit/5a5d04865ff3e0e8b571a7ddbe4de069ce2ef073) changes mentioned in the last issue as well as improved route redirection, LinkTo & ember-testing improvements, RSVP promises library update, and more."
+                domain: emberjs.com
+                link: http://emberjs.com/blog/2013/05/28/ember-1-0-rc4.html
+            -
+                title: "Ember Data 0.13 Released"
+                description: "This was huge news - the first official release of Ember Data! However, it is still considered alpha and is recommended to only be used in production if you like to live on the bleeding edge and contribute back to the project."
+                domain: emberjs.com
+                link: http://emberjs.com/blog/2013/05/28/ember-data-0-13.html
+            -
+                title: "Handlebars 1.0.0 Released"
+                description: "Another quick turn around after last weeks RC4 release, Handlebars has now officially hit first stable release. Find out more in the [release readme](https://github.com/wycats/handlebars.js/blob/master/release-notes.md) in the repo."
+                domain: handlebarsjs.com
+                link: http://handlebarsjs.com/
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember Official Getting Started Guide"
+                description: "After a heroic effort by [Trek Glowacki](https://twitter.com/trek), Ember now has a great official resource taking a new developer through building the [TodoMVC app](http://todomvc.com/). The built in JSBin previews are awesome."
+                domain: emberjs.com
+                link: http://emberjs.com/guides/getting-started/
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Authentication With Ember Apps"
+                description: "Adam Hawkins explains how you'd do token-based authentication using Ember routes."
+                domain: broadcastingadam.com
+                link: http://broadcastingadam.com/2013/05/authentication-with-ember-apps/
+            -
+                title: "Ember Data Is Pre-Alpha Software"
+                description: "Adam issues a warning that you should be prepared to dig into Ember Data's internals if you're going to use Ember Data today."
+                domain: broadcastingadam.com
+                link: http://broadcastingadam.com/2013/05/ember-data-is-pre-alpha-software/
+            -
+                title: "Building an Ember app with RailsAPI"
+                description: "The popular guide on CRUD apps with Ember and a RailsAPI backend has been updated for Ember RC4 & Ember Data 0.13."
+                domain: dockyard.com
+                link: http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html
+            -
+                title: "Discourse Ember Refactorings"
+                description: "Robin Ward discusses how the Discourse team refactored some anti-patterns that appeared in the Discourse source code to a more idiomatic approach."
+                domain: meta.discourse.org
+                link: http://meta.discourse.org/t/discourse-ember-refactorings/7019
+            -
+                title: "Ember.js and Highcharts"
+                description: "An example of integrating Ember.js with Highcharts."
+                domain: marceldegraaf.net
+                link: http://marceldegraaf.net/2013/05/30/ember-js-and-highcharts.html
+    # -
+    #     heading: "Promoted Link"
+    #     headlines:
+    #         -
+    #             title: "Sponsor Ember Weekly"
+    #             description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+               title: "Our app blew Tom Dale’s mind. Help us launch it in the US."
+               description: "To Be ([http://tobe.us](http://tobe.us)) is a new way to collage the Internet. We need an experienced JavaScript developer ready to push the limits of what browsers and the web can be. Come work with us. To Be is written in Ember (front-end) and Rails (back-end)."
+               domain: tobe.us
+               link: http://tobe.us/developer
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Embrace JavaScript by Yehuda Katz"
+                description: "Yehuda Katz presents a great keynote at RailsConf 2013. In it he discusses the evolution of the web & how Rails developers should stop fighting JavaScript and start Embracing the inevitable need for JavaScript in modern web apps."
+                domain: justin.tv
+                link: http://www.justin.tv/confreaks/c/2246947
+            -
+                title: "Ember Dynamic Tags"
+                description: "An Instructure Lunch.JS lunch & lern, where a jQuery slideshow is re-written using Ember."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=9424LDeJ4ck
+    # -
+    #    heading: "Interesting Commits"
+    #    headlines:
+    #         -
+    #            title: "Async Router API"
+    #            description: "Alex Matchneer has [been doing great work](https://github.com/tildeio/router.js/pull/19) to make the Ember Router API async, fixing common router issues. [Summary, examples & demos of changes are in this gist](https://gist.github.com/machty/5647589), and open to feedback."
+    #            domain: discuss.emberjs.com
+    #            link: http://discuss.emberjs.com/t/upcoming-async-router-api/1339
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember AutoResize"
+                description: "A port of SproutCore's AutoResize functionality for Ember. Provides a mixin to allow views (built-in support for TextField/TextArea) to auto grow depending on content."
+                domain: paddle8.github.io
+                link: http://paddle8.github.io/ember-autoresize/
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Hacker Hours - Southern California Meetup"
+                description: "4th June, 6:30pm @ Capital Group."
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-SC/events/120870722/
+            -
+                title: "Hacker Hours - Chicago Meetup"
+                description: "4th June, 7:00pm @ Fruition Partners."
+                domain: meetup.com
+                link: http://www.meetup.com/Chicago-Ember-js/events/121702792/
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "Tomster Morph"
+                description: "Uncanny."
+                domain: cl.ly
+                link: http://f.cl.ly/items/103e0T0S2318340y3U1m/omg2.gif
+

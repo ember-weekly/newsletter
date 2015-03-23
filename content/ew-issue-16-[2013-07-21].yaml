@@ -1,0 +1,167 @@
+issue: 16
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Let’s Learn Ember - Free Tuts+ Premium Course"
+                description: "In this free course, Tuts+ Premium instructor José Mota will teach you the ins and outs of the framework."
+                link: http://freecourses.tutsplus.com/lets-learn-ember/
+            -
+                title: "Ember.js - Mobile Animations and Touch Gestures"
+                description: "[Bryan Langslet](https://twitter.com/blangslet) takes us through building a mobile application using [ember-animated-outlets](https://github.com/billysbilling/ember-animated-outlet), [Ember-touch](https://github.com/emberjs-addons/ember-touch) & [ember-fastclick](https://github.com/JamesHight/emberjs-touch/blob/master/lib/ember-fastclick.js). ([code](https://github.com/blangslet/ember.js-mobile-animations-gestures), [demo](http://ember-mobile-animations.herokuapp.com/#/posts))."
+                link: http://blangslet.com/post/55590279372/ember-js-mobile-animations-and-touch-gestures
+            -
+                title: "Content with Ember.js"
+                description: "An introduction to building an app with Ember."
+                link: http://12devs.co.uk/articles/content-with-ember-js/
+            -
+                title: "Exploiting Ember’s Routing to Avoid Nested Templating"
+                description: ""
+                link: http://thoughts.z-dev.org/2013/07/18/exploiting-embers-routing-to-avoid-nested-templating/
+            -
+                title: "GitHub's Copy to Clipboard With Ember"
+                description: "How to build an Ember.Component using [ZeroClipboard](http://jonrohan.github.io/ZeroClipboard/) that provides the ability to copy text to the clipboard."
+                link: http://coderberry.me/blog/2013/07/19/githubs-copy-to-clipboard-with-ember/
+            -
+                title: "Ember.js: The Architecture Advantage"
+                description: "Slides from [Luke Melia](https://twitter.com/lukemelia)'s GothamJS talk on how Ember.js supports the development and maintenance of large, ambitious Javascript apps."
+                link: https://speakerdeck.com/lukemelia/ember-dot-js-the-architecture-advantage
+
+    -
+        heading: "Ember Fest"
+        image: "https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/ac25c8565ec37f9299ac75ca0/images/logo_smallf3833f.png"
+        advert: true
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany. A three day event featuring Training sessions, a full day Hackathon and a full day Conference. This will be the European Ember.js event of the year! Starting on August 29th and ending on August 30th, with a conference dinner and after party."
+                # image: https://si0.twimg.com/profile_images/378800000030945398/cf9a81d8d81affa2126f00af65708ed6.png
+                link: http://emberfest.eu/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js Persistence Foundation - Seattle Meetup"
+                description: "Gordon Hempton gives an introduction to the new [Ember.js Persistence Foundation (epf) library](http://epf.io/) at the Seattle Ember Meetup. ([slides](http://ghempton.github.io/epf-preso/))."
+                link: https://www.youtube.com/watch?v=ZrWUUcB-PR8
+
+    -
+        heading: "Ember Hot Seat Podcast"
+        description: "A super busy week for Ember Hot Seat. A big shout out to [DeVaris Brown](https://twitter.com/devarispbrown). Great work!"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP5: Toran Billups"
+                description: "Toran dives into his journey into Ember from a Python developer's perspective, testing with Ember, getting his team sold on Ember, and how important it is to give back to the community."
+                link: http://emberhotseat.com/2013/07/16/ember-hot-seat-episode-004.html
+            -
+                title: "Ember Hot Seat - EP5: Gordon Hempton"
+                description: "In this highly anticipated episode, he talks about EPF, Ember Persistence Foundation, and why he felt it was necessary to build another data persistence library."
+                link: http://emberhotseat.com/2013/07/17/ember-hot-seat-episode-005.html
+            -
+                title: "Ember Hot Seat - EP6: James Rosen"
+                description: "James gives insights as to how Zendesk are using Ember including the long road in upgrading to 1.0, internationalization, data persistence, testing, and a lot of other cool things."
+                link: http://emberhotseat.com/2013/07/18/ember-hot-seat-episode-006.html
+            -
+                title: "Ember Hot Seat - EP7: Yehuda Katz"
+                description: "Yehuda talks about Ember 1.1, Ember Data, and his views on Angular. He also gives his wish list for the platform, talks about the differences between his and DHH's view on the browser as a platform, and we take a reflective view on the Ember's history to talk about some of the things he might have done differently."
+                link: http://emberhotseat.com/2013/07/19/ember-hot-seat-episode-007.html
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Guides"
+        headlines:
+            -
+                title: "Ember Integration Testing Guide"
+                description: "Thanks to [Katie Gengler](https://twitter.com/katiegengler), there's now an official documentation guide for Integration Testing using the Core Ember Testing package."
+                link: http://emberjs.com/guides/testing/integration/
+            -
+                title: "Debugging Ember Guide"
+                description: "[Eric Berry](https://twitter.com/cavneb) has adapted [@akshayrawat](https://twitter.com/akshayrawat)'s debugging blog post to provide some official documentation on debugging in Ember."
+                link: http://emberjs.com/guides/understanding-ember/debugging/
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Data Evolution"
+                description: "An experimental patch set for ember-data by [Paul Chavard](https://twitter.com/tchak13)."
+                link: https://github.com/tchak/ember-data-evolution
+            -
+                title: "Ember Text Helper"
+                description: "Adds a property for registering complex text helpers for Ember applications. [Here's an i18n implementation example](https://gist.github.com/tim-evans/6002558)."
+                link: https://github.com/paddle8/ember-text-helper
+            -
+                title: "Yeoman Ember Generator"
+                description: "v0.5.7 - Yet more updates to the Yeoman generator for Ember, including testing improvements, new look, and the generator now does views, models and controllers."
+                link: https://github.com/yeoman/generator-ember
+            -
+                title: "Ember Extension"
+                description: "[Teddy Zeenny](https://twitter.com/teddyzeenny) continues to do awesome work on the Ember Chrome Debugger extension. It's starting to look really good!"
+                link: https://github.com/tildeio/ember-extension
+            -
+                title: "Ember Model"
+                description: "v0.0.6 released - A lightweight model library for Ember.js."
+                link: https://github.com/ebryn/ember-model
+            -
+                title: "Ember Validatable"
+                description: "Simple validations for use with Ember-Model (or any Ember Object)."
+                link: https://github.com/jamesotron/ember-validatable
+            -
+                title: "Ember Memento"
+                description: "Undo / Redo functionality for Ember.Object's"
+                link: https://github.com/pangratz/ember-memento
+            -
+                title: "Ember Query Params"
+                description: "Plug-in query string parameters for Ember.js"
+                link: https://github.com/ElteHupkes/ember-query-params
+            -
+                title: "EmberCrossfilter"
+                description: "Updated to support RC6. Instead of using Ember DataStore, EmberCrossfilter provides a basic architecture for creating Ember models with Crossfilter; which allows for much quicker sorting and filtering."
+                link: https://github.com/Wildhoney/EmberCrossfilter
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember NYC Hacker Hours"
+                description: "23rd July, 6:00pm"
+                link: http://www.meetup.com/EmberJS-NYC/events/128775622/
+            -
+                title: "Ember NYC Meetup"
+                description: "25th July, 7:00pm @ Pivotal Labs."
+                link: http://www.meetup.com/EmberJS-NYC/events/127183702/
+            -
+                title: "Ember Boston OpenHack"
+                description: "25th July, 6:00pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/129518712/
+            -
+                title: "Ember Austin Meetup"
+                description: "25th July, 7:00pm @ The FrontSide."
+                link: http://www.meetup.com/Ember-ATX/events/120904452/
+            -
+                title: "#nerdlearn: Front-End MVC Frameworks"
+                description: "25th July, 6:00pm @ TWG, Toronto. \"Angular. Backbone. Ember. There’s a dizzying array of options for developers to choose from when selecting a front-end MVC framework. If your head is spinning, join us on Thursday, July 25th for #nerdlearn and let our panelists guide you through the thorny labyrinth of front-end MVC frameworks.\""
+                link: https://guestlistapp.com/events/170202
+            -
+                title: "NEW: Budapest Meetup"
+                description: "There's a new Ember meetup group in Budapest, Hungary."
+                link: http://www.meetup.com/ember-bp/
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: "GitHub Issues built with Ember"
+    #             description: "Github issues rebuilt as an ember app (WIP)."
+    #             link: https://github.com/southpolesteve/github-ember

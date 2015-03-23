@@ -1,0 +1,149 @@
+issue: 70
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Inspector v1.4.0"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/blob/master/CHANGELOG.md#ember-inspector-140
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Application Initializers"
+                description: ""
+                link: http://ember.zone/ember-application-initializers/
+            -
+                title: "9 Things You Should Know Before Starting Your Next Ember.js And Ember Data Application"
+                description: ""
+                link: http://bigemployee.com/9-things-you-should-know-before-starting-your-next-ember-js-and-ember-data-application/
+            -
+                title: "A Beautiful Code-base With Ember And Friends"
+                description: ""
+                link: http://engineering.peek.com/emberjs/
+            -
+                title: "Real World Fixtures - Using HTTP mocks during development"
+                description: ""
+                link: https://speakerdeck.com/cball/real-world-fixtures
+            -
+                title: "Ember Ready - A Ember, Ember-CLI and Rails Starter Kit (coming soon)"
+                description: ""
+                link: http://embeready.com/
+            -
+                title: "Announcing Symfony Ember.js Edition"
+                description: ""
+                link: https://blogs.library.ucsf.edu/ckm/2014/08/05/announcing-symfony-ember-js-edition/
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember I18n v2.2 Released - Internationalization for Ember"
+                description: ""
+                link: https://github.com/jamesarosen/ember-i18n/releases/tag/v2.2.0
+            -
+                title: "ember-cli-cordova - A tool for creating hybrid apps"
+                description: ""
+                link: https://github.com/poetic/ember-cli-cordova
+            -
+                title: "generator-emberfs - Yeoman generator for creating MEEN stack applications"
+                description: ""
+                link: https://github.com/eguneys/generator-emberfs
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Screencast: Debugging an Ember.js Application by Robin Ward"
+                description: ""
+                link: http://eviltrout.com/2014/08/16/debugging-ember-js.html
+            -
+                title: "JavaScript Jabber: Broccoli.js with Jo Liss"
+                description: ""
+                link: http://javascriptjabber.com/121-jsj-broccoli-js-with-jo-liss/
+            -
+                title: "Moving A Traditional Rails jQuery App to Ember.JS"
+                description: ""
+                link: https://www.youtube.com/watch?v=ubpZIZJg_0Q
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "(All Levels) Javascript Engineer - Indiegogo"
+               description: "At Indiegogo, you will have the opportunity to literally change the world and people’s lives by developing new features for our consumer platform to make it even more robust. If this gets you excited please visit [www.indiegogo.com/careers](https://www.indiegogo.com/careers)."
+               link: https://www.indiegogo.com/careers
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.js Meetup - Vancouver
+                description: "19th August, 6:00pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/199726312/"
+            -
+                title: Ember.js Portland
+                description: "19th August, 6:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/190997372/"
+            -
+                title: Ember.js Orlando
+                description: "19th August, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/198032852/"
+            -
+                title: Embernati
+                description: "20th August, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/195453642/"
+            -
+                title: Ember.js Belgium
+                description: "20th August, 8:00pm @ TenForce, Leuven."
+                link: "http://www.meetup.com/Ember-js-Belgium/events/198180452/"
+            -
+                title: Ember.js NYC
+                description: "21st August, 7:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/198841972/"
+            -
+                title: Ember.js Seattle
+                description: "21st August, 7:00pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/201333112/"
+            -
+                title: Ember.js Pittsburgh
+                description: "21st August, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/193439392/"
+            -
+                title: Ember-SC
+                description: "23rd August, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/194525822/"
+            -
+                title: Ember.Melb.js
+                description: "25th August, 7:00pm @ Papercloud HQ, Melbourne."
+                link: "http://www.meetup.com/Ember-Melb-JS/events/201085392/"
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "New Heroku Dashboard - Built with Ember"
+                description: ""
+                link: https://dashboard-next.heroku.com

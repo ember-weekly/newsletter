@@ -1,0 +1,240 @@
+issue: 101
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "How To Setup Your Project With Ember Pods"
+                description: ""
+                link: http://www.programwitherik.com/ember-pods/
+            -
+                title: "Optimizing APIs with Ember-Data and EmbeddedRecordsMixin"
+                description: ""
+                link: http://miguelcamba.com/blog/2015/03/15/optimizing-apis-with-ember-data-and-embeddedrecordsmixin/
+            -
+                title: "Tips for Writing Ember Addons"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/03/22/tips-for-writing-ember-addons.html
+            -
+                title: "1st Class UX for Web Programmers"
+                description: ""
+                link: http://johnkurkowski.com/posts/1st-class-ux-for-web-programmers/
+            -
+                title: "EmberConf 2015 Recap Slides"
+                description: ""
+                link: http://slides.com/michaelmalchak/deck
+            -
+                title: "Running Ember-CLI Tests on Jenkins CI"
+                description: ""
+                link: http://benlimmer.com/2015/03/22/ember-cli-testing-with-jenkins/
+            -
+                title: "What are Ember Computed Properties?"
+                description: ""
+                link: http://www.programwitherik.com/what-are-ember-computed-properties/
+            -
+                title: "Ember Quick Tip #2: Generating URLs for External Sites"
+                description: ""
+                link: http://blog.yanted.com/2015/02/27/ember-js-quick-tip-2-generating-urls-external-sites
+            -
+                title: "Why We Chose Ember.js"
+                description: ""
+                link: http://www.fnaweso.me/why-we-chose-ember-js/
+            -
+                title: "Ember Introductory Resources (PRs Welcomed)"
+                description: ""
+                link: https://github.com/rondale-sc/introductory-ember-resources
+            -
+                title: "Notes on Upgrading to Ember-CLI 0.2.0"
+                description: ""
+                link: https://gist.github.com/jamesarosen/c005cf384a62709edf82
+            -
+                title: "Notes on Supporting Ember-Data Relationships in Legacy APIs"
+                description: ""
+                link: https://gist.github.com/jamesarosen/79337a515f557d7e9cf6
+            -
+                title: "Adding Stripe Connect to Your Ember-CLI App Using Torii"
+                description: ""
+                link: http://js-for.ninja/adding-stripe-connect-to-your-ember-cli-app-using-torii.html
+            -
+                title: "Why I Still Like Ember.js"
+                description: ""
+                link: http://spin.atomicobject.com/2015/03/21/strengths-ember-js-benefits/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-i18n v3.0.0 Released: Internationalization for Ember"
+                description: ""
+                link: https://github.com/jamesarosen/ember-i18n/releases/tag/v3.0.0
+            -
+                title: "ember-sanctify: An Authorization (Not Authentication) Addon"
+                description: ""
+                link: https://www.npmjs.com/package/ember-sanctify
+            -
+                title: "ember-fetch: HTML5 Fetch polyfil"
+                description: ""
+                link: https://www.npmjs.com/package/ember-fetch
+            -
+                title: "ember-cli-active-link-wrapper: Propagate Active Class to a Parent Element"
+                description: ""
+                link: https://github.com/alexspeller/ember-cli-active-link-wrapper
+            -
+                title: "ember-slide-show: Slideshow Component Addon for Ember-CLI"
+                description: ""
+                link: https://www.npmjs.com/package/ember-slide-show
+            -
+                title: "ember-get-helper: {{get}} Helper for Your HTMLBars Templates"
+                description: ""
+                link: https://www.npmjs.com/package/ember-get-helper/
+            -
+                title: "ember-timetree: Visualize Hierarchical Timeline Data with D3.js"
+                description: ""
+                link: https://www.npmjs.com/package/ember-timetree
+            -
+                title: "ember-css-routes: Route-Centric Approach to Serving CSS"
+                description: ""
+                link: https://www.npmjs.com/package/ember-css-routes
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+               description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+               link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Frontside Podcast Ep 20: Best of EmberConf 2015 (Part 1)"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/20
+            -
+                title: "Frontside Podcast Ep 21: Best of EmberConf 2015 (Part 2)"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/21
+            -
+                title: "Using Fixtures with Ember Data"
+                description: ""
+                link: https://vimeo.com/120318565
+            -
+                title: "Zelda: A {{link-to}} the Past - Aaron Chambers"
+                description: ""
+                link: https://vimeo.com/122410608
+            -
+                title: "Hamsters on a Train (A Beginners Journey with Ember) - Nik Wakelin"
+                description: ""
+                link: https://vimeo.com/122410609
+            -
+                title: "What's New in Ember 1.11 - EmberSherpa Workshop"
+                description: ""
+                link: https://www.youtube.com/watch?v=8GMeMM0ukYM
+            -
+                title: "Ember Screencasts #22: Highlight Selected Sort Options"
+                description: "Plus a new Pro ($) video on [Query Params](http://www.emberscreencasts.com/posts/23-query-params)."
+                link: http://www.emberscreencasts.com/posts/22-highlight-selected-sort-options
+            -
+                title: "Learn Ember From Its Creators, Tom Dale & Yehuda Katz ($)"
+                advert: true
+                description: "Online Course - Save $50 with code: `emberweekly`"
+                link: https://teamgaslight.com/training/courses/14-introduction-to-ember-js
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: São Paulo
+                description: "21st March, 3:00pm."
+                link: "http://www.meetup.com/ember-sp/events/220503461/"
+            -
+                title: Bangalore
+                description: "21st March, 8:30pm @ Google Hangout!, Bangalore."
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/221074419/"
+            -
+                title: Chicago
+                description: "24th March, 6:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/220458997/"
+            -
+                title: Minneapolis
+                description: "24th March, 7:00pm @ TreeHouse-Health, Minneapolis."
+                link: "http://www.meetup.com/EmberMN/events/221191971/"
+            -
+                title: Washington
+                description: "25th March, 6:30pm @ UberOffices Dupont, Washington."
+                link: "http://www.meetup.com/Ember-JS-DC/events/221080793/"
+            -
+                title: Santa Monica
+                description: "25th March, 7:00pm @ Whalerock Industries, Santa Monica."
+                link: "http://www.meetup.com/Ember-SC/events/221046023/"
+            -
+                title: Zürich
+                description: "25th March, 7:00pm @ http://www.colab-zurich.ch/, Zürich."
+                link: "http://www.meetup.com/Ember-js-Zurich/events/220773775/"
+            -
+                title: New York
+                description: "26th March, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/220789954/"
+            -
+                title: Austin
+                description: "26th March, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/220476455/"
+            -
+                title: Houston
+                description: "26th March, 7:00pm."
+                link: "http://www.meetup.com/EmberJS-Houston/events/220975549/"
+            -
+                title: Berlin
+                description: "26th March, 7:00pm @ Acrolinx, Berlin."
+                link: "http://www.meetup.com/Ember-js-Berlin/events/220864321/"
+
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Mastering Ember.js – 3-Day Workshop in Cincinnati ($)"
+                advert: true
+                description: "6-8th April. Save $120 with code `emberweekly`!"
+                link: https://ti.to/gaslight/mastering-emberjs

@@ -1,0 +1,114 @@
+issue: 47
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title:
+    #             description: 
+    #             link: 
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember and the future of the web"
+                description: "An excellent write-up by Brandon Hays on how web development is changing and frameworks like Ember are positioned to turn the browser in to a real application runtime. Well worth a read."
+                link: http://frontside.io/blog/2014/02/24/ember-and-the-future-of-the-web.html
+            -
+                title: "Ghost: \"Hello Ember\""
+                description: "The popular Open Source Blogging Platform, Ghost, will re-write their Backbone Admin UI using Ember. After [much discussion in the OS community](https://github.com/TryGhost/Ghost/issues/2144), the Ghost team explain why they chose Ember over Angular, React and Backbone + Marionette."
+                link: http://dev.ghost.org/hello-ember/
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/02/21"
+                description: "Topics covered: Old Stack Overflow questions & Es6ifying core. Pending Features: ``ember-testing-simple-setup`` = revert, ``query-params-new`` = not ready. "
+                link: http://emberjs.com/blog/2014/02/23/core-team-meeting-minutes-2014-02-21.html
+            -
+                title: "Getting started with Broccoli and Ember.js"
+                description: "A walkthrough getting an Ember project up and building with the new Broccoli build tool."
+                link: http://ampersate.com/getting-started-with-broccoli-and-emberjs
+            -
+                title: "A Common Resource Route Pattern in Ember.js"
+                description: "A look at how to DRY up your routes setup in certain use cases."
+                link: http://balinterdi.com/2014/02/26/a-common-resource-route-pattern-in-ember-dot-js.html
+            -
+                title: "Know your routes in Ember.js"
+                description: "A post which illustrates the difference between the ``Application`` route and the ``ApplicationIndex`` route through a redirect example."
+                link: http://ugisozols.com/blog/2014/02/25/know-your-routes-in-emberjs/
+            -
+                title: "Deploy an Ember.js App on Heroku"
+                description: "An example of how to deploy an Ember application to Heroku using Node.js & Express to server the app."
+                link: http://nepalonrails.com/blog/2014/03/deploy-emberjs-app-on-heroku/
+            -
+                title: "Ember.js with a Separate Rails API"
+                description: "This post shares thoughtbot's experiences building an Ember application using Rails as the server-side API and a Rails project to manage the Ember app."
+                link: http://robots.thoughtbot.com/emberjs-with-a-separate-rails-api
+            -
+                title: "Cross-browser AJAX uploads with Ember.js and mOxie"
+                description: "A guide to using the mOxie library to support cross-browser uploads. ([demo](http://scribu.github.io/ember-moxie-demo/))"
+                link: http://scribu.net/blog/cross-browser-uploads-ember-moxie.html
+            
+
+    # -
+    #     heading: "Promoted"
+    
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Broccoli Plugins"
+                description: "Although still in its infancy, many have already jumped on the new \"build tool\" by Jo Liss creating a load of plugins. Broccoli is set to be part of the future [Ember CLI tool](https://github.com/stefanpenner/ember-cli)."
+                link: "https://github.com/joliss/broccoli#plugins"
+            -
+                title: "ember-devise-simple-auth"
+                description: "A plugin to integrate your Ember app with a (mostly stock) Devise setup"
+                link: https://github.com/d-i/ember-devise-simple-auth
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberDumps.com Lives!"
+                description: "You can now find previously featured EmberDump videos by Alex Matchneer & Cory Forsyth in one location."
+                link: http://emberdumps.com/
+            -
+                title: "Getting Started with ember-rails-template"
+                description: "A screencast on using [ember-rails-template](https://github.com/mrinterweb/ember-rails-template) - a Rails template to help configure a Rails project with ``ember-rails``. "
+                link: https://www.youtube.com/watch?v=KaBbGUVQrAw
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: "Ember.js Seattle"
+                description: "Ember and NBC News. 6th March, 6:30pm @ Columbia Center, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/166977452/"
+            - 
+                title: "Saint Louis Ember.js"
+                description: "6th March, 7:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/159912472/"
+            - 
+                title: "NEW: Ember.js Tokyo"
+                description: "A brand new Ember meetup in Tokyo, Japan - 18th March, 7:00pm."
+                link: http://emberjs.doorkeeper.jp/events/9196
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title:
+    #             description: 
+    #             link: 
+

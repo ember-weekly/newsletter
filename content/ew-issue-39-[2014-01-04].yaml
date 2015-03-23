@@ -1,0 +1,168 @@
+issue: 39
+strapline: "2013 in Review"
+content:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "EmberConf: March 25/26, Portland, OR"
+                description: "\"Join the Ember Core Team along with our top community contributors for two intimate days of non-stop Ember content and friends. Sign up to be notified as soon as tickets go on sale.\""
+                link: http://emberconf.com/
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: "Ember 1.3.0 Beta 4 Available"
+    #             description: "Not too much [to note in this release](https://github.com/emberjs/ember.js/blob/v1.3.0-beta.4/CHANGELOG.md#ember-130beta4-december-27-2013) but we should see 1.3.0 released next week. (Bonus: checkout the cool new release cycle visualization on the beta page)."
+    #             link: http://emberjs.com/builds/#/beta
+
+    # -
+    #     heading: "Reading"
+    #     headlines:
+    #         -
+    #             title: "Ember Repositories"
+    #             description: "A new official guide on the different libraries that make up Ember." 
+    #             link: http://emberjs.com/guides/contributing/repositories/
+            
+
+
+    -
+        heading: "Popular in 2013"
+        description: "Some of the most popular posts from last year."
+        headlines: 
+            -
+                title: "Backbone, Ember and Angular in a boat"
+                description: "A beautiful presentation comparing Backbone.js, Ember.js & Angular.js. (Slides content are English)"
+                link: http://loicfrering.github.io/mixit13/
+            -
+                title: "Organizing Data in Long Lived Applications"
+                description: "Robin Ward looks at how client-side frameworks like Ember can change the way data is requested compared to server-side frameworks and how you may want to model your data differently."
+                link: http://eviltrout.com/2013/05/26/organizing-data-in-long-lived-applications.html
+            -
+                title: "Ember Model - Introduction"
+                description: "An introduction to Erik Bryn's [Ember Model](https://github.com/ebryn/ember-model) and how it compares to Ember Data."
+                link: http://blog.sensible.io/2013/06/26/ember-model-introduction.html
+            -
+                title: "10 Things You Can Do With EPF (That You Can't Easily Do With Ember Data)"
+                description: ""
+                link: http://codebrief.com/2013/07/10-things-you-can-do-with-epf/
+            -
+                title: "Complex Architectures in Ember"
+                description: "Matthew Beale slides from last weekend's EmberFest in Munich. Includes information on the `actions`/`events` change that crept in before Ember 1.0."
+                link: http://madhatted.com/2013/8/31/emberfest-presentation-complex-architectures-in-ember
+            -
+                title: "EmberJS :: Beyond the tutorials"
+                description: "Ryan Rauh discusses how he got started with Ember. Some useful tips for beginners."
+                link: http://lostechies.com/ryanrauh/2013/10/08/emberjs-beyond-the-tutorials/
+            -
+                title: "Ember.js Cheat Sheet"
+                description: "Based off the [Em­ber­She­rpa cheatsheet](http://embersherpa.com/cheatsheet/)."
+                link: http://www.cheatography.com/mwore/cheat-sheets/ember-js/
+            -
+                title: "Ember 1.0 Released"
+                description: "Two and a half years in the making but we got there. After a [huge push](https://github.com/emberjs/ember.js/issues/3246) by a large number of (awesome) community members and the (tireless) core team, Ember 1.0 was released on the weekend. A huge congratulations to everyone involved, and thank you for all your hard work. Check out the blog post for more information on 1.0 and see the rest of the newsletter for more updates and releases related to 1.0."
+                link: http://emberjs.com/blog/2013/08/31/ember-1-0-released.html
+            -
+                title: "Ember Data: 1.0 Betas by Yehuda Katz"
+                description: "Slides from a talk by Yehuda on the latest Ember Data Betas."
+                link: https://docs.google.com/presentation/d/1L9OoQZlP-UuHUvf1YWSoyh9lBbagVeuqlfg4ceuvWOg/edit#slide=id.p
+            -
+                title: "An In-Depth Introduction To Ember.js"
+                description: "A comprehensive guide to Ember by Julien Knebel on Smashing Magazine."
+                link: http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/
+            -
+                title: "Mobile Ember Performance"
+                description: "Rob Harper's short presentation on how to improve Ember's performance on mobile."
+                link: http://robharper.github.io/ember-on-mobile/performance.html#/intro
+            -
+                title: "Backbone or Angular or Ember? Here is my choice and why"
+                description: "Martin Genev goes through his journey of picking an MVC framework, starting with Backbone, moving to Angular and ending up with Ember."
+                link: http://www.100percentjs.com/backbone-or-angular-or-ember-here-is-my-choice-and-why/
+            -
+                title: "Notes on HTMLBars by Yehuda Katz"
+                description: "HTMLBars will be the new templating engine behind Ember in future versions. Yehuda outlines some of the improvements in this gist, including no more metamorph tags (yay!), improved binding syntax, more powerful helpers and sub-expressions."
+                link: https://gist.github.com/wycats/8116673
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: "Query Param API Examples"
+    #             description: "Examples of the Query Param API being worked on for a future version of Ember."
+    #             link: https://gist.github.com/machty/8167051
+    #         -
+    #             title: "Ember App Kit Rails"
+    #             description: "v0.3.0 released."
+    #             link: https://github.com/dockyard/ember-appkit-rails/blob/master/CHANGELOG.md#030
+    #         -
+    #             title: "Programmatically adding custom views to a CollectionView"
+    #             description: ""
+    #             link: http://embersherpa.github.io/examples/#deck
+    #         -
+    #             title: "Google Maps Component"
+    #             description: 
+    #             link: https://gist.github.com/kselden/8189650
+    #         -
+    #             title: "Fancy Sprites in Ember App Kit"
+    #             description: "A CSS image based spriting solution was recently merged into Ember App Kit."
+    #             link: https://github.com/stefanpenner/ember-app-kit/pull/385
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: "The Rendering Revolution: Running Apps in the Browser with Ember.js"
+    #             description: "Trek Glowacki of the Ember Core Team speaks at All Things Open 2013 about the browser ar an App runtime using Ember.js."
+    #             link: https://www.youtube.com/watch?v=_EKiaOElaag
+    #         -
+    #             title: "Ember-Data, the Way Forward"
+    #             description: "Igor Terzic presents several cases where Ember Data is used in production, and outlines some of the features that are intended to be included in the future. (Note: This presentation may not reflect the current state & future roadmap of Ember-Data)."
+    #             link: http://www.infoq.com/presentations/ember-data
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: "Boston Ember.js Group"
+                description: "Ember.js for Rails Devs. 6th January, 6:00pm @ DockYard, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/158089072/"
+            - 
+                title: "Boston Ember.js Group"
+                description: "Ember.js for Rails Devs. 8th January, 6:00pm @ DockYard, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/154492032/"
+            - 
+                title: "Chicago Ember.js"
+                description: "January Ember.js meetup. 8th January, 6:30pm @ Workbridge Associates, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/155980232/"
+            - 
+                title: "Boston Ember.js Group"
+                description: "January 2014 Meetup. 9th January, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/155308152/"
+            - 
+                title: "Ember Twin Cities"
+                description: "First Meetup - Intro to Ember. 9th January, 6:30pm @ Tightrope Media Systems, St. Paul."
+                link: "http://www.meetup.com/Ember-Twin-Cities/events/152633082/"
+            - 
+                title: "EmberJS-Paris"
+                description: "7em meetup EmberJS Paris. 9th January, 7:30pm @ Mozilla Paris, Paris."
+                link: "http://www.meetup.com/EmberJS-Paris/events/157976072/"
+            - 
+                title: "Toronto Meetup"
+                description: "9th January, 7:00pm @ Pharmacy, Toronto."
+                link: http://www.torontoemberjs.com/
+            - 
+                title: "New: Portland Meetup"
+                description: "14th January, 6:30pm @ Tilde Inc, Portland."
+                link: http://www.meetup.com/Ember-PDX/events/156000292/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: "Vine.co uses Ember"
+    #             description: "The new Vine website is built with Ember. Check it out with the Ember Inspector in Chrome or Firefox."
+    #             link: https://vine.co/

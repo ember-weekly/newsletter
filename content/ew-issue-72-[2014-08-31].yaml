@@ -1,0 +1,153 @@
+issue: 72
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.0.42 (and v0.0.41) Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.42
+
+    -
+        heading: "EmberFest 2014"
+        headlines:
+            -
+                title: "Testing Ember.js Apps: Managing Dependencies - Matthew Beale"
+                description: ""
+                link: http://madhatted.com/2014/8/29/testing-ember-js-apps-managing-dependencies
+            -
+                title: "Avoiding Common Pitfalls in Ember - Alex Speller"
+                description: ""
+                link: http://www.slideshare.net/AlexSpeller/avoiding-common-pitfalls-in-emberjs
+            -
+                title: "A Discourse with Ember.js - Régis Hanol"
+                description: ""
+                link: https://speakerdeck.com/zogstrip/a-discourse-with-ember-dot-js
+            -
+                title: "Ambitious Data Flows with Ember.js and Orbit.js - Dan Gebhardt"
+                description: ""
+                link: https://speakerdeck.com/dgeb/ambitious-data-flows-with-ember-dot-js-and-orbit-dot-js
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The Confusion Around Ember Views and Components"
+                description: ""
+                link: http://ember.zone/the-confusion-around-ember-views-and-components/
+            -
+                title: "Integrating Ember.js with the Java Spring Framework"
+                description: ""
+                link: http://springember.blogspot.com.au/2014/08/using-ember-data-restadapter-with.html
+            -
+                title: "Comparing Ember & React - Alex Matchneer"
+                description: ""
+                link: https://docs.google.com/presentation/d/1afMLTCpRxhJpurQ97VBHCZkLbR1TEsRnd3yyxuSQ5YY/
+            -
+                title: "Conditionally roll out features with Ember & Rails"
+                description: ""
+                link: http://www.matchingnotes.com/conditionally-roll-out-features-in-ember.html
+            -
+                title: "How to Use 404 Page in Your Ember Application"
+                description: ""
+                link: http://pixelhandler.com/posts/how-to-use-404-page-in-your-emberjs-application
+            -
+                title: "LayerVault: Rewriting the File Page in Ember"
+                description: ""
+                link: http://layervault.tumblr.com/post/95830827764/rewriting-the-file-page-in-ember
+            -
+                title: "How to call onRouteChange and onRouteExit in Ember"
+                description: ""
+                link: http://nadeemkhedr.wordpress.com/2014/08/24/how-to-call-onroutechange-and-onrouteexit-in-ember-js/
+            -
+                title: "Ember-CLI Anatomy"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/08/29/ember-cli-anatomy/
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Simple Auth Token - support token-based authentication, like JWT"
+                description: ""
+                link: https://github.com/jpadilla/ember-cli-simple-auth-token
+            -
+                title: "Ember Sketch - quickly test out an idea"
+                description: ""
+                link: https://github.com/emberzone/ember_sketch
+            -
+                title: "Heroku Buildpack for Ember-CLI Applications"
+                description: ""
+                link: https://github.com/tonycoco/heroku-buildpack-ember-cli
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Using Pretender to mock a server with Ember - Robin Ward"
+                description: ""
+                link: https://www.youtube.com/watch?v=b5VUnc_GsV4
+            -
+                title: "The conventions Ember.js provides to make you happy and productive - Stefan Penner"
+                description: ""
+                link: https://www.youtube.com/watch?v=Y-8ABz6uPh4
+            -
+                title: "Ember App Show & Tell: Outreach - Gordon Hempton"
+                description: ""
+                link: https://www.youtube.com/watch?v=hE8xTSeerHM
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Berlin
+                description: "2nd September, 5:00pm."
+                link: "http://www.meetup.com/Ember-js-Berlin/events/203658462/"
+            -
+                title: Vancouver
+                description: "2nd September, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/201379092/"
+            -
+                title: Ottawa
+                description: "3rd September, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/193582892/"
+            -
+                title: Toronto
+                description: "4th September, 6:30pm @ Pharmacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/204317542/"
+            -
+                title: Portland
+                description: "4th September, 7:00pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/197056392/"
+            -
+                title: Southern California
+                description: "6th September, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/194525902/"
+            -
+                title: Saint Louis
+                description: "8th September, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682772/"
+            -
+                title: Adelaide
+                description: "9th September, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/201778012/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

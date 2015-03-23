@@ -1,0 +1,228 @@
+issue: 97
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.2.0 Beta 1 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.2.0-beta.1
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Why You Should Take a Look at Ember (Again)"
+                description: ""
+                link: http://www.glatter-gotz.com/blog/2015/02/23/why-you-should-take-a-look-at-ember-again/
+            -
+                title: "Ember-CLI Walkthrough: Zombie Apocalypse Survival Checklist App"
+                description: ""
+                link: http://zubaird.github.io/blog/2015/02/16/ember-cli-walkthrough-zombie-apocalypse-survival-checklist-app/
+            -
+                title: "Ember Actions by Example"
+                description: ""
+                link: http://spin.atomicobject.com/2015/02/18/ember-actions-example/
+            -
+                title: "Porting Ember Addons"
+                description: ""
+                link: http://kerrygallagher.co.uk/porting-ember-addons/
+            -
+                title: "Ember Inline Validation Errors"
+                description: ""
+                link: http://www.teamrarebit.com/blog/2015/02/14/ember-inline-validation-errors/
+            -
+                title: "Writing an Ember Addon for an Ember Addon"
+                description: ""
+                link: http://blog.eliandor.com/writing-an-ember-addon-for-an-ember-addon/#
+            -
+                title: "Deploying an Ember-CLI Application to Amazon S3"
+                description: ""
+                link: http://kerrygallagher.co.uk/deploying-an-ember-cli-application-to-amazon-s3/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Learning Resources"
+        headlines:
+            -
+                title: "Mastering Ember.js – 3-Day Workshop in Cincinnati ($)"
+                advert: true
+                description: "6-8th April. Save 10% with code: `emberweekly`"
+                link: https://ti.to/gaslight/mastering-emberjs
+            -
+                title: "New Book: Rock and Roll With Ember.js by Balint Erdi ($)"
+                description: ""
+                link: http://balinterdi.com/2015/02/18/rock-and-roll-with-ember-js-is-live.html
+            -
+                title: "Learn Ember From Its Creators, Tom Dale & Yehuda Katz ($)"
+                advert: true
+                description: "Online Course - Save $50 with code: `emberweekly`"
+                link: https://teamgaslight.com/training/courses/14-introduction-to-ember-js
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-autosave: Periodically Save Models as They're Modified"
+                description: ""
+                link: https://www.npmjs.com/package/ember-autosave
+            -
+                title: "ember-islands: Render Components 'Outside' of an Ember Application"
+                description: ""
+                link: https://www.npmjs.com/package/ember-islands
+            -
+                title: "ember-cli-foundation-modal: Zurb Foundation Modal for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-foundation-modal
+            -
+                title: "emberx-slider: A Slider Component Based on HTML Range Input"
+                description: ""
+                link: https://www.npmjs.com/package/emberx-slider
+            -
+                title: "emberx-select: A Select Component Based on HTML Select"
+                description: ""
+                link: https://www.npmjs.com/package/emberx-select
+            -
+                title: "ember-cli-chai: Ember-CLI Addon for Chai.js Assertion Libraty"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-chai
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+    #            description: ""
+    #            link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember SparkCasts #18: Ember Inspector 3 - The View Tree"
+                description: ""
+                link: http://www.sparkcasts.net/posts/18-ember-inspector-3-the-view-tree
+            -
+                title: "Ember London February 2015 Datablast - Jamie White"
+                description: ""
+                link: https://vimeo.com/119840962
+            -
+                title: "Components on the Web and Native Apps - Robert Knight"
+                description: ""
+                link: https://vimeo.com/119864047
+            -
+                title: "Mobile Web Apps: Are We There Yet? - Miguel Camba"
+                description: ""
+                link: https://vimeo.com/119847301
+            -
+                title: "How we Made FutureLearn More Accessible - Nicky Thompson"
+                description: ""
+                link: https://vimeo.com/119842870
+            -
+                title: "Deducing Collaborations with Jamie White - Peer to Peer ($)"
+                description: ""
+                link: http://peertopeer.io/videos/5-jamie-white/
+            -
+                title: "Ember-CLI 101 Webinar - Adolfo Builes"
+                description: ""
+                link: https://www.youtube.com/watch?v=0lAdL6GTHRM
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Juan
+                description: "23rd February, 7:00pm @ Blimp HQ, San Juan."
+                link: "http://www.meetup.com/Ember-PR/events/220602268/"
+            -
+                title: Chicago
+                description: "24th February, 6:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/220459047/"
+            -
+                title: Portland
+                description: "24th February, 6:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/219702602/"
+            -
+                title: Vancouver
+                description: "24th February, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/220618349/"
+            -
+                title: New York
+                description: "24th February, 7:00pm @ New York Office Share (office B), New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/220670897/"
+            -
+                title: Santa Monica
+                description: "25th February, 7:00pm @ Whalerock Industries, Santa Monica."
+                link: "http://www.meetup.com/Ember-SC/events/220072845/"
+            -
+                title: Seattle
+                description: "26th February, 6:30pm @ Classmates Online, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220270723/"
+            -
+                title: Washington
+                description: "26th February, 6:30pm @ UberOffices Dupont, Washington."
+                link: "http://www.meetup.com/Ember-JS-DC/events/220455749/"
+            -
+                title: New York
+                description: "26th February, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/219969546/"
+            -
+                title: Austin
+                description: "26th February, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/219681415/"
+            -
+                title: Silicon Valley
+                description: "26th February, 7:00pm @ Yahoo!, Sunnyvale."
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/220159149/"
+            -
+                title: Saint Louis
+                description: "2nd March, 6:00pm @ T-Rex - Lammert Building, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/220262611/"
+            -
+                title: Portland
+                description: "2nd March, 8:00pm @ Deschutes Brewery, Portland."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220619971/"
+
+
+
+    -
+        heading: "Finally"
+        advert: true
+        headlines:
+            -
+                title: "ReactWeek: Interested in learning React.js?"
+                advert: true
+                description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+                link: http://reactweek.com

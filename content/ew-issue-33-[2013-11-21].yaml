@@ -1,0 +1,117 @@
+issue: 33
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.2.0 Beta 4 Available"
+                description: "Includes mainly bug fixes and Handlebars v1.1 support. See the [changelog](https://github.com/emberjs/ember.js/blob/v1.2.0-beta.4/CHANGELOG) for more."
+                link: http://emberjs.com/builds/#/beta/latest
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "ng-embereño: Angular.js from the perspective of Ember.js"
+                description: "Slides form Alex Matchneer's egarly awaited talk on Angular.js at the November NYC meetup. To quote Brian Ford (Angular.js Core Team) \"Cursory glance suggests that this might be the most reasonable comparison I've seen yet. Nicely done!\". Hopefully, we'll have the video in future issues."
+                link: https://docs.google.com/presentation/d/1e0z1pT9JuEh8G5DOtib6XFDHK0GUFtrZrU3IfxJynaA/preview?sle=true#slide=id.p
+            -
+                title: "Animating route transitions in ember.js"
+                description: "David Kelso presents an approach to animating route transitions using promises and route animation hooks."
+                link: http://blog.relatabase.com/ember-animated-routes
+            -
+                title: "Embereños: Eric Berry - Instructure"
+                description: "Weekly interviews with real people using ember. This week's interview is with Eric Berry from Instructure."
+                link: http://emberenos.com/interviews/2013/11/20/eric-berry-instructure
+            -
+                title: "Beginning Ember: How to add dynamic segments to your route"
+                description: "A nice guide to dynamic segments in Ember's router."
+                link: http://rickharrison.me/beginning-ember-how-to-add-dynamic-segments-to-your-route
+            -
+                title: "Preloading Fixture Data with Ember App Kit"
+                description: "An example of how to pre-load your fixture data into Ember Data using an initializer."
+                link: http://codeofficer.com/blog/2013/11/20/preloading-fixture-data-with-ember-app-kit.html
+            -
+                title: "The Missing EmberJS Tutorial"
+                description: "As part of the [30 Technologies in 30 Days](https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge) challenge Shekhar Gulati gives an intorduction to Ember."
+                link: https://www.openshift.com/blogs/day-19-ember-the-missing-emberjs-tutorial
+            -
+                title: "Ember.js Components, Wrapping Content and Context"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2013/11/21/component-block/
+            -
+                title: "Ember Data: Polymorphic Associations"
+                description: ""
+                link: http://lukegalea.github.io/ember_data_polymorphic_presentation/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Firebase & Ember - Matthew Rudy Jacobs"
+                description: "Matthew discusses how to get the best features of Meteor in your Ember.js app using Firebase. From the November 2013 Ember London meetup."
+                link: http://vimeo.com/79471076
+            -
+                title: "Query Parameters - Alex Speller"
+                description: "An updated talk by Alex about query params in the Ember router. From the November 2013 Ember London meetup."
+                link: http://vimeo.com/79415579
+            -
+                title: "Dance Cloud - Christopher Gammie"
+                description: "A demo of a cloud application for dance organizers wirtten in Ember. From the November 2013 Ember London meetup."
+                link: http://vimeo.com/79446163
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Swapping a route's model mid transition in afterModel"
+                description: "Alex Matchneer gives another example of the router's flexibility."
+                link: http://jsbin.com/ucanam/2214/edit
+            -
+                title: "Ember-Autosuggest"
+                description: "Updated for Ember 1.1.2 & Ember Data Beta 4, ember-autosuggest will suggest names from a bound list."
+                link: https://github.com/dagda1/ember-autosuggest
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            # -
+            #     title: "At BackOps we get it done!"
+            #     description: "BackOps is transforming the way businesses manage their back office. We’re looking for a kick-ass Front-End Eng. to develop fast and efficient front-ends with Ember on the front and Rails on the back. So if this is you, come work with us!"
+            #     link: http://www.jobscore.com/jobs/backops/front-end-developer-san-francisco-ca/bg8MAIJgSr4R14eJe4egig?ref=rss&sid=68
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Seattle Meetup"
+                description: "21st November, 6:30pm @ Usermind."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/
+            -
+                title: "Boston OpenHack"
+                description: "21st November, 6:00pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/151864522/
+            -
+                title: "Salt Lake City Meetup"
+                description: "26th November, 6:30pm @ Instructure."
+                link: http://www.meetup.com/EmberJS-SLC/events/148438882/
+            -
+                title: "Brussels, Belgium Meetup"
+                description: "28th November, 8:00pm."
+                link: http://www.meetup.com/Ember-js-Brussels/events/148770752/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+

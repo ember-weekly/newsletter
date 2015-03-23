@@ -1,0 +1,153 @@
+issue: 61
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember CLI 0.0.29"
+                description: "Ember CLI continues to evolve with further enhancements and bug fixes in this pre-release."
+                link: https://github.com/stefanpenner/ember-cli/blob/master/CHANGELOG.md#0029
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Getting Started with Ember Data"
+                description: "A nice summary of Ember Data and how to use it. Covers models/records, relationships, stores, adapters/serializers, and more. Also see Andy's [Ember Data Model Maker](http://andycrum.github.io/ember-data-model-maker/) mentioned in the code section."
+                link: http://andycrum.com/2014/06/02/getting-started-with-ember-data/
+            -
+                title: "Replacing Items in Browser History in Ember.js"
+                description: "Examples of how to use a route's ``replaceWith`` method and a ``link-to``'s ``replace=true`` attribute to modify the browser's last history entry."
+                link: http://balinterdi.com/2014/06/04/replacing-items-in-browser-history-in-ember-dot-js.html
+            -
+                title: "Core Team Meeting Minutes - 2014/06/06"
+                description: "An update on the delayed 1.6/1.7 Beta releases which have been delayed until a module performance regression is fixed and Query Params are ready."
+                link: http://emberjs.com/blog/2014/06/07/core-team-meeting-minutes-2014-06-06.html
+            -
+                title: "Awesome Ember.js Form Components"
+                description: "Examples of turning a HTML form into reusable Ember components."
+                link: http://alexspeller.com/simple-forms-with-ember/
+            -
+                title: "Setting the document title in Ember.js apps"
+                description: "Jonathan Evans provides his thoughts on Balint Erdi's blog post [Setting the Document Title in Ember Apps](http://balinterdi.com/2014/05/28/setting-the-document-title-in-ember-apps.html) and an alternative implementation."
+                link: http://jrhe.co.uk/setting-the-document-title-in-ember-js-apps/
+            -
+                title: "Anatomy of HTMLBars Templates by Martin Muñoz"
+                description: "A close look at how HTMLBars renders the DOM and some of the benefits that this brings compared to the old string concatenation method."
+                link: https://speakerdeck.com/mmun/anatomy-of-htmlbars-templates
+            -
+                title: "Ember, Errors, and You "
+                description: "Slides walking through how to handle errors and reporting in Ember apps."
+                link: https://speakerdeck.com/elucid/ember-errors-and-you
+            -
+                title: "Ember on Rails"
+                description: "An initial guide to building an Ember app with a Rails JSON API."
+                link: http://mentalized.net/journal/2014/06/01/ember_on_rails_01/
+            -
+                title: "Writing a Navigation Bar Controller in Ember.js"
+                description: ""
+                link: http://spiegela.com/2014/05/28/writing-a-navigation-bar-controller-in-ember-js/
+
+    -
+        heading: "Promoted"
+        image: https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/wicked-good-ember-conf.png
+        advert: true
+        headlines:
+            -
+                title: "Wicked Good Ember Conf, Boston - 15% discount"
+                description: "Join 150 Emberinos in Boston, June 17th for Wicked Good Ember Conf! We still have some tickets and sponsorship opportunities remaining. Ember Weekly readers get 15% off with the discount code **ember-weekly-6542**!"
+                link: http://wickedgoodember.com/
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Data Model Maker"
+                description: "A tiny Ember app intended to give a little clarity about what code is needed to get your app up and running with Ember Data."
+                link: http://andycrum.github.io/ember-data-model-maker/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Wrapping a jQuery plugin in a Ember.js component by Robin Ward"
+                description: "A quick tutorial to show how easy it is to wrap a jQuery plugin in an Ember component for easy reuse and composition."
+                link: https://www.youtube.com/watch?v=S_l_DL8ysQQ
+            -
+                title: "JavaScript Jabber Podcast: The Ember.js Project with Erik Bryn"
+                description: "Core team member Erik Bryn discusses a wide range of Ember topics with the JavaScript Jabber guys, including HTMLbars, web components, Ember-CLI, etc."
+                link: http://javascriptjabber.com/111-jsj-the-ember-js-project-with-erik-bryn/
+            -
+                title: "Ember Hot Seat Podcast - EP17: Jo Liss"
+                description: "DeVaris & Jo chat about the Broccoli build tool, the importance of tooling, and getting involved open source."
+                link: http://emberhotseat.com/2014/06/02/ember-hot-seat-episode-017.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: STL Ember.js
+                description: "Advanced Ember and Ember Jeopardy! 9th June, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682502/"
+            -
+                title: Ember.js Adelaide
+                description: "Ember Hackathon and Debugging in Ember. 10th June, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/184061002/"
+            -
+                title: Ember.js Oslo
+                description: "Ember.js Basics. 11th June, 6:00pm @ Teknologihuset, Oslo."
+                link: "http://www.meetup.com/Ember-js-Oslo/events/183490532/"
+            -
+                title: London Ember.js User Group
+                description: "11th June, 6:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/184725262/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 14th June, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/182282872/"
+            -
+                title: Ember.js Bangalore
+                description: "14th June, 10:00am @ MaaS360 by Fiberlink, Bangalore."
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/187061542/"
+            -
+                title: Ember.js Portland
+                description: "17th June, 6:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/177519382/"
+            -
+                title: Ember.js Tokyo
+                description: "18th June, 7:00pm @ Tokyo, Japan."
+                link: http://emberjs.doorkeeper.jp/events/11653
+
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

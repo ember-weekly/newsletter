@@ -1,0 +1,162 @@
+issue: 88
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Server-Side Rendering for SEO & FastBoot Coming to an Ember Near You"
+                description: ""
+                link: https://github.com/emberjs/ember.js/issues/9938
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Building With Ember.js at Zendesk"
+                description: ""
+                link: http://www.talentbuddy.co/blog/building-with-ember-js-at-zendesk/
+            -
+                title: "Building With Ember.js at Vine"
+                description: ""
+                link: http://www.talentbuddy.co/blog/building-with-ember-js-at-vine/
+            -
+                title: "Understanding Ember Data and RSVP Promise Chaining"
+                description: ""
+                link: http://www.barelyknown.com/blog/2014/12/14/understanding-ember-data-and-rsvp-promise-chaining
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "liquid-fire: Animated Transitions for Ember Apps"
+                description: ""
+                link: https://ef4.github.io/liquid-fire/
+            -
+                title: "ember-cli-6to5: Allow the use of ES6 Syntax Within Your Ember App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-6to5
+            -
+                title: "RxEmber: RxJS & EmberJS Integration Helpers"
+                description: ""
+                link: https://github.com/blesh/RxEmber
+            -
+                title: "vim-ember-cli-test-runner: Run Ember-CLI Tests from Vim"
+                description: ""
+                link: https://github.com/JarrodCTaylor/vim-ember-cli-test-runner
+            -
+                title: "ember-cli-inline-content: Render Scripts, Styles, or Content Inline into index.html"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-inline-content
+            -
+                title: "ember-cli-gravatar: Helper for Gravatar Images"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-gravatar
+            -
+                title: "ember-konami: Konami-Code Activated Easter Eggs in Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-konami
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Learning Ember Ruby on Rails Podcast"
+                description: ""
+                link: http://5by5.tv/rubyonrails/179?
+            -
+                title: "Stefan Penner on The Future of Ember"
+                description: ""
+                link: http://blog.unspace.ca/post/105285335682/stefan-penner-on-the-future-of-ember
+            -
+                title: "Gaslight Podcast 32: Ember in Practice"
+                description: ""
+                link: https://teamgaslight.com/blog/gaslight-podcast-32-ember-in-practice
+            -
+                title: "Famo.us and Ember.js - Ember Munich December Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=W-93NeUadYw
+            -
+                title: "Ember Deploy - Ember Munich December Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=Ro2_I5vtTIg
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis
+                description: "5th January, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/219261309/"
+            -
+                title: Vancouver
+                description: "6th & 13th January, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/219306415/"
+            -
+                title: Ottawa
+                description: "7th January, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/215868272/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,178 @@
+issue: 40
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.3.0 and 1.4 Beta Released"
+                description: "1.3 includes testability improvements, Promise improvements (RSVP.js updated to v3.0.3 and [more](https://github.com/emberjs/ember.js/blob/v1.3.0/CHANGELOG.md). Also check out the [1.4 Beta 1 changelog](https://github.com/emberjs/ember.js/blob/v1.4.0-beta.1/CHANGELOG.md). "
+                link: http://emberjs.com/blog/2014/01/06/ember-1-3-0-and-ember-1-4-0-beta-released.html
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/01/03"
+                description: "In this week's meeting the team discusses the feature that will make it into 1.4 (with-controller, ember-metal-with-proxy) and those that won't (query-params-new, ember-metal-run-method)." 
+                link: http://emberjs.com/blog/2014/01/06/core-team-meeting-minutes-2014-01-03.html
+            -
+                title: "EmberConf 2014 Call for Papers"
+                description: "Want to speak at EmberConf 2014? Call for Papers is now open so get your proposal in before January 30th."
+                link: https://tilde.wufoo.com/forms/emberconf-2014-call-for-papers/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Hiding Offscreen Content in Ember.js"
+                description: "A technique to reduce the browser memory footprint when loading a large list of content which has been extracted into a reusable library, [ember-cloaking](https://github.com/eviltrout/ember-cloaking)." 
+                link: http://eviltrout.com/2014/01/04/hiding-offscreen-ember.html
+            -
+                title: "Ember Components: A Deep Dive"
+                description: "A close look at the power of ``Ember.Component``." 
+                link: http://net.tutsplus.com/tutorials/javascript-ajax/ember-components-a-deep-dive/
+            -
+                title: "Query Parameters Guide"
+                description: "Initial documentation has been added to the guides for the experimental Query Parameter feature. The team are looking for feedback on the implementation." 
+                link: http://emberjs.com/guides/routing/query-params/
+            -
+                title: "Animating Ember: From The Beginning"
+                description: "Rob Harper's presentation from the Toronto meetup which looks at the challenges of animating views with Ember."
+                link: http://www.robharper.ca/ember-on-mobile/animation.html#/
+            -
+                title: "Ember Repositories"
+                description: "A new official guide on the different libraries that make up Ember." 
+                link: http://emberjs.com/guides/contributing/repositories/
+            -
+                title: "Packaging Ember Libraries"
+                description: "Slides from Jamie Gilgen talk at the Toronto Meetup covering JavaScript Modules, Release Management and Tests in the context of an Ember library." 
+                link: http://jamiebikies.github.io/packaging-ember-libs/#1
+            -
+                title: "NodeJS, EmberJS, ES6 modules and Ember-Data"
+                description: "A look at setting up an Express backend to work with Ember Data." 
+                link: http://thau.me/2014/01/nodejs-emberjs-es6-modules-and-ember-data/
+            -
+                title: "Improved Promise Documentation"
+                description: "With the update to RSVP.js 3.0.3 in Ember 1.3.0 comes improved documentation of Promises in Ember." 
+                link: http://emberjs.com/api/classes/Ember.RSVP.Promise.html
+            -
+                title: "Ember.js testing with Jasmine"
+                description: ""
+                link: http://www.devmynd.com/blog/2014-1-ember-js-testing-with-jasmine
+            -
+                title: "Ember.js - Creating a Custom Handlebars if Helper"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2014/01/08/custom-if/
+            -
+                title: "Copying text to the clipboard in Ember.js with ZeroClipboard"
+                description: ""
+                link: http://pivotallabs.com/copying-text-clipboard-ember-js-zeroclipboard/
+            
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Don't struggle to figure out SEO for your Ember.js app"
+                description: "BromBone takes care of it for you. We render html snapshots of your pages that Google can read. Learn more about how you can get your Ember.js pages listed in Google."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+    
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Query Param API Examples"
+                description: "Examples of the Query Param API being worked on for a future version of Ember."
+                link: https://gist.github.com/machty/8167051
+            -
+                title: "Ember-Parallel"
+                description: "An Ember.js plugin proving integration with Parallel.js. The plugin allows you to run code inside web workers in the browser (i.e. in background threads) and access the results easily within your Ember app."
+                link: https://github.com/bengillies/ember-parallel
+            -
+                title: "Ember App Kit Rails"
+                description: "v0.4.0 released."
+                link: https://github.com/dockyard/ember-appkit-rails/blob/master/CHANGELOG.md#040
+            -
+                title: "Fancy Sprites in Ember App Kit"
+                description: "A CSS image based spriting solution was recently merged into Ember App Kit."
+                link: https://github.com/stefanpenner/ember-app-kit/pull/385
+            -
+                title: "Programmatically adding custom views to a CollectionView"
+                description: ""
+                link: http://embersherpa.github.io/examples/#deck
+            -
+                title: "Google Maps Component"
+                description: 
+                link: https://gist.github.com/kselden/8189650
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Introducing Orbit.js - Boston Meetup"
+                description: "Dan Gebhardt introduces his new generic JavaScript library to handle data based on his experiences with Ember Data. Also see the [slides](https://speakerdeck.com/dgeb/introducing-orbit-dot-js) and [code](https://github.com/cerebris/orbit.js)."
+                link: https://www.youtube.com/watch?v=vVDQY7kYV_8#t=251 
+            -
+                title: "The Rendering Revolution: Running Apps in the Browser with Ember.js"
+                description: "Trek Glowacki of the Ember Core Team speaks at All Things Open 2013 about the browser as an App runtime using Ember.js."
+                link: https://www.youtube.com/watch?v=_EKiaOElaag
+            -
+                title: "Ember-Data, the Way Forward"
+                description: "Igor Terzic presents several cases where Ember Data is used in production, and outlines some of the features that are intended to be included in the future. (Note: This presentation may not reflect the current state & future roadmap of Ember-Data)."
+                link: http://www.infoq.com/presentations/ember-data
+            -
+                title: "Testing Ember Applications - Dan Gebhardt"
+                description: "Dan Gebhardt talks about testing Ember applications at Boston Ember.js in June."
+                link: https://www.youtube.com/watch?v=AvZtJFsw2kw
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: "New: Portland Meetup"
+                description: "14th January, 6:30pm @ Tilde Inc, Portland."
+                link: http://www.meetup.com/Ember-PDX/events/156000292/
+            - 
+                title: Ember.js Adelaide
+                description: "Ember.js Adelaide Meetup #1!. 14th January, 1:00pm @ Katalyst Interactive, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/158876012/"
+            - 
+                title: Ember-SC
+                description: "Ember-SC January Meetup. 14th January, 2:00pm @ Caplinked, El Segundo."
+                link: "http://www.meetup.com/Ember-SC/events/153022842/"
+            - 
+                title: London Ember.js User Group
+                description: "January Meetup. 15th January, 1:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/159233442/"
+            - 
+                title: Ember.js Pittsburgh
+                description: "16th January, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/158351342/"
+            - 
+                title: Ember.js San Francisco
+                description: "January 2014 Meetup—We're Back!. 21st January, 1:30pm @ Microsoft, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/155996392/"  
+            - 
+                title: Ember Hack Night, Toronto
+                description: "6:30pm @ Freshbooks Loft, Toronto."
+                link: http://www.meetup.com/Ember-Hack-Night/events/159307362/
+            - 
+                title: "New: Saint Louis Meetup"
+                description: "6th February, 7:00pm @ Second Street, Saint Louis."
+                link: http://www.meetup.com/STLEmber/events/159285352/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Vine.co uses Ember"
+                description: "The new Vine website is built with Ember. Check it out with the Ember Inspector in Chrome or Firefox."
+                link: https://vine.co/

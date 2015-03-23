@@ -1,0 +1,170 @@
+issue: 85
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.9.0 Beta 4"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.9.0-beta.4
+            -
+                title: "Ember Data v1.0.0 Beta 12 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/11/24/ember-data-1-0-beta-12-released.html
+            -
+                title: "Ember-CLI v0.1.3 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.1.3
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "HTMLBars: Calling All Testers"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/11/30/htmlbars_calling_all_testers.html
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Scalable Vector Ember"
+                description: ""
+                link: http://madhatted.com/2014/11/24/scalable-vector-ember
+            -
+                title: "Refactoring Ember Testing for Mocha... and Beyond!"
+                description: ""
+                link: http://blog.switchfly.com/2014/11/Refactoring-Ember-Testing-for-Mocha
+            -
+                title: "Develop Ember.Components for Sharing as Ember-CLI Addons, A Practical Example"
+                description: ""
+                link: http://pixelhandler.com/posts/develop-embercomponents-for-sharing-as-ember-cli-addons-a-practical-example
+            -
+                title: "Ember Wish List"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/11/28/ember-wish-list.html
+            -
+                title: "Deploying an Ember Application to Divshot"
+                description: ""
+                link: http://blog.willrax.com/deploying-an-ember-app-to-divshot/
+            -
+                title: "Parse Cloud Code, Ember.js & GetStream.io"
+                description: ""
+                link: http://blog.getstream.io/post/103630109618/parse-cloud-code-emberjs-getstream-io
+            -
+                title: "Deploy Your Application Using Ember-CLI and Gulp"
+                description: ""
+                link: http://ctobyday.com/ember/ember-cli/development/2014/11/23/deploy-ember-using-gulp.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-migrator: Migrate to the Standard Ember-CLI Structure (WIP)"
+                description: ""
+                link: https://github.com/fivetanley/ember-cli-migrator
+            -
+                title: "ember-cli-blanket: Code Coverage for Ember-CLI Apps"
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-blanket
+            -
+                title: "ember-browserify: Load CommonJS Packages from NPM"
+                description: ""
+                link: https://github.com/ef4/ember-browserify
+            -
+                title: "ember-inline-svg: Render SVG Images Inline"
+                description: ""
+                link: https://www.npmjs.org/package/ember-inline-svg
+            -
+                title: "ember-cli-tooltipster: jQuery Tooltipster as an Ember Component"
+                description: ""
+                link: https://github.com/altrim/ember-cli-tooltipster
+            -
+                title: "ember-cli-imagemin: Minify Images with Imagemin"
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-imagemin
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember NYC November Meetup: Ember Without Views, Ember-CLI Migrator & More"
+                description: ""
+                link: https://www.youtube.com/watch?v=r1Ot6oPGeh0
+            -
+                title: "Ember-CLI Deploy - Aaron Chambers"
+                description: ""
+                link: http://vimeo.com/112787969
+            -
+                title: "Server-Side Re-Rendering Solutions - Mike Hayden"
+                description: ""
+                link: http://vimeo.com/112788412
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis
+                description: "1st December, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/217630292/"
+            -
+                title: Philadelphia
+                description: "2nd December, 6:30pm @ Benjamin's Desk, Philadelphia."
+                link: "http://www.meetup.com/EmberJS-Philly/events/218637050/"
+            -
+                title: Portland
+                description: "2nd December, 6:30pm @ AppNexus Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/216432262/"
+            -
+                title: Vancouver
+                description: "2nd & 9th December, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/218653144/"
+            -
+                title: Seattle
+                description: "3rd December, 6:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/218466972/"
+            -
+                title: Ottawa
+                description: "3rd December, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/209849542/"
+            -
+                title: New York
+                description: "3rd December, 7:00pm @ Blue Apron, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/218735309/"
+            -
+                title: München
+                description: "3rd December, 7:00pm @ Sapient Nitro, München."
+                link: "http://www.meetup.com/Ember-js-Munich/events/218227222/"
+            -
+                title: Toronto
+                description: "4th December, 6:30pm @ Pharmacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/218911478/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

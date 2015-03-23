@@ -1,0 +1,145 @@
+issue: 45
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.4.0 And 1.5 Beta Released"
+                description: "New features in v1.4 include property brace expansion, Ember.run.bind, with controller and lazily bound attributes."
+                link: http://emberjs.com/blog/2014/02/12/ember-1-4-0-and-ember-1-5-0-beta-released.html
+
+    -
+        heading: "Core Team Meeting Minutes"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/02/07"
+                description: 
+                link: http://emberjs.com/blog/2014/02/08/core-team-meeting-minutes-2014-02-07.html
+            -
+                title: "Core Team Meeting Minutes - 2014/01/31"
+                description: 
+                link: http://emberjs.com/blog/2014/02/08/core-team-meeting-minutes-2014-01-31.html
+            -
+                title: "Core Team Meeting Minutes - 2014/01/27"
+                description: 
+                link: http://emberjs.com/blog/2014/02/08/core-team-meeting-minutes-2014-01-27.html
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title:
+    #             description: 
+    #             link: 
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Run Loop Guide"
+                description: "Ember now has official guide documentation on the mystical run-loop, thanks to Brendan Briggs."
+                link: http://emberjs.com/guides/understanding-ember/run-loop/
+            -
+                title: "Testing Ember Apps With Venus"
+                description: "Chad Hietala looks at writing Ember tests using Mocha, Venus test runner and Ember's container for dependency injection."
+                link: http://chadhietala.com/emberjs/2014/02/09/Testing-Ember-Apps-With-Venus.html
+            -
+                title: "Custom Ember Computed Properties"
+                description: "A guide to creating your own ``Em.computed`` property."
+                link: http://robots.thoughtbot.com/custom-ember-computed-properties
+            -
+                title: "Structure of an Ember app"
+                description: "A diagram illustrating the structure of an Ember app."
+                link: http://samhuri.net/blog/2014.02.03-ember-structure
+            -
+                title: "Using Ember’s PromiseProxyMixin with ArrayController"
+                description: "A nice summary of using ``Ember.PromiseProxyMixin`` to automatically set a controller’s content to the resolved value of the promise."
+                link: http://nragaz.com/post/60567688560/using-embers-promiseproxymixin-with-arraycontroller
+            -
+                title: "2-Way Data Binding under the Microscope"
+                description: "A close look at what 2-way binding gives you, and how it differs in 3 implementations: Angular, Ember and Joosy."
+                link: http://staal.io/blog/2014/02/05/2-way-data-binding-under-the-microscope/
+            -
+                title: "Extinguish the Fire with Ember.js"
+                description: "Slides introducing Ember, it's high-level features, it's pros & cons, and roadmap."
+                link: https://speakerdeck.com/beerlington/extinguish-the-fire-with-ember-dot-js
+            -
+                title: "Making an Ember.js Component More Reusable"
+                description: 
+                link: http://balinterdi.com/2014/02/12/making-an-emberjs-component-more-reusable.html
+            
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Ever thought about how Google reads Ember.js websites?"
+                description: "We have. Google can't normally index Ember.js sites. We fix that for you, and we'll walk you though the setup."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+    
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Hook Order Example"
+                description: "A JSBin to illustrate the order of each Ember route hook (by Robert Jackson)."
+                link: http://emberjs.jsbin.com/rolo/1/edit
+            -
+                title: "ember-app-builder"
+                description: "Template for building a JavaScript Web application with Ember.js and Express."
+                link: https://github.com/pixelhandler/ember-app-builder
+            -
+                title: "ember-mentions"
+                description: "Github like mention autocomplete where you type @someone and an autosuggest box appears."
+                link: https://github.com/dagda1/ember-mentions
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Emberdump: Transition promises, redirects"
+                description: "A quick (16min) video by core team member Alex Matchneer on how to perform post-transition logic in your app using redirect-following transitions."
+                link: https://www.youtube.com/watch?v=EwkaMRJ2tMo
+            -
+                title: "Emberdump: POJOs vs Ember Objects, Ember.get"
+                description: "Another quick (10min) video by Alex to demonstrate that Ember objects and plain old javascript objects (pojos) aren't too different. Also see the [continuation of Ember.set & pojos](https://www.youtube.com/watch?v=BIaQk8D4lV8)."
+                link: https://www.youtube.com/watch?v=h4w7ZqCk0zg
+            -
+                title: "Iterating through Ember Data - Ken Snyder"
+                description: "A look at iterating through an Ember Data model to create custom UI elements from any given model property and it's types."
+                link: http://vimeo.com/86715370
+            -
+                title: "Integrating Ember.js into Existing Sites - James Croft"
+                description: "James shows how he used Ember to build a component of his website instead of a full single page application."
+                link: http://vimeo.com/86698279
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js San Francisco
+                description: "18th February, 6:30pm @ Yahoo!, Sunnyvale."
+                link: "http://www.meetup.com/Ember-SF/events/155999452/"
+            - 
+                title: Ember-SC
+                description: "18th February, 6:30pm @ CrowdStrike, Irvine, CA 92618."
+                link: "http://www.meetup.com/Ember-SC/events/159041272/"
+            - 
+                title: Boston Ember.js Group
+                description: "Lightning Talks. 20th February, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/159835752/"
+            - 
+                title: Ember.js Pittsburgh
+                description: "Ember Build tools + Coffee script and Ember. 20th February, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/161103052/"
+

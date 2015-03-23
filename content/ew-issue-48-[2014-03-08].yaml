@@ -1,0 +1,108 @@
+issue: 48
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Sorting Arrays in Ember.js by Various Criteria"
+                description: "A walkthrough of sorting arrays using an `ArrayController``'s ``sortProperties`` and ``sortAscending`` properties, as well as the useful ``Ember.computed.sort`` macro."
+                link: http://balinterdi.com/2014/03/05/sorting-arrays-in-ember-dot-js-by-various-criteria.html
+            -
+                title: "JWT based authentication with Ember.js and Rails"
+                description: "A walkthrough of implementing token based authentication in Ember & Rails using JSON web tokens (JWT)."
+                link: http://blog.yanted.com/2014/02/13/jwt-based-authentication-with-ember-js-and-rails/
+            -
+                title: "Core Team Meeting Minutes - 2014/02/28"
+                description: "Topics covered: Ghost choose Ember, Es6ifying core, new PRs/issues. Pending Features: ``ember-routing-named-substates`` = blocked, ``ember-handlebars-caps-lookup`` = requires work, ``ember-routing-add-model-option`` = it’s a go. "
+                link: http://emberjs.com/blog/2014/03/04/core-team-meeting-minutes-2014-02-28.html
+            -
+                title: "A Simple Ember Data Route"
+                description: "A short example of how to properly handle the teardown of an Ember Data model in your new and edit routes."
+                link: http://reefpoints.dockyard.com/2014/03/03/a-simple-ember-data-route.html
+            -
+                title: "A currentUser Helper for Ember Routes"
+                description: "An example of how to make the current user available in your routes using mixins."
+                link: http://quickleft.com/blog/a-currentuser-helper-for-ember-routes
+            -
+                title: "A Sprinkling of Ember"
+                description: "A look at how you can use Ember on a static web page, like a blog."
+                link: http://frontside.io/blog/2014/03/06/a-sprinkling-of-ember.html
+            -
+                title: "Presenting the Ember.js Library for Kinvey"
+                description: "An introduction to an Ember library to interface with your Kinvey backend."
+                link: http://www.kinvey.com/blog/3717/presenting-the-ember-js-library-for-kinvey%C2%A0%E2%80%A6
+
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Ever thought about how Google reads Ember.js websites?"
+                description: "We have. Google can't normally index Ember.js sites. We fix that for you, and we'll walk you though the setup."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "node-webkit-tomster-seed"
+                description: "Build cross-platform desktop apps using Ember.js."
+                link: https://github.com/Kerrick/node-webkit-tomster-seed
+            -
+                title: "ic-menu"
+                description: "An accessible menu component for ember applications by Instructure."
+                link: https://github.com/instructure/ic-menu/
+            -
+                title: "ic-tabs"
+                description: "WAI-ARIA accessible tab component for Ember.js by Instructure."
+                link: https://github.com/instructure/ic-tabs
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Custom Adapters for Ember Data"
+                description: "A short (~3 mins) screencast introducing Custom Adapters in Ember Data."
+                link: http://jeffreybiles.com/blog/ember-sparks-1-custom-adapters-for-ember-data.html
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js Adelaide
+                description: "Ember Data Workshop for Beginners. 11th March, 7:00pm @ Hub Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/167007682/"
+            - 
+                title: Ember.Melb.js
+                description: "11th March, 8:00pm @ Papercloud HQ, Melbourne."
+                link: "http://www.meetup.com/Ember-Melb-JS/events/163145522/"
+            - 
+                title: Chicago Ember.js
+                description: "Ghost Admin refactor with Ember.js. 12th March, 7:00pm @ Sprout Social, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/168429072/"
+            - 
+                title: London Ember.js User Group
+                description: "12th March, 7:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/165918482/"
+            - 
+                title: "NEW: Amsterdam Ember.js"
+                description: "1st Amsterdam Ember.js meetup. 12th March, 8:00pm."
+                link: "http://www.meetup.com/Amsterdam-Ember-js/events/168954302/"
+            - 
+                title: Boston Ember.js Group
+                description: "Hack Meetup. 13th March, 7:00pm @ DockYard, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/169044892/"
+            - 
+                title: EmberJS-Paris
+                description: "13th March, 8:00pm @ Viadeo, Paris."
+                link: "http://www.meetup.com/EmberJS-Paris/events/169171862/"
+

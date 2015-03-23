@@ -1,0 +1,146 @@
+# issue: 10
+# strapline: "Your weekly source of Ember news"
+# content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    ## -
+    ##     heading: "Featured"
+    ##     headlines:
+    ##         -
+    ##             title: ""
+    ##             description: ""
+    ##             link:
+
+
+    # -
+    #     heading: "Reading"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    ## -
+    ##     heading: "From our sponsors"
+    ##     newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+    #             description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+    #             link: http://dockyard.com/contact
+    #             advert: true
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    ## -
+    ##     heading: "Jobs"
+    ##     advert: true
+    ##     headlines:
+    ##         -
+    ##            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    ##            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    ##            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Events"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    ## -
+    ##     heading: "Finally"
+    ##     headlines:
+    ##         -
+    ##             title: ""
+    ##             description: ""
+    ##             link:

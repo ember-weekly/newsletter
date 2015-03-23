@@ -1,0 +1,154 @@
+issue: 4
+strapline: "Ember workflow with Yeoman, Ember 101 videos, Computed Macros & lots more..."
+content:
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Modern Ember.js Application Workflow with Yeoman and Mocha"
+                description: "A comprehensive guide to working with Ember using Yeoman. Covers bootstrapping, package management, building & testing."
+                domain: tech.pro
+                link: http://tech.pro/tutorial/1249/modern-emberjs-application-workflow-with-yeoman-and-mocha
+            -
+                title: "Ember.js + Rails"
+                description: "Discusses some of the gotchas you may encounter when creating an Ember app with Rails::API, Ember-Data & ActiveModel::Serializers."
+                domain: josh.minzner.org
+                link: http://josh.minzner.org/?p=6
+            -
+                title: "Google Analytics in Ember.js Applications"
+                description: "A simple repeatable example using a mixin to track page views in your Ember application with Google Analytics."
+                domain: garthpoitras.com
+                link: http://garthpoitras.com/blog/google-analytics-in-ember-applications
+            -
+                title: "Creating Computed Macros in ember.js"
+                description: "The recent [computed macros added to Ember](https://github.com/emberjs/ember.js/pull/2219) are very useful. Paul Cowan illustrates their power & shows you how to write your own macros."
+                domain: thesoftwaresimpleton.com
+                link: http://www.thesoftwaresimpleton.com/blog/2013/04/27/macro/
+            -
+                title: "Ember.js Initializers"
+                description: "This was posted at the beginning of the month but it was re-tweeted by someone this week so thought I'd share. A nice little introduction to Ember Initializers."
+                domain: nerdyworm.com
+                link: http://nerdyworm.com/blog/2013/04/03/ember-initializers/
+
+
+    -
+        heading: "Promoted Link"
+        headlines:
+            -
+                title: "Sponsor Ember Weekly"
+                description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+                domain: emberweekly.com
+                link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember 101"
+                description: "Ryan Florence has added 3 more bite-sized screencasts on [Two-way Data Binding](http://ember101.com/videos/005-two-way-binding-and-route-actions), [Adding Objects to a List](http://ember101.com/videos/006-adding-objects-to-a-list) & [Nested and Index Routes](http://ember101.com/videos/007-nested-routes)."
+                domain: ember101.com
+                link: http://ember101.com/
+            -
+                title: "Ember JS Testing Made Easy and Fast! by Erik Bryn - Seattle Meetup"
+                description: "Ember JS integration testing is now built into Ember. This introduction will give you all the information you need to get started. Example code from [bloggr testing fork](https://github.com/emberjs/ember.js/tree/master/packages/ember-testing)."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=nO1hxT9GBTs
+            -
+                title: "Ember RSS Reader live coded from scratch by Gordon L. Hempton - Seattle Meetup"
+                description: "Gordon live codes an Ember RSS Reader App from scratch. Notably he shows how Ember's strong name conventions creates a folder & file structure you would expect in a well crafted application. You will also see how nested routes create an intuitive UI."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=obaWh8xL2C0
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-rails-starter-kit"
+                description: "Everything you need to build an Ember.js app and deploy to Heroku in under 5 minutes by Erik Bryn."
+                domain: github.com
+                link: https://github.com/ebryn/ember-rails-starter-kit
+            -
+                title: "EmberGen: Tool for creating robust applications"
+                description: "An opinionated tool for your Ember app workflow. Includes scaffolding, template pre-compilation, generators, commonjs modules, and more."
+                domain: discuss.emberjs.com
+                link: http://discuss.emberjs.com/t/embergen-tool-for-creating-robust-applications/1066
+            -
+                title: "Yeoman Ember Generator Updated to RC3"
+                description: "The Yeoman generator for Ember has been updated to use RC3 starter kit."
+                domain: github.com
+                link: https://github.com/yeoman/generator-ember
+            -
+                title: "ember_cal"
+                description: "A [Moment.js](http://momentjs.com/) based Ember datepicker. [demo](http://spareconcepts.com/demos/ember_cal/)"
+                domain: github.com
+                link: https://github.com/blindsamson/ember_cal
+            -
+                title: "Ember Data - Basic Adapter Example"
+                description: "Tom Dale has started an example of how to use Ember Data's new Basic Adapter. Still very early."
+                domain: github.com
+                link: https://github.com/tomdale/basic-adapter-example
+            -
+                title: "ember-data-django-rest-adapter"
+                description: "Toran Billups Django REST adapter has been updated to Ember RC3."
+                domain: github.com
+                link: https://github.com/toranb/ember-data-django-rest-adapter
+            -
+                title: "Ember-Brunch-Rails-Coffeescript"
+                description: "Rails as backend, EmberJS as frontend, Brunch as assembler, Coffeescript as syntactic sugar for javascript, Twitter-Bootstrap for UI styling."
+                domain: github.com
+                link: https://github.com/unspecified/Ember-Brunch-Rails-Coffeescript
+            # -
+            #     title: "Ember & Ember Data master using RSVP.js v2"
+            #     description: "Ember & subsequently Ember Data have been upgraded to use [RSVP.js v2](https://github.com/tildeio/rsvp.js) for its promises implementation, which is now [promises/A+ spec-1.1 compliant](https://github.com/tildeio/rsvp.js/commit/5bd85804723743be0c3344ba56c38d8ef83ab407)."
+            #     domain: github.com
+            #     link: https://github.com/emberjs/ember.js/commit/cf4d50dd745c8d31a69fe5ad2aea78a92bbbde2a
+            -
+                title: "Ember List View build now pushed to builds.emberjs.com"
+                description: "Passing builds of Ember [list-view](https://github.com/emberjs/list-view) are now automatically being pushed to S3."
+                domain: builds.emberjs.com
+                link: http://builds.emberjs.com.s3.amazonaws.com/list-view/list-view-latest.js
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+                title: "Looking for an Ember Developer?"
+                description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+                domain: emberweekly.com
+                link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "UtahJS"
+                description: "17th May, 9:00am @ SLC Library, Salt Lake City. Tom Dale will be presenting [Building URL-Driven Apps with Ember.js](http://lanyrd.com/2013/utahjs/scggty/) & Ryan Florence will be presenting [I'm Sick of the Web: Ember's Healing Balm](http://lanyrd.com/2013/utahjs/scfxdb/) at the 2nd Annual Utah JavaScript Conference."
+                domain: lanyrd.com
+                link: http://lanyrd.com/2013/utahjs/
+            -
+                title: "Toronto Ember.js Meetup"
+                description: "2nd May, 7:00pm @ Unspace. Sign up to the mailing list for more details."
+                domain: www.torontoemberjs.com
+                link: http://www.torontoemberjs.com/
+            -
+                title: "Embergarten - Toronto"
+                description: "18th & 19th May @ The Foundery. A paid weekend bootcamp for both aspiring ember.js developers and emberists looking to level-up. It was announced this week that Yehuda Katz will be present."
+                domain: unspace.ca
+                link: http://unspace.ca/embergarten/
+            -
+                title: "Ember.js: Introductory Training - London"
+                description: "17th & 18th October @ London, UK. A paid 2 day introductory Ember training course by [@joachimhs](https://twitter.com/joachimhs)."
+                domain: lanyrd.com
+                link: http://lanyrd.com/2013/joachimhs/
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "open-pos"
+                description: "A Point of Sale using Ember JS, Ember Data, and Rails as the JSON API. [demo](http://open-pos.herokuapp.com/#/orders/92)"
+                domain: github.com
+                link: https://github.com/kiwiupover/open-pos
+

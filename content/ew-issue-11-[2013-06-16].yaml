@@ -1,0 +1,183 @@
+issue: 11
+strapline: "Testing, OS Ember Apps & lots of Articles..."
+content:
+
+
+    -
+       heading: "Featured"
+       headlines:
+            -
+               title: "Async Router API - MERGED!"
+               description: "Awesome work Alex Matchneer! The Ember Router Async changes are on master, fixing common router issues. [Summary, examples & demos of changes are in this gist](https://gist.github.com/machty/5647589)."
+               domain: github.com
+               link: https://github.com/emberjs/ember.js/pull/2740
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "AngularJS vs Ember: It's not even close"
+                description: "Discourse co-founder, Robin Ward, gives his thoughts on the differences between Ember & Angular. TL;DR - 'Angular seems to exist somewhere near the half way point between Backbone and Ember.'"
+                domain: eviltrout.com
+                link: http://eviltrout.com/2013/06/15/ember-vs-angular-its-not-even-close.html
+            -
+                title: "Logging the Magic in Ember.js"
+                description: "EmberWatch (the awesome Ember resource site) now has a blog. In this first post [Philip Poots](https://twitter.com/pootsbook) looks at logging in Ember."
+                domain: blog.emberwatch.com
+                link: http://blog.emberwatch.com/2013/06/13/logging-the-magic-in-ember-js.html
+            -
+                title: "Experimenting with Ember.js & ShareJS"
+                description: "A look at Ember & [ShareJS](http://sharejs.org/) working together to enable live concurrent editing in your app."
+                domain: madhatted.com
+                link: http://madhatted.com/2013/6/10/experimenting-with-ember-js-sharejs
+            -
+                title: "Handling contenteditable in Ember.js via App.ContenteditableView"
+                description: "How to use the contenteditable attribute in your Ember app."
+                domain: kaspertidemann.com
+                link: http://www.kaspertidemann.com/handling-contenteditable-in-ember-js-via-app-contenteditableview
+            -
+                title: "The willSetProperty gotcha in Ember-Data: Understanding the state machine"
+                description: "A look at the ember-data model lifecycle and a closer look at some gotchas."
+                domain: coryforsyth.com
+                link: http://coryforsyth.com/2013/06/10/the-willsetproperty-gotcha-in-ember-data-understanding-the-state-machine/
+            -
+                title: "Ember.js and Flot charts"
+                description: "An example of using Ember with [flotcharts](http://www.flotcharts.org/)."
+                domain: pivotallabs.com
+                link: http://pivotallabs.com/ember-js-and-flot-charts/
+            -
+                title: "Filtering a set of objects for display in Ember.js"
+                description: "Using [filterProperty](http://emberjs.com/api/classes/Ember.Enumerable.html#method_filterProperty) to display a list of objects filtered by some kind of criteria."
+                domain: ianpetzer.wordpress.com
+                link: http://ianpetzer.wordpress.com/2013/06/11/filtering-a-set-of-objects-for-display-in-ember-js/
+            -
+                title: "Ember.js Tutorial With Rails 4"
+                description: "A follow up to [Ember.js Hello World](http://www.railsonmaui.com/blog/2013/05/26/ember-dot-js-hello-world/), this post covers setting up Rails4 as the persistence engine behind that example, plus adding and deleting records."
+                domain: railsonmaui.com
+                link: http://www.railsonmaui.com/blog/2013/06/11/emberjs-rails4-tutorial/
+            -
+                title: "Getting Started with Ember.js"
+                description: "With Balanced's new dashboard written with Ember and [open sourced](https://github.com/balanced/balanced-dashboard), they give an introduction to Ember."
+                domain: blog.balancedpayments.com
+                link: http://blog.balancedpayments.com/getting-started-with-ember.js/
+
+    # -
+    #     heading: "Promoted Link"
+    #     headlines:
+    #         -
+    #             title: "Sponsor Ember Weekly"
+    #             description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+
+    -
+        heading: "Testing"
+        headlines:
+            -
+               title: "Getting started with integration testing ember.js using ember-testing and qunit-rails"
+               description: "A detailed guide to get going with integration testing your Ember app in a Rails setup."
+               domain: ianpetzer.wordpress.com
+               link: http://ianpetzer.wordpress.com/2013/06/14/getting-started-with-integration-testing-ember-js-using-ember-testing-and-qunit-rails/
+            -
+                title: "Playing around with QUnit and Ember.js behavioral testing"
+                description: "A quick look at the new ember-testing functionality recently added to Ember."
+                domain: medium.com
+                link: https://medium.com/look-what-i-made/424962fa62ff
+            -
+                title: "Boston Ember - Testing Ember Applications"
+                description: "Dan Gebhardt covers tools and strategies for testing Ember applications. [slides](https://speakerdeck.com/dgeb/testing-ember-applications)"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=9DC4M1BWPH4&feature=player_detailpage#t=34s
+
+    # -
+    #     heading: "Jobs"
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember Developer?"
+    #            description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #            domain: emberweekly.com
+    #            link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat Podcast - EP2: Kasper Tidemann"
+                description: "Kasper gives his perspective on getting started with Ember, his journey in choosing Ember, and how he’s overcome some of the difficulties."
+                domain: emberhotseat.com
+                link: http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html
+            -
+                title: "EmberJs Hello World Tutorial Using Rails 4"
+                description: "Video tutorial from the '[Ember.js Tutorial With Rails 4](http://www.railsonmaui.com/blog/2013/06/11/emberjs-rails4-tutorial/)' article mentioned above."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=ac1mYhCMRNc
+            -
+                title: "Boston Ember - Ember Data"
+                description: "An introduction to Ember-Data from Alex Navasardyan."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=9DC4M1BWPH4&feature=player_detailpage#t=2886s
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "karma-ember-preprocessor"
+                description: "A Karma plugin. Preprocessor for Ember.js templates (handlebars)."
+                domain: github.com
+                link: https://github.com/karma-runner/karma-ember-preprocessor
+            -
+                title: "Ember ListView"
+                description: "Ember ListView now has [itemController support](https://github.com/emberjs/list-view/pull/59)."
+                domain: github.com
+                link: https://github.com/emberjs/list-view
+            -
+                title: "Yeoman Ember Generator"
+                description: "v0.3.0 released with CoffeeScript & Jasmine support, grunt-neuter & Ember 1.0 RC5 compatibility."
+                domain: github.com
+                link: https://github.com/yeoman/generator-ember
+            -
+                title: "ember-autosuggest"
+                description: "ember-autosuggest will suggest names from a bound list."
+                domain: github.com
+                link: https://github.com/dagda1/ember-autosuggest
+            -
+                title: "EmberDroplet"
+                description: "HTML5 file uploading with drag & drop and image/file preview."
+                domain: github.com
+                link: https://github.com/Wildhoney/EmberDroplet
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Southern California Meetup"
+                description: "18th June, 7:00pm @ HauteLook."
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-SC/events/122258562/
+            -
+                title: "Seattle Meetup - Hacker Session"
+                description: "19th June, 7:00pm @ Urbanspoon."
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/123942682/
+            -
+                title: "NYC Meetup"
+                description: "20th June, 7:00pm @ Pivotal Labs. The Promise Land, with Domenic Denicola and Stefan Penner."
+                domain: meetup.com
+                link: http://www.meetup.com/EmberJS-NYC/events/118044342/
+            -
+                title: "San Francisco Meetup"
+                description: "20th June, 6:45pm @ Switchfly. Bugmash/Docfest."
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-SF/events/123331162/
+    -
+        heading: "Ember Applications"
+        headlines:
+            -
+                title: "TweetClock - Open Source Ember App"
+                description: "TweetClock allows you to create a queue of tweets and send them out at the right time in any time zone. An Ember app by Adam Hawkins. ([source](https://github.com/ahawkins/tweet_clock))"
+                domain: tweetclock.io
+                link: http://tweetclock.io/
+            -
+                title: "Ember Sandbox - Live Editor"
+                description: "A little live-editor for experimenting with Ember, written in Ember. Think JSfiddle streamlined for Ember! ([source](https://github.com/jgwhite/ember-sandbox))"
+                domain: jgwhite.co.uk
+                link: http://jgwhite.co.uk/ember-sandbox/

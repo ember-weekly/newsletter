@@ -1,0 +1,118 @@
+issue: 43
+strapline: "Your weekly source of Ember News"
+content:
+
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Vote Ember for Open Source Project of the Year!"
+                description: "Show your support for Ember and the team's hard work in 2013 by taking less than 1 minute to vote for it in the .net awards."
+                link: https://thenetawards.com/vote/open-source/emberjs/
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.0.0 Beta 6 Available"
+                description: "Contains a fix for Ember App Kit based apps to allow resolving serializers and adapters properly. It's also worth noting that Ember Data master now uses [ES6 modules and JavaScript build tools](https://github.com/emberjs/data/pull/1623) (no more ruby dependency)."
+                link: http://emberjs.com/builds/#/beta
+            -
+                title: "Ember 1.4 Beta 4 Available"
+                description: "Contains various bug fixes."
+                link: https://github.com/emberjs/ember.js/blob/v1.4.0-beta.4/CHANGELOG.md
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "A Guide to Building Your First Ember.js App"
+                description: "A nice introduction to Ember by Balint Erdi, with a walkthrough of how to build a Rock & Roll app."
+                link: http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app
+            -
+                title: "Our Ember.js Toolchain"
+                description: "A look at how NebuLab develop Ember applications with Brunch, tapas-with-ember, Rails, and dyson (to fake an API)."
+                link: http://nebulab.it/blog/our-ember-js-toolchain
+            -
+                title: "Tip: Golang with Ember.js - JSON Response"
+                description: "A short summary of building a Ember app with Go and the Martini framework."
+                link: http://dukex.svbtle.com/tip-golang-with-emberjs-json-response
+            -
+                title: "Execute bad ideas: Ruby on Rails → node.js/ember"
+                description: "An amusing story of how Ember was used to improve the UX of this \"bad idea\"."
+                link: https://medium.com/p/bd4ec4e352b2
+            -
+                title: "Ruby on Rails MVC Is Not the Same as Ember.js MVC"
+                description: "A breakdown of the difference in MVC implementations from Yehuda Katz's talk, [A tale of two MVC’s](http://www.youtube.com/watch?v=s1dhXamEAKQ)."
+                link: http://blog.abuiles.com/blog/2014/01/27/ruby-on-rails-mvc-is-not-the-same-as-ember-dot-js-mvc/
+            -
+                title: "Getting Started With Ember.js and Ruby on Rails: Ember Appkit Rails"
+                description: 
+                link: http://blog.abuiles.com/blog/2014/01/31/getting-started-with-ember-and-ruby-on-rails-using-ember-appkit-rails/
+            
+
+    # -
+    #     heading: "Promoted"
+    
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember.js + Firebase = <3"
+                description: "An introduction post to ember-firebase, a new unofficial firebase library with tight integration with Ember bindings ([code](https://github.com/mjijackson/ember-firebase))."
+                link: https://github.com/mjijackson/ember-firebase
+            -
+                title: "Improved Test Helpers in Ember App Kit"
+                description: "Stefan Penner has added some new test helpers into Ember App Kit that should simplify writing tests, especially async and component tests."
+                link: https://github.com/stefanpenner/ember-app-kit/pull/452
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat Episode 13: Erik Bryn"
+                description: "Back after a holiday hiatus, core team member Erik Bryn is in the Hot Seat. He discusses HTMLBars, React, upgrading Zendesk to Ember v1.x and Ember Testing."
+                link: http://emberhotseat.com/2014/01/29/ember-hot-seat-episode-013.html
+            # -
+            #     title:
+            #     description: 
+            #     link: 
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: STL Ember.js
+                description: "First Monthly Ember.js Meetup: Getting to know you, Getting to know Ember too!. 6th February, 7:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/159285352/"
+            - 
+                title: Ember.js Adelaide
+                description: "Ember.js Workshop for Beginners. 11th February, 6:00pm @ Katalyst Interactive, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/160600092/"
+            - 
+                title: London Ember.js User Group
+                description: "12th February, 6:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/161526872/"
+            - 
+                title: Boston Ember.js Group
+                description: "Lightning Talks! 13th February, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/159835752/"
+            - 
+                title: EmberMN
+                description: "13th February, 6:30pm @ Tightrope Media Systems, St. Paul."
+                link: "http://www.meetup.com/EmberMN/events/159811162/"
+
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "nov-ember-rain"
+                description: "An Ember component for create a falling rain effect. Or maybe you'd prefer [purple-ember-rain](http://emberjs.jsbin.com/ilUneQi/17) if you're more of a Prince person."
+                link: http://emberjs.jsbin.com/ilUneQi/14

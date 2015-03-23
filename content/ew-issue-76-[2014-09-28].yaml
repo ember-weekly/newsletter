@@ -1,0 +1,154 @@
+issue: 76
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.8 Beta 3 Available"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.8.0-beta.3
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Intro to Broccoli"
+                description: ""
+                link: http://aexmachina.info/intro-to-broccoli/
+            -
+                title: "Ember.js and HTML5 Drag and Drop"
+                description: ""
+                link: https://medium.com/@sugarpirate/ember-js-and-html5-drag-and-drop-fa5dfe478a9a
+            -
+                title: "Ember Works Best When You Tell Instead Of Ask"
+                description: ""
+                link: http://ember.zone/ember-works-best-when-you-tell-instead-of-ask/
+            -
+                title: "How Ember.js Components communicate using sendAction"
+                description: ""
+                link: http://coryforsyth.com/2014/09/24/communicating-with-ember-js-components-using-sendaction/
+            -
+                title: "Reactive Modeling with Ember"
+                description: ""
+                link: http://frontside.io/blog/2014/09/21/reactive-modeling-with-ember.html
+            -
+                title: "Mistakes I Made in My First Ember Project"
+                description: ""
+                link: http://pressupinc.com/blog/2014/09/mistakes-made-first-ember-project/
+            -
+                title: "Bringing Sanity to JavaScript UTC Dates with Moment.js and Ember Data"
+                description: ""
+                link: http://blog.skylight.io/bringing-sanity-to-javascript-utc-dates-with-moment-js-and-ember-data/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-colpick - A Color Picker Component Using colpick.js"
+                description: ""
+                link: https://github.com/yapplabs/ember-colpick
+            -
+                title: "ember-cli-topcoat - Ember-CLI Add-on for Topcoat.io"
+                description: ""
+                link: http://taras.github.io/ember-cli-topcoat/
+            -
+                title: "ember-sprite - Ember-CLI Add-on to Generate Sprite Sheets"
+                description: ""
+                link: https://github.com/bguiz/ember-sprite
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Fest 2014 Common Pitfalls with Emberjs - Alex Speller"
+                description: ""
+                link: https://www.youtube.com/watch?v=vRfr2nrsX14
+            -
+                title: "Ember.js NYC August 2014 (React.Embereño, Extending Applications with Ember)"
+                description: ""
+                link: https://www.youtube.com/watch?v=hk49K2SJXDY
+            -
+                title: "Ember.js NYC July 2014 Part 1: Lightning Talks"
+                description: ""
+                link: https://www.youtube.com/watch?v=Df-OkCZiHcE
+            -
+                title: "Ember.js NYC July 2014 Part 2: Steve Klabnik on JSON API and Edward Faulkner on Liquid Fire"
+                description: ""
+                link: https://www.youtube.com/watch?v=RzMswWbGrpI
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver
+                description: "30th September, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/208051802/"
+            -
+                title: "Irvine, CA 92618"
+                description: "30th September, 7:00pm @ CrowdStrike, Irvine, CA 92618."
+                link: "http://www.meetup.com/Ember-SC/events/201219472/"
+            -
+                title: Ottawa
+                description: "1st October, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/205457532/"
+            -
+                title: Amsterdam
+                description: "1st October, 6:30pm @ The Next Web, Amsterdam."
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/205767222/"
+            -
+                title: Atlanta
+                description: "1st October, 7:00pm @ Collider ATL, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/204806982/"
+            -
+                title: 80538 München
+                description: "1st October, 7:00pm @ reppa.net GmbH, 80538 München."
+                link: "http://www.meetup.com/Ember-js-Munich/events/196997192/"
+            -
+                title: Toronto
+                description: "2nd October, 6:30pm @ Pharmacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/209366852/"
+            -
+                title: Ember-SC
+                description: "4th October, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/209882212/"
+            -
+                title: Saint Louis
+                description: "6th October, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/207429152/"
+            -
+                title: Vancouver
+                description: "7th October, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/208051822/"
+
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

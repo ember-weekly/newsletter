@@ -1,0 +1,144 @@
+issue: 73
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.0.43 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.43
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Let’s Code: JWT-Backed Authentication with Ember and Express"
+                description: ""
+                link: https://medium.com/@ulisesrmzroche/lets-build-jwt-backed-authentication-with-ember-and-express-5425a1977d23
+            -
+                title: "A Graceful Image Loading Component"
+                description: ""
+                link: http://ember.zone/a-graceful-image-loading-component/
+            -
+                title: "Reminiscing About EmberFest 2014"
+                description: ""
+                link: http://balinterdi.com/2014/09/05/reminiscing-about-emberfest-2014.html
+            -
+                title: "Don't Call Me Back - How Ember Uses Promises and How You Can, Too by Balint Erdi"
+                description: ""
+                link: https://speakerdeck.com/balint/dont-call-me-back-how-ember-uses-promises-and-how-you-can-too
+            -
+                title: "Single Page App with Laravel and Ember"
+                description: ""
+                link: http://www.sitepoint.com/single-page-app-laravel-emberjs
+            -
+                title: "Using Sails Generators To Integrate An Ember-CLI Project"
+                description: ""
+                link: https://chiefy.github.io/2014/09/03/sails-generate-ember.html
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-velocity-mixin - Ember Mixin for Velocity.js Library"
+                description: ""
+                link: https://github.com/quandl/ember-velocity-mixin
+            -
+                title: "ember-cli-proxy-fixtures - Capture Ember-CLI Proxy Server Response"
+                description: ""
+                link: https://github.com/dockyard/ember-cli-proxy-fixtures
+            -
+                title: "ember-cli-deploy - Lightening Fast Deployment of Applications"
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-deploy
+            -
+                title: "Ember Off-Canvas Components - A Group of Components to Create an Off-Canvas UI"
+                description: ""
+                link: https://github.com/pixelhandler/ember-off-canvas-components
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Lightning Fast HTML & CSS Prototyping with Ember-CLI - Dean Marano"
+                description: ""
+                link: https://www.youtube.com/watch?v=twMhNVvnebA
+            -
+                title: "Ember CLI Proxy Fixtures - Brian Cardarella"
+                description: ""
+                link: https://www.youtube.com/watch?v=TrWNYhwBSwE
+            -
+                title: "Authentication and Authorization with Ember - Mitch Lloyd"
+                description: ""
+                link: https://www.youtube.com/watch?v=KzasJuhsTSs
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis
+                description: "8th September, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682772/"
+            -
+                title: Adelaide
+                description: "9th September, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/201778012/"
+            -
+                title: Seattle
+                description: "11th September, 6:00pm @ Classmates Online, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/203366092/"
+            -
+                title: Minneapolis
+                description: "11th September, 6:30pm @ U of M Science Teaching & Student Services, Minneapolis."
+                link: "http://www.meetup.com/EmberMN/events/202657482/"
+            -
+                title: Montevideo
+                description: "11th September, 7:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/201052182/"
+            -
+                title: Southern California
+                description: "13th September, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/205789112/"
+            -
+                title: Vancouver
+                description: "16th September, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/204784302/"
+            -
+                title: Orlando
+                description: "16th September, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/202090772/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

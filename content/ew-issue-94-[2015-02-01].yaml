@@ -1,0 +1,201 @@
+issue: 94
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.1.12 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.1.12
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Bubbling Actions Through Components"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/01/28/bubbling-actions-through-components.html
+            -
+                title: "Ember Problems: Connecting to Rails-API"
+                description: ""
+                link: http://ryanlabouve.com/ember-problems-connecting-rails-api/
+            -
+                title: "Using Pretender to Mock HTTP Requests in a Ember/Rails App"
+                description: ""
+                link: http://blog.learningspaces.io/using-pretender-to-mock-http-requests/
+            -
+                title: "Ember.js Encryption and Three Way Data Binding for Chat"
+                description: ""
+                link: http://www.pubnub.com/blog/ember-js-encryption-and-three-way-data-binding-for-chat/
+            -
+                title: "Ember Reading Group: List of Resources to Learn Ember"
+                description: ""
+                link: https://github.com/foraker/ember-reading-group
+            -
+                title: "Ember Community Survey - 2015 Preview [RFC]"
+                description: ""
+                link: http://madhatted.com/2015/1/28/ember-community-survey-2015-preview
+            -
+                title: "Updated: Adding Flash Messages to an Ember App"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/adding-flash-messages-to-an-ember-app-437b13e49c1b
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-fastboot: [WIP] Server-Side Rendering for Ember.js Apps"
+                description: ""
+                link: https://github.com/tildeio/ember-cli-fastboot
+            -
+                title: "ember-float-label: Animated Float Labels for Your Ember App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-float-label
+            -
+                title: "ember-mailcheck: Reduce User-Misspelled Email Addresses in your Forms"
+                description: ""
+                link: https://www.npmjs.com/package/ember-mailcheck
+            -
+                title: "ember-local-storage: LocalStorage for your Ember-CLI App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-local-storage
+            -
+                title: "ember-img-manager: Manage Image Loading, Events and Cache"
+                description: ""
+                link: https://www.npmjs.com/package/ember-img-manager
+            -
+                title: "ember-cli-meta-options: Use Meta Tags to Pass Options to an App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-meta-options
+            -
+                title: "ember-cli-form-data: Add File Upload to the Ember Data RESTAdapter"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-form-data
+            -
+                title: "New Website - Broccoli.js: The Asset Pipeline for Ambitious Applications"
+                description: ""
+                link: http://broccolijs.com/
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+               description: ""
+               link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "New Podcast - Ember Land: Ember.js 1.10, 1.11, HTMLBars and Assigning IDs to Components"
+                description: ""
+                link: http://www.ember.land/feed/2015/1/30/1-1302015
+            -
+                title: "Ember 1.10 and Beyond - Erik Bryn"
+                description: ""
+                link: https://www.youtube.com/watch?v=tFGFR8JRq-A
+            -
+                title: "Ask Tom and Yehuda: Why are Routable Components Replacing Controllers and Views in Ember 2.0?"
+                description: ""
+                link: https://teamgaslight.com/blog/ask-tom-and-yehuda-your-burning-ember-dot-js-questions-answered
+            -
+                title: "Ember Sparks 14: Ember-CLI-Rails"
+                description: ""
+                link: http://www.sparkcasts.net/posts/sparkcast-14-ember-cli-rails
+            -
+                title: "Supercharge Your Productivity with Ember.js - Jeremy Green"
+                description: ""
+                link: https://www.youtube.com/watch?v=wONjcD9ObpA
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: New Ember Meetups Page
+                description: ""
+                link: http://emberjs.com/community/meetups/
+            -
+                title: Saint Louis
+                description: "2nd February, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/219770665/"
+            -
+                title: Vancouver
+                description: "3rd & 10th February, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/220156245/"
+            -
+                title: Indianapolis
+                description: "3rd February, 7:00pm @ TinderBox, Indianapolis."
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/219451461/"
+            -
+                title: Budapest
+                description: "3rd February, 7:00pm @ LogMeIn HQ, Budapest."
+                link: "http://www.meetup.com/ember-bp/events/219828350/"
+            -
+                title: Seattle
+                description: "4th February, 6:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/219867559/"
+            -
+                title: Ottawa
+                description: "4th February, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/215868322/"
+            -
+                title: Toronto
+                description: "5th February, 6:30pm."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/219939537/"
+            -
+                title: Calgary
+                description: "11th February, 6:30pm @ Joyce on Fourth, Calgary."
+                link: "http://www.meetup.com/EmberJS-YYC/events/220230827/"
+            -
+                title: Ember Riverside
+                description: "11th February, 7:00pm."
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/219895634/"
+            -
+                title: "San Diego JavaScript"
+                description: "11th February, 7:00pm @ EvoNexus, San Diego"
+                link: http://www.meetup.com/sandiegojs/events/219854072/
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,169 @@
+issue: 60
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Data v1.0.0 Beta 8"
+                description: "Lots of changes and bug fixes to bring Ember Data closer to v1.0.0 final."
+                link: https://github.com/emberjs/data/blob/v1.0.0-beta.8/CHANGELOG.md
+            -
+                title: "Ember Inspector v1.3.1"
+                description: "Bug fixes and Improvements, including better view names in the render performance tab and reduced Object Inspector property clutter."
+                link: https://github.com/emberjs/ember-inspector/blob/master/CHANGELOG.md#ember-inspector-131
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Setting the Document Title in Ember Apps"
+                description: "A guide to using the ``afterModel`` hook to set the title of the document."
+                link: http://balinterdi.com/2014/05/28/setting-the-document-title-in-ember-apps.html
+            -
+                title: "The Frustratingly Lovable Crazy-making Huggable Ball of Whack That Is Ember.js"
+                description: "Rob Conery describes how he went from being very confused with Ember to liking it (with some reservations)."
+                link: http://www.wekeroad.com/2014/05/28/the-frustratingly-lovable-crazy-making-huggable-ball-of-whack-that-is-ember-js/
+            -
+                title: "Fetch as Google reveals how Googlebot successfully renders Ember.js apps"
+                description: "With Google's [recent announcement](http://googlewebmastercentral.blogspot.co.uk/2014/05/understanding-web-pages-better.html) that they're [indexing JavaScript apps](http://googlewebmastercentral.blogspot.co.uk/2014/05/understanding-web-pages-better.html), this short post shows that the Googlebot is now able to crawl Ember apps."
+                link: https://blog.5apps.com/2014/06/01/fetch-as-google-reveals-how-googlebot-successfully-renders-ember-js-apps.html
+            -
+                title: "Sorting Displayed Data in Ember.js"
+                description: "Shows how to sort data using components and update element state with an appropriate icon indicating which key is used for sorting and if sorting happened in an ascending or descending order."
+                link: http://blog.kabisa.nl/2014/05/30/sorting-displayed-data-in-ember-js/
+            -
+                title: "Building an Ember App with Rails Part 4"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/05/31/building-an-ember-app-with-rails-part-4.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Promoted"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/newsletter/ads/media/emberkit-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Emberkit - the quickest way to build your subscription based app - 25% discount"
+                description: "Want to create a monthly billed subscription service? Emberkit saves you weeks of development. Just want to learn from a non trivial full stack project? Educational license available. 25% discount for Ember Weekly readers using this link!"
+                link: https://emberkit.com/?coupon=EMBERWEEKLY
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-spin-box"
+                description: "A lightweight and versatile spin box component for ember.js applications."
+                link: http://billdami.com/ember-spin-box/
+            -
+                title: "ember-notify"
+                description: "Displays little animated notification messages down the bottom of your Ember app."
+                link: https://github.com/aexmachina/ember-notify
+            -
+                title: "ember-easy-decorator"
+                description: "Ember EasyDecorator is a simple decorator that uses [Ember-EasyForm](https://github.com/dockyard/ember-easyForm)."
+                link: https://github.com/api-hogs/ember-easy-decorator
+            -
+                title: "t17-ember-upload"
+                description: "An asynchronous file uploader with HTML5's drag and drop"
+                link: https://github.com/trick17media/t17-ember-upload
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember without Ember Data - Robin Ward"
+                description: "Shows how you can build an Ember application without using Ember Data. It starts off simple and then shows how to build advanced stuff like an identity map yourself."
+                link: https://www.youtube.com/watch?v=7twifrxOTQY
+            # -
+            #     title: "Intercom ❤ Ember - Gavin Joyce "
+            #     description: ""
+            #     link: https://www.youtube.com/watch?v=C0VJai7INDo
+            -
+                title: "Ember at Scale - James Rosen"
+                description: "James discusses the power of conventions in a big application, leveraging his experience with Ember on Zendesk."
+                link: https://www.youtube.com/watch?v=7vi9xt9Bbjo
+            -
+                title: "The Road to Web Components - Tom Dale"
+                description: "Tom discusses the state of Web Components in relation to Ember's Components at Ember.js Dublin. This is essentially the [same talk given at EmpireJS](https://www.youtube.com/watch?v=yLyyXHhSl8w)."
+                link: https://www.youtube.com/watch?v=AK6xMvq4E5Q
+            -
+                title: "Ember Surprise - David McMullen & Scott Stevenson"
+                description: "A talk from Ember.js Dublin which covers things that you may find confusing when starting out with Ember. ([slides](https://docs.google.com/presentation/d/1dVPWiB7OvimNUSJv8JF0u87LlzIq9_JLz9P5H5vTJrM/edit#slide=id.g386a2fae1_013))"
+                link: https://www.youtube.com/watch?v=zjp7W0I_0AY
+            -
+                title: "No more `grunt watch`: Modern build workflows with Broccoli - Jo Liss"
+                description: "Learn how to use how to use Broccoli to define a modern build workflow for ambitious JavaScript MVC applications, harnessing preprocessors such as Sass and CoffeeScript, without foregoing sub-second rebuilds."
+                link: http://vimeo.com/96508134
+            -
+                title: "Ember Sparks 12: Moving to Ember CLI from Ember Appkit"
+                description: ""
+                link: http://www.sparkcasts.net/posts/12-moving-to-ember-cli-from-ember-appkit-pro
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "First Ember.js Hangout coming soon"
+                description: "A Google-hangout-based Ember meetup creating a location-unbounded community around Ember. 17th June, 6:00pm UTC."
+                link: http://emberjshangout.com/first-emberjs-hangout-coming-soon/
+            -
+                title: Ember.js NYC
+                description: "Hacker Hours: Ember pairs & musical chairs. 3rd June, 7:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/186189612/"
+            -
+                title: Ember.js Ottawa
+                description: "4th June, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/180636752/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 7th June, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/182282852/"
+            -
+                title: Ember.js São Paulo
+                description: "7th June, 2:00pm."
+                link: "http://www.meetup.com/ember-sp/events/180131552/"
+            -
+                title: STL Ember.js
+                description: "Advanced Ember and Ember Jeopardy! 9th June, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682502/"
+            -
+                title: Ember.js Adelaide
+                description: "Ember Hackathon and Debugging in Ember. 10th June, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/184061002/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

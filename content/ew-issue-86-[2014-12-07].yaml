@@ -1,0 +1,175 @@
+issue: 86
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.1.4 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.1.4
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Nesting Routes Instead of Resources with Ember.js"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2014/12/04/nesting-routes-instead-of-resources-with-ember-js/
+            -
+                title: "Ember 2.0 in Practice by Tom Dale"
+                description: ""
+                link: https://speakerdeck.com/tomdale/ember-2-dot-0-in-practice
+            -
+                title: "Sounds that Play Right on Time, Using PreloadJS and Ember-CLI"
+                description: ""
+                link: http://blog.jeffreybiles.com/sounds-that-play-right-on-time-using-preloaderjs/
+            -
+                title: "Adding Flash Messages to an Ember App"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/adding-flash-messages-to-an-ember-app-437b13e49c1b
+            -
+                title: "Build Your First Ember.js Application"
+                description: ""
+                link: http://richardgmartin.me/web-development/build-first-ember-js-application/
+            -
+                title: "Server Side Error Messages for Arbitrary Ajax Calls in Ember-CLI"
+                description: ""
+                link: https://dvg.github.io/2014/12/05/server-side-error-messages-for-arbitrary-ajax-calls-in-ember-cli.html
+            -
+                title: "Building an Infinite Scroll Ember-CLI Addon"
+                description: ""
+                link: http://blog.jasonkriss.com/building-an-infinite-scroll-ember-cli-addon/
+            -
+                title: "Ember-CLI, Torri and Rails - Part 2"
+                description: ""
+                link: http://appallingfarrago.com/ember/embercli/github/divshot/torii/rails/2014/12/07/ember-cli-torri-rails.html
+            -
+                title: "Ember Can React: A Component-Based React/Ember Comparison"
+                description: ""
+                link: https://unspace.github.io/ember-can-react/#1
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/pagerduty-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "PagerDuty"
+                description: "Solve problems faster by shortening your incident response time. PagerDuty is the hub of your monitoring tools, so that when an incident is reported, we make sure you get the message, fast. <small>([Sponsored via Syndicate Ads](http://synd.co/1yp07bq))</small>"
+                link: http://synd.co/1z4CVy0
+                domain: pagerduty.com
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-rails: Easily Integrate Ember-CLI with Rails"
+                description: ""
+                link: https://github.com/rwz/ember-cli-rails
+            -
+                title: "ember-cli-mocha: v0.2.0 Released"
+                description: ""
+                link: https://github.com/switchfly/ember-cli-mocha/releases/tag/v0.2.0
+            -
+                title: "ember-cli-github-pages: Manage a gh-pages Branch for Your Addon"
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-github-pages
+            -
+                title: "ember-inflector: Inflect Words Between Plural and Singular Forms"
+                description: ""
+                link: https://www.npmjs.org/package/ember-inflector
+            -
+                title: "ember-cli-bm-select: Customizable Select Component with Keyboard Support & WAI-ARIA"
+                description: ""
+                link: http://blessanmathew.com/ember-cli-bm-select/
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Full-stack JavaScript Software Developer"
+               description: "Join a world class team that’s committed to open source and building an awesome user experience. We’re looking for people who love writing great code and working closely with design, product, and other developers to make awesome features."
+               link: http://franq.workable.com/jobs/24642
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "TodoMVC with Ember-CLI"
+                description: ""
+                link: http://ryanlabouve.com/todomvc-ember-cli/
+            -
+                title: "Don't Die: A Guide to Indie OSS - Yehuda Katz @ hack.summit()"
+                description: ""
+                link: https://www.youtube.com/watch?v=YqXU4o24Hkg
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "EmberConf 2015 - Tickets on Sale!"
+                description: "Official Ember Conference. 3rd-4th March 2015 @ Portland, OR."
+                link: http://emberconf.com/
+            -
+                title: Vancouver
+                description: "9th & 16th December, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/218820166/"
+            -
+                title: Atlanta
+                description: "9th December, 7:00pm @ Big Nerd Ranch, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/218759325/"
+            -
+                title: Calgary
+                description: "10th December, 6:30pm @ Joyce on Fourth, Calgary."
+                link: "http://www.meetup.com/EmberJS-YYC/events/218929052/"
+            -
+                title: Boston
+                description: "11th December, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/218647077/"
+            -
+                title: St. Paul
+                description: "11th December, 6:30pm @ Tightrope Media Systems, St. Paul."
+                link: "http://www.meetup.com/EmberMN/events/219023694/"
+            -
+                title: Montevideo
+                description: "11th December, 7:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/218706687/"
+            -
+                title: Bangalore
+                description: "13th December, 10:00am @ Artoo IT Solutions Pvt. Ltd.,, Bangalore."
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/218840897/"
+            -
+                title: Dallas
+                description: "15th December, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/219029993/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

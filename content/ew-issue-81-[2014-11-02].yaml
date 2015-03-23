@@ -1,0 +1,145 @@
+issue: 81
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.8 and 1.9 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/10/26/ember-1-8-0-released.html
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "RFC: Improve Computed Property Syntax"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/master/active/0001-improved-cp-syntax.md
+            -
+                title: "The Evolution of Ember: A Look at its Past, Present and Future"
+                description: ""
+                link: https://teamgaslight.com/blog/the-evolution-of-ember-a-look-at-its-past-present-and-future
+            -
+                title: "Getting Started with Ember.js"
+                description: ""
+                link: http://gofullstack.com/getting-started-with-ember-js/
+            -
+                title: "How to Create a Simple Auto Save Feature in Ember"
+                description: ""
+                link: http://www.robert-deluca.com/posts/how-to-create-a-simple-auto-save-feature-in-ember
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-buffered-proxy - Proxy that Enables Change Buffering"
+                description: ""
+                link: https://github.com/yapplabs/ember-buffered-proxy
+            -
+                title: "ember-cli-admin - Admin Dashboard for Ember-CLI Projects"
+                description: ""
+                link: https://github.com/ember-admin/ember-cli-admin
+            -
+                title: "ember-document-title - document.title Support in the Router"
+                description: ""
+                link: https://www.npmjs.org/package/ember-document-title
+            -
+                title: "ember-data-route - Clean Up After Your Models"
+                description: ""
+                link: https://github.com/dockyard/ember-data-route
+            -
+                title: "ember-deploy - Lightning Fast Deployments of Ember-CLI Apps"
+                description: ""
+                link: https://www.npmjs.org/package/ember-deploy
+            -
+                title: "ember-cli-ramdisk - Use RAMDisk for Faster Broccoli Builds"
+                description: ""
+                link: https://github.com/ExpressCheckout/ember-cli-ramdisk
+            -
+                title: "ember-cli-jquery-ui - jQuery UI Component Library "
+                description: ""
+                link: https://www.npmjs.org/package/ember-cli-jquery-ui
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Chicago
+                description: "3rd November, 5:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/203706052/"
+            -
+                title: Saint Louis
+                description: "3rd November, 5:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/213235952/"
+            -
+                title: Vancouver
+                description: "4th & 11th November, 5:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/216498692/"
+            -
+                title: Seattle
+                description: "5th November, 5:30pm @ Classmates Online, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/213238482/"
+            -
+                title: Ottawa
+                description: "5th November, 5:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/209849552/"
+            -
+                title: New York
+                description: "5th November, 6:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/215889732/"
+            -
+                title: Toronto
+                description: "6th November, 5:30pm @ Pharmacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/216137752/"
+            -
+                title: Atlanta
+                description: "11th November, 6:00pm @ Big Nerd Ranch, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/215314672/"
+            -
+                title: "emberGarten(); The Saturday Symposium ($)"
+                description: "15th November @ Gladstone Hotel, Toronto"
+                link: https://unspace.ca/embergarten/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

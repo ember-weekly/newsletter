@@ -1,0 +1,140 @@
+issue: 49
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "In Defence of Frameworks: Why Ember Is Proud To Be One"
+                description: "A keynote from Fluent 2014 by Yehuda Katz & Tom Dale where they discuss what defines a framework compared to libraries (e.g Backbone) and toolsets (e.g. Angular), and how a framework helps the developer." 
+                link: https://www.youtube.com/watch?v=jScLjUlLTLI
+            -
+                title: "Yehuda Katz and Tom Dale interviewed at Fluent 2014"
+                description: "After the Defence of Frameworks talk Yehuda & Tom sat down for an interview with Brian McDonald to discuss their thoughts in a bit more detail."
+                link: https://www.youtube.com/watch?v=VI__nGPT9kk
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Views Over Components - An Ember Refactoring Story"
+                description: "A look at how converting your views to be reusable components can simplify your application." 
+                link: http://modeset.com/what-we-know/2014/03/13/views-over-components
+            -
+                title: "Meet Ember.js: Not Just Another JS Framework"
+                description: "Nice slides introducing Ember and its concepts. By Miguel Camba at BarcelonaJS." 
+                link: http://miguelcamba.com/talks/meet-ember-js/
+            -
+                title: "Client-side Auth with Ember.js"
+                description: "Slides that walkthrough authenticating users with Facebook and Windows Live Oauth by using dependency injection, dependency lookup, promises, and routing hooks in Ember." 
+                link: http://www.slideshare.net/mixonic/client-side-auth-with-ember
+            -
+                title: "Building an App with Ember App Kit - Part 1"
+                description: "First in a series of posts walking through building a simple CRUD app with Ember, Ember Data, and Ember App Kit & Rails API." 
+                link: http://blog.jasonkriss.com/building-an-app-with-ember-app-kit-part-1/
+            -
+                title: "Computed Property for All Keys of an Object"
+                description: "How to create a computed property that recomputes if any of an objects properties change by dynamically evaluating an objects properties." 
+                link: http://www.thesoftwaresimpleton.com/blog/2014/03/11/cp-all-keys/
+            -
+                title: "Building a Mobile-friendly Web App Using Ember.js and jQuery Mobile"
+                description: "A walkthrough of how to make jQuery Mobile play nice with Ember." 
+                link: http://blog.mist.io/post/78757774060/building-a-mobile-friendly-web-app-using-ember-js-and
+            -
+                title: "[Ember.js] Implement Autoscrolling in a Chat Room"
+                description: "An small example of using ``Ember.View`` to handle autoscrolling in a chat application." 
+                link: https://medium.com/p/4028dd719511
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Class Tree"
+                description: "Brian Cardarella has put together an awesome JSBin to visualize Ember's classes and inheritance. Includes Ember Data and filtering." 
+                link: http://emberjs.jsbin.com/pavarama/4
+            -
+                title: "ember-ink-filepicker"
+                description: "A simple example of using Ink Filepicker with Ember.js by Max Minkoff." 
+                link: https://github.com/mminkoff/ember-ink-filepicker
+            -
+                title: "ember-hoodie-adapter"
+                description: "Store your Ember application data with Hoodie." 
+                link: https://github.com/gr2m/ember-hoodie-adapter
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "HTMLBars, the future of templating in Ember.js"
+                description: "Erik Bryn introduces HTMLBars to the Ember NYC meetup. He discusses the future of the Ember view layer including performance improvements, animation support and server-side rendering for improved SEO support." 
+                link: http://www.youtube.com/watch?v=vjBs07kgjq0#t=3586
+            -
+                title: "Ember Controller versus ObjectController"
+                description: "Cory Forsyth discusses the difference between a standard ``Ember.Controller`` and an ``Ember.ObjectController``." 
+                link: http://www.youtube.com/watch?v=vjBs07kgjq0#t=567
+            -
+                title: "Building Vine.co"
+                description: "Janessa Det shows how she built the Vine.co website using Ember at Ember NYC." 
+                link: http://www.youtube.com/watch?v=vjBs07kgjq0#t=1805
+            -
+                title: "Ember Sparks 2: Switching to Ember Data"
+                description: "A short example of how to use Ember Data in your application using the bloggr client to demonstrate." 
+                link: http://www.youtube.com/watch?v=i1Qzaf6lV1Q&list=UUJasK7cAgRz1RGMJCoRLXXQ
+            -
+                title: "NBCNews.com at Seattle Ember Meetup"
+                description: "Lance Harper shows how his team put together the new Ember version of NBCNews.com at the Seattle meetup."
+                link: http://www.youtube.com/watch?v=4ixw_5keMTc
+            -
+                title: "Using Persistent Data Structures with Ember.js by Jamie White "
+                description: "Jaime explores how using immutable data trees in Ember could work, and the advantages that it could bring."
+                link: http://vimeo.com/89089876
+            -
+                title: "Architecting for the Enterprise by Thomas Cowell"
+                description: "A talk from the Ember London User Group discussing when a single-page application, like those built with Ember, are the right and wrong solution."
+                link: http://vimeo.com/89076477
+            -
+                title: "Ghostalk Episode 3 - Ember with Taras Mankovski"
+                description: "A podcast about the Ghost open source blogging platform, which recently decided to migrate their admin UI to Ember. This episode has special guest Taras Mankovski aka EmberSherpa." 
+                link: http://talk.ghost.io/3/
+
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js San Francisco
+                description: "18th March, 7:30pm @ Pivotal Labs, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/156014962/"
+            - 
+                title: Ember-SC
+                description: "Hack Night. 18th March, 7:30pm @ Neudesic, Irvine."
+                link: "http://www.meetup.com/Ember-SC/events/167110092/"
+            - 
+                title: Ember.JS DC
+                description: "Ember-Data. 18th March, 7:30pm @ Offices of Resonate Insights, Reston."
+                link: "http://www.meetup.com/Ember-JS-DC/events/169578952/"
+            - 
+                title: Embernati
+                description: "19th March, 7:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/167144492/"
+            - 
+                title: Ember.js Munich
+                description: "19th March, 8:00pm @ Scoreloop, München."
+                link: "http://www.meetup.com/Ember-js-Munich/events/162106812/"
+            - 
+                title: "NEW: Ember DC"
+                description: "Lightning Talks - inaugural meetup. 20th March, 7:00pm @ WeWork, Washington, DC."
+                link: "http://www.meetup.com/Ember-DC/events/170562092/"
+            - 
+                title: Ember.js Pittsburgh
+                description: "CoffeeScript + User Auth patterns. 20th March, 8:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/161140222/"
+            - 
+                title: "New Toronto Meetup Group"
+                description: "The Toronto Ember Meetup now has a group on Meetup.com."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/"
+

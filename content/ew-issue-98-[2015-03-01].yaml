@@ -1,0 +1,195 @@
+issue: 98
+strapline: "Your weekly source of Ember news, brought to you from Portland!"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.11 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.11.0-beta.4
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "RFC #37: Element and Fragment"
+                description: "Introduce `Ember.Fragment` and the `<element>` and `<fragment>` template keywords. [PR](https://github.com/emberjs/rfcs/pull/37)"
+                link: https://github.com/ef4/rfcs/blob/element-and-fragment/active/0000-element-and-fragment.md
+            -
+                title: "RFC #38: Routeable Components"
+                description: "Eliminate the need for controllers. [PR](https://github.com/emberjs/rfcs/pull/38)"
+                link: https://github.com/ef4/rfcs/blob/routeable-components/active/0000-routeable-components.md
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "From Rails to Ember: A Roadmap for Rails Devs interested in Ember"
+                description: ""
+                link: http://fromrailstoember.com/
+            -
+                title: "Using the Component Helper"
+                description: ""
+                link: http://raytiley.com/posts/using-the-component-helper/
+            -
+                title: "Using Subexpressions (Nested Helpers) in Ember.js"
+                description: ""
+                link: http://raytiley.com/posts/handlebars-sub-expresions-aka-nested-helpers/
+            -
+                title: "The Evolution of Injecting Services in Ember"
+                description: ""
+                link: http://raytiley.com/posts/the-evolution-of-injecting-services-in-ember/
+            -
+                title: "Making ember-deploy Adapters"
+                description: ""
+                link: http://kerrygallagher.co.uk/making-ember-deploy-adapters/
+            -
+                title: "Upgrading Your Ember CLI QUnit Tests in Less Than 5 Minutes"
+                description: ""
+                link: http://blog.abuiles.com/blog/2015/02/25/upgrading-your-ember-cli-qunit-tests-in-less-than-5-minutes/
+            -
+                title: "Ember Component Examples"
+                description: ""
+                link: http://www.programwitherik.com/ember-js-components-examples/
+            -
+                title: "Getting Fired Up with Ember-CLI"
+                description: ""
+                link: http://joedinsdale.co.uk/posts/getting-fired-up-with-ember-cli
+            -
+                title: "Measuring Performance with User Timing API, in an Ember Application"
+                description: ""
+                link: http://pixelhandler.com/posts/measuring-performance-with-user-timing-api-in-an-ember-application
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-watson: Automatically Upgrade Your QUnit Test"
+                description: ""
+                link: https://www.npmjs.com/package/ember-watson
+            -
+                title: "generator-jhipster-ember: Hipster Stack for Java Deves. Yeoman + Gradle + Spring + OAuth2 + Ember"
+                description: ""
+                link: https://github.com/jarias/generator-jhipster-ember
+            -
+                title: "ember-cli-node-webkit: Addon for developing NW.js (node-webkit) Ember Apps"
+                description: ""
+                link: https://github.com/brzpegasus/ember-cli-node-webkit
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #3: EmberConf, Ember-CLI 0.2.0 Beta, Component Helper + Lots More!"
+                description: ""
+                link: http://ember.land/episodes/3
+            -
+                title: "Ask Tom & Yehuda: How Can Someone Begin Contributing to the Ember Ecosystem?"
+                description: ""
+                link: https://www.youtube.com/watch?v=sjOSyE0wdus&list=UUC36CM_uLqhoKEqSy2mjqFQ
+            -
+                title: "Sane Ember on Sails"
+                description: ""
+                link: https://www.youtube.com/watch?v=OqeoRuWa8-w
+            -
+                title: "Ember-Tour Addon - Jonathan Dayton"
+                description: ""
+                link: https://www.youtube.com/watch?v=gRpz5SZ7b7Q#t=475
+            -
+                title: "Quick Feature Flags for Ember CLI Applications - David Kerr"
+                description: ""
+                link: https://www.youtube.com/watch?v=gRpz5SZ7b7Q#t=1275
+            -
+                title: "Watching Ember - Philip Poots (@EmberWatch)"
+                description: ""
+                link: https://www.youtube.com/watch?v=gRpz5SZ7b7Q#t=1654
+            -
+                title: "Free Transform with Ember.js: Building a Graphical Editor in Ember - Michael Nutt"
+                description: ""
+                link: https://www.youtube.com/watch?v=gRpz5SZ7b7Q#t=2552
+            -
+                title: "Ember Table - Taras Mankowski (@EmberSherpa)"
+                description: ""
+                link: https://www.youtube.com/watch?v=gRpz5SZ7b7Q#t=4183
+            -
+                title: "Ember Data Relationships and Web Components - Steve Kinney"
+                description: ""
+                link: http://stevekinney.net/post/111971997182/i-made-a-quick-recording-of-a-session-i-did-with
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Portland - EmberConf 2015 Warm Up!
+                description: "2nd March, 5:00pm @ Deschutes Brewery, Portland."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220619971/"
+            -
+                title: Saint Louis
+                description: "2nd March, 3:00pm @ T-Rex - Lammert Building, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/220262611/"
+            -
+                title: Vancouver
+                description: "3rd & 10th March, 3:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/220770432/"
+            -
+                title: Atlanta
+                description: "10th March, 5:00pm @ Big Nerd Ranch, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/220480176/"
+            # -
+            #     title: New York
+            #     description: "11th March, 5:00pm @ Movable Ink, New York."
+            #     link: "http://www.meetup.com/EmberJS-NYC/events/220808222/"
+            # -
+            #     title: Ember Riverside Meetup
+            #     description: "11th March, 5:00pm."
+            #     link: "http://www.meetup.com/Ember-Riverside-Meetup/events/220421290/"
+            # -
+            #     title: Ember.js Amsterdam
+            #     description: "11th March, 5:00pm."
+            #     link: "http://www.meetup.com/Ember-js-Amsterdam/events/219963212/"
+            # -
+            #     title: San Diego
+            #     description: "11th March, 5:30pm @ EvoNexus, San Diego."
+            #     link: "http://www.meetup.com/sandiego-ember/events/220473901/"
+            -
+                title: "ReactWeek: Interested in learning React.js?"
+                advert: true
+                description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+                link: http://reactweek.com
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+            # -
+            #     title: "ReactWeek: Interested in learning React.js?"
+            #     advert: true
+            #     description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+            #     link: http://reactweek.com

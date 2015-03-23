@@ -1,0 +1,184 @@
+issue: 52
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.5.0 And 1.6 Beta Released"
+                description: "The official blog post for the recent 1.5 release. This release includes handlebar logging improvements, new testing helpers, eager updating url, auto location, inherited route model, as well as a potentially breaking bug-fix for ``_super``."
+                link: http://emberjs.com/blog/2014/03/30/ember-1-5-0-and-ember-1-6-beta-released.html
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "EmberConf Slides"
+                description: "The slides from each EmberConf 2014 talk are now available on the EmberConf Schedule page. Additions form last week's list include Ember-Data by Igor Terzic, HTMLBars by Erik Bryn and Kris Selden, Modelling the App Store and iTunes with Ember Data, and more."
+                link: http://emberconf.com/schedule.html
+            -
+                title: "We are EmberConf 2014"
+                description: "A nice comprehensive write-up and recap of EmberConf 2014 by Bill Heaton."
+                link: http://pixelhandler.com/posts/we-are-emberconf-2014
+            -
+                title: "Testing Ember.js Applications"
+                description: "A look at how to unit test your Ember application and when integration tests may be more appropriate."
+                link: http://www.mattjmorrison.com/2014/04/02/ember-testing.html
+            -
+                title: "Rainy Day Ember Data"
+                description: "Slides by Tony Schneider on Ember Data and the workarounds he discovered while building a non-trivial Ember application."
+                link: https://speakerdeck.com/tonywok/rainy-day-ember-data
+            # -
+            #     title: "HTMLBars: The Next-Generation of Templating in Ember.js"
+            #     description: "Slides form Erik Bryn and Kris Selden's EmberConf 2014 talk on what HTMLBars means for the future of Ember."
+            #     link: http://talks.erikbryn.com/htmlbars-emberconf/
+            # -
+            #     title: "Ember-Data by Igor Terzic"
+            #     description: "Slides from Igor's EmberConf 2014 talk on the state of Ember Data and the road to 1.0."
+            #     link: http://terzicigor.com/talks/index.html
+            -
+                title: "Building Service Oriented UI: Or, How to Refactor Your Legacy Ember App"
+                description: "A talk about service oriented UI, Ember.js, Ember App Kit, and Ember-CLI."
+                link: https://speakerdeck.com/jdjkelly/building-service-oriented-ui-or-how-to-refactor-your-legacy-ember-app
+            -
+                title: "Upgrading Models Between Routes in Ember.js"
+                description: ""
+                link: http://robotfuture.net/upgrading-models-between-routes-in-emberjs
+            
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Ever thought about how Google reads Ember.js websites?"
+                description: "We have. Google can't normally index Ember.js sites. We fix that for you, and we'll walk you though the setup."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: "ic-droppable"
+    #             description: "Ember View/Component Mixin for native drag and drop targets. ([code](https://github.com/instructure/ic-droppable))"
+    #             link: http://instructure.github.io/ic-droppable/
+    #         -
+    #             title: "Broccoli v0.7 Released"
+    #             description: "Browser compilation library – a build tool for applications that run in the browser. The build tool use by Ember-CLI."
+    #             link: https://github.com/joliss/broccoli/blob/master/CHANGELOG.md#072
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Front-End Developer Cast: Ember interview with Tom Dale"
+                description: "Tom discusses how Ember differentiates itself from other frameworks with a robust router as well as what’s going on with Ember.Data."
+                link: http://www.funnyant.com/ember-js-interview-with-tom-dale/
+            -
+                title: " Intro To Ember @ LinkedIn by Erik Bryn"
+                description: "Erik Bryn gives the folks at LinkedIn an in-depth introduction to Ember."
+                link: https://www.youtube.com/watch?v=XlWcj41D-So
+            -
+                title: "Single Page Apps with Ember.js"
+                description: "Cory Forsyth gives an introduction to Ember at Microsoft, including the future of Ember, embracing web components, ES6 features and how this relates to Typescript."
+                link: http://research.microsoft.com/apps/video/default.aspx?id=211742
+            -
+                title: "EmberConf Recap by Luke Melia"
+                description: "Luke gives an 15 minute recap of some of the highlights form EmberConf at Ember NYC."
+                link: https://www.youtube.com/watch?v=dWIJ5Wk3LG4#t=205
+            -
+                title: "Sorting with Array Controllers"
+                description: "Estella Madison discusses using ``Ember.SortableMixin`` and ``Ember.computed.sort`` to sort array data at Ember NYC. ([slides](http://slid.es/estellagonzalezmadison/deck#/))"
+                link: https://www.youtube.com/watch?v=dWIJ5Wk3LG4#t=1085
+            -
+                title: "How to Learn Ember"
+                description: "Taras Mankovski (aka EmberSherpa) discusses getting started with Ember at Ember NYC. ([slides](https://speakerdeck.com/embersherpa/how-to-learn-ember))"
+                link: https://www.youtube.com/watch?v=dWIJ5Wk3LG4#t=1665
+            -
+                title: "Panel Discussion on Components and Views in Ember.js"
+                description: "A panel discussion lead by Ken Snyder, with James Croft, Alex Speller, and Christopher Gammie at Ember London's March meetup."
+                link: http://vimeo.com/90563524
+            -
+                title: "Ember Sparks 5: Embedding YouTube Videos"
+                description: ""
+                link: https://www.youtube.com/watch?v=hwL5M3NSqZA
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Come change the future of education with a world class team in SoMA."
+               description: "AltSchool needs a front-end engineer to help drive our web dev efforts. You’d help to build the future of K-8 education in a high-energy, fast-paced environment.  Experience with Ember and backend development in Ruby, Python, or Node.js"
+               link: http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qoC9VfwO&v=1&page=Job%20Description&j=oFKcYfwj
+               
+
+    -
+        heading: "Training"
+        # image: ""
+        advert: true
+        headlines:
+            -
+                title: "Ember.js training in San Francisco: registration now open!"
+                description: "Ember core team members Erik Bryn & Trek Glowacki are holding an in-depth two day training class on 5/1-5/2 in San Francisco. Registration opened today and will likely sell out quickly."
+                link: http://sf-ember-training.erikbryn.com
+                advert: true
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js Adelaide
+                description: "Overview of Ember.js Application Architecture & Deep dive into Ember.js Router. 8th April, 7:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/172734802/"
+            - 
+                title: STL Ember.js
+                description: "Lazy Loading and Ember Conf. 7th April, 7:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/171823602/"
+            - 
+                title: Ember.js Portland
+                description: "15th April, 7:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/172437432/"
+            - 
+                title: London Ember.js User Group
+                description: "16th April, 7:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/169917902/"
+            # - 
+            #     title: Embernati
+            #     description: "ember-cli. 16th April, 7:00pm @ Gaslight, Cincinnati."
+            #     link: "http://www.meetup.com/EmberNati/events/173955282/"
+            # - 
+            #     title: Ember.js Seattle
+            #     description: "Hacker Sessions. 16th April, 7:30pm @ Urbanspoon, Seattle."
+            #     link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/174851672/"
+            # - 
+            #     title: Ember.js NYC
+            #     description: "April Meetup: Debugging Techniques & Lightning Talks. 16th April, 8:00pm @ Pivotal Labs, New York."
+            #     link: "http://www.meetup.com/EmberJS-NYC/events/169199292/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 

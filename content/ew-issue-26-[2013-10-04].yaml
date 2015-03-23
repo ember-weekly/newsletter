@@ -1,0 +1,152 @@
+issue: 26
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Reading"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+            -
+                title: "Ember.js, À La Carte: Examining Feature Libraries"
+                description: "Matthew Beale takes a look at the microlibs that make up some of Ember's core features. You can use these in your applications today without needing to bring in the whole Ember library."
+                link: http://blog.safaribooksonline.com/2013/09/25/ember-js-a-la-carte/
+            -
+                title: "NEW: Embereños - Weekly interviews with companies and people using ember"
+                description: "The first interview is with Dockyard's Brian Cardarella."
+                link: ttp://emberenos.com/interviews/2013/9/30/dockyard
+            -
+                title: "Ember and D3"
+                description: "Resources from Sam Selikoff's talk on building a simple dashboard with Ember and D3. The talk has been updated to use Ember Components instead of views."
+                link: http://www.samselikoff.com/blog/2013/09/26/updated-ember-d3-talk/
+            -
+                title: "Testing Ember Blog Posts by Coding Value"
+                description: "A collection of posts over the past few months by Coding Value about testing parts of your Ember app. Includes testing templates, controllers, objects and helpers, integration testing and fixture data."
+                link: http://codingvalue.com/blog/
+            -
+                title: "Some ideas on composable/reusable components by Alex Matchneer"
+                description: "Core Team member Alex Matchneer has opened up a discussion on ways to make Ember Components more reusable. What do you think?"
+                link: http://discuss.emberjs.com/t/some-ideas-i-had-about-composable-reusable-components/2850
+            -
+                title: "HTTP Mocking for ember-testing by Trek Glowacki"
+                description: "Core Team member Trek Glowacki has also opened up a discussion on adding HTTP Mocking support to the Ember Testing package."
+                link: http://discuss.emberjs.com/t/http-mocking-for-ember-testing/2846
+            -
+                title: "How to easily implement SEO friendly URLs in 3 steps"
+                description: ""
+                link: http://mavilein.github.io/javascript/2013/09/28/three-steps-to-ember-js-seo-friendly-urls/
+            -
+                title: "Ember Data: Faking a Composite Key"
+                description: ""
+                link: http://codeofficer.com/blog/2013/10/03/ember-data-faking-a-composite-key.html
+            
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP12: Brian Cardarella"
+                description: "Brian Cardarella from DockYard chats about a wide variety of things, from his ember-validations library, to his involvement in the Boston and DC Ember communities, running a consultancy that is looking to specialize in Ember, coming to Ember from a Rails background, some pain points with Ember, and his self admitted tragic experience speaking at Ember Camp."
+                link: http://emberhotseat.com/2013/09/10/ember-hot-seat-episode-012.html
+            -
+                title: "A tale of two MVC's by Yehuda Katz [GoGaRuCo 2013]"
+                description: "Ember core team member Yehuda Katz digs in to what MVC means in web development today."
+                link: http://www.youtube.com/watch?v=s1dhXamEAKQ
+            
+    -
+        heading: "Code"
+        headlines:
+            # -
+            #     title: "Ember App Kit Documentation Site"
+            #     description: "The initial version of the EAK documentation is online. Still missing some content from sections."
+            #     link: http://iamstef.net/ember-app-kit/
+            -
+                title: "Embersmith"
+                description: "Static HTML and JSON generator for Ember.js projects"
+                link: http://taras.github.io/embersmith/
+            -
+                title: "Ember Pusher"
+                description: "A library for declaratively managing connections to Pusher channels and events in your Ember application."
+                link: https://github.com/jamiebikies/ember-pusher
+            -
+                title: "TodoMVC-EAK"
+                description: "Ember.js' TodoMVC app port to use Ember App Kit."
+                link: https://github.com/neojp/TodoMVC-EAK
+            -
+                title: "Ember Wings"
+                description: "A starting place for building ambitious Ember applications with Brunch.io."
+                link: http://www.chasepursley.com/introducing-ember-wings
+            -
+                title: "EAK Sublime Text Snippets"
+                description: "Snippets for Ember App Kit and Sublime Text 2."
+                link: https://github.com/eccegordo/eak-sublime-text-snippets
+            
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "Lead the Hospitality Industry developing mobile software with Emberjs"
+                description: "We are looking for experienced front end developers in Los Angeles, CA. If you are always striving to learn new technologies like Ember.js and enjoy spending time on mobile applications, then help us lead the Hospitality Industry with cutting edge mobile technology."
+                link: http://careers.stackoverflow.com/jobs/40654/
+
+            # -
+            #    title: "Looking for an Ember Developer?"
+            #    description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+            #    domain: emberweekly.com
+            #    link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Southern California Meetup"
+                description: "8th October, 6:30pm @ Pivotshare."
+                link: http://www.meetup.com/Ember-SC/events/142395022/
+            -
+                title: "DublinJS Meetup"
+                description: "8th October, 6:30pm @ Telefonica."
+                link: http://www.meetup.com/DublinJS/events/134903452/
+            -
+                title: "London Meetup"
+                description: "9th October, 6:30pm @ Enthuse.me."
+                link: http://www.meetup.com/London-Emberjs-User-Group/events/142980862/
+            -
+                title: "Toronto Hack Night"
+                description: "10th October, 6:00pm @ INcubes."
+                link: http://guestlistapp.com/events/198975
+            -
+                title: "NEW: São Paulo, Brazil Meetup"
+                description: "10th October, 7:00pm."
+                link: http://www.meetup.com/Ember-js-Sao-Paulo/events/142350582/
+            -
+                title: "Tel Aviv-Yafo Meetup, Featuring Yehuda Katz"
+                description: "10th October, 4:30pm @ Ozen Bar. Featuring special guest Yehuda Katz!"
+                link: http://www.meetup.com/Ember-IL/events/140297932/
+            -
+                title: "Boston Meetup"
+                description: "10th October, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/140201892/
+            -
+                title: "Seattle Meetup with Alex Matchneer"
+                description: "10th October, 6:30pm @ Urbanspoon. New Core Team Alex Matchneer will be present."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/140660072/
+            -
+                title: "Austin Meetup with Tom Dale"
+                description: "15th October, 7:30pm @ Frog Design. Special Event with Tom Dale."
+                link: http://www.meetup.com/Ember-ATX/events/140780512/
+            
+
+    -
+        heading: "Finally"
+        headlines:
+    #         -
+    #             title: "Apple Help Guides Use Ember"
+    #             description: "Not exactly the most exciting app in the world but interesting to browse with the Chrome Adapter nevertheless."
+    #             link: http://help.apple.com/iphone/7
+            -
+                title: "Yeoman Ember Generator Needs a New Maintainer - Is it You?"
+                description: "If you're interested in helping the Yeoman team make the official Ember generator awesome then get involved. Addy Osmani and the team are looking for someone to maintain the project and integrating with [Ember App Kit](https://github.com/stefanpenner/ember-app-kit)."
+                link: https://github.com/yeoman/generator-ember/issues/114
+

@@ -1,0 +1,170 @@
+issue: 56
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.6.0 Beta 3"
+                description: "This release includes many bug fixes and some minor new features."
+                link: https://github.com/emberjs/ember.js/blob/v1.6.0-beta.3/CHANGELOG.md
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Dependency Injection in Ember.js - First Steps"
+                description: "Balint Erdi introduces Dependency Injection and how it's used in Ember."
+                link: http://balinterdi.com/2014/05/01/dependency-injection-in-ember-dot-js.html
+            -
+                title: "Embular: Comparing Ember and Angular"
+                description: "A well written blog series by Ben Lesh of Netflix on his experiences with both Ember and Angular."
+                link: http://www.benlesh.com/2014/04/embular-part-1-comparing-ember-and.html?spref=tw
+            -
+                title: "Building Desktop Apps with Ember and Node-Webkit"
+                description: "A nice look at building the Nitrous desktop app with Ember and node-webkit, including sample code."
+                link: http://blog.nitrous.io/2014/04/30/building-desktop-apps-with-ember-and-node-webkit.html
+            -
+                title: "Creating A Metrics Dashboard With Ember.js, Bootstrap, and Rails"
+                description: "A multi-part walkthrough on how to build a Geckoboard style dashboard with Ember and Rails. ([code](https://github.com/jtescher/example-ember-rails-dashboard))"
+                link: https://medium.com/p/b11cf922408d
+            -
+                title: "Playing with Orbit.js and Ember.js"
+                description: "An exploration of rolling your own data persistence for an Ember application."
+                link: https://gist.github.com/pixelhandler/5389c72c82d26fae8fb1
+            -
+                title: "Don't override init"
+                description: "Brian Cardarella discusses the danger of overriding the ``init``, calling ``this.super()`` and how you can use the ``.on('init')`` event to avoid issues."
+                link: http://reefpoints.dockyard.com/2014/04/28/dont-override-init.html
+            -
+                title: "Ember-Validations: The problem with server-rendered errors"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/04/29/the-problem-with-server-rendered-errors.html
+            -
+                title: "Ember-Validations: Understanding validation graphs"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/04/30/understanding-validation-graphs.html
+            -
+                title: "Ember-Validations: What is holding up the uniqueness validator?"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/05/02/what-is-holding-up-uniqueness-validator.html
+            -
+                title: "Core Team Meeting Minutes - 2014/04/25"
+                description: ""
+                link: http://emberjs.com/blog/2014/04/29/core-team-meeting-minutes-2014-04-25.html
+            # -
+            #     title: "Sorting Ember ArrayController"
+            #     description: ""
+            #     link: http://blurb.github.io/blog/2014/04/23/sorting-ember-arraycontroller.html
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Ever thought about how Google reads Ember.js websites?"
+                description: "We have. Google can't normally index Ember.js sites. We fix that for you, and we'll walk you though the setup."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "{{ic-autocomplete}}"
+                description: "WAI-ARIA accessible autocomplete component (combobox) for Ember."
+                link: http://instructure.github.io/ic-autocomplete/
+            -
+                title: "Alert messages in Ember Apps"
+                description: "A technique to send a general UI alert message from anywhere in an Ember application."
+                link: http://reefpoints.dockyard.com/2014/05/01/alert-messages-in-ember-apps.html
+            -
+                title: "Full Stack JS Amber"
+                description: "A full JavaScript stack boilerplate designed to get you going quickly. Based on the [MEAN.js stack](http://meanjs.org/), it uses Express, MongoDB and Ember. It uses a REST architecture with example CRUD and user authentication."
+                link: http://fullstackjs.io/
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "Help us build cutting edge mobile solutions using Ember"
+                description: "Q2 is a young and fast growing company developing a unified desktop, tablet, and mobile (Android / iOS) set of banking applications. Our UX apps are written using Ember, HTML5 and CSS3."
+                link: https://q2ebanking.com/node/278
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberConf: The Unofficial, Official Ember Testing Guide - Eric Berry"
+                description: "This great talk from EmberConf 2014 on testing your Ember application was somehow missed from last weeks issue - a must watch."
+                link: http://confreaks.com/videos/3310-emberconf2014-the-unofficial-official-ember-testing-guide
+            -
+                title: "Prototyping An Ember.js App In 20 Minutes"
+                description: "Erik Bryn shows just how easy it is to build a radio streaming application with Ember. This presentation is comprised entirely of live code."
+                link: https://www.youtube.com/watch?v=Hm8XsgKT0Qw#ebt
+            -
+                title: "Mastering Ember.js"
+                description: "The video series which introduces the core concepts of Ember is now up to 20 short videos, covering everything from the router, models, helpers, data bindings, observers and much more."
+                link: https://www.youtube.com/playlist?list=PL0nNJgE19Y-js_1XHA5QdEU1ed_ldOaks
+            -
+                title: "répondez, s’il vous plaît – a deep dive into Ember Promise/RSVP"
+                description: "A talk from Instructure's April Ember Tech Talks where Daniel Dunkley discussed Promises & RSVP.js. ([slides](https://docs.google.com/presentation/d/1DYjd2BzCrj-no2V2NsqqEfsYlliUEWPf8hCtVVkX0lM/pub?start=false&loop=false&delayms=3000#slide=id.p))"
+                link: http://instructure.github.io/blog/2014/04/28/ember-tech-talks-april-2014/
+            -
+                title: "Joe Fiorini on Ember CLI"
+                description: "A detailed walkthrough of Ember CLI from the April's EmberNati meetup."
+                link: https://www.youtube.com/watch?v=Qsr8T0XvcNA
+            -
+                title: "Ember Sparks 8: Persistence with Ember Data and Ember App Kit"
+                description: ""
+                link: https://www.youtube.com/watch?v=S-1vV8PnkdY
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: STL Ember.js
+                description: "5th May, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174091952/"
+            -
+                title: Ember.Melb.js
+                description: "Ember Hack Night. 5th May, 6:30pm @ Papercloud HQ, Melbourne."
+                link: "http://www.meetup.com/Ember-Melb-JS/events/180217842/"
+            -
+                title: Ember.js Ottawa
+                description: "Ember Ottawa Re-launch: An Introduction to Ember. 7th May, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/177550452/"
+            -
+                title: Amsterdam Ember.js
+                description: "7th May, 7:00pm."
+                link: "http://www.meetup.com/Amsterdam-Ember-js/events/173182982/"
+            -
+                title: Boston Ember.js Group
+                description: "8th May, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/170865802/"
+            -
+                title: Ember.js Budapest
+                description: "8th May, 7:00pm @ DBX Iroda, Budapest."
+                link: "http://www.meetup.com/ember-bp/events/177047292/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 10th May, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/179988292/"
+            -
+                title: Ember.js Brussels
+                description: "15th May, 8:00pm @ Salle Fénix at Betacowork / ICAB, 1040 Etterbeek, Brussels."
+                link: "http://www.meetup.com/Ember-js-Brussels/events/156072202/"
+
+

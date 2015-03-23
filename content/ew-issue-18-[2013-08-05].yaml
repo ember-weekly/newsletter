@@ -1,0 +1,144 @@
+issue: 18
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js Mobile: Responsive Swipe/Push Menu Navigation"
+                description: "How to implement a Facebook-style left-swipe manu nav with Ember. ([code](https://github.com/blangslet/ember.js-mobile-animations-gestures) | [demo](http://ember-mobile-animations.herokuapp.com/))"
+                link: http://blangslet.com/post/56963208586/ember-js-mobile-responsive-swipe-push-menu-navigation
+            -
+                title: "Animation support in Ember 1.1"
+                description: "A proposal & discussion for animation support in Ember v1.1."
+                link: http://discuss.emberjs.com/t/animation-support-in-ember-1-1/1977
+            -
+                title: "Query-String support in Ember Router"
+                description: "A discussion on how Ember should support query strings in the router."
+                link: http://discuss.emberjs.com/t/query-string-support-in-ember-router/1962
+            -
+                title: "Building Apps with Ember (a postmortem)"
+                description: "Notes (and slides) from a talk at the Boston JS Meetup."
+                link: http://blog.embed.ly/post/56537323314/building-apps-with-ember-a-postmortem
+            -
+                title: "How to execute jQuery logic correctly after your View has been rendered"
+                description: "How to use `didInsertElement` and `afterRender` to ensure your jQuery logic renders correctly."
+                link: http://mavilein.github.io/javascript/2013/08/01/Ember-JS-After-Render-Event/
+            -
+                title: "Client Sync for the REST of Us"
+                description: "Gordon Hempton discusses dealing with client-side data conflicts and how Ember.js Persistence Foundation (EPF) deals with these conflicts."
+                link: http://codebrief.com/2013/08/client-sync-for-the-rest-of-us/
+            -
+                title: "Why does Ember.js rock?"
+                description: ""
+                link: https://kerricklong.com/articles/why-ember-js-rocks.html
+            -
+                title: "How to optimize inefficient computed properties in Ember.js"
+                description: ""
+                link: http://dev.billysbilling.com/blog/How-to-optimize-inefficient-computed-properties-in-Ember-js
+            -
+                title: "Ember.js + Sparkline: Touch-Driven Real-Time Graph Experiment"
+                description: ""
+                link: http://blangslet.com/post/56963258001/ember-js-sparkline-touch-driven-real-time-graph
+            -
+                title: "Ember Routing: The When and Why of Nesting"
+                description: ""
+                link: http://hashrocket.com/blog/posts/ember-routing-the-when-and-why-of-nesting
+            -
+                title: "How to handle invalid URLs"
+                description: ""
+                link: http://dinethmendis.com/blog/2013/7/30/handling-unsupported-urls-with-emberjs
+
+    -
+        heading: "Ember Fest"
+        image: "https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/ac25c8565ec37f9299ac75ca0/images/logo_smallf3833f.png"
+        advert: true
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany. A three day event featuring Training sessions, a full day Hackathon and a full day Conference. This will be the European Ember.js event of the year! Starting on August 29th and ending on August 30th, with a conference dinner and after party."
+                # image: https://si0.twimg.com/profile_images/378800000030945398/cf9a81d8d81affa2126f00af65708ed6.png
+                link: http://emberfest.eu/
+
+    -
+        heading: Ember.Component
+        headlines:
+            -
+                title: "Difference between View & Component"
+                description: "A quick illustration of the difference between Ember.View and Ember.Component."
+                link: http://jsbin.com/owokap/1/edit
+            -
+                title: "Doughnut Charts with D3 & Ember.Component"
+                description: ""
+                link: http://jsbin.com/donuts/1/edit
+            -
+                title: "Star Rating Ember.Component"
+                description: "An example of a Star Rating component born from a [conversation on twitter](https://twitter.com/trek/status/363039940940017664)."
+                link: http://jsbin.com/obipuc/3/edit
+            -
+                title: "Tweet Button Ember.Component"
+                description: "A Twitter 'tweet' button & Google +1 button using Ember.Component."
+                link: http://jsbin.com/upogic/1/edit
+            -
+                title: "Auto-complete Ember.Component"
+                description: ""
+                link: http://jsbin.com/alabob/88/edit
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: "Cage Match - Ember vs. Angular"
+    #             description: "Peter Cooper hosts the Ember vs. Angular cage match between Tom Dale and Rob Conery at NDC in Oslo."
+    #             link: http://vimeo.com/68215606
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Grunt EmberScript"
+                description: "Grunt task that compiles against the EmberScript compiler."
+                link: https://github.com/ghempton/grunt-ember-script
+            -
+                title: "Sublime Text 2 Ember Snippets"
+                description: "A collection of snippets for the Sublime Text 2 text editor."
+                link: https://github.com/fabriciotav/ember-snippets-for-sublime-text-2
+            -
+                title: "ember-rails4-starter-kit"
+                description: "Rails 4 + Ember.js + Devise + Bootstrap 3"
+                link: https://github.com/amaanr/ember-rails4-starter-kit
+            -
+                title: "Ember Renderspeed"
+                description: "A script for instrumenting rendering speed in an Ember.Js Application"
+                link: https://github.com/eviltrout/ember-renderspeed
+            
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Washington, DC Meetup"
+                description: "6th August, 7:00pm @ Jack Rose Dining Saloon."
+                link: http://www.meetup.com/Ember-JS-DC/events/128544622/
+            -
+                title: "Boston Meetup"
+                description: "8th August, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/129526392/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Ember 1.0 Documentation Push"
+                description: "There's a lot of work going into auditing the Ember docs ready for v1.0. Chip in to help get them up to scratch."
+                link: https://github.com/emberjs/ember.js/pull/3082

@@ -1,0 +1,143 @@
+issue: 32
+strapline: "Your weekly source of Ember News"
+content:
+
+   -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Mobile Ember Performance"
+                description: "Rob Harper's short presentation on how to improve Ember's performance on mobile."
+                link: http://robharper.github.io/ember-on-mobile/performance.html#/intro
+            -
+                title: "Ember.js Basics - What is Ember?"
+                description: "Brent Schooley introduces Ember in his first post as part of his Ember.js Basics series."
+                link: http://codesnack.com/blog/2013/11/13/emberjs-basics-what-is-ember
+            -
+                title: "Embereños: Adam Sunderland - Molecule"
+                description: "Weekly interviews with companies and people using ember. This week's interview is with Adam Sunderland from Molecule."
+                link: http://emberenos.com/interviews/2013/11/13/adam-sunderland-molecule-software
+            -
+                title: "Ember Components Website"
+                description: "A work-in-progress website dedicated to all things Ember Components. It looks promising with a [list of useful components](http://ember-components.com/#/components) and an [introduction to components](http://ember-components.com/#/articles). It's also open source, so why not [contribute and help get it going](http://ember-components.com/#/contribute)?"
+                link: http://ember-components.com/
+            -
+                title: "Dr. Ember Doctor: tool for diagnosing/improving Ember Apps"
+                description: "An interesting proposal by Alex Matchneer to create an NPM cli tool or an extension to Ember Inspector to help spot common mistakes in Ember Apps."
+                link: http://discuss.emberjs.com/t/dr-ember-doctor-tool-for-diagnosing-improving-ember-apps/3338
+            -
+                title: "Validations with Ember.js"
+                description: ""
+                link: http://expertalks.wordpress.com/2013/11/11/validations-with-ember-js/
+            -
+                title: "Ember Components – Build a Star Rating Component"
+                description: ""
+                link: http://www.wintellect.com/blogs/nstieglitz/ember-components-%E2%80%93-build-a-star-rating-component
+
+   -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Intro to Ember.js by Igor Terzic"
+                description: "Igor Terzic gives a whirlwind tour of Ember.js at So Coded."
+                link: https://www.youtube.com/watch?v=DrFkx9E3hjg&hd=1
+            -
+                title: "Validations & EasyForm"
+                description: "October 2013 NYC Meetup talk by Brian Cardarella."
+                link: https://www.youtube.com/watch?v=bzT0ezT-Jn8#t=665
+            -
+                title: "(Reduce)Computed"
+                description: "October 2013 NYC Meetup lightening talk by Jonathan Goldman."
+                link: https://www.youtube.com/watch?v=bzT0ezT-Jn8#t=2672
+            -
+                title: "Ember App Kit and the Ember Resolver"
+                description: "October 2013 NYC Meetup lightening talk by Thomas Boyt."
+                link: https://www.youtube.com/watch?v=bzT0ezT-Jn8#t=3747
+            -
+                title: "New Features in Ember 1.2"
+                description: "October 2013 NYC Meetup lightening talk by Alex Matchneer."
+                link: https://www.youtube.com/watch?v=bzT0ezT-Jn8#t=4735
+            -
+                title: "Understanding Actions and Events in Ember"
+                description: "October 2013 NYC Meetup talk by Luke Melia."
+                link: https://www.youtube.com/watch?v=bzT0ezT-Jn8#t=5796
+            -
+                title: "Productive Out-of-the-Box with Ember.js"
+                description: "Anthony Bull overviews some of the tools that help being productive with Ember.js, providing details on Yeoman. From EmberFest 2013."
+                link: http://www.infoq.com/presentations/emberjs-tools-yeoman
+
+   -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember.string.interpolate"
+                description: "Adds interpolated string computed properties to Ember (i.e. no more unreadable getter concatenation). ([blog post](http://jayphelps.com/post/introducing-ember.string.interpolate))"
+                link: https://github.com/jayphelps/ember.string.interpolate
+            -
+                title: "Better Filtered Content"
+                description: "Last week we linked to a [Simple Filtered Content](http://emberjs.jsbin.com/OtUqoBi/1/edit) example. Shai Alon got in contact with an example of how his team are using CSS to improve filtered performance due to [scaling issues]( http://emberjs.jsbin.com/iKIKibo/3/edit) with the previous example."
+                link: http://emberjs.jsbin.com/OqowIni/1/edit
+            -
+                title: "karma-requirejs-qunit-ember-tdd"
+                description: "A seed application showing how to integrate karma, requirejs, qunit, and ember, which illustrates how to write unit level tests for ember models, and dom level tests for ember views and components. ([discuss](http://discuss.emberjs.com/t/we-just-released-a-toolkit-for-integrating-ember-with-karma-requirejs-and-qunit/3316))"
+                link: https://github.com/practicefusion/karma-requirejs-qunit-ember-tdd
+            -
+                title: "Changing Page Title with Ember"
+                description: "Example of changing page title with Ember routes by Alex Matchneer. Also check out the [discussion on integrating feature into Ember](http://discuss.emberjs.com/t/document-title-integration-into-ember/3324/)"
+                link: http://jsbin.com/ucanam/2060/edit
+            -
+                title: "Broccoli - Compilation framework for browser assets"
+                description: "Jo Liss has been working on \"a fast, reliable asset builder & server. Hard-coded to build Ember apps for now, to be generalized later\". Note: It's still in pre-alpha."
+                link: https://github.com/joliss/broccoli
+            -
+                title: "Ember Phone"
+                description: "Ember Phone is a clone of the Phone app in iOS7, showcasing how you can use components & controllers. ([jsbin](http://emberjs.jsbin.com/iheQIFu/1/edit) | [code](https://github.com/joefiorini/ember-phone))"
+                link: http://joefiorini.github.io/ember-phone/
+
+   -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            # -
+            #     title: "At BackOps we get it done!"
+            #     description: "BackOps is transforming the way businesses manage their back office. We’re looking for a kick-ass Front-End Eng. to develop fast and efficient front-ends with Ember on the front and Rails on the back. So if this is you, come work with us!"
+            #     link: http://www.jobscore.com/jobs/backops/front-end-developer-san-francisco-ca/bg8MAIJgSr4R14eJe4egig?ref=rss&sid=68
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+
+   -
+        heading: "Events"
+        headlines:
+            -
+                title: "Boston Meetup"
+                description: "14th November, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/146077642/
+            -
+                title: "Austin, TX Meetup"
+                description: "14th November, 7:00pm @ The FrontSide."
+                link: http://www.meetup.com/Ember-ATX/events/141533102/
+            -
+                title: "NEW: São Paulo, Brazil Meetup"
+                description: "14th November, 7:00pm @ Tagon8."
+                link: http://www.meetup.com/Ember-js-Sao-Paulo/events/149014782/
+            -
+                title: "New York Meetup"
+                description: "20th November, 7:00pm @ Pivotal Labs."
+                link: http://www.meetup.com/EmberJS-NYC/events/147324212/
+            -
+                title: "Seattle Meetup"
+                description: "21st November, 6:30pm @ Usermind."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/148056892/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+

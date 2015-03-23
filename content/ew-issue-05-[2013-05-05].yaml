@@ -1,0 +1,144 @@
+issue: 5
+strapline: "Ember Data Update, JSON API, & more Ember goodness..."
+content:
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember Data Progress Update"
+                description: "A must read if you're an Ember Data user or waiting for it to stabilize. There's a new focus on a standard interchange format between client/server ([JSON API](http://jsonapi.org/)), no more BasicAdapter, regular beta's coming soon."
+                domain: emberjs.com
+                link: http://emberjs.com/blog/2013/05/03/ember-data-progress-update.html
+            -
+                title: "JSON API"
+                description: "Mentioned in the Ember Data Progress Update but warrants it's own headline. The standard interchange format being defined for conventional communication between client/server. Work in progress and open to feedback."
+                domain: jsonapi.org
+                link: http://jsonapi.org/
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Getting Into Ember.js: Part 4"
+                description: "The 4th part of the series [[1](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/),[2](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-2/),[3](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-3/)] looks more closely at how Ember uses the Handlebars templating framework to define your app's user interface."
+                domain: net.tutsplus.com
+                link: http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-part-4/
+            -
+                title: "Backbone, Ember and Angular in a boat"
+                description: "A beautiful presentation comparing Backbone.js, Ember.js & Angular.js. (Slides content are English)"
+                domain: loicfrering.github.io
+                link: http://loicfrering.github.io/mixit13/
+            -
+                title: "How and why Ember Data breaks"
+                description: "An overview of Ember Data & why it seems broken to some developers."
+                domain: thomasboyt.com
+                link: http://www.thomasboyt.com/2013/05/01/why-ember-data-breaks.html
+
+
+    # -
+    #     heading: "Promoted Link"
+    #     headlines:
+    #         -
+    #             title: "Sponsor Ember Weekly"
+    #             description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Applications: A Series of States - by Trek Glowacki"
+                description: "An exploration of application structure patterns, from purely server oriented request/response flow to fully featured client applications in the browser and how Ember assists with client applications."
+                domain: vimeo.com
+                link: http://vimeo.com/65504071
+            -
+                title: "Introducing Ember.ListView - by Erik Bryn @ Seattle Meetup"
+                description: "Erik covers why & when you might need ListView and how you use it. Some Interesting performance talk too."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=i3vEjbjV8Sk
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Timetree"
+                description: "Visualize hierarchical timeline data using Ember & D3.js."
+                domain: crowdstrike.github.io
+                link: http://crowdstrike.github.io/ember-timetree/
+            -
+                title: "Announcing Charcoal, the easiest way to create Ember projects"
+                description: "An alternative Yeoman generator for Ember. Uses Trek's [grunt-neuter](https://github.com/trek/grunt-neuter) for file concatenation."
+                domain: gist.github.com
+                link: http://www.thomasboyt.com/2013/05/02/announcing-charcoal.html
+            -
+                title: "backburner.js - Ember's Run Loop micro-library"
+                description: "Erik Bryn has split out Ember's Run Loop into a separate framework-agnostic micro-library. Will be [replacing current Ember Run Loop soon](https://github.com/emberjs/ember.js/pull/2603)."
+                domain: github.com
+                link: https://github.com/ebryn/backburner.js
+            -
+                title: "Ember Model - REST & Firebase Adapters"
+                description: "Hot of the back of the Ember Data announcements, Erik Bryn has updated Ember Model with a [RESTAdapter](https://github.com/ebryn/ember-model/commit/caa47ba8ee9c2decea7173d0088e7e162eb19c01) & a [Firebase Adapter](https://github.com/ebryn/ember-model-firebase-adapter)."
+                domain: github.com
+                link: https://github.com/ebryn/ember-model
+            -
+                title: "grunt-init-ember"
+                description: "A simple grunt task to get you going with Ember - creates a folder structure, compiles templates & provides express server."
+                domain: github.com
+                link: https://github.com/alejandro/grunt-init-ember
+            -
+                title: "Live Reload Handlebars Templates"
+                description: "Mentioned in Sam Saffron's blog post, [Eliminating my trivial inconveniences building Discourse](http://samsaffron.com/archive/2013/05/03/eliminating-my-trivial-inconveniences), Bradley Priest extracts a snippet to reload your Ember Handlebars templates from the console."
+                domain: gist.github.com
+                link: https://gist.github.com/bradleypriest/5507321
+
+
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+                title: "Looking for an Ember Developer?"
+                description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+                domain: emberweekly.com
+                link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember.js Hacker Hours - New York Meetup"
+                description: "7th May, 6:00pm @ Red Rover. If you're in NYC, pop in to get help, give help, and hack. An informal session to allow people to work on their Ember projects, and ask & answer questions."
+                domain: meetup.com
+                link: http://www.meetup.com/EmberJS-NYC/events/116300432/
+            -
+                title: "Ember Hack Night - Southern California Meetup"
+                description: "7th May, 6:30pm @ Collab Space. Food, drinks and work on your Ember related projects."
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-SC/events/116049502/
+            -
+                title: "Ember Paris Meetup"
+                description: "7th May, 7:30pm. Yehuda Katz will be making a special guest appearance."
+                domain: meetup.com
+                link: http://www.meetup.com/EmberJS-Paris/events/116734482/
+            -
+                title: "Glasgow.js User Group"
+                description: "7th May @ Strathclyde University. Paul Cowan will be presenting 'Ember.js - The educated javascript MV* choice'."
+                domain: glasgowjs.com
+                link: http://glasgowjs.com/
+            -
+                title: "Ember Boston Meetup"
+                description: "8th May, 6:30pm. Alex Navasardyan will give an introduction to Ember List-View & Dan McClain will cover Ember Basics."
+                domain: meetup.com
+                link: http://www.meetup.com/Boston-Ember-js/events/116913382/
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "Ember.KonamiCode"
+                description: "A quick snippet to add the Konami Code easter egg to you application."
+                domain: gist.github.com
+                link: https://gist.github.com/bradleypriest/5521322
+

@@ -1,0 +1,138 @@
+issue: 24
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "News"
+        headlines:
+            -
+                title: "Ember 1.1.0 Beta 1 Released"
+                description: "As promised by the [new release process](http://emberjs.com/blog/2013/09/06/new-ember-release-process.html), this week saw the first beta of Ember 1.1 released consisting mainly of bug fixes."
+                link: http://emberjs.com/builds/#/beta/latest
+            -
+                title: "Ember Cookbooks"
+                description: "The Ember guides now have a \"Cookbook\" section that provides answers and solutions to common Ember questions and problems."
+                link: http://emberjs.com/guides/cookbook/
+           
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Introducing the Ember App Kit"
+                description: "Matthew Beale gives a walkthrough of the Ember App Kit project."
+                link: http://blog.safaribooksonline.com/2013/09/18/ember-app-kit/
+            -
+                title: "Ember Sherpa: Introduction to Ember App Kit"
+                description: "Another detailed introduction of Ember App Kit."
+                link: http://beta.embersherpa.com/articles/introduction-to-ember-app-kit/
+            -
+                title: "How Complex are TodoMVC Implementations"
+                description: "An in-depth look at the popular TodoMVC implementations and how their complexity compare."
+                link: http://blog.coderstats.net/todomvc-complexity/
+            -
+                title: "An Ember.js beginners tutorial"
+                description: ""
+                link: http://www.williamhart.info/an-emberjs-beginners-tutorial.html
+            -
+                title: "Componentised Form Validation for Emberjs"
+                description: ""
+                link: http://garthw.wordpress.com/2013/09/17/ember-form-validation/
+            
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+    #         -
+    #             title: "Live Pair programming on Ember.computed.concat"
+    #             description: "Alex Navasardyan and @hjdivad recorded 3hr 6mins (!) of live pair programming on a new Ember Computed ``concat`` macro."
+    #             link: http://www.twitch.tv/hjdivad/b/460885763
+            -
+                title: "The Promise Land by Stefan Penner"
+                description: "Stefan talks about Promises and RSVP.js at the Boston September Meetup."
+                link: http://www.youtube.com/watch?v=g5CSaK3HqVA
+            -
+                title: "Understanding Events & Actions by Luke Melia"
+                description: "The video from Luke's talk from the Boston September Meetup on events & actions in Ember. ([slides](https://speakerdeck.com/lukemelia/events-and-actions-in-ember-dot-js))"
+                link: http://www.youtube.com/watch?feature=player_detailpage&v=g5CSaK3HqVA#t=3510
+            
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Component Library Template"
+                description: "Get started building your own custom components for Ember."
+                link: https://github.com/moonlight-labs/ember-component-library-template
+            -
+                title: "Ember Validations"
+                description: "1.0.0 Beta 1 released. Validations for Ember Objects. ([demo](http://emberjs.jsbin.com/EveQOke/1/edit))"
+                link: https://github.com/dockyard/ember-validations
+            -
+                title: "Ember easyForm"
+                description: "1.0.0 Beta 1 released. Easily build semantic forms in Ember. ([demo](http://emberjs.jsbin.com/EveQOke/1/edit))"
+                link: https://github.com/dockyard/ember-easyForm
+            -
+                title: "Ember Addon Kit"
+                description: "Boilerplate repository for creating ember addons."
+                link: https://github.com/rpflorence/ember-addon-kit
+            -
+                title: "Number Counter Ember Component"
+                description: "by Heyjin Kim"
+                link: http://jsbin.com/number-counter-component/1/edit
+            
+            
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "Front End Web Engineer - Clutch Analytics/Windhaven Insurance (Austin, TX)"
+                description: "Get the coolest job in Austin building Ember.js apps with our innovative startup. Build greenfield apps for a rapidly growing automotive insurer. This unique opportunity requires team players with senior JS experience. Job.Plus = Ember.Experience.extend(); [contact us](mailto:jia.asencio@windhaveninsurance.com?Subject=Front%20End%20Web%20Engineer%20-%20Ember%20Weekly%20Job%20Posting) "
+                link: http://www.windhaveninsurance.com/
+            
+            # -
+            #    title: "Looking for an Ember Developer?"
+            #    description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+            #    domain: emberweekly.com
+            #    link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Paris Meetup"
+                description: "24th September, 7:30pm @ Xebia France."
+                link: http://www.meetup.com/EmberJS-Paris/events/138208482/
+            -
+                title: "Chicago Meetup"
+                description: "24th September, 7:00pm @ Lightbank."
+                link: http://www.meetup.com/Chicago-Ember-js/events/139243182/
+            -
+                title: "Austin, TX Meetup"
+                description: "26th September, 7:00pm @ The FrontSide."
+                link: http://www.meetup.com/Ember-ATX/events/136767882/
+            -
+                title: "Boston OpenHack Meetup"
+                description: "26th September, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/140201602/
+            -
+                title: "Salt Lake City Meetup"
+                description: "26th September, 6:30pm @ Instructure."
+                link: http://www.meetup.com/EmberJS-SLC/events/135018692/
+            -
+                title: "NEW: San Juan, Puerto Rico Meetup"
+                description: "1st October, 6:00pm @ Blimp HQ."
+                link: http://www.meetup.com/Ember-PR/events/140883452/
+            -
+                title: "NEW: Oslo, Norway Meetup"
+                description: "17th October, 6:00pm @ Teknologihuset."
+                link: http://www.meetup.com/Ember-js-Oslo/events/140872742/
+            
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "New Core Team Member: Alex Matchneer"
+                description: "Congratulations to Alex Matchneer (@machty) aka \"Mr Router\" for being named an Ember.js Core Team Member last week. Alex is best know for his work on the Async-Router facelift, [Emblem.js](http://emblemjs.com/) & [Embercasts](http://www.embercasts.com/) (with Erik Bryn)."
+                link: http://emberjs.com/team/
+

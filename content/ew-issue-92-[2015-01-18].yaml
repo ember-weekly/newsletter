@@ -1,0 +1,210 @@
+issue: 92
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.1.7 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.1.7
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Overriding Init or Listening on Init?"
+                description: ""
+                link: http://blog.ksol.fr/ember-js-overriding-or-listening-init/
+            -
+                title: When to Use Ember.get (and Ember.set)
+                description: ""
+                link: http://blog.ksol.fr/when-to-use-ember-get/
+            -
+                title: "Rock & Roll with Ember.js Book Preview"
+                description: ""
+                link: http://preview.rockandrollwithemberjs.com/introduction_to_emberjs
+            -
+                title: "Ember.js & Reactive Programming — Computed Properties and Observers"
+                description: ""
+                link: https://medium.com/the-ember-way/ember-js-reactive-programming-computed-properties-and-observers-cf80c2fbcfc
+            -
+                title: "A Deep Dive Into the Motivations and Benefits of the Ember Runloop"
+                description: ""
+                link: http://brains.rabid.co.nz/2014/12/15/ember-runloop-handbook.html
+            -
+                title: "Blog Tutorial with Ember.js using Ember-CLI and Firebase"
+                description: ""
+                link: http://www.programwitherik.com/blog-tutorial-with-ember-js/
+            -
+                title: "Create a REST Backend For Ember.js With Node.js, Express, and Mongoose"
+                description: ""
+                link: http://connorbrewster.me/nodejs-rest-server-emberjs/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember JSBin Example Collection by Robert Jackson"
+                description: ""
+                link: https://gist.github.com/rwjblue/8816372
+            -
+                title: "ember-data-hal-9000: Ember-Data Adapter for HAL-Style APIs"
+                description: ""
+                link: https://www.npmjs.com/package/ember-data-hal-9000
+            -
+                title: "ember-idx-tree: Tree Component for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-idx-tree
+            -
+                title: "ember-idx-accordion: Accordion Component for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-idx-accordion
+            -
+                title: "ember-cli-password-toggle: Show/Hide Password via a Toggle"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-password-toggle
+            -
+                title: "ember-orchestrate: Ember Data Adapter for Orchestrate.io"
+                description: ""
+                link: https://www.npmjs.com/package/ember-orchestrate
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+               description: ""
+               link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Cory Forsyth on Test-Driving Ember"
+                description: ""
+                link: http://blog.unspace.ca/post/107903324912/cory-forsyth-on-test-driving-ember
+            -
+                title: "Architecting Ember in Production - Bryan Crotaz"
+                description: ""
+                link: http://vimeo.com/116758451
+            -
+                title: "Q&A: Dialling it in at Ember London - Ken Snyder"
+                description: ""
+                link: http://vimeo.com/116770542
+            -
+                title: "Computed Property Macros - Doug Yun"
+                description: ""
+                link: https://www.youtube.com/watch?v=8TKE8E1Quwo#t=40
+            -
+                title: "Lazy Loading Videos - Lauren Elizabeth Tan"
+                description: ""
+                link: https://www.youtube.com/watch?v=8TKE8E1Quwo#t=1256
+            -
+                title: "Ember.js and C#.NET Full Stack - Michael Edson"
+                description: ""
+                link: https://www.youtube.com/watch?v=8TKE8E1Quwo#t=1930
+            -
+                title: "Ember-CLI-I18N - Brian Cardarella"
+                description: ""
+                link: https://www.youtube.com/watch?v=8TKE8E1Quwo#t=3481
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "ReactWeek: Interested in learning React.js?"
+                description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+                link: http://reactweek.com
+            -
+                title: Static Showdown Hackathon
+                description: "24-25th January, Worldwide. Registration Closes 22nd January"
+                link: "http://www.staticshowdown.com"
+            -
+                title: Dallas
+                description: "19th January, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/219143475/"
+            -
+                title: San Juan
+                description: "19th January, 7:00pm @ Blimp HQ, San Juan."
+                link: "http://www.meetup.com/Ember-PR/events/219705371/"
+            -
+                title: Vancouver
+                description: "20th & 27th January, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/219845995/"
+            -
+                title: São Paulo
+                description: "20th January, 7:00pm @ Starbucks, São Paulo."
+                link: "http://www.meetup.com/ember-sp/events/219855668/"
+            -
+                title: Cincinnati
+                description: "21st January, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/219859649/"
+            -
+                title: Seattle
+                description: "21st January, 6:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/219663254/"
+            -
+                title: Brussels
+                description: "21st January, 7:30pm @ InSilico DB (5th floor), Brussels."
+                link: "http://www.meetup.com/Ember-js-Belgium/events/219639654/"
+            -
+                title: Philadelphia
+                description: "22nd January, 6:30pm @ PromptWorks, Philadelphia."
+                link: "http://www.meetup.com/EmberJS-Philly/events/219601991/"
+            -
+                title: New York
+                description: "22nd January, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/219040871/"
+            -
+                title: Austin
+                description: "22nd January, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/217494132/"
+            -
+                title: Denver
+                description: "27th January, 6:30pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/219837835/"
+            -
+                title: "NEW: Silicon Valley"
+                description: "28th January, 7:00pm"
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/"
+
+
+    # -
+    #     heading: "Finally"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "ReactWeek: Interested in learning React.js?"
+    #             description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+    #             link: http://reactweek.com

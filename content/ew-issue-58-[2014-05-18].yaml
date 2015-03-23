@@ -1,0 +1,172 @@
+issue: 58
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Inspector v1.3.0"
+                description: "Includes a new rendering performance tab with details on how long your views take to render, as well as bug fixes."
+                link: https://github.com/emberjs/ember-inspector/blob/master/CHANGELOG.md#ember-inspector-130
+            -
+                title: "Ember v1.6.0 Beta 4"
+                description: ""
+                link: https://github.com/emberjs/ember.js/blob/v1.6.0-beta.4/CHANGELOG.md
+            -
+                title: "Ember CLI v0.0.28"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/blob/master/CHANGELOG.md#0028
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Dependency Injection in Ember.js - Going Deeper"
+                description: "Balint Erdi takes a deep dive into how the container works in Ember, following on from his previous [introduction to dependency injection in Ember](http://balinterdi.com/2014/05/01/dependency-injection-in-ember-dot-js.html)."
+                link: http://balinterdi.com/2014/05/16/dependency-injection-in-ember-dot-js-going-deeper.html
+            -
+                title: "Angular, Backbone, or Ember: Which is Best for your Build?"
+                description: "A guide to help understand which tool is right for the your task."
+                link: http://blog.codeschool.com/post/85819292538/angular-backbone-or-ember-which-is-best-for-your
+            -
+                title: "An Introduction to Ember.js"
+                description: "An approachable guide to getting started with Ember."
+                link: http://andycrum.com/2014/05/17/an-introduction-to-ember-js/
+            -
+                title: "From Gulp.js to Ember CLI"
+                description: "An introduction to Ember CLI and how a Gulp.js based project was converted in 4 hours."
+                link: https://medium.com/ember-js-framework/450f1ffb1967
+            -
+                title: "Ember Delivers Rapid Improvements at Intercom"
+                description: "A look at why Intercom decided to migrate their app, written completely in Rails, to use Ember with a Rails API."
+                link: http://insideintercom.io/ember-delivers-rapid-improvements-at-intercom/
+            -
+                title: "Proposal: Nested URLs for Ember Data’s RestAdapter"
+                description: "A proposal by Igor Terzic to improve support for complex and nested URLs in Ember Data."
+                link: http://discuss.emberjs.com/t/nested-urls-for-ember-datas-restadapter-proposal/5290
+            -
+                title: "An Ember Canvas Component"
+                description: ""
+                link: http://jamisondance.com/05-11-2014/an-ember-canvas-component/
+            -
+                title: "Drag and Drop Ember Components"
+                description: ""
+                link: http://www.jarrodctaylor.com/posts/Drag-And-Drop-Ember-Components/
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember-Jasmine"
+                description: "Unit test helpers for Ember using Jasmine."
+                link: https://github.com/subeeshb/ember-jasmine
+            -
+                title: "Factory"
+                description: "Building JavaScript objects inspired by rosie.js and factory_girl"
+                link: https://github.com/tb/factory
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            # -
+            #     title: "Testing with Mocha + ES6 Generators - Major Breakfast"
+            #     description: "A talk from May's Ember Munich."
+            #     link: https://www.youtube.com/watch?v=UodzA1ufyW4
+            -
+                title: "Frontside Podcast Ep 4: EmberConf Recap"
+                description: "A discussion on last month's EmberConf, what's going on with components, the current state of testing in Ember and how developers are working towards making it easier."
+                link: https://frontsidethepodcast.simplecast.fm/4
+            -
+                title: "The Road to Web Components - Tom Dale"
+                description: "Tom discusses the state of Web Components and how Ember's Components bring many of the features of Web Components to developers today. ([slides](https://speakerdeck.com/tomdale/the-road-to-web-components))"
+                link: https://www.youtube.com/watch?v=yLyyXHhSl8w
+            -
+                title: "Status of Ember CLI - Major Breakfast"
+                description: "A talk from May's Ember Munich meetup introducing Ember CLI. It covers some of the latest and upcoming features."
+                link: https://www.youtube.com/watch?v=s0L2P7ZVzhc
+            -
+                title: "Ember Query Parameters - Elte Hupkes"
+                description: "A look at the history of query parameters in Ember with a look at the current solution in Ember Canary. ([slides](http://metaphoric.nl/files/meetup-qp-presentation/#/))"
+                link: https://www.youtube.com/watch?v=nyD7CRuA-PU
+            -
+                title: "Minding the DOM - Oz Lodriguez"
+                description: "Some of the top benefits HTMLBars will bring to Ember. ([slides](http://oscarlodriguez.nl/Labs/htmlbars/#/))"
+                link: https://www.youtube.com/watch?v=sVosGhMJN3M
+            -
+                title: "Methods to animate in Ember - Dennis Tel"
+                description: "A quick look at some of the options for animating views in Ember today."
+                link: https://www.youtube.com/watch?v=YQyB-anJNss
+            -
+                title: "Adding Pagination with Controllers - Erik Bryn"
+                description: "A short example of adding pagination to long lists by Erik Bryn - from his Ember training sessions."
+                link: http://f.cl.ly/items/321G3S2z1g0B28372K0n/Training%20Screencast%20-%201%20-%20Controller-based%20pagination.mp4
+            -
+                title: "Ember Sparks 10: Create and Destroy"
+                description: "The latest Ember Sparks covers creating and destroying a record using Ember Data and promises."
+                link: http://www.sparkcasts.net/posts/10
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.js San Francisco
+                description: "20th May, 6:30pm @ Blurb, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/164898192/"
+            -
+                title: Ember.js Dublin
+                description: "May Meetup with Tom Dale and James Rosen. 20th May, 6:30pm @ Engine Yard Offices, Dublin."
+                link: "http://www.meetup.com/emberjsdublin/events/179186602/"
+            -
+                title: Ember.js NYC
+                description: "Ember Hacker Hours: Hack in Pairs, Musical Chairs. 20th May, 7:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/182769462/"
+            -
+                title: Ember-SC
+                description: "20th May, 7:00pm @ Wiredrive, Marina Del Rey."
+                link: "http://www.meetup.com/Ember-SC/events/181338442/"
+            -
+                title: Embernati
+                description: "21st May, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/178538862/"
+            -
+                title: London Ember.js User Group
+                description: "21st May, 6:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/177646192/"
+            -
+                title: Ember.JS SLC
+                description: "Hack Night. 22nd May, 6:30pm @ Instructure, Salt Lake City."
+                link: "http://www.meetup.com/EmberJS-SLC/events/179791962/"
+            -
+                title: Ember ATX
+                description: "22nd May, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/179828852/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

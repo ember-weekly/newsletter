@@ -1,0 +1,156 @@
+issue: 71
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.7.0 and 1.8 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/08/23/ember-1-7-0-released.html
+            -
+                title: "Ember Data 1.0.0 Beta 9 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/08/18/ember-data-1-0-beta-9-released.html
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember RFCs - Proposals for changes to Ember"
+                description: ""
+                link: https://github.com/emberjs/rfcs
+            -
+                title: "Ember CLI Add-on Search"
+                description: ""
+                link: http://addons.builtwithember.io/
+            -
+                title: "Time to get hacking – Introducing Mozilla's Rec Room"
+                description: ""
+                link: https://hacks.mozilla.org/2014/08/time-to-get-hacking-introducing-rec-room/
+            -
+                title: "Real-time Data for an Ember.js Application using WebSockets"
+                description: ""
+                link: http://pixelhandler.com/posts/real-time-data-for-an-emberjs-application-using-websockets
+            -
+                title: "How to increase your chances of getting help on #emberjs"
+                description: ""
+                link: http://ember.zone/how-to-increase-your-chances-of-getting-help-on-emberjs/
+            -
+                title: "UX analytics with Ember.js"
+                description: ""
+                link: http://aaron.haurwitz.com/#!/posts/ux-analytics-with-emberjs
+            -
+                title: "Ember Community Guidelines"
+                description: ""
+                link: http://emberjs.com/guidelines/
+            -
+                title: "Build a New App with Laravel and Ember.js in Vagrant"
+                description: ""
+                link: http://www.sitepoint.com/build-new-app-laravel-emberjs-vagrant/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Building a juicy progress bar component in Ember"
+                description: ""
+                link:  http://blog.venn.lc/building-a-juicy-progress-bar-component-in-ember/
+            -
+                title: "Simple Query Params Example"
+                description: ""
+                link: http://jsbin.com/ucanam/6100/edit
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js with Ember-Cli by Sachin Sagar Rai"
+                description: ""
+                link: https://www.youtube.com/watch?v=Z_HCTb5I1lM
+            -
+                title: "Using Sails.js with Ember.js - Markus Padourek"
+                description: ""
+                link: http://vimeo.com/103711300
+            -
+                title: "Ember.js in Action - Joachim Haagen Skeie"
+                description: ""
+                link: http://vimeo.com/103702784
+            -
+                title: "Rails + Ember.js + Ember-CLI - Robert Jackson"
+                description: ""
+                link: http://vimeo.com/103608308
+            -
+                title: "Let’s Make Some Great Art with Ember.js - Thomas Marshall"
+                description: ""
+                link: http://vimeo.com/103711301
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.Melb.js
+                description: "25th August, 7:00pm @ Papercloud HQ, Melbourne."
+                link: "http://www.meetup.com/Ember-Melb-JS/events/201085392/"
+            -
+                title: Ember.js San Francisco
+                description: "26th August, 6:30pm @ Zendesk, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/192184542/"
+            -
+                title: Ember.js Denver
+                description: "26th August, 6:30pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/201582232/"
+            -
+                title: Ember-SC
+                description: "26th August, 7:00pm @ Runtriz, Los Angeles."
+                link: "http://www.meetup.com/Ember-SC/events/199613642/"
+            -
+                title: Ember.js Vancouver
+                description: "27th August, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/199874962/"
+            -
+                title: Chicago Ember.js
+                description: "28th August, 6:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/202025532/"
+            -
+                title: Ember.JS SLC
+                description: "28th August, 6:30pm @ Instructure, Salt Lake City."
+                link: "http://www.meetup.com/EmberJS-SLC/events/198171132/"
+            -
+                title: Ember.js NYC
+                description: "28th August, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/193407112/"
+            -
+                title: Ember ATX
+                description: "28th August, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/195714282/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

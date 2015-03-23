@@ -1,0 +1,141 @@
+issue: 42
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.4 Beta 3 Available"
+                description: "Support for jQuery versions 1.11 and 2.1 and improved documentation."
+                link: https://github.com/emberjs/ember.js/blob/v1.4.0-beta.3/CHANGELOG.md
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/01/17"
+                description: "The team look at the pending pull requests and the work needed to get them into the next builds."
+                link: http://emberjs.com/blog/2014/01/19/core-team-meeting-minutes-2014-01-17.html
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Promises Instead of Callbacks"
+                description: "Balint Erdi walks through the conversion of an app to use promises in it's server communication."
+                link: http://balinterdi.com/2014/01/21/promises-instead-of-callbacks.html
+            -
+                title: "Containers & Dependency in Ember.js"
+                description: "Learn how to use Ember’s container and dependency features to move beyond MVC, as well as learning how they tie Ember internals together."
+                link: http://www.slideshare.net/mixonic/containers-di
+            -
+                title: "Why I Chose Ember over Angular"
+                description: "Alex Brinkman gives his reasons for choosing Ember over of Angular."
+                link: http://enlightenedpixel.com/why-i-chose-ember-over-angular
+            -
+                title: "Custom Link-to Refactor"
+                description: "A follow up post to [last week's post](http://www.thesoftwaresimpleton.com/blog/2014/01/11/custome-link-to/) where Paul Cowan covers issues that he ran into with the original implementation."
+                link: http://www.thesoftwaresimpleton.com/blog/2014/01/24/custom-link-to-refactor/
+            -
+                title: "HTMLBars by Erik Bryn"
+                description: "Erik gave a sneak preview of HTMLBars at the latest San Francisco meetup. Also check out [ARCHITECTURE.md](https://github.com/tildeio/htmlbars/blob/master/ARCHITECTURE.md) for more details on how HTMLBars works."
+                link: http://talks.erikbryn.com/htmlbars/
+            -
+                title: "Barcelona Ember.js: Kick off summary"
+                description: "A summary and links from the first Barcelona Ember meetup."
+                link: http://bcnemberjs.org/post/74323199048/kick-off-summary
+            -
+                title: "Handling contenteditable in Ember.js via Ember.ContenteditableView"
+                description: 
+                link: http://www.kaspertidemann.com/handling-contenteditable-in-ember-js-via-ember-contenteditableview/
+            -
+                title: "The Making of Warming Up With Ember.js"
+                description: 
+                link: http://blog.codeschool.com/post/74064923793/the-making-of-warming-up-with-ember-js
+            -
+                title: "Testing & Tooling in EmberJS"
+                description: 
+                link: http://spin.atomicobject.com/2014/01/02/emberjs-testing-tooling/
+            -
+                title: "Ember.js Metacast Using Ember Data 1.0"
+                description: 
+                link: http://mrgilman.github.io/ember/2014/01/19/ember-metacast.html
+            
+
+    # -
+    #     heading: "Promoted"
+    
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember.SimpleAuth v0.1.0 released"
+                description: "In a major step towards v1 stability this latest version brings significant changes, including the extraction of everything specific to specific authentication/authorization mechanisms (e.g. the default OAuth 2.0 implementation) into strategy classes."
+                link: http://log.simplabs.com/post/73940085063/ember-simpleauth-0-1-0
+            -
+                title: "ic-ajax v0.3.0 released"
+                description: "An Ember-friendly jQuery.ajax wrapper. In this release it gains promise labels for easier debugging in the upcoming the Ember Inspector."
+                link: https://github.com/instructure/ic-ajax
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "[TDD] Testing Your Ember Applications - Eric Berry"
+                description: "Eric Berry covers how to test your Ember apps, including how to mock your objects and test asynchronous code at the January Salt Lake City Ember Meetup. ([slides](http://coderberry.herokuapp.com/testing-your-ember-application))"
+                link: https://www.youtube.com/watch?v=GRT5YcXmm7E
+            -
+                title: "The Ember Run Loop - Jason Madsen"
+                description: "Jason Madsen covers the internals of the Ember Run Loop, a core part of what makes Ember amazing at the January Salt Lake City Ember Meetup. ([slides](http://knomedia.github.io/presentation_2014_01_23_ember_run_loop/#1))"
+                link: https://www.youtube.com/watch?v=RLgPBM72LQw
+            -
+                title: "AirPair: A custom Ember link-to helper with Erik Bryn & Jared Grippe"
+                description: "A 2-hour deep dive into a custom Ember.js link-to helper with Erik Bryn & Jared Grippe."
+                link: https://www.youtube.com/watch?v=nk6Ws2wV3pU
+            -
+                title: "Ember & OAuth - Matthew Rudy Jacobs"
+                description: "A short tour of OAuth on the client side from the January Ember London meetup."
+                link: http://vimeo.com/84385535
+            -
+                title: "Modular UI with (Angular || Ember) - Andy Appleton"
+                description: "Although Angular focused, Andy discusses how GoCardless architected their UI re-design with the concet of components. From the January Ember London meetup."
+                link: http://vimeo.com/84355689
+            -
+                title: "Ember Parallel - Ben Gillies"
+                description: "Ember is designed for building large scale apps, but for truly large scale, with large amounts amounts of data, we need something extra: Threads. A talk from the January Ember London meetup."
+                link: http://vimeo.com/84578340
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: "Ember.JS DC"
+                description: "New Year’s Resolution – Jump Start your Ember App. 28th January, 6:30pm @ Offices of Resonate Insights, Reston."
+                link: "http://www.meetup.com/Ember-JS-DC/events/161569542/"
+            - 
+                title: "Ember.js NYC"
+                description: "Ember Hacker Hours: freestyle for beginners. 28th January, 7:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/162114362/"
+            - 
+                title: "Ember.Melb.js"
+                description: "January Meet. 28th January, 7:00pm @ York Butter Factory, Melbourne."
+                link: "http://www.meetup.com/Ember-Melb-JS/events/160672192/"
+            - 
+                title: "Boston Ember.js Group"
+                description: "OpenHack: January 30, 2014. 30th January, 6:30pm @ DockYard, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/160542412/"
+
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Announcing Nitrous Desktop for Mac"
+                description: "Not only do Nitrous use Ember for their web app but also for their Mac Desktop app."
+                link: http://blog.nitrous.io/2014/01/21/announcing-nitrous-desktop-for-mac.html

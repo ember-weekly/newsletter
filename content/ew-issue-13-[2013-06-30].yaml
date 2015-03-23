@@ -1,0 +1,144 @@
+issue: 13
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #    heading: "Releases"
+    #    headlines:
+    #         -
+    #            title: "Ember 1.0 RC6 Released"
+    #            description: "Not officially announced at time of writing, but RC6 has been [tagged](https://github.com/emberjs/ember.js/commit/893bbc4ecc3ad38b4a83370edeb966eae3d824f4) and released on the website. This release includes the Async Router API changes mentioned last week. See the [changelog](https://github.com/emberjs/ember.js/blob/893bbc4ecc3ad38b4a83370edeb966eae3d824f4/CHANGELOG) for more details."
+    #            link: http://emberjs.com/
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Ember Model - Introduction"
+                description: "An introduction to Erik Bryn's [Ember Model](https://github.com/ebryn/ember-model) and how it compares to Ember Data."
+                link: http://blog.sensible.io/2013/06/26/ember-model-introduction.html
+            -
+                title: "Lazy Loading with Ember"
+                description: "An interesting post by Matt which looks at how the new async router api in RC6 allows for lazy loading of code."
+                link: http://madhatted.com/2013/6/29/lazy-loading-with-ember
+            -
+                title: "Client-Side IDs with Ember Data"
+                description: ""
+                link: http://blog.gaslight.co/post/53934269633/client-side-ids-with-ember-data
+            -
+                title: "Fancy Ember Datepicker with Twitter Bootstrap"
+                description: ""
+                link: http://hawkins.io/2013/06/fancy-ember-datepicker-with-twitter-bootstrap/
+            -
+                title: "Ember & Twitter Bootstrap Tabs"
+                description: ""
+                link: http://hawkins.io/2013/06/ember-and-twitter-bootstrap-tabs/
+            -
+                title: "Ember & Bootstrap Modals"
+                description: ""
+                link: http://hawkins.io/2013/06/ember-and-bootstrap-modals/
+            -
+                title: "Custom Models in Ember.js"
+                description: ""
+                link: http://joefiorini.com/posts/custom-models-in-emberjs
+
+    -
+        heading: "Ember Fest"
+        image: "https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/ac25c8565ec37f9299ac75ca0/images/logo_smallf3833f.png"
+        advert: true
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany and will be a three day event featuring Training sessions, a full day Hackathon as well as a full day Conference. This will by far be the European Ember.js event of the year, starting on August 29th and ending on August 30th with a conference dinner and an after party."
+                # image: https://si0.twimg.com/profile_images/378800000030945398/cf9a81d8d81affa2126f00af65708ed6.png
+                link: http://emberfest.eu/
+
+
+    -
+        heading: Discuss
+        headlines:
+            -
+                title: "Ember Testing Improvements"
+                description: "Tom & Yehuda discuss potential improvements to Ember's testing story."
+                link: http://discuss.emberjs.com/t/ember-testing-improvements/1652
+            -
+                title: "Upcoming linkTo changes/ideas"
+                description: "Discussion about standardizing the use of linkTo, specifically enabling quote-less properties to be bound. More in this [commit](https://github.com/emberjs/ember.js/commit/9ddb8eec4c8dd48cd06a421e57b765dceecc962d)."
+                link: http://discuss.emberjs.com/t/upcoming-linkto-changes-ideas/1635
+            -
+                title: "State Manager Upgrade"
+                description: "Tom Dale is looking to simplify the use of State Manager within Ember."
+                link: http://discuss.emberjs.com/t/state-manager-upgrade/1402
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Cage Match - Ember vs. Angular"
+                description: "Peter Cooper hosts the Ember vs. Angular cage match between Tom Dale and Rob Conery at NDC in Oslo."
+                link: http://vimeo.com/68215606
+            -
+                title: "Ember Hot Seat EP3: Adam Hawkins"
+                description: "Adam talks about his love hate relationship with Ember Data, tips on enterprise development with Ember, the need for build tools and standard UI components, and a host of other fun topics. Now available [on iTunes](https://itunes.apple.com/us/podcast/ember-hot-seat/id667210029)."
+                link: http://emberhotseat.com/2013/06/26/ember-hot-seat-episode-003.html
+            -
+                title: "Much Very Confused: Ember for the inappropriately experienced"
+                description: "A guide to transferring knowladge from Rails MVC to Ember MVC."
+                link: http://jeffreybiles.com/blog/much-very-confused.html
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+                title: "Bootstrapped, profitable, and growing company needs a remote JavaScript expert"
+                description: "We write beautiful personal finance software called \"You Need a Budget\" (YNAB). Now we're moving it to the web! We need a JavaScript/Ember expert to work with our small, passionate, fully remote team to make this app our best work yet."
+                link: http://www.youneedabudget.com/blog/2013/we-need-a-full-time-javascript-front-end-developer/
+            # -
+            #    title: "Looking for an Ember Developer?"
+            #    description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+            #    domain: emberweekly.com
+            #    link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    # -
+    #     heading: "Interesting Commits"
+    #     headlines:
+    #         -
+    #            title: "Ember.Component"
+    #            description: "Ember.Control (later renamed [Ember.Component](https://github.com/emberjs/ember.js/commit/c52e4200b57c399192582598e991accd3332b44a)) brings web component semantics to Ember."
+    #            link: https://github.com/emberjs/ember.js/commit/ad4d1ef5fdda67c503c24346e097ddf06f77787f
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "EmberAuth"
+                description: "v7.0.0 Released - rewrite for [new router api](https://gist.github.com/machty/5723945), [breaking changes & more](https://github.com/heartsentwined/ember-auth/blob/master/CHANGELOG.md#700-30-jun-2013). Authentication framework for ember.js"
+                link: https://github.com/heartsentwined/ember-auth
+            -
+                title: "ember-string-interpolate"
+                description: "Adds interpolated string properties to Ember (i.e. no more unreadable getter concatenation)."
+                link: https://github.com/jayphelps/ember-string-interpolate
+            -
+                title: "ember-validation"
+                description: "Validation for ember and non-ember objects."
+                link: https://github.com/Dani723/ember-validation
+            -
+                title: "ember-autosuggest"
+                description: "ember-autosuggest will suggest names from a bound list."
+                link: https://github.com/dagda1/ember-autosuggest
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember NYC - Hacker Hours"
+                description: "2nd July, 6:00pm @ Red Rover."
+                link: http://www.meetup.com/EmberJS-NYC/events/126789012/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Yehuda Katz: The Future of the Client-Side Web"
+                description: "Not specifically ember related but one of Ember's creator, Yehuda Katz, talks about the future of the web & how developers can be given the tools to innovate in the browser."
+                link: https://www.youtube.com/watch?v=EcyxXPILO8E&feature=youtu.be

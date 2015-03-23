@@ -1,0 +1,153 @@
+issue: 64
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.0.37 Released"
+                description: "More Enhancements and bugfixes, including the ability for ember add-ons to specify server-side middleware."
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.37
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Indicating Progress - Loading Routes in Ember.js"
+                description: ""
+                link: http://balinterdi.com/2014/06/18/indicating-progress-loading-routes-in-ember-dot-js.html
+            -
+                title: "Ember Gotcha: Controllers Are Singletons"
+                description: ""
+                link: http://balinterdi.com/2014/06/26/ember-gotcha-controllers-are-singletons.html
+            -
+                title: "Ember Macros for DRY and Testable Code"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/06/27/ember-macros-for-DRY-and-testable-code.html
+            -
+                title: "Introducing Ember CLI Addons"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/06/24/introducing_ember_cli_addons.html
+            -
+                title: "Building Ember CLI Addons Simply"
+                description: ""
+                link: http://hashrocket.com/blog/posts/building-ember-addons
+            -
+                title: "What App.reset() Does In Ember"
+                description: "" # "A walkthrough of Ember's ``App.reset()`` source code to understand exactly what it does to your current Ember app."
+                link: http://tosbourn.com/app-reset-ember/
+            -
+                title: "Creating a Pagination Component with Ember.js and Foundation"
+                description: ""
+                link: https://spin.atomicobject.com/2014/06/27/pagination-emberjs-foundation/
+            -
+                title: "Ember.js Image-Zoom and Preview Components"
+                description: ""
+                link: http://hbrysiewicz.github.io/2014-06-11-image-zoom-preview.html
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-jstransform"
+                description: "An Ember-CLI addon for applying jstransform transformations, such as transpiling ES6 to ES5."
+                link: https://github.com/aexmachina/ember-cli-jstransform
+            -
+                title: "ember-cli-sass"
+                description: "Use node-sass to preprocess your Ember-CLI app's files, with support for sourceMaps and include paths."
+                link: https://github.com/aexmachina/ember-cli-sass
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Frontside Podcast Ep 7: The Ember Router (with Alex Matchneer)"
+                description: "The Frontside guys discuss the benefits & pain of routing in client-side applications, using the Ember router without Ember, how Alex got into working on Ember core, and some OSS projects to keep an eye on."
+                link: https://frontsidethepodcast.simplecast.fm/7
+            -
+                title: "Creating an Integration Test with Ember - Robin Ward"
+                description: "A short screencast shows how to scaffold an application using Ember-CLI and then create a few integration tests to make sure it's working properly."
+                link: https://www.youtube.com/watch?v=2O24ltr0pPU
+            -
+                title: "Building Chrome Extensions with Ember"
+                description: "A talk on how Ember-CLI can be used with little to no modification in the setting of a chrome extension to build rich and dynamic browser utilities to extend your application's offering into the desktop and the browser chrome."
+                link: https://www.youtube.com/watch?v=NtkpDL2yKGo
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember Out East
+                description: "A hackfest in the Hamptons, with members of Ember core team and some of the best Ember developers in New York! 21st-22nd July. ($)"
+                link: https://yapplabs.wufoo.com/forms/ember-out-east/
+            -
+                title: Boston Ember.js Group
+                description: "Animations. 10th July, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/183866792/"
+            -
+                title: Ember.js Portland
+                description: "Hacker Hours. 10th July, 7:00pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/186684692/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 12th July, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/190516562/"
+            -
+                title: Amsterdam Ember.js
+                description: "2nd July, 7:00pm."
+                link: "http://www.meetup.com/Amsterdam-Ember-js/events/182113782/"
+            -
+                title: Ember.js Ottawa
+                description: "HAcker Hours. 2nd July, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/183208792/"
+            -
+                title: Toronto Ember.js
+                description: "3rd July, 6:30pm @ Ph armacy Bar, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/191194282/"
+            -
+                title: STL Ember.js
+                description: "7th July, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682692/"
+            -
+                title: Ember.js Munich
+                description: "8th July, 7:00pm @ Scoreloop, München."
+                link: "http://www.meetup.com/Ember-js-Munich/events/183204182/"
+            # -
+            #     title: Ember.js Seattle
+            #     description: "July Ember Meetup. 9th July, 6:30pm @ Urbanspoon, Seattle."
+            #     link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/190309772/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

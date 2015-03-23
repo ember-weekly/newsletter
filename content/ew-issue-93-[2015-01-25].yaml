@@ -1,0 +1,205 @@
+issue: 93
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.1.9 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.1.9
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Dealing with Paginated APIs in Ember"
+                description: ""
+                link: http://blog.ksol.fr/paginated-apis-with-ember-js/
+            -
+                title: "Setting Up a Project with Ember and Clojure"
+                description: ""
+                link: http://spin.atomicobject.com/2015/01/22/ember-clojure-setup/
+            -
+                title: "Using UUIDs with Ember Data"
+                description: ""
+                link: http://thau.me/2015/01/using-uuids-with-ember-data/
+            -
+                title: "Making an Ember Enterprise App Work on IE8"
+                description: ""
+                link: http://www.gevious.com/2015/01/07/making-an-ember-enterprise-app-work-on-ie8/
+            -
+                title: "Build User Detection and Message History using Ember.js & PubNub"
+                description: ""
+                link: http://www.pubnub.com/blog/build-user-detection-message-history-using-ember-js/
+            -
+                title: "How to Pull Array Modeled Data with Ember-Data and C3.js"
+                description: ""
+                link: http://www.robert-deluca.com/posts/answer-how-to-pull-array-modeled-data-with-ember-data-and-c3-js
+            -
+                title: "Our Experience with Ember - Kollegorna"
+                description: ""
+                link: https://labs.kollegorna.se/blog/2015/01/ember-overview/
+            -
+                title: "Introducing a New Series of Tutorials and Open-Source Project – “How to SANE”"
+                description: ""
+                link: http://www.100percentjs.com/introducing-new-series-tutorials-sane/
+            -
+                title: "Improving the User Experience of Date Pickers with Ember.js"
+                description: ""
+                link: http://beerlington.com/blog/2015/01/22/jquery-inputmask-user-experience-in-emberjs/
+            -
+                title: "Constructing a Front-End Ecosystem with Ember-CLI"
+                description: ""
+                link: http://adequate.io/building-an-internal-ember-cli-ecoystem
+            -
+                title: "Adding Relationships to Ember.js with a REST Backend Using Mongoose"
+                description: ""
+                link: http://connorbrewster.me/rest-ember-relationships/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Sane Stack: A Fullstack and CLI Using Sails and Ember, with Docker Support, Generators and More"
+                description: ""
+                link: http://sanestack.com
+            -
+                title: "sl-ember-behavior: User Permission Behavior Service"
+                description: ""
+                link: https://www.npmjs.com/package/sl-ember-behavior
+            -
+                title: "ember-form-master-2000: Simple and Flexible Ember-CLI Based Form Builder"
+                description: ""
+                link: https://www.npmjs.com/package/ember-form-master-2000
+            -
+                title: "semantic-ui-ember: Semantic UI for Ember Applications"
+                description: ""
+                link: https://www.npmjs.com/package/semantic-ui-ember
+            -
+                title: "ember-animate: Add Complex Animations to Ember Views"
+                description: ""
+                link: https://github.com/gigafied/ember-animate
+            -
+                title: "ember-cli-mixpanel: Track User Activities with Mixpanel"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-mixpanel
+            -
+                title: "Exyht: Ambitious Blogging Software Built with Laravel, Ember & Bootstrap"
+                description: ""
+                link: http://exyht.github.io/exyht/
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+               description: ""
+               link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "New Component Patterns in Ember.js - Matthew Beale"
+                description: ""
+                link: https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=6574
+            -
+                title: "Deploying Ember Apps - Sam Selikoff"
+                description: ""
+                link: https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=4502
+            -
+                title: "Refactoring Ember.js Apps - Tim Evans"
+                description: ""
+                link: https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=2877
+            -
+                title: "HAL Adapter for Ember Data - Cory Forsyth"
+                description: ""
+                link: https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=1528
+            -
+                title: "Agile Design with Ember.js & Sweetgreens Demo - Hugh Francis"
+                description: ""
+                link: https://www.youtube.com/watch?v=nvB8iAwc2QQ#t=750
+            -
+                title: "Brian Cardarella of DockYard - Running a Software Consultancy & Betting on Ember"
+                description: ""
+                link: http://5by5.tv/rubyonrails/181
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Denver
+                description: "27th January, 6:30pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/219837835/"
+            -
+                title: Vancouver
+                description: "27th January & 3rd February, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/219999247/"
+            -
+                title: Washington
+                description: "28th January, 6:30pm @ UberOffices Dupont, Washington."
+                link: "http://www.meetup.com/Ember-JS-DC/events/219780718/"
+            -
+                title: Wellington
+                description: "29th January, 6:00pm @ Rabid Office, Wellington."
+                link: "http://www.meetup.com/ember-js-wellington/events/219822840/"
+            -
+                title: Munich
+                description: "29th January, 7:00pm @ Sapient Nitro, München."
+                link: "http://www.meetup.com/Ember-js-Munich/events/219714935/"
+            -
+                title: Bangalore
+                description: "31st January, 10:30am @ Artoo IT Solutions, Bangalore."
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/219371516/"
+            -
+                title: Saint Louis
+                description: "2nd February, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/219770665/"
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "ReactWeek: Interested in learning React.js?"
+                description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+                link: http://reactweek.com

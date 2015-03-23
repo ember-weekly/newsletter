@@ -1,0 +1,198 @@
+issue: 90
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Data v1.0.0 Beta 14 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/12/25/ember-data-1-0-beta-14-released.html
+            -
+                title: "Ember v1.10.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.10.0-beta.3
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember-CLI RFCs: A New Feature Proposal Process for Ember-CLI"
+                description: ""
+                link: https://github.com/ember-cli/rfcs/
+
+
+    -
+        heading: "Most Popular in 2014"
+        headlines:
+            -
+                title: "Submit an Ember TextArea with Command or Ctrl + Enter"
+                description: ""
+                link: https://medium.com/the-ember-way/submit-an-ember-textarea-with-command-or-ctrl-enter-a933b4325b3b
+            -
+                title: "RFC: The Road to Ember 2.0"
+                description: ""
+                link: https://github.com/emberjs/rfcs/pull/15
+            -
+                title: "Ember 2.0 in Practice by Tom Dale"
+                description: ""
+                link: https://speakerdeck.com/tomdale/ember-2-dot-0-in-practice
+            -
+                title: "HTMLBars - A Feature-by-Feature Review"
+                description: ""
+                link: http://colintoh.com/blog/htmlbars
+            -
+                title: "Organize Your Ember App with Pods"
+                description: ""
+                link: http://cball.me/organize-your-ember-app-with-pods/
+            -
+                title: "Why I Believe That Ember-CLI is a Game-Changer"
+                description: ""
+                link: http://miguelcamba.com/blog/2014/09/28/why-i-believe-that-ember-cli-is-a-game-changer/
+            -
+                title: "Beginning to Understand the Ember.js Container"
+                description: ""
+                link: http://ember.zone/beginning-to-understand-the-ember-js-container/
+            -
+                title: "Avoiding Common Pitfalls in Ember - Alex Speller"
+                description: ""
+                link: http://www.slideshare.net/AlexSpeller/avoiding-common-pitfalls-in-emberjs
+            -
+                title: "A Thorough Guide to Ember Data"
+                description: ""
+                link: http://www.toptal.com/emberjs/a-thorough-guide-to-ember-data
+            -
+                title: "Built with Ember - A Showcase of Ambitious Web Applications Built Using Ember"
+                description: ""
+                link: http://builtwithember.io/
+            -
+                title: "Server-Side Rendering for SEO & FastBoot Coming to an Ember Near You"
+                description: ""
+                link: https://github.com/emberjs/ember.js/issues/9938
+            -
+                title: "In Defence of Frameworks: Why Ember is Proud to be One"
+                description: ""
+                link: https://www.youtube.com/watch?v=jScLjUlLTLI
+            -
+                title: "Ember and the Future of the Web"
+                description: ""
+                link: http://frontside.io/blog/2014/02/24/ember-and-the-future-of-the-web.html
+            -
+                title: "Ember Addons - A Searchable List of Ember-CLI Addons"
+                description: ""
+                link: http://www.emberaddons.com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-bootstrap-datepicker: A Component Based on the Bootstrap Datepicker Library"
+                description: ""
+                link: http://sul.im/ember-cli-bootstrap-datepicker/
+            # -
+            #     title: "ember-polymer: Polymer Integration with Ember-CLI"
+            #     description: ""
+            #     link: https://www.npmjs.com/package/ember-polymer
+            -
+                title: "ember-cli-fixture-loader: Keep Your Fixtures Separate from Your Models"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-fixture-loader
+            -
+                title: "ember-cli-simple-store: Provides a Simple Identity Map for Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-simple-store
+            -
+                title: "ember-cli-build-info: Inject Build Information, Like Version & Current SHA"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-build-info
+            -
+                title: "ember-disqus: Integrate the Disqus Comments Platform Into Your Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-disqus
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "ShopTalk Podcast with Tom Dale"
+                description: ""
+                link: http://shoptalkshow.com/episodes/147-tom-dale/
+            -
+                title: "Internationalizing in Ember - Isaac Ezer"
+                description: ""
+                link: http://blog.unspace.ca/post/106635768417/isaac-ezer-on-internationalizing-in-ember
+            -
+                title: "A (Drunken!) Introduction to Ember-CLI by Building a Blog - Jon Evans"
+                description: ""
+                link: https://www.youtube.com/watch?v=eV6JRW6gOyI
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis
+                description: "5th January, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/219261309/"
+            -
+                title: Vancouver
+                description: "6th & 13th January, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/219306415/"
+            -
+                title: Seattle
+                description: "7th January, 6:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/219485443/"
+            -
+                title: Ottawa
+                description: "7th January, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/215868272/"
+            -
+                title: St. Paul
+                description: "8th January, 6:30pm @ Tightrope Media Systems, St. Paul."
+                link: "http://www.meetup.com/EmberMN/events/219520480/"
+            -
+                title: Montevideo
+                description: "8th January, 7:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/219290106/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,177 @@
+issue: 44
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Security Releases - Ember 1.2.2, And 1.3.2"
+                description: "These releases contain the fix for an XSS vulnerability that you can learn more about on our security mailing list: [CVE-2014-0046](https://groups.google.com/forum/#!topic/ember-security/1h6FRgr8lXQ)."
+                link: http://emberjs.com/blog/2014/02/07/ember-security-releases.html
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember Fest 2014 Call for Speakers"
+                description: "Ember Fest is back! This time in Barcelona on 26th-29th August and the Call for Speakers is now open."
+                link: "https://emberfest.eu/talks"
+
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Angular, Ember, And Backbone: Which JavaScript Framework Is Right For You?"
+                description: "\"Picking a Javascript framework isn't about preference. It's about what best fits your project\". A look at what each framework is best suited for."
+                link: http://readwrite.com/2014/02/06/angular-backbone-ember-best-javascript-framework-for-you#awesm=~ovoQLo4ChBuz1C
+            -
+                title: "Ember.js - arrayComputed"
+                description: "A detailed look at the array based computed properties recently added to Ember, and how they can improve your array computations. "
+                link: http://www.thesoftwaresimpleton.com/blog/2014/02/04/array-computed/
+            -
+                title: "Query Params in Ember.js"
+                description: "Slides for Taras Mankovski's talk at the Toronto February meetup."
+                link: http://embersherpa.github.io/query-params-presentation/slides.html#1
+            -
+                title: "Testing Ember Apps With Cucumber"
+                description: "Slides for Alaina Hardie's talk at the Toronto February meetup."
+                link: http://trianglegrrl.github.io/ember-cucumber-pres/#/
+            -
+                title: "Building an App for My Mom With Ember Appkit Rails"
+                description: "Adolfo Builes kick-starts a project with Ember Appkit Rails."
+                link: http://blog.abuiles.com/blog/2014/02/07/building-an-app-for-my-mom-with-ember-appkit-rails/
+            
+            -
+                title: "Using Ember.js with Spree"
+                description: "Matteo Latini walks through integrating Ember.js with a Spree E-commerce application."
+                link: http://nebulab.it/blog/using-ember-js-with-spree
+            -
+                title: "HTML-safe strings in Handlebars"
+                description: 
+                link: http://www.kaspertidemann.com/html-safe-strings-in-handlebars/
+            -
+                title: "Convert a View Into a Component"
+                description: ""
+                link: http://balinterdi.com/2014/02/05/convert-a-view-into-a-component.html  
+            -
+                title: "Generating Files with JavaScript and Ember.js"
+                description: ""
+                link: http://spin.atomicobject.com/2014/02/05/generate-files-javascript-ember-js/
+            -
+                title: "Rapid Ember.js App Development Workflow"
+                description: ""
+                link: http://nepalonrails.com/blog/2014/02/rapid-emberjs-app-development-workflow/
+
+    -
+        heading: "Promoted"
+        # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Ember for Rails Devs"
+                description: "We invite you to learn from DockYard for a day before Ember Conf in Portland, Oregon. We will be offering a one day training session for Ruby on Rails developers interested in learning how to build Ember Applications."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://reefpoints.dockyard.com/2014/02/04/ember-conf-ember-for-rails-devs.html
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Updated Ember ToDoMVC"
+                description: "The Ember ToDoMVC example has been updated by Cory Forsyth and Matthew Beale to be more idiomatic and to use the latest versions of Ember & Ember Data."
+                link: https://github.com/tastejs/todomvc/pull/822
+            -
+                title: "ember-indexeddb-adapter"
+                description: "Allows you to store your Ember application data offline with IndexedDB. Updated for the latest Ember Data."
+                link: https://github.com/kurko/ember-indexeddb-adapter
+            -
+                title: "lineman-ember-template"
+                description: "A little example that pulls lineman & ember together."
+                link: https://github.com/linemanjs/lineman-ember-template
+            -
+                title: "Ember Watch: Open Source Projects Page"
+                description: "Ember Watch has launched a new page listing open source Ember projects. Know of any not listed? Make sure you submit them."
+                link: http://emberwatch.com/open_source.html
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js: Animated If Statement"
+                description: "Alex Matchneer shows how to animate a UI element using a custom animated if component."
+                link: https://www.youtube.com/watch?v=aFZ-b3pEK_Y
+            -
+                title: "Ember Live Coding Session with Eric Berry"
+                description: "Eric walks through re-writing an Angular app to fetch RailsCasts videos with Ember using tapas-with-ember."
+                link: https://www.youtube.com/watch?v=4mSp1K7KUGE
+            -
+                title: "Ember App Kit Rails - Brian Cardarella"
+                description: "Brian Cardarella talks about Ember App Kit Rails which provides Rails developers with a comfortable development environment for Ember.js in Rails."
+                link: https://www.youtube.com/watch?v=sYX0qPuwJi4
+            -
+                title: "HTMLBars Update - Alex Matchneer"
+                description: "An update on the status of HTMLBars from core team member Alex Matchneer, from the Ember.js NYC January Meetup."
+                link: https://www.youtube.com/watch?v=iCZUKFNXA0k#t=2116
+            -
+                title: "Ember Inspector - Stefan Penner"
+                description: "An introduction to the Ember Inspector at the Ember.js NYC January Meetup."
+                link: https://www.youtube.com/watch?v=iCZUKFNXA0k#t=1538
+            -
+                title: "Containers and Dependency Injection in Ember.js - Matthew Beale"
+                description: "Learn how to use Ember’s container and dependency features to move beyond MVC, as well as learning how they tie Ember internals together. ([slides](http://www.slideshare.net/mixonic/containers-di))"
+                link: https://www.youtube.com/watch?v=iCZUKFNXA0k#t=6241
+            -
+                title: "Buffered Proxy - Kristofor Selden "
+                description: "Kristofor Selden presents Buffered Proxy at Ember NYC, and how it's used to allow discardable model changes. ([code](https://gist.github.com/lukemelia/5632776))"
+                link: https://www.youtube.com/watch?v=FXMQ0gjIN70
+            -
+                title: "Building Realtime Apps with Firebase and Ember.js - Sara Robinson"
+                description: 
+                link: https://www.youtube.com/watch?v=iCZUKFNXA0k#t=5418
+            -
+                title: "Ember Run Loop - Brendan Briggs"
+                description: 
+                link: https://www.youtube.com/watch?v=iCZUKFNXA0k#t=3291
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: "Ember.js Adelaide"
+                description: "Ember.js Workshop for Beginners. 11th February, 6:00pm @ Katalyst Interactive, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/160600092/"
+            - 
+                title: "London Ember.js User Group"
+                description: "12th February, 6:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/161526872/"
+            - 
+                title: "Boston Ember.js Group"
+                description: "Lightning Talks. 13th February, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/159835752/"
+            - 
+                title: "Ember Twin Cities"
+                description: "Lightning Talks & Ember.js Hacking. 13th February, 6:30pm @ Tightrope Media Systems, St. Paul, MN."
+                link: "http://www.meetup.com/EmberMN/events/159811162/"
+            -
+                title: "Ember Hacker Hours - Toronto"
+                description: "The hacker hours is a night to work on your code with a peer. Bring your code, hack together and learn. 13th February, 7:00pm @ Quandl Office, Toronto, ON."
+                link: http://www.meetup.com/Ember-Hack-Night/events/164114302/
+            -
+                title: "Suncoast.js - Saint Petersburg, FL"
+                description: "Warm Up: An Intro to Ember.js with Robert Jackson. 19th February, 7:00pm @ Tampa Bay WaVE, Saint Petersburg, FL."
+                link: http://www.meetup.com/suncoast-js/events/161548572/
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "New NBCNews.com uses Ember"
+                description: "The new version of NBC News is built using Ember. Check it out using the Ember Inspector."
+                link: http://www.nbcnews.com/

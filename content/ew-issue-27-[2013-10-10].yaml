@@ -1,0 +1,181 @@
+issue: 27
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.1.0 Beta 3 Released"
+                description: "Mainly bug fixes in this release."
+                link: http://emberjs.com/builds/#/beta/latest
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Embereños: Alex Speller - Digital Science"
+                description: "Weekly interviews with companies and people using ember. This week's interview is with Alex Speller, who you may recognize from recent query-parameter support Pull Requests."
+                link: http://emberenos.com/interviews/2013/10/9/alex-speller-digital-science
+            -
+                title: "Ember.js Concepts for Rails Developers"
+                description: ""
+                link: http://matthewlehner.net/ember-js-concepts-for-rails-devs/
+            -
+                title: "Loading Route Facelift"
+                description: "Alex Matchneer outlines a proposal to improve the router loading states. See [his example](http://jsbin.com/ucanam/1399#/foo/bar/woot) of sub-route loading states."
+                link: http://discuss.emberjs.com/t/proposal-nested-loading-routes/2895
+            -
+                title: "EmberJS :: Beyond the tutorials"
+                description: "Ryan Rauh discusses how he got started with Ember. Some useful tips for beginners."
+                link: http://lostechies.com/ryanrauh/2013/10/08/emberjs-beyond-the-tutorials/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "JavaScript SEO: Can Google read javascript websites?"
+                description: "Find out how to make your Ember.js website visible to Google."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember NYC September Meetup Video"
+                description: "The video includes an outline of [Ember's post 1.0 roadmap](http://www.youtube.com/watch?v=lWgzN5vGxco#t=6300) by Kristofor Selden, [Complex Architectures in Ember](http://www.youtube.com/watch?v=lWgzN5vGxco#t=433) by Matthew Beale and a few other lightening talks."
+                link: http://www.youtube.com/watch?v=lWgzN5vGxco&feature=youtu.be
+            -
+                title: "A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS"
+                description: "Marius Gundersen provides a nice walkthrough of how each of the 3 frameworks tackle two-bindings along with the pros & cons of each technique."
+                link: http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html
+            -
+                title: "MHE Labs Boston Summit: Ember Components"
+                description: "Alex Matchneer's presentation on Ember Components."
+                link: http://www.youtube.com/watch?v=YrJ130ScG-A
+            -
+                title: "Tom Dale: Stop Breaking the Web (JSConf EU 2013)"
+                description: ""
+                link: http://www.youtube.com/watch?v=OSEXpsVcTxI
+    -
+        heading: "Testing"
+        headlines:
+            -
+                title: "HTTP Mocking in Ember Testing"
+                description: "Based on last week's' discussions, Trek Glowacki has put together 3 libraries to assist with HTTP mocking: [fakehr](https://github.com/trek/fakehr), [FakeXMLHttpRequest](https://github.com/trek/FakeXMLHttpRequest) and [ember-testing-httpRespond](https://github.com/trek/ember-testing-httpRespond)."
+                link: http://discuss.emberjs.com/t/http-mocking-for-ember-testing/2846/16
+            -
+                title: "Guide: When and how to handle asynchronous side-effects in testing?"
+                description: ""
+                link: http://discuss.emberjs.com/t/guide-when-and-how-to-handle-asynchronous-side-effects-in-testing/2905
+            -
+                title: "Unchained Async Helpers in Ember-Testing"
+                description: "Teddy Zeenny has been busy improving the ember-testing package."
+                link: https://github.com/emberjs/ember.js/pull/3557
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Simple Auth"
+                description: "A lightweight and unobtrusive library for implementing token based authentication in Ember.js applications. It's covered more in [this blog post](http://log.simplabs.com/post/63565686488/ember-simpleauth)."
+                link: https://github.com/simplabs/ember-simple-auth
+            -
+                title: "Ember-Data Elasticsearch Kit"
+                description: "A Ember-Data adapter for Elasticsearch"
+                link: https://github.com/roundscope/ember-data-elasticsearch-kit
+            -
+                title: "Ember Auto"
+                description: "Nicer computed properties - less this.get('myField'). Also see [forum discussion](http://discuss.emberjs.com/t/ember-auto-nicer-properties-with-less-this-get-junk/2896)."
+                link: https://github.com/gunn/ember-auto
+            -
+                title: "Comparing an avatar implementation with Angular and Ember"
+                description: ""
+                link: https://gist.github.com/rpflorence/6833014/
+            -
+                title: "Ember CouchDB Kit"
+                description: "An Ember.js adapter for Apache CouchDB. ([demo](http://jsfiddle.net/nLMwt/16/))"
+                link: https://github.com/roundscope/ember-couchdb-kit
+            -
+                title: "ember.vim"
+                description: "Vim plugin for the Emberjs frontend framework."
+                link: https://github.com/dsawardekar/ember.vim
+            
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "Full Stack Web Developer near Washington, DC"
+                description: "We need a great coder with Ember.js/Angular.js, Git, HTML5 w/ old browsers, Python, Django, Postgres, Heroku, responsive web design, and good communication skills. iPad iOS development a plus. [contact us](mailto:jace.wieser@phase5group.com?Subject=Full%20Stack%20Web%20Developer%20-%20Ember%20Weekly%20Job%20Posting)"
+                link: http://discuss.emberjs.com/t/full-stack-web-developer-near-washington-dc-needed/2876
+            -
+                title: "Lead the Hospitality Industry developing mobile software with Ember.js"
+                description: "We are looking for experienced front end developers in Los Angeles, CA. If you are always striving to learn new technologies like Ember.js and enjoy spending time on mobile applications, then help us lead the Hospitality Industry with cutting edge mobile technology."
+                link: http://careers.stackoverflow.com/jobs/40654/
+
+            # -
+            #    title: "Looking for an Ember Developer?"
+            #    description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+            #    domain: emberweekly.com
+            #    link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Toronto Hack Night"
+                description: "10th October, 6:00pm @ INcubes."
+                link: http://guestlistapp.com/events/198975
+            -
+                title: "São Paulo, Brazil Meetup"
+                description: "10th October, 7:00pm."
+                link: http://www.meetup.com/Ember-js-Sao-Paulo/events/142350582/
+            -
+                title: "Tel Aviv-Yafo Meetup, Featuring Yehuda Katz"
+                description: "10th October, 4:30pm @ Ozen Bar. Featuring special guest Yehuda Katz!"
+                link: http://www.meetup.com/Ember-IL/events/140297932/
+            -
+                title: "Boston Meetup"
+                description: "10th October, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/140201892/
+            -
+                title: "Seattle Meetup with Alex Matchneer"
+                description: "10th October, 6:30pm @ Urbanspoon. New Core Team Alex Matchneer will be present."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/140660072/
+            -
+                title: "Austin Meetup with Tom Dale"
+                description: "15th October, 7:30pm @ Frog Design. Special Event with Tom Dale."
+                link: http://www.meetup.com/Ember-ATX/events/140780512/
+            -
+                title: "San Francisco Meetup"
+                description: "15th October, 6:30pm @ Blurb."
+                link: http://www.meetup.com/Ember-SF/events/139713312/
+            -
+                title: "Puerto Rico Meetup"
+                description: "15th October, 6:00pm @ Blimp HQ."
+                link: http://www.meetup.com/Ember-PR/events/143641452/
+            -
+                title: "Washington, DC Meetup"
+                description: "17th October, 6:30pm @ Logik."
+                link: http://www.meetup.com/Ember-JS-DC/events/135170402/
+            -
+                title: "Oslo, Norway Meetup"
+                description: "17th October, 6:00pm @ Teknologihuset."
+                link: http://www.meetup.com/Ember-js-Oslo/events/140872742/
+            
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "The Ember Run Loop Visualized"
+                description: "Alex Matchneer made this cool prototype to visualize how the Ember Run Loop works. ([source](https://github.com/machty/ember-run-loop-visual))"
+                link: https://machty.s3.amazonaws.com/ember-run-loop-visual/index.html
+

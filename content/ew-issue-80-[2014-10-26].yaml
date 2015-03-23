@@ -1,0 +1,161 @@
+issue: 80
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.7.1 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.7.1
+            -
+                title: "Ember Inspector 1.6.0 Released - New Container Tab!"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/blob/master/CHANGELOG.md#ember-inspector-160
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The Basic Anatomy of an Ember Application"
+                description: ""
+                link: http://pressupinc.com/blog/2014/10/basic-anatomy-ember-application/
+            -
+                title: "Rails JS Frameworks: Ember.js vs. Angular.js"
+                description: ""
+                link: http://www.airpair.com/ruby-on-rails/posts/ember-vs-angular-with-rails
+            -
+                title: "Angular.js vs. Backbone.js vs. Ember.js"
+                description: ""
+                link: http://www.airpair.com/js/javascript-framework-comparison
+            -
+                title: "Ember Addons - A Searchable List of Ember-CLI Addons"
+                description: ""
+                link: http://www.emberaddons.com/
+            -
+                title: "RFC: Engines - Compose Multiple Applications Into a Single Application"
+                description: ""
+                link: https://github.com/emberjs/rfcs/pull/10
+            -
+                title: "Modern Mobile Web Apps (Using Ember.js) - Alex Matchneer"
+                description: ""
+                link: https://docs.google.com/presentation/d/1Is4f881t0pImLAQLCz4AlcLaUL8Fk4-C_Q2Hbu2DhS4/
+            -
+                title: "HTMLBar Chart - Compares Handlebars and HTMLBars Render Speeds"
+                description: ""
+                link: http://jonathan-jackson.net/htmlbar-chart/
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-test-helpers - Test-Framework-Agnostic Helpers for Ember Testing"
+                description: ""
+                link: https://github.com/switchfly/ember-test-helpers
+            -
+                title: "ember-radio-button - Radio Button Component with Nice Syntax"
+                description: ""
+                link: https://github.com/yapplabs/ember-radio-button
+            -
+                title: "Ember Paper - Bring Google's New Material Design to Ember"
+                description: ""
+                link: https://miguelcobain.github.io/ember-paper/
+            -
+                title: "ember-pubsub - A Simple Pubsub Mechanism for Ember"
+                description: ""
+                link: https://github.com/GavinJoyce/ember-pubsub
+            -
+                title: "ember-cli-html5-validation - Components for HTML5 Form Validation"
+                description: ""
+                link: https://github.com/maestrooo/ember-cli-html5-validation
+            -
+                title: "ember-websockets - Websockets Addon for Ember-CLI"
+                description: ""
+                link: https://github.com/thoov/ember-websockets
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Addons - Richard Livsey"
+                description: ""
+                link: http://vimeo.com/109672719
+            -
+                title: "Learning to Think in Ember & React - Jamie White"
+                description: ""
+                link: http://vimeo.com/109672721
+            -
+                title: "EmberGrep - Ember Videos to Get You Up and Running"
+                description: ""
+                link: https://embergrep.com/
+            -
+                title: "Early Access - New Introduction to Ember.js ($$)"
+                description: ""
+                link: https://teamgaslight.com/training/courses/14-early-access-new-introduction-to-emberjs
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver
+                description: "28th & 4th October, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/213174682/"
+            -
+                title: Brussels
+                description: "29th October, 7:30pm @ Salle Planes 2 at Betacowork / ICAB, Brussels."
+                link: "http://www.meetup.com/Ember-js-Belgium/events/212817652/"
+            -
+                title: New York
+                description: "30th October, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/206445542/"
+            -
+                title: Southern California
+                description: "1st November, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/209882332/"
+            -
+                title: Chicago
+                description: "3rd November, 5:00pm @ Groupon - 3rd Floor, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/203706052/"
+            -
+                title: Saint Louis
+                description: "3rd November, 5:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/213235952/"
+            -
+                title: Seattle
+                description: "5th November, 5:30pm @ Classmates Online, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/213238482/"
+            -
+                title: Ottawa
+                description: "5th November, 5:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/209849552/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

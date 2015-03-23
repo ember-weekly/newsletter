@@ -1,0 +1,210 @@
+issue: 91
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.10.0 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.10.0-beta.4
+            -
+                title: "Ember-CLI v0.1.6 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.1.6
+            -
+                title: "Ember Data v1.0.0-beta.14.1 Released"
+                description: ""
+                link: http://emberjs.com/blog/2014/12/31/ember-data-1-0-beta-14-1-released.html
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: https://github.com/emberjs/ember.js/releases/tag/v1.10.0-beta.4
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Inside Fastboot: Faking the DOM in Node"
+                description: ""
+                link: http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html
+            -
+                title: "From Ember-Rails to Ember-CLI"
+                description: ""
+                link: http://robots.thoughtbot.com/migrating-from-ember-rails-to-ember-cli
+            -
+                title: "5 Reasons Why a Backbone Developer Loves Ember"
+                description: ""
+                link: http://thejsguy.com/javascript/ember/backbone/2015/01/06/5-reasons-why-a-backbone-developer-loves-ember.html
+            -
+                title: "Complex Search Pages Feel Better in Ember"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/01/07/complex-search-pages-feel-better-in-ember.html
+            -
+                title: "Contributing to Big Bad Open Source"
+                description: ""
+                link: http://robots.thoughtbot.com/contributing-to-big-bad-open-source
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-format: Internationalize using Format.js"
+                description: ""
+                link: https://www.npmjs.com/package/ember-format
+            -
+                title: "ember-cli-sauce: Cross-Browser Testing Using SauceLabs"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-sauce
+            -
+                title: "ember-breadcrumbs: Breadcrumbs Component for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-breadcrumbs
+            -
+                title: "ember-aria: Primitives for Creating Accessible Apps"
+                description: ""
+                link: https://github.com/drogus/ember-aria
+            -
+                title: "ember-truth-helpers: `not`, `and`, `or`, `eq`, `is-array` HTMLBars Helpers"
+                description: ""
+                link: https://github.com/jmurphyau/ember-truth-helpers
+            -
+                title: "ember-data-model-fragments: Ember Data Plugin to Support Nested JSON Documents"
+                description: ""
+                link: https://www.npmjs.com/package/ember-data-model-fragments
+            -
+                title: "ember-localforage-adapter: Offline Data Storage using Mozilla's localForage"
+                description: ""
+                link: https://www.npmjs.com/package/ember-localforage-adapter
+            -
+                title: "sl-ember-components: UI Component Library"
+                description: ""
+                link: https://github.com/softlayer/sl-ember-components
+            -
+                title: "ember-myth: CSS Preprocessor which Polyfills Future Specs"
+                description: ""
+                link: https://www.npmjs.com/package/ember-myth
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Create a Touch Menu Component in Ember.js"
+                description: ""
+                link: http://miguelcamba.com/blog/2015/01/01/screencast-create-a-touch-menu-component-in-ember-dot-js/
+            -
+                title: "Ember-Data Polymorphic Associations - Luke Galea"
+                description: ""
+                link: http://blog.unspace.ca/post/107228551852/luke-galea-on-ember-data-polymorphic-associations
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco
+                description: "13th January, 6:30pm @ Heroku, First floor."
+                link: "http://www.meetup.com/Ember-SF/events/219261685/"
+            -
+                title: Vancouver
+                description: "13th January, 6:30pm @ Code Core."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/219685644/"
+            -
+                title: Atlanta
+                description: "13th January, 7:00pm @ Big Nerd Ranch."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/218759402/"
+            -
+                title: Santa Monica
+                description: "14th January, 6:30pm @ Washio HQ."
+                link: "http://www.meetup.com/Ember-SC/events/219194819/"
+            -
+                title: San Diego
+                description: "14th January, 6:30pm @ EvoNexus."
+                link: http://www.meetup.com/sandiegojs/events/219217951/
+            -
+                title: Calgary
+                description: "14th January, 6:30pm @ Joyce on Fourth."
+                link: "http://www.meetup.com/EmberJS-YYC/events/219208700/"
+            -
+                title: Boston
+                description: "15th January, 6:30pm @ Brightcove."
+                link: "http://www.meetup.com/Boston-Ember-js/events/219649397/"
+            -
+                title: Pittsburgh
+                description: "15th January, 7:00pm @ Revv Oakland."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/219622740/"
+            -
+                title: Indianapolis
+                description: "15th January, 7:00pm @ TinderBox."
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/219451461/"
+            -
+                title: Dallas
+                description: "19th January, 7:00pm @ SoftLayer."
+                link: "http://www.meetup.com/Ember-Dallas/events/219143475/"
+            -
+                title: San Juan
+                description: "19th January, 7:00pm @ Blimp HQ."
+                link: "http://www.meetup.com/Ember-PR/events/219705371/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

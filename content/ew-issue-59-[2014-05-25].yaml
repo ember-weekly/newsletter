@@ -1,0 +1,115 @@
+issue: 59
+strapline: "Your weekly source of Ember News"
+content:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Make Your Own Computed Property Macro in Ember.js"
+                description: "We all love the ``Em.computed`` macros, here's how to create your own macros."
+                link: http://balinterdi.com/2014/05/22/make-your-own-computed-property-macro-in-emberjs.html
+            -
+                title: "You Can't Not Have a Framework"
+                description: "Thoughts by Ryan Florence on the effects of choosing not to use a framework when developing. TL;DR - if you don't use a publicly available framework, then you're likely building your own."
+                link: http://blog.ryanflorence.com/you-cant-not-have-a-framework.html
+            -
+                title: "Tried both #angularjs #emberjs. #angularjs is great, #emberjs is.. jaw-dropping-ly awesome!!!"
+                description: "Daniel Lam explains his reasonings behind the title, explaining why he's using both Ember and Angular."
+                link: http://daniellam.me/blog/tried-both-angularjs-emberjs-angularjs-is-great-emberjs-is-jaw-dropping-ly-awesome/
+            -
+                title: "Appetizing Components With Broccoli"
+                description: "A look at how Dana Franklin is refactoring Embrella to use Ember.Components using the [emberella-component-blueprint](https://github.com/realityendshere/emberella-component-blueprint) project linked in the code section."
+                link: https://www.dropbox.com/s/hw6vkhnf438d0re/2014-05-20-ember-sc-meetup-slides.pdf
+            -
+                title: "Deploying Ember-CLI and Rails to Heroku"
+                description: "A look at how you can deploy your Ember/Rails application to Heroku using Ember-CLI."
+                link: http://blog.abuiles.com/blog/2014/05/21/deploying-ember-cli-and-rails-to-heroku/
+            -
+                title: "Ember.js Recipes: Checkboxable Index Pages Using itemController"
+                description: "An example of how to use ``itemController`` to control a list of checkboxes in an Ember app."
+                link: http://codeflip.przepiora.ca/blog/2014/05/22/ember-js-recipes-checkboxable-index-pages-using-itemcontroller/
+            -
+                title: "Fixture Adapters – Ember.js With No Server"
+                description: "A guide to using the Fixture Adapter with Ember-Data. Note: many of the core developers warn that the fixture adapter can lead to asynchronicity bugs when moving to a production adapter."
+                link: http://www.sitepoint.com/fixture-adapters-ember-js-server/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "emberella-component-blueprint"
+                description: "A starting point for creating new, more portable Ember components. ([emberella-cube-component example](https://github.com/realityendshere/emberella-cube-component))"
+                link: https://github.com/realityendshere/emberella-component-blueprint
+            -
+                title: "ember-debug"
+                description: "A simple little initialiser that adds a debug object to your Ember app that provides a bunch of functions that can be useful when developing Ember apps."
+                link: https://github.com/aexmachina/ember-debug
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Websockets and Ember Data - Matteo Depalo"
+                description: "An introduction to using Ember Data with websockets/pusher. ([code](https://github.com/matteodepalo/ember-pushable))"
+                link: http://vimeo.com/96427738
+            -
+                title: "Modern Build Workflows with Broccoli - Jo Liss"
+                description: "An introduction to Broccoli, how to use it, the plugin API and how it integrates with Ember."
+                link: http://vimeo.com/96431267
+            -
+                title: "Ember Sparks 11: Refactoring to a Component"
+                description: "An example of refactoring two views so that their shared functionality is contained within a single Ember component."
+                link: http://www.sparkcasts.net/posts/12
+            -
+                title: "Ember.js Simple Shopping Cart System Series"
+                description: "A new video series by CodeLogic walking through building a shopping cart with Ember."
+                link: https://www.youtube.com/playlist?list=PL0nNJgE19Y-gyzjrLV1mz2vJyzmLORWt0
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.js Philly
+                description: "The State of Ember.js with Andre Malan of SimpleReach. 28th May, 7:00pm @ Tonic Design, Philadelphia."
+                link: "http://www.meetup.com/EmberJS-Philly/events/177478992/"
+            -
+                title: Ember.js NYC
+                description: "Ember & D3. 29th May, 7:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/173542172/"
+            -
+                title: Ember.js Portland
+                description: "Hacker Hours #1. 29th May, 7:00pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/181789582/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 31st May, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/182282832/"
+            -
+                title: Ember.js Ottawa
+                description: "4th June, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/180636752/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 7th June, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/182282852/"
+            -
+                title: Ember.js São Paulo
+                description: "7th June, 2:00pm."
+                link: "http://www.meetup.com/ember-sp/events/180131552/"

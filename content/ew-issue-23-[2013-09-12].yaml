@@ -1,0 +1,141 @@
+issue: 23
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Official News"
+        headlines:
+            -
+                title: "The Post-1.0 Release Cycle"
+                description: "The Core Team will be moving to a 6-week release cycle, similar to that of Google Chrome. There will be a new Beta build every week and a daily, automated Canary build. New features are being developed behind feature flags."
+                link: http://emberjs.com/blog/2013/09/06/new-ember-release-process.html
+           
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Data API Docs"
+                description: "The Official Ember API documentation now includes Ember Data API docs."
+                link: http://emberjs.com/api/data/
+            -
+                title: "Ember Doc - Now with Ember Data"
+                description: "The unofficial searchable Ember documentation website now includes Ember Data too."
+                link: http://ember-doc.com/
+            -
+                title: "Computed Properties in Ember.js"
+                description: "A deeper look at what Computed Properties are and how you use them."
+                link: http://reefpoints.dockyard.com/2013/09/04/computed_properties_in_ember_js.html
+            -
+                title: "How to use a hasMany relationship in Ember Data 1.0 Beta"
+                description: "Code snippets showing how to us hasMany in the latest Ember Data betas."
+                link: http://discuss.emberjs.com/t/ember-data-1-0-0-beta-code-snippets-on-how-to-use-a-hasmany-relationship/2587
+            -
+                title: "Using Ember.js Outlets"
+                description: ""
+                link: http://blog.safaribooksonline.com/2013/09/10/ember-js-outlets/
+            -
+                title: "Ember Sherpa - Ember.js cheatsheet and development companion"
+                description: ""
+                link: http://embersherpa.com/
+            -
+                title: "Ember Todo"
+                description: "An example of using Ember 1.0, Ember Data 1.0 Beta 2 and Rails 4. ([live example](http://ember-todo.herokuapp.com/projects))"
+                link: https://github.com/FeipingHunag/ember-todo
+            
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Google can't read Ember.js websites. We fix that."
+                description: "No servers to manage. No PhantomJS to install. No code duplication."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+            # -
+            #     title: "Ember Hot Seat - EP11: Stefan Penner"
+            #     description: "Core Team member, Stefan Penner, talks about \"...the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0.\""
+            #     link: http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11.html
+            
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Enumerology"
+                description: "Automagic creation of computed properties from enumerable chains."
+                link: https://github.com/jamesotron/ember-enumerology
+            -
+                title: "Query Param Support in Master"
+                description: "The Query Param pull request by Alex Speller has been merged into master. An example of how to use it is shown in this [JSFiddle](http://jsfiddle.net/alexspeller/K9xUP/)."
+                link: https://github.com/emberjs/ember.js/pull/3182
+            -
+                title: "Ember Auth Easy"
+                description: "Simple library to do token authentication in Ember.js. Also a corresponding Rails Engine: [Ember Auth Rails](https://github.com/mharris717/ember_auth_rails)"
+                link: https://github.com/mharris717/ember-auth-easy
+            -
+                title: "Custom Ember JSBin"
+                description: "A custom JSBin especially for Ember. It runs off the starter kit by default."
+                link: http://emberjs.jsbin.com/
+            -
+                title: "Basic Authentication Pattern by Yehuda Katz"
+                description: "Yehuda [tweeted](https://twitter.com/wycats/status/376495062709854209) this authentication pattern example."
+                link: http://jsbin.com/eQOZoGe/3/edit
+            -
+                title: "Text Field Remaining Characters Ember.Component"
+                description: "By Eric Berry"
+                link: http://jsbin.com/UnaLAki/1/edit
+            -
+                title: "Bootstrap Dropdown Select with Ember.Component"
+                description: "By Eric Berry"
+                link: http://jsbin.com/eqUJEMA/1/edit
+            
+    -
+        heading: "Jobs"
+        headlines:
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Southern California Meetup"
+                description: "11th September, 6:30pm @ Pivotshare."
+                link: http://www.meetup.com/Ember-SC/events/137587982/
+            -
+                title: "Boston Meetup"
+                description: "12th September, 6:45pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/135399682/
+            -
+                title: "Ottawa Meetup"
+                description: "16th September, 7:30pm @ Canal Royal Oak."
+                link: http://www.meetup.com/Ember-js-Ottawa/events/139700542/
+            -
+                title: "San Francisco Meetup"
+                description: "17th September, 6:30pm @ Zendesk."
+                link: http://www.meetup.com/Ember-SF/events/138593532/
+            -
+                title: "NYC Meetup"
+                description: "18th September, 7:00pm @ Booker.com."
+                link: http://www.meetup.com/EmberJS-NYC/events/138461942/
+            -
+                title: "TechLife Cincinnati Meetup"
+                description: "18th September, 6:30pm @ Gaslight."
+                link: http://www.meetup.com/TechLife-Cincinnati/events/138546202/
+            
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: "Blink tag Resurrected"
+    #             description: "Firefox may have dropped the blink tag, but Ember has you back! (by Gavin Joyce)."
+    #             link: http://jsbin.com/OZafufa/1/edit

@@ -1,0 +1,149 @@
+issue: 14
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+       heading: "Releases"
+       headlines:
+            -
+               title: "Ember 1.0 RC6 Released"
+               description: "The official announcement of RC6. This release includes the Async Router API changes & Ember.Component. See the [changelog](https://github.com/emberjs/ember.js/blob/893bbc4ecc3ad38b4a83370edeb966eae3d824f4/CHANGELOG) for more details."
+               link: https://mail.google.com/mail/u/0/#label/links/13fa586ebc9b383a
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Computed Property Macros"
+                description: "A look at Ember's Computed Property Macros and how they can greatly simplify your applications code."
+                link: http://eviltrout.com/2013/07/07/computed-property-macros.html
+            -
+                title: "Moving Ember.js Handlebars templates into the asset pipeline"
+                description: "A look at using the [HandlebarsAssets gem](https://github.com/leshill/handlebars_assets) in the rails asset pipeline."
+                link: http://www.tigraine.at/2013/07/01/moving-emberjs-handlebars-templates-into-the-asset-pipeline
+            -
+                title: "Some notes on EmberJS"
+                description: "Various useful notes on working with ember. Especially useful for people starting out."
+                link: http://michielkalkman.com/javascript/emberjs/rails/2013/06/10/emberjs-notes.html
+            -
+                title: "Useful Functions in the Ember Namespace"
+                description: ""
+                link: http://coderberry.me/blog/2013/07/07/useful-functions-in-the-ember-namespace/
+            -
+                title: "Creating a Loading Button in Ember.js"
+                description: ""
+                link: http://thoughts.z-dev.org/2013/07/05/creating-a-loading-button-in-ember-js/
+            -
+                title: "Radio Buttons in Ember.js"
+                description: ""
+                link: http://thoughts.z-dev.org/2013/07/04/radio-buttons-in-ember-js/
+    -
+        heading: "The Adam Hawkins Corner"
+        headlines:
+            -
+                title: "We are Pioneers"
+                description: "A personal and passionate post about Adam's Ember journey"
+                link: http://hawkins.io/2013/07/we-are-pioneers/
+            -
+                title: "Ember Toggle Switch"
+                description: "Also checkout [@xeppelin's enhancement](https://twitter.com/xeppelin/status/352857546018652161) to use the new [Ember.Component](http://emberjs.com/api/classes/Ember.Component.html). "
+                link: http://hawkins.io/2013/07/ember-toggle-switch/
+            -
+                title: "Ember & Simple Bootstrap Typeheads"
+                description: ""
+                link: http://hawkins.io/2013/07/ember-and-simple-bootstrap-typehead/
+            -
+                title: "Pagination with Ember"
+                description: ""
+                link: http://hawkins.io/2013/07/pagination-with-ember/
+
+    -
+        heading: "Ember Fest"
+        image: "https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/ac25c8565ec37f9299ac75ca0/images/logo_smallf3833f.png"
+        advert: true
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany and will be a three day event featuring Training sessions, a full day Hackathon as well as a full day Conference. This will by far be the European Ember.js event of the year, starting on August 29th and ending on August 30th with a conference dinner and an after party."
+                # image: https://si0.twimg.com/profile_images/378800000030945398/cf9a81d8d81affa2126f00af65708ed6.png
+                link: http://emberfest.eu/
+
+    -
+        heading: Examples
+        headlines:
+            -
+                title: "EmberPress"
+                description: "Robin Ward updated his EmberPress app to RC6. Check out the [annotated source](http://emberpress.eviltrout.com/docs/emberpress.html). Note from Robin - [\"The code is not perfectly idiomatic but there's good concepts there\"](https://twitter.com/evil_trout/status/352433749318840320)."
+                link: http://emberpress.eviltrout.com/
+            -
+                title: "emberreddit"
+                description: "Robin Ward also updated his emberreddit app to RC6. Check out the [source](https://github.com/eviltrout/emberreddit)."
+                link: http://emberreddit.eviltrout.com/
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Tom Dale: Building URL-Driven Apps with Ember.js"
+                description: "Tom's talk from NDC in Oslo. He shows \"...how Ember's router puts URLs front and center. You'll also see how embracing convention over configuration leads to compact, predictable, and testable code.\" "
+                link: http://vimeo.com/68390483
+
+    -
+        heading: "Jobs"
+        headlines:
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    # -
+    #     heading: "Interesting Commits"
+    #     headlines:
+    #         -
+    #            title: "Ember.Component"
+    #            description: "Ember.Control (later renamed [Ember.Component](https://github.com/emberjs/ember.js/commit/c52e4200b57c399192582598e991accd3332b44a)) brings web component semantics to Ember."
+    #            link: https://github.com/emberjs/ember.js/commit/ad4d1ef5fdda67c503c24346e097ddf06f77787f
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember.js Persistence Foundation"
+                description: "A new framework, from [GroupTalent](https://grouptalent.com), for \"syncing client state with a persistent backend such as a REST API or socket connection\"."
+                link: http://epf.io/
+            -
+                title: "Ember Model"
+                description: "Ember Model now has relationship support - hasMany/belongsTo."
+                link: https://github.com/ebryn/ember-model
+            -
+                title: "ember-mongoose"
+                description: "Updated to v0.0.8 - with Ember-Data 0.13 support.."
+                link: https://github.com/kelonye/ember-mongoose
+            -
+                title: "ember-autosaving"
+                description: "A controller mixin to support autosaving functionality in with Ember and Ember Data. Based on ['An AutoSave Pattern for Ember and Ember Data'](http://blog.gaslight.co/post/53361504301/an-autosave-pattern-for-ember-and-ember-data) blog post."
+                link: https://github.com/gaslight/ember-autosaving
+            -
+                title: "ember-query-params"
+                description: "Plug-in query string parameters for Ember.js."
+                link: https://github.com/ElteHupkes/ember-query-params
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "MelbJS"
+                description: "10th July @ Aconex, Melbourne. Yeahuda Katz will be giving a talk on [Ember and the Future of the Web](http://lanyrd.com/2013/melbjs-july/schypy/)"
+                link: http://melbjs.com/
+            -
+                title: "Boston Meetup"
+                description: "11th July, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/125313702/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Mozilla sponser Ember front-end for Bugzilla"
+                description: "Mozilla will be sponsoring Erik Bryn to create the bugzilla front-end with Ember. You can follow the source [on github](https://github.com/ebryn/bugzilla-ember)"
+                link: https://twitter.com/ebryn/status/352473542501220352

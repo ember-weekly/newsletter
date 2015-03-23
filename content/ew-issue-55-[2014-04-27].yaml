@@ -1,0 +1,186 @@
+issue: 55
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.5.1 Released"
+                description: "This release fixes bugs with [AutoLocation](https://github.com/emberjs/ember.js/pull/4717), [HistoryLocation](https://github.com/emberjs/ember.js/pull/4730), as well as [performance regressions](https://github.com/emberjs/ember.js/issues/4740)."
+                link: https://github.com/emberjs/ember.js/blob/v1.5.1/CHANGELOG.md
+
+    -
+        heading: "EmberConf 2014 Videos"
+        description: "The remainder of the EmberConf 2014 session videos are now [available on confreaks](http://confreaks.com/events/emberconf2014)."
+        isList: true
+        headlines:
+            -
+                title: "The {{x-foo}} in You - Ryan Florence"
+                isList: true
+                link: http://confreaks.com/videos/3306-emberconf2014-the-x-foo-in-you
+            -
+                title: "Ember is for the Children - DeVaris Brown"
+                isList: true
+                link: http://confreaks.com/videos/3308-emberconf2014-ember-is-for-the-children
+            -
+                title: "Software Productivity and Ember: Ember CLI - Stefan Penner"
+                isList: true
+                link: http://confreaks.com/videos/3307-emberconf2014-software-productivity-and-ember-ember-cli
+            -
+                title: "Mr. Router embraces the Controller - Alex Matchneer"
+                isList: true
+                link: http://confreaks.com/videos/3309-emberconf2014-the-future-of-ember-component
+            -
+                title: "Convergent/Divergent - Christopher Meiklejohn"
+                isList: true
+                link: http://confreaks.com/videos/3311-emberconf2014-convergent-divergent
+            -
+                title: "Controlling Route Traversal with Flows - Nathan Hammond"
+                isList: true
+                link: http://confreaks.com/videos/3312-emberconf2014-controlling-route-traversal-with-flows
+            -
+                title: "Snappy Means Happy: Performance in Ember Apps - Matthew Beale"
+                isList: true
+                link: http://confreaks.com/videos/3313-emberconf2014-snappy-means-happy-performance-in-ember-apps
+            -
+                title: "Keynote: Evolution - Dave Herman"
+                isList: true
+                link: http://confreaks.com/videos/3314-emberconf2014-keynote-evolution
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "How to build a realtime chatting app with Firebase and Ember.js from Scratch"
+                description: "A thorough guide to using Firebase to build a realtime application with Ember."
+                link: https://medium.com/ember-js-framework/8ef614acf820
+            -
+                title: "Master Your Modals In Ember.js"
+                description: "New kid on the block, [@EmberGuru](https://twitter.com/EmberGuru), provides an in-depth guide to using Bootstrap modals with Ember Components."
+                link: http://ember.guru/2014/master-your-modals-in-ember-js
+            -
+                title: "Things I wish someone had told me when I was learning Ember.js"
+                description: "Tips & tricks picked up by Landon Noss while learning Ember."
+                link: http://landongn.com/ember/things-i-wish-someone-had-told-me-when-i-was-learning-ember-js/
+            -
+                title: "The number one reason to build a javascript application: fast feedback"
+                description: "A quick benchmark comparing selenium style integration tests vs ember-testing integration tests."
+                link: http://toranbillups.com/blog/archive/2014/04/27/The-number-one-reason-to-build-a-javascript-application-fast-feedback/
+            -
+                title: "File Uploads in Ember.js"
+                description: "Ryan Tablada shows how to do file uploads by programatically creating DOM element."
+                link: http://ryantablada.com/post/file-uploads-in-ember-js
+            -
+                title: "Ember.js sessions without injections"
+                description: "An example of how to build simple authentication in Ember without using injections."
+                link: http://yaymukund.github.io/blog/2014/04/21/emberjs-sessions-without-injections/
+            # -
+            #     title: "Model Errors in Ember.js"
+            #     description: "A walkthrough to enabling errors in an Ember Data RESTAdapter."
+            #     link: https://marcqualie.com/2014/04/model-errors-in-emberjs
+            -
+                title: "Animating Deletes With the BufferedProxy"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2014/04/22/animate-bufferedproxy/
+            -
+                title: "Handling Errors in Ember.js and Ruby on Rails"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/04/14/handling-errors-in-ember-dot-js-and-ruby-on-rails/
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "EmberShare - Real-time Ember"
+                description: "Ember-Share is an attempt to solve data persistence in an Ember application, it relies on ShareJS, a battle tested operational transforms library."
+                link: http://embershare.com/
+            -
+                title: "ember-data-factory-guy"
+                description: "Fixtures for Ember Data ([example](https://gist.github.com/OpakAlex/11045841))."
+                link: https://github.com/danielspaniel/ember-data-factory-guy
+            -
+                title: "ember-phonecat"
+                description: "The Angular.js PhoneCat tutorial app written in Ember."
+                link: https://github.com/jakecraige/ember-phonecat
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberConf and the State of Ember.js"
+                description: "A summary of EmberConf and an overview of recent happenings in the world of Ember by Jamie White & Matteo Depalo at Ember London."
+                link: http://vimeo.com/92531675
+            -
+                title: "Making the Pieces Fit"
+                description: "Paul Doerwald discusses how an Ember application is put together and the responsibility of each distinct piece."
+                link: http://vimeo.com/92505942
+            -
+                title: "Ember Functions, Computed Properties, Observers and More"
+                description: "Deric Abel introduces the aforementioned Ember tools at Ember Salt Lake City."
+                link: https://www.youtube.com/watch?v=cIJCTd8qJcQ&list=PLmnpXeFBQAxFJABqJ_1CLNgGrua-y0dKo
+            -
+                title: "Binding to Twitter Bootstrap with Ember"
+                description: "An Ember Salt Lake City talk by Brett Valentine on integrating Bootstrap with Ember. ([source](https://github.com/brettv/ember---bootstrap))"
+                link: https://www.youtube.com/watch?v=Z3-t4tF1OPA
+            -
+                title: "Using TDD to Tame the Big Ball o' Mud"
+                description: "Brandon Hays shows how you can refactor old jQuery spagetti-code into a clean Ember app using Ember Components and Test Driven Development."
+                link: http://www.confreaks.com/videos/3225-mwjs-using-tdd-to-tame-the-big-ball-o-mud
+            -
+                title: "Ember Sparks 7: Transferring to Ember App Kit"
+                description: "Jeffrey Biles continues to show how to migrate his Ember application to using Ember App Kit."
+                link: https://www.youtube.com/watch?v=jbNCXmR6_aA
+            -
+                title: "Moving A Traditional Rails/ jQuery App to Ember.JS"
+                description: "A talk  about how Sourcery transitioned from a large jQuery code base to a faster, easier to maintain, tested Ember app."
+                link: https://www.youtube.com/watch?v=zc-SutFOK-o
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember.js San Francisco
+                description: "29th April, 6:30pm @ Heroku, Penthouse, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/164903562/"
+            -
+                title: Ember.js NYC
+                description: "Hacker Hours: Ember pairing musical chairing! 29th April, 7:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/177482462/"
+            -
+                title: Ember-SC
+                description: "29th April, 7:00pm @ General Assembly, Santa Monica."
+                link: "http://www.meetup.com/Ember-SC/events/173895002/"
+            -
+                title: Ember.js Seattle
+                description: "Let's talk about testing and the Ember-CLI with Stefan Penner. 30th April, 6:30pm @ Urbanspoon, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/68418882/"
+            -
+                title: STL Ember.js
+                description: "5th May, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174091952/"
+            -
+                title: Ember.js Ottawa
+                description: "Ember Ottawa Re-launch: An Introduction to Ember. 7th May, 6:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/177550452/"
+            -
+                title: Amsterdam Ember.js
+                description: "7th May, 7:00pm @ Amsterdam, Netherlands"
+                link: "http://www.meetup.com/Amsterdam-Ember-js/events/173182982/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

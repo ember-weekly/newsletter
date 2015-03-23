@@ -1,0 +1,242 @@
+issue: 100
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.11 Beta 5 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.11.0-beta.5
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "EmberConf 2015 - All Videos Posted!"
+                description: "A **must watch** collection of great talks from EmberConf 2015!"
+                link: https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rails to Ember - Tip #6: Routes Fetch Data"
+                description: ""
+                link: http://fromrailstoember.com/6-routes-fetch-data/
+            -
+                title: "Add Twitter Authentication to an Ember.js App with Torii"
+                description: ""
+                link: http://www.sitepoint.com/twitter-authentication-ember-js-torii/
+            -
+                title: "Ember.js, Reflux, Immutability, No Ember Data, No Models... Sanity?"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/03/13/ember-reflux/
+            -
+                title: "Improved Ember-CLI Performance with Windows"
+                description: ""
+                link: http://www.felixrieseberg.com/improved-ember-cli-performance-with-windows/
+            -
+                title: "New Features in EmberFire"
+                description: ""
+                link: https://www.firebase.com/blog/2015-03-09-new-emberfire-features.html
+            -
+                title: "Why I Recommend Ember.js Over Angular.js"
+                description: ""
+                link: http://blog.yodersolutions.com/why-i-recommend-emberjs-over-angularjs/
+            -
+                title: "Deploying an Ember-CLI Application Through SSH"
+                description: ""
+                link: http://treyhunner.com/2015/03/deploying-an-ember-cli-application-via-ssh/
+            -
+                title: "Why You Should Care About The Ember Run Loop"
+                description: ""
+                link: http://www.programwitherik.com/why-you-should-care-about-the-ember-run-loop
+            -
+                title: "Ember.js Drag & Drop File Upload - The Right(ish) Way"
+                description: ""
+                link: http://webcloud.info/blog/2015/03/09/ember-drag-drop-file-upload-the-rightish-way/
+            -
+                title: "Understanding Ember.js (SXSW) by Luke Melia"
+                description: ""
+                link: https://speakerdeck.com/lukemelia/understanding-ember-dot-js-sxsw
+            -
+                title: "Custom Build Workflows Using Ember and JSPM"
+                description: ""
+                link: http://js-for.ninja/custom-ember-dev-workflow-using-jspm.html
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Emblem 0.5.0"
+                description: ""
+                link: http://madhatted.com/2015/2/27/emblem-0-5-0
+            -
+                title: "torii-fire: A Torii Provider for Firebase Authentication."
+                description: ""
+                link: https://github.com/MattMSumner/torii-fire
+            -
+                title: "ember-document-title: A Component for Changing document.title"
+                description: ""
+                link: https://github.com/paddle8/ember-document-title
+            -
+                title: "ember-highlight-js: Code Highlighting Component Using Highlight.js"
+                description: ""
+                link: https://www.npmjs.com/package/ember-highlight-js
+            -
+                title: "ember-street-view: Goggle Street View Component"
+                description: ""
+                link: https://www.npmjs.com/package/ember-street-view
+            -
+                title: "ember-cli-scala: Import Scala Files Using Scala.js"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-scala
+            -
+                title: "ember-cli-auto-register: Auto Register a Directory into the Container"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-auto-register
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+                advert: true
+                description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+                link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember-CLI + Firebase in 9 Minutes"
+                description: ""
+                link: https://www.youtube.com/watch?v=Cs3Fdup7aUo
+            -
+                title: "Ember Land #5: Pods, Element/Fragment RFC, Filtering Babel, Ember QUnit"
+                description: ""
+                link: http://ember.land/episodes/5
+            -
+                title: "Ember.js Components: Past, Present and Future - Stefan Penner"
+                description: ""
+                link: http://www.modernwebui.org/2015/03/14/the-evolution-of-web-components-part-33-ember-js-components-past-present-and-future/
+            -
+                title: "Building Addons with Ember-CLI"
+                description: ""
+                link: https://www.youtube.com/watch?v=g85K0V9YbLo
+            -
+                title: "Developing UI Components with Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=XCAxSsCMPEY
+            -
+                title: "Ask Tom and Yehuda: What Programming Tools Do You Use?"
+                description: ""
+                link: https://www.youtube.com/watch?v=vBv714p28kY
+            -
+                title: "Between Screens Podcast: Interview with Tom Dale"
+                description: ""
+                link: http://betweenscreens.fm/episodes/72
+            -
+                title: "Ember Screencasts #20 - Sorting Tables with SortableMixin (+ New Pro Video)"
+                description: "Ember Sparks has an new name - Ember Screencasts!"
+                link: http://www.emberscreencasts.com/
+            -
+                title: "EmberGrep: Upgrading Our App"
+                description: "Also, save 25% off paid screencasts until March 23rd with code: `emberweekly`"
+                link: https://embergrep.com/free-lessons/upgrading-our-app
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas
+                description: "16th March, 8:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/219922103/"
+            -
+                title: Adelaide
+                description: "17th March, 7:00pm @ Majoran Distillery, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/220717614/"
+            -
+                title: Denver
+                description: "17th March, 7:30pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/220976383/"
+            -
+                title: Vancouver
+                description: "17th & 24th March, 7:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/220770479/"
+            -
+                title: Orlando
+                description: "17th March, 8:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/221055714/"
+            -
+                title: Cincinnati
+                description: "18th March, 7:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/220491569/"
+            -
+                title: San Francisco
+                description: "18th March, 7:30pm @ Heavybit, Inc., San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/220121327/"
+            -
+                title: Seattle
+                description: "18th March, 7:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220756271/"
+            -
+                title: Toronto
+                description: "18th March, 7:30pm @ The ExChange @ Brightlane, Toronto."
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/221056517/"
+            -
+                title: Southern California
+                description: "18th March, 8:00pm."
+                link: "http://www.meetup.com/Ember-SC/events/220985968/"
+            -
+                title: Madrid
+                description: "18th March, 8:00pm @ kunlabori coworking, Madrid."
+                link: "http://www.meetup.com/Ember-js-Madrid/events/221129908/"
+            -
+                title: Pittsburgh
+                description: "19th March, 8:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/220757735/"
+            -
+                title: Jacksonville Beach
+                description: "19th March, 8:30pm @ Hashrocket Offices, Jacksonville Beach."
+                link: "http://www.meetup.com/EmberJax/events/221031685/"
+            -
+                title: Ember.js São Paulo
+                description: "21st March, 4:00pm."
+                link: "http://www.meetup.com/ember-sp/events/220503461/"
+            -
+                title: Bangalore
+                description: "21st March, 9:30pm"
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/221074419/"
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Mastering Ember.js – 3-Day Workshop in Cincinnati ($)"
+                advert: true
+                description: "6-8th April. Save $120 with code `emberweekly`!"
+                link: https://ti.to/gaslight/mastering-emberjs

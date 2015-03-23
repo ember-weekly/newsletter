@@ -1,0 +1,139 @@
+issue: 54
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Testing Guide v2.0"
+                description: "Thanks to [Eric Berry and friends](https://twitter.com/coderberry/status/455743003185782784/photo/1), the Ember Testing guides have been updated with more details on integration testing, unit testing controllers, routes, models and components, test helpers and automating with test runners."
+                link: http://emberjs.com/guides/testing/
+            -
+                title: "Ember Object Self Troll"
+                description: "A brief explanation of how properties of an Ember object may be shared by instances if you're not familiar with how prototypical inheritance works in relation to Ember objects."
+                link: http://reefpoints.dockyard.com/2014/04/17/ember-object-self-troll.html
+            -
+                title: "Proposal: Services - a new role in the Ember Programming Model"
+                description: "Core team member Tom Dale is looking for feedback on his proposal of building a conventional, declerative layer on top of Ember's dependency injection to share common services in your Ember code."
+                link: http://discuss.emberjs.com/t/services-a-rumination-on-introducing-a-new-role-into-the-ember-programming-model/4947
+            -
+                title: "Getting Started with Ember.js (in a Rails project)"
+                description: "A tutorial by Ryan Bigg covering how to apply Ember to a pre-existing Rails application which has a non-Ember-Data-friendly API."
+                link: https://github.com/radar/guides/blob/master/ember.md
+            -
+                title: "Abusing Computed Properties for Fun & Profit"
+                description: "Slides from Denis Nazarov's talk at Ember NYC on Computed Properties, including Computed Property Setters."
+                link: https://docs.google.com/presentation/d/1Mnkoi5QIWJyYFEjKpKTYdXRg_ybXJpHdsFQO1dj_7OM/edit#slide=id.p
+            -
+                title: "Ember.js WYSIWYG Component with Summernote"
+                description: "An example of how to create a WYSIWYG editor using Ember components."
+                link: http://hbrysiewicz.github.io/2014-04-18-summernote-ember-wysiwyg.html
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-responsive"
+                description: "A small library to give you a simple, Ember-aware way of dealing with media queries. Declare your application's breakpoints and it'll expose the rest for you."
+                link: https://freshbooks.github.io/ember-responsive/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "HTMLBars - The Next-Generation of Templating in Ember.js"
+                description: "Erik Bryn and Kris Selden's EmberConf talk where they walk through the design decisions and usage examples of how HTMLBars will alter the landscape of HTML templating solutions."
+                link: http://www.confreaks.com/videos/3305-emberconf2014-htmlbars-the-next-generation-of-templating-in-ember-js
+            -
+                title: "Ember Hot Seat - EP15: Robert Jackson"
+                description: "New core team member Robert Jackson joins DeVaris Brown in the hot seat. He discusses the tooling he developed for the Ember build system and his recent move to the Dockyard team."
+                link: http://emberhotseat.com/2014/04/15/ember-hot-seat-episode-015.html
+            -
+                title: "Developer Communities With Leah Silber"
+                description: "Core team member Leah Silber discusses working with developers, organizing EmberConf, building communities, and growing a business through open source software."
+                link: http://gaslight.co/blog/developer-communities-with-leah-silber
+            -
+                title: "Setting up a serious Ember project"
+                description: "A screencast which shows how to build an Ember project with Lineman that proxies API requests back to a separate Rails application which will provide a JSON API using ActiveModel::Serializers."
+                link: http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html
+            -
+                title: "Ember Sparks 6: Intro to Ember App Kit"
+                description: "Jeffery shows how to start a new Ember App Kit project and its advantages."
+                link: https://www.youtube.com/watch?v=wvVBXmvAFTo
+            -
+                title: "Test-Driven Development of Ember.js Applications"
+                description: "Andy Pliszka introduces Ember by showcasing test-driven development of an Ember application using Jasmine."
+                link: http://www.confreaks.com/videos/3226-mwjs-test-driven-development-of-ember-js-applications
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js NYC
+                description: "Hacker Hours: Ghost Hacker with Harry Wolff. 21st April, 7:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/176158942/"
+            - 
+                title: Ember.js Denver
+                description: "22nd April, 6:00pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/175559312/"
+            - 
+                title: Chicago Ember.js
+                description: "Ember with Rails: from Development to Deployment. 24th April, 6:30pm @ Groupon, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/176256752/"
+            - 
+                title: Ember ATX
+                description: "24th April, 7:00pm @ The FrontSide, Austin."
+                link: "http://www.meetup.com/Ember-ATX/events/175388102/"
+            - 
+                title: Ember-SC
+                description: "Hackfest at the Beach. 26th April, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/177022872/"
+            - 
+                title: Ember.js San Francisco
+                description: "29th April, 6:30pm @ Heroku, Penthouse, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/164903562/"
+            - 
+                title: Ember.js NYC
+                description: "Hacker Hours: Ember pairing musical chairing! 29th April, 7:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/177482462/"
+            - 
+                title: Ember-SC
+                description: "29th April, 7:00pm @ General Assembly, Santa Monica."
+                link: "http://www.meetup.com/Ember-SC/events/173895002/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: "Ember Core Team Member Memory Game"
+    #             description: "A little fun memory game written in Ember."
+    #             link: http://jsbin.com/zeqaseva/12

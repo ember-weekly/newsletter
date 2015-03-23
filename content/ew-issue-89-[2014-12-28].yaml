@@ -1,0 +1,174 @@
+issue: 89
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.9.1 Released - XSS Security Fixes"
+                description: ""
+                link: http://emberjs.com/blog/2014/12/23/ember-1-9-1-released.html
+            -
+                title: "Ember-CLI v0.1.5 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.1.5
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Inside FastBoot: The Road to Server-Side Rendering"
+                description: ""
+                link: http://emberjs.com/blog/2014/12/22/inside-fastboot-the-road-to-server-side-rendering.html
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "HTMLBars - A Feature-by-Feature Review"
+                description: ""
+                link: http://colintoh.com/blog/htmlbars
+            -
+                title: "Using Ember Components as Content Wrappers"
+                description: ""
+                link: http://gregbabiars.com/using-ember-components-as-content-wrappers/
+            -
+                title: "Submit an Ember TextArea with Command or Ctrl + Enter"
+                description: ""
+                link: https://medium.com/the-ember-way/submit-an-ember-textarea-with-command-or-ctrl-enter-a933b4325b3b
+            -
+                title: "Write Your First Ember-CLI Addon in 6 Easy Steps"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2014/12/22/write-your-first-ember-cli-addon-in-six-easy-steps/
+            -
+                title: "Ember Authorization Tutorial"
+                description: ""
+                link: http://www.asciifarm.com/EmberAuthTutorial/
+            -
+                title: "Data Down, Actions Up"
+                description: ""
+                link: http://www.samselikoff.com/blog/data-down-actions-up/
+            -
+                title: "How Ember Data Affects Data Down, Actions Up"
+                description: ""
+                link: http://www.samselikoff.com/blog/how-ember-data-affects-data-down-actions-up/
+            -
+                title: "Injecting a Global Variable Into Your Ember Classes"
+                description: ""
+                link: http://www.samselikoff.com/blog/injecting-a-global-variable-into-your-ember-classes/
+            -
+                title: "Working With JavaScript Plugins in Ember-CLI: Part 3"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/12/28/working-with-javascript-plugins-in-ember-cli-part-3/
+            -
+                title: "A Compendium of Hooks in Ember-CLI"
+                description: ""
+                link: http://hashrocket.com/blog/posts/a-compendium-of-hooks-in-embercli
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js experts at DockYard to build your next Ember.js project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-materialize: Addon for Materialize, the Material Design based CSS Framework"
+                description: ""
+                link: https://github.com/sgasser/ember-cli-materialize
+            -
+                title: "ember-insights: Middleware for Tracking Users Activities Using Google Analytics"
+                description: ""
+                link: https://github.com/roundscope/ember-insights
+            -
+                title: "ember-flex-grid: Components for a Responsive Grid System"
+                description: ""
+                link: https://www.npmjs.com/package/ember-flex-grid
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Frontside Podcast: Ember 2.0 and the Indie Web with Yehuda Katz and Tom Dale"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/16
+            -
+                title: "Developing an Ember-CLI Addon - Joost de Vries"
+                description: ""
+                link: https://www.youtube.com/watch?v=aNlxCxWs4O4
+            -
+                title: "The Pollster Pattern: Data Updates Using Polling - Ben Konrath"
+                description: ""
+                link: https://www.youtube.com/watch?v=EJeVvirzvA8
+            -
+                title: "The Road to Ember 2.0 - Sergey Osipov"
+                description: ""
+                link: https://www.youtube.com/watch?v=ypG1mWTH4Cg
+            -
+                title: "Ember-CLI-Pagination - Martin Broerse"
+                description: ""
+                link: https://www.youtube.com/watch?v=vf1V3TlS-OQ
+            -
+                title: "Building 10 Foot Interfaces in Ember - Robin Ward"
+                description: ""
+                link: http://eviltrout.com/2014/12/22/watch-ember-tv.html
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis
+                description: "5th January, 11:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/219261309/"
+            -
+                title: Vancouver
+                description: "6th & 13th January, 11:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/219306415/"
+            -
+                title: Ottawa
+                description: "7th January, 11:30pm @ bv02, Ottawa."
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/215868272/"
+            -
+                title: Montevideo
+                description: "9th January, 12:30am @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/219290106/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

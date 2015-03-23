@@ -1,0 +1,212 @@
+issue: 95
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.10 & 1.11 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/02/07/ember-1-10-0-released.html
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember Community Survey, 2015"
+                description: ""
+                link: http://madhatted.com/2015/2/4/ember-community-survey-2015
+            -
+                title: "Compiling Templates with Ember 1.10"
+                description: ""
+                link: http://emberjs.com/blog/2015/02/05/compiling-templates-in-1-10-0.html
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "You’re Missing the Point of Server-Side Rendered JavaScript Apps"
+                description: ""
+                link: http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/
+            -
+                title: "Ember QUnit 0.2.x"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/02/06/ember-qunit-0-2.html
+            -
+                title: "Getting Started With Sinatra and Ember-CLI"
+                description: ""
+                link: http://bendyworks.com/frank-fire-sinatra-ember-cli/
+            -
+                title: "Setting up Ember.js (Ember-CLI) with Rails"
+                description: ""
+                link: http://nandovieira.com/setting-up-emberjs-with-rails-ember-cli-edition
+            -
+                title: "Authentication for Single Page Applications and API’s in the SANE Stack"
+                description: ""
+                link: http://www.100percentjs.com/authentication-single-page-applications-apis-sane-stack/
+            -
+                title: "Debugging a Broccoli Tree"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/02/02/debugging-a-broccoli-tree.html
+            -
+                title: "Top 5 Best Beginner Tutorials For Ember.js"
+                description: ""
+                link: http://www.programwitherik.com/top-5-best-resources-for-ember-js/
+            -
+                title: "Embracing Ember Conventions: Loading and Error Substates"
+                description: ""
+                link: https://speakerdeck.com/cball/embracing-ember-conventions-loading-and-error-substates
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-browser-stats: Monitor JavaScript Heap Size & Perfomance in Your Ember App"
+                description: ""
+                link: https://github.com/stefanpenner/ember-browser-stats
+            -
+                title: "ember-cli-defeatureify: Remove Specially Flagged Feature Blocks From Ember Source"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-defeatureify
+            -
+                title: "ember-pretenderify: Opinionated Pretender Setup for Ember-CLI Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-pretenderify
+            -
+                title: "service-sessions: Enable Ember Services to Manage Multiple Stateful Sessions"
+                description: ""
+                link: https://www.npmjs.com/package/service-sessions
+            -
+                title: "ember-easy-decorator: Simple Decorator for Ember-EasyForm"
+                description: ""
+                link: https://github.com/api-hogs/ember-easy-decorator
+            -
+                title: "ember-cli-simple-validation: Simple Form Validation"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-simple-validation
+            -
+                title: "ember-lazy-image: Lazy Image Loading for Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-lazy-image
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+               description: ""
+               link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Animated Transitions Using Components - Josef (MajorBreakfast)"
+                description: ""
+                link: https://www.youtube.com/watch?v=Z-ZQBO6-f8Q
+            -
+                title: "Ember Libraries and Addons - Marco Otte-Witte"
+                description: ""
+                link: https://www.youtube.com/watch?v=txAHVxsfHPc
+            -
+                title: "Ember vs Meteor - Stefan Fochler"
+                description: ""
+                link: https://www.youtube.com/watch?v=8yAmdctKTv8
+            -
+                title: "Frontside Podcast #18: Back-End Devs and Bridging the Stack with Toran Billups"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/18
+            -
+                title: "Full Stack Radio #8: Ember and API First with Sean Devine"
+                description: ""
+                link: http://fullstackradio.com/episodes/8/
+            -
+                title: "Building Addons with Ember-CLI - Evan Davis"
+                description: ""
+                link: https://thenewcircle.com/s/post/1699/building_addons_with_ember_cli_alex_zirbel_video
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Juan
+                description: "9th February, 7:00pm @ Blimp HQ, San Juan."
+                link: "http://www.meetup.com/Ember-PR/events/220281521/"
+            -
+                title: Vancouver
+                description: "10th February, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/220280360/"
+            -
+                title: New York
+                description: "10th February, 7:00pm @ New York Office Share."
+                link: "http://www.meetup.com/EmberJS-NYC/events/220307904/"
+            -
+                title: Atlanta
+                description: "10th February, 7:00pm @ Big Nerd Ranch, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/220285054/"
+            -
+                title: Calgary
+                description: "11th February, 6:30pm @ Joyce on Fourth, Calgary."
+                link: "http://www.meetup.com/EmberJS-YYC/events/220230827/"
+            -
+                title: Ember Riverside
+                description: "11th February, 7:00pm."
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/219895634/"
+            -
+                title: "San Diego JavaScript"
+                description: "11th February, 7:00pm @ EvoNexus, San Diego"
+                link: http://www.meetup.com/sandiegojs/events/219854072/
+            -
+                title: Berlin
+                description: "12th February, 7:00pm @ Acrolinx, Berlin."
+                link: "http://www.meetup.com/Ember-js-Berlin/events/219864115/"
+            -
+                title: Montevideo
+                description: "12th February, 7:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/219715677/"
+            -
+                title: Dallas
+                description: "16th February, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/220211212/"
+            -
+                title: "SXSW - Understanding Ember.js by Luke Melia"
+                description: "13th March, 5:00pm @ SXSW, Austin."
+                link: http://schedule.sxsw.com/2015/events/event_IAP41290
+
+
+
+    -
+        heading: "Finally"
+        advert: true
+        headlines:
+            -
+                title: "ReactWeek: Interested in learning React.js?"
+                description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+                link: http://reactweek.com

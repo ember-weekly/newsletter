@@ -1,0 +1,97 @@
+issue: 7
+strapline: "Ember.js news & lots more..."
+content:
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Web-client development with Ember.js and Windows Azure Mobile Services"
+                description: "A series of posts [[1](http://blogs.msdn.com/b/silverlining/archive/2013/05/07/ember-js-and-windows-azure-mobile-services-part-1.aspx), [2](http://blogs.msdn.com/b/silverlining/archive/2013/05/09/web-client-development-with-ember-js-and-windows-azure-mobile-services-part-2.aspx), [3](http://blogs.msdn.com/b/silverlining/archive/2013/05/13/web-client-development-with-ember-js-and-windows-azure-mobile-services-part-3.aspx), [4](http://blogs.msdn.com/b/silverlining/archive/2013/05/15/web-client-development-with-ember-js-and-windows-azure-mobile-services-part-4.aspx)] showing how to create an Ember app with Windows Azure Mobile Services, including app bootstrapping, data storage & authentication."
+                domain: blogs.msdn.com
+                link: http://blogs.msdn.com/b/silverlining/archive/2013/05/15/web-client-development-with-ember-js-and-windows-azure-mobile-services-part-4.aspx
+            -
+                title: "Observing Enumerables & Arrays with Ember.js"
+                description: "You've likely used observers to run a function when a property changes, Matthew Beale shows us a set of observers that share details about which items in an enumerable or array changed."
+                domain: madhatted.com
+                link: http://madhatted.com/2013/5/17/observing-enumerables-and-arrays-with-ember-js
+
+    # -
+    #     heading: "Promoted Link"
+    #     headlines:
+    #         -
+    #             title: "Sponsor Ember Weekly"
+    #             description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Embercasts"
+                description: "Embercasts is now out of beta & open to anyone. There are 4 initial screencasts on [Ember-Model](http://www.embercasts.com/episodes/getting-started-with-ember-model), [Authentication](http://www.embercasts.com/episodes/client-side-authentication-part-1), [Emblem](http://www.embercasts.com/episodes/getting-started-with-emblem-js) & [Autocomplete](http://www.embercasts.com/episodes/building-an-autocomplete-widget-part-1)."
+                domain: embercasts.com
+                link: http://www.embercasts.com/
+            -
+                title: "MetaCasts.tv"
+                description: "A four part series covers setting up and configure Ember in a Rails application, how to structure a Rails API to work with Ember Data and how to build a full featured application that showcases routing, models, associations, templates, views, controllers, and more ($20)"
+                domain: metacasts.tv
+                link: http://metacasts.tv/casts/ember-js-pts-1-4
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Handlebars v1.0.0 RC4"
+                description: "Ember dependency, Handlebars, has been updated with mainly bug fixes. Check out the [release notes](https://github.com/wycats/handlebars.js/blob/master/release-notes.md) for more details."
+                domain: handlebarsjs.com
+                link: http://handlebarsjs.com/
+            -
+                title: "Ember Snippets for Sublime Text 2"
+                description: "What it says on the tin...a set of snippet tab triggers for app, controller, helper, mixin, model, object, route, router, store & view."
+                domain: github.com
+                link: https://github.com/fabriciotav/ember-snippets-for-sublime-text-2
+            -
+                title: "Ember Handlebars for Brunch"
+                description: "Brunch plugin that adds support for pre-compiling Ember Handlebars templates prior to runtime."
+                domain: github.com
+                link: https://github.com/bartsqueezy/ember-handlebars-brunch
+
+    # -
+    #     heading: "Jobs"
+    #     headlines:
+    #         -
+    #             title: "Looking for an Ember Developer?"
+    #             description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Emberfest - Early Bird Tickets Ending Soon"
+                description: "28-30th August in Munich, Germany. Early bird tickets end this Monday (20th), so grab your ticket if you haven't already."
+                domain: emberfest.eu
+                link: http://emberfest.eu/pages/tickets
+            -
+                title: "Ember Southern California Meetup"
+                description: "21st May, 7:00pm @ Live Nation Labs. Benjamin Rhodes will be showing his OSS app called Flowfeeds & talking about the audio/video player controls, sortable list view, and infinite scroll."
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-SC/events/116355482/
+            -
+                title: "Ember New York Meetup"
+                description: "23rd May, 7:00pm @ Pivitol Labs. Ember.js contributor Ryan Toronto will present - Prototyping Ember Apps and APIs, as well as several lightning talk slots available"
+                domain: meetup.com
+                link: http://www.meetup.com/EmberJS-NYC/events/116001112/
+
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "Embercasts - Source Code"
+                description: "Yo dawg, those crazy Embercast guys heard you like Ember, so they put Ember in your Ember to you can use Ember while you learn Ember! (translation: check out the source, it's written with Ember & ember-model!)"
+                domain: github.com
+                link: https://github.com/embercasts/embercasts
+

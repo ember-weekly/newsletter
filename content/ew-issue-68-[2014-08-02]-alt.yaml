@@ -1,0 +1,108 @@
+issue: 68
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.7.0-beta.4"
+                description: ""
+                link: https://github.com/emberjs/ember.js/blob/v1.7.0-beta.4/CHANGELOG.md
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/07/11"
+                description: ""
+                link: http://emberjs.com/blog/2014/07/26/core-team-meeting-minutes-2014-07-11.html
+            -
+                title: "Core Team Meeting Minutes - 2014/07/25"
+                description: ""
+                link: http://emberjs.com/blog/2014/07/26/core-team-meeting-minutes-2014-07-25.html
+            -
+                title: "New Ember-CLI Website"
+                description: ""
+                link: http://www.ember-cli.com/
+            -
+                title: "Angular vs Ember - A collation of all the resources"
+                description: ""
+                link: http://www.hrishi.me/angularjs-vs-emberjs-a-collation-of-all-the-resources/
+            -
+                title: "Externally Embedding Ember"
+                description: ""
+                link: http://bendyworks.com/externally-embedding-ember/
+            -
+                title: "What the hell is Ember.K?"
+                description: ""
+                link: http://ember.zone/what-the-hell-is-ember-k/
+            -
+                title: "Cleaning Up Github Issues"
+                description: ""
+                link: http://emberjs.com/blog/2014/07/28/cleaning-up-github-issues.html
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Events"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

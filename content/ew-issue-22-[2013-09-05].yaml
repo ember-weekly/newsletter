@@ -1,0 +1,144 @@
+issue: 22
+strapline: "Ember 1.0 Released! And a lot more updates & releases..."
+content:
+
+    -
+        heading: "The Big Release"
+        headlines:
+            -
+                title: "Ember 1.0 Released"
+                description: "Two and a half years in the making but we got there. After a [huge push](https://github.com/emberjs/ember.js/issues/3246) by a large number of (awesome) community members and the (tireless) core team, Ember 1.0 was released on the weekend. A huge congratulations to everyone involved, and thank you for all your hard work. Check out the blog post for more information on 1.0 and see the rest of the newsletter for more updates and releases related to 1.0."
+                link: http://emberjs.com/blog/2013/08/31/ember-1-0-released.html
+
+    -
+        heading: "Other Releases"
+        headlines:
+            -
+                title: "Ember Data 1.0 Beta 1 & 2 Released"
+                description: "Ember Data 1.0 Beta 1 was released [alongside Ember 1.0](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html#toc_ember-data-1-0-beta-1). Beta 2 was hot on it's heals with Yahuda Katz tweeting that [more releases should \"be coming fast and furious\"](https://twitter.com/wycats/status/375447703389339648)"
+                link: http://emberjs.com/blog/2013/09/04/ember-data-1-0-beta-2-released.html
+            -
+                title: "Ember 1.0 RC8 Released"
+                description: "Mentioned in last week's issue, RC8 was officially released last week with some breaking changes and a few nifty new features which made it in before Ember 1.0."
+                link: http://emberjs.com/blog/2013/08/29/ember-1-0-rc8.html
+            -
+                title: "Ember Inspector Chrome Plugin"
+                description: "This awesome tool for debugging Ember applications has been released to the Chrome Web Store. Big shout out to Teddy Zeenny for all his had work. A truly useful tool every Ember developer should have installed."
+                link: https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
+
+    -
+        heading: "Website Enhancements"
+        headlines:
+            -
+                title: "New Homepage"
+                description: "The main Ember homepage has been updated with some cool inline examples."
+                link: http://emberjs.com/
+            -
+                title: "Updated API Docs"
+                description: "The [heroic community effort](https://github.com/emberjs/ember.js/pull/3082) to get the documentation up to scratch for Ember 1.0 is now live."
+                link: http://emberjs.com/api/
+            -
+                title: "Updated Guides"
+                description: "Guides have been updated for Ember 1.0, including an updated [Model guide](http://emberjs.com/guides/)."
+                link: http://emberjs.com/guides/models/
+            -
+                title: "New Builds Page"
+                description: "Grab the latest and historic Ember binaries from the new builds section of the website."
+                link: http://emberjs.com/builds/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Complex Architectures in Ember"
+                description: "Matthew Beale slides from last weekend's EmberFest in Munich. Includes information on the `actions`/`events` change that crept in before Ember 1.0."
+                link: http://madhatted.com/2013/8/31/emberfest-presentation-complex-architectures-in-ember
+            -
+                title: "Ember Data 1.0 Beta Transition Guide"
+                description: "Notes on how to migrate from Ember Data 0.13 to the Ember Data 1.0 Betas."
+                link: https://github.com/emberjs/data/blob/master/TRANSITION.md
+            -
+                title: "Simple visual way to detect unnecessary renders"
+                description: "A simple CSS debugging trick to make re-rendering Ember views flash yellow."
+                link: http://www.reddit.com/r/emberjs/comments/1la7m9/simple_visual_way_to_detect_unnecessary_renders/
+            -
+                title: "Experience with migrating from Ember.js RC7 to 1.0.0"
+                description: "A discussion started by Marc Vermeulen on the migration from Ember RC7 to 1.0 with some useful tips."
+                link: http://discuss.emberjs.com/t/my-experience-with-migrating-from-ember-js-rc7-to-1-0-0/2352
+            -
+                title: "Ember Dependency Injection Subsystem Improvements"
+                description: "Inspired by the [reddit discussion between Tom Dale and Shark_Kicker](http://www.reddit.com/r/javascript/comments/1lid5d/ember_10_released/cbzryoi) on the differences in Ember and Angular’s Dependency Injection, Stefan Penner outlines some ideas for improvements."
+                link: http://discuss.emberjs.com/t/some-improvement-ideas-for-our-di-subsystem/2378
+            -
+                title: "Ember & SEO - Make your App crawlable with the Hashbang Location"
+                description: ""
+                link: http://mavilein.github.io/javascript/2013/09/03/javascript-mvc-ember-js-and-seo-crawl-with-hashbang-location/
+            -
+                title: "Growl-like notifications with Ember.js"
+                description: ""
+                link: http://aaron.haurwitz.com/#!/posts/growllike-notifications-with-emberjs
+    
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP11: Stefan Penner"
+                description: "Core Team member, Stefan Penner, talks about \"...the awesome community, how things work on the Ember core team, how to solve problems in Ember, how to be productive with Ember, and the future beyond Ember 1.0.\""
+                link: http://emberhotseat.com/2013/08/28/ember-hot-seat-episode-11.html
+            -
+                title: "Updated Getting Started Screencast"
+                description: "Tom Dale has re-recorded the [getting started guide](http://emberjs.com/guides/)'s video screencast for Ember 1.0"
+                link: https://www.youtube.com/watch?v=1QHrlFlaXdI
+            -
+                title: "Ember NYC August Meetup Video"
+                description: "Includes an Ember.js Beats demo by Gavin Joyce, Ember Components at Customer.io by John Allison, and Ember.js at Bustle.com by Tyler Love."
+                link: https://www.youtube.com/watch?v=8MYcjaar7Vw&feature=youtu.be
+            
+
+    # -
+    #     heading: "Freelance"
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember expert?"
+    #            description: "Are you looking for a freelance developer to work on your project? I specialize in building Rails-backed Ember.js apps and would love to talk to you about how I can help you."
+    #            link: http://resistor.io/stack
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "grunt-ember-templates"
+                description: "Updated for Ember 1.0. A Grunt plugin that precompiles Handlebars templates for Ember.js."
+                link: https://github.com/dgeb/grunt-ember-templates
+            -
+                title: "Idiomatic setTimout in Ember"
+                description: "Alex Matchneer gives the idiomatic method for doing `setTimeout` in Ember using the run loop."
+                link: http://jsbin.com/ucanam/902/edit
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Boston Meetup"
+                description: "5th September, 6:00pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/137828922/
+            -
+                title: "Chicago Meetup"
+                description: "5th September, 6:30pm @ Lightbank."
+                link: http://www.meetup.com/Chicago-Ember-js/events/137166102/
+            -
+                title: "Toronto Meetup"
+                description: "5th September, 7:00pm @ Pharmacy Bar."
+                link: http://www.torontoemberjs.com/
+            -
+                title: "Southern California Meetup"
+                description: "11th September, 6:30pm @ Pivotshare."
+                link: http://www.meetup.com/Ember-SC/events/137587982/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Blink tag Resurrected"
+                description: "Firefox may have dropped the blink tag, but Ember has you back! (by Gavin Joyce)."
+                link: http://jsbin.com/OZafufa/1/edit

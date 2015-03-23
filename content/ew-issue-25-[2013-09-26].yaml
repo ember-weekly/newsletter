@@ -1,0 +1,124 @@
+issue: 25
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "CRUD example app without Ember Data"
+                description: "A detailed walkthrough of creating an Ember application without Ember Data."
+                link: http://embersherpa.com/articles/crud-example-app-without-ember-data/
+            -
+                title: "Debugging with Ember Inspector – Ember’s Chrome Plugin"
+                description: "An introduction to the [Ember Chrome Plugin](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) and the features it has to offer."
+                link: http://spin.atomicobject.com/2013/09/19/ember-inspector-chrome-plugin/
+            -
+                title: "Want to Learn Ember.js? Start Here"
+                description: "Some useful resources for anyone starting out with Ember."
+                link: http://elweb.co/want-to-learn-ember-js-start-here/
+            -
+                title: "Using Ember.js with jQuery UI"
+                description: "Luke Melia updated his jQuery UI blog post for Ember 1.0."
+                link: http://www.lukemelia.com/blog/archives/2012/03/10/using-ember-js-with-jquery-ui/
+            -
+                title: "Ember App Kit Documentation Site"
+                description: "The initial version of the EAK documentation is online. Still missing some content from sections."
+                link: http://iamstef.net/ember-app-kit/
+            -
+                title: "Scaffold for a Browser App Built With Ember.js, Rails, Ember.Data"
+                description: ""
+                link: http://pixelhandler.com/blog/2013/09/24/scaffold-for-a-browser-app-built-with-ember-js-and-rails/
+            -
+                title: "Editing Markdown with Ember.js"
+                description: ""
+                link: http://www.williamhart.info/editing-markdown-with-emberjs.html
+            -
+                title: "Ember.js and Google Analytics"
+                description: ""
+                link: http://lambdafoo.com/blog/2013/09/17/emberjs-and-google-analytics/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Building Reusable UIs"
+                description: "Steve Kane talks about component architecture at the Chicago Meetup."
+                link: http://www.youtube.com/watch?v=zC7o1YkmkG0
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Promise Error Handling Gist"
+                description: "Log all errors that are not immediately handled in promises (by Stefan Penner)."
+                link: https://gist.github.com/stefanpenner/587e5f047d2f412fe463
+            -
+                title: "Ember Testing with Mocha Adapter Example"
+                description: "A simple example of using mocha.js to test Ember 1.x and Ember Data Beta 2 with Fixtures."
+                link: https://github.com/CodeOfficer/example-ember-startup-kit-with-testing
+            -
+                title: "emberFire - Firebase Ember Bindings"
+                description: "Looks like there is some initial work being done on Ember Bindings for Firebase."
+                link: https://github.com/firebase/emberFire
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            # -
+            #     title: "Front End Web Engineer - Clutch Analytics/Windhaven Insurance (Austin, TX)"
+            #     description: "Get the coolest job in Austin building Ember.js apps with our innovative startup. Build greenfield apps for a rapidly growing automotive insurer. This unique opportunity requires team players with senior JS experience. Job.Plus = Ember.Experience.extend(); [contact us](mailto:jia.asencio@windhaveninsurance.com?Subject=Front%20End%20Web%20Engineer%20-%20Ember%20Weekly%20Job%20Posting) "
+            #     link: http://www.windhaveninsurance.com/
+
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Austin, TX Meetup"
+                description: "26th September, 7:00pm @ The FrontSide."
+                link: http://www.meetup.com/Ember-ATX/events/136767882/
+            -
+                title: "Boston OpenHack Meetup"
+                description: "26th September, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/140201602/
+            -
+                title: "Salt Lake City Meetup"
+                description: "26th September, 6:30pm @ Instructure."
+                link: http://www.meetup.com/EmberJS-SLC/events/135018692/
+            -
+                title: "San Juan, Puerto Rico Meetup"
+                description: "1st October, 6:00pm @ Blimp HQ."
+                link: http://www.meetup.com/Ember-PR/events/140883452/
+            -
+                title: "NYC Hacker Hours Meetup"
+                description: "1st October, 6:00pm @ SimpleReach."
+                link: http://www.meetup.com/EmberJS-NYC/events/141119042/
+            -
+                title: "Toronto Meetup"
+                description: "3rd October."
+                link: http://www.torontoemberjs.com/
+            -
+                title: "NEW: Cincinnati, OH Meetup"
+                description: ""
+                link: http://www.meetup.com/Embernati/
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Apple Help Guides Use Ember"
+                description: "Not exactly the most exciting app in the world but interesting to browse with the Chrome Plugin nevertheless."
+                link: http://help.apple.com/iphone/7
+            -
+                title: "Falling Blocks Game in Ember"
+                description: "Who said Ember wasn't for games?! Alex Matchneer put together this awesome Falling Blocks game using Ember."
+                link: https://machty.s3.amazonaws.com/ember-falling-blocks/index.html
+

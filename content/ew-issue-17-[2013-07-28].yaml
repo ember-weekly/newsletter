@@ -1,0 +1,133 @@
+issue: 17
+strapline: "Your weekly source of Ember News"
+content:
+
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.0 RC6.1, RC5.1, RC4.1, RC3.1, RC2.1 RC1.1 Released"
+                description: "Following a [potential XSS exploit](https://groups.google.com/forum/#!topic/ember-security/dokLVwwxAdM) found in previous Ember versions, the core team released several patched versions of previous RCs to address the issue."
+                link: http://emberjs.com/blog/2013/07/25/ember-1-0-rc6-1-rc5-1-rc4-1-rc3-1-rc2-1-and-rc1-1-released.html
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Components Guide"
+                description: "New official documentation on the Ember.Component"
+                link: http://emberjs.com/guides/components/
+            -
+                title: "Infinite Scrolling with Ember.js"
+                description: "Cory Forsyth implement a simple infinite scrolling pattern using Ember. ([code](https://github.com/bantic/ember-infinite-scroll))"
+                link: http://coryforsyth.com/2013/07/28/infinite-scrolling-with-ember-js/
+            -
+                title: "SEO in JS Web Apps"
+                description: "Not specific to Ember but a popular question for all JS web apps. Alex MacCaw shows how to enable Google's Ajax crawler for your application."
+                link: http://blog.alexmaccaw.com/seo-in-js-web-apps
+            -
+                title: "Don’t let Ember.js swallow errors in your promises"
+                description: "An example of how to use RSVP's `onerror` event to avoid losing errors in your promises."
+                link: http://ianpetzer.wordpress.com/2013/07/24/dont-let-ember-js-swallow-errors-in-your-promises/
+            -
+                title: "10 Things You Can Do With EPF (That You Can't Easily Do With Ember Data)"
+                description: ""
+                link: http://codebrief.com/2013/07/10-things-you-can-do-with-epf/
+            -
+                title: "Custom Ember.js views for validation"
+                description: "An example of using [ember-validations](https://github.com/dockyard/ember-validations) for client-side validation."
+                link: http://baruch.lubinsky.co.za/blog/?p=42
+            -
+                title: "Master Space and Time With JavaScript: Ember"
+                description: "Noel Rappin's ebook has had a significant update that includes acceptance testing with Ember-testing and QUnit. (costs $7)."
+                link: http://www.noelrappin.com/mstwjs
+            -
+                title: "Ember TDD - Unit & Integration Testing with Mocha"
+                description: "Slides from Jeff Schilling's talk at Ember Austin meetup."
+                link: https://speakerdeck.com/jschilli/ember-tdd-unit-and-integration-testing-with-mocha
+            -
+                title: "Ember Tic Tac Toe"
+                description: "Bradley Priest builds a Tic-Tac-Toe game with Ember. ([code](http://bl.ocks.org/bradleypriest/6051289))."
+                link: http://bradleypriest.com/2013/07/22/tic-tac-toe/
+            -
+                title: "Ember Inspector Wishlist"
+                description: "A discussion of features you'd like to see in ember-inspector."
+                link: http://discuss.emberjs.com/t/ember-chrome-extension-wishlist/1871
+            -
+                title: "Resources to Get You Up to Speed in Ember.js"
+                description: ""
+                link: http://hub.tutsplus.com/tutorials/resources-to-get-you-up-to-speed-in-emberjs--net-33447
+
+
+    -
+        heading: "Ember Fest"
+        image: "https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/gallery.mailchimp.com/ac25c8565ec37f9299ac75ca0/images/logo_smallf3833f.png"
+        advert: true
+        headlines:
+            -
+                title: "The Biggest Ember.js Event in Europe!"
+                description: "Ember Fest takes place in Munich, Germany. A three day event featuring Training sessions, a full day Hackathon and a full day Conference. This will be the European Ember.js event of the year! Starting on August 29th and ending on August 30th, with a conference dinner and after party."
+                # image: https://si0.twimg.com/profile_images/378800000030945398/cf9a81d8d81affa2126f00af65708ed6.png
+                link: http://emberfest.eu/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP8: Alex Matchneer"
+                description: "Alex Matchneer talks about his the Ember Router facelift in RC6, emblem.js, and Embercasts."
+                link: http://emberhotseat.com/2013/07/24/ember-hot-seat-episode-008.html
+            -
+                title: "Integration testing your ember.js app with QUnit and Karma"
+                description: "Toran Billups looks at unit and integration testing your Ember app with the ember-testing package, QUnit and the Karma test runner."
+                link: http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/
+
+    -
+        heading: "Freelance"
+        headlines:
+            -
+               title: "Need more monkeys?"
+               description: "Are you looking for a freelance Ember.js developer, either to supplement your team or to build your project from the ground up? We specialise in Ember.js development and would love to talk to you about your next project. [Click the link](http://resistor.io/stack) and get in touch."
+               link: http://resistor.io/stack
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Empress"
+                description: "Simple blogging with EmberJS and GitHub"
+                link: https://github.com/hodgesmr/Empress
+            -
+                title: "ember-foundation"
+                description: "Zurb's excellent Foundation framework implemented as Ember views."
+                link: https://bitbucket.org/vivint/ember-foundation
+            -
+                title: "Swag"
+                description: "Swag is a growing collection of helpers for Handlebars.js. (not Ember specific helpers)."
+                link: http://elving.github.io/swag/
+            -
+                title: "Gravatar Ember.Component"
+                description: ""
+                link: http://plnkr.co/edit/QbhyrcXZ6LbGzVFfEzD4?p=preview
+            -
+                title: "Object Inspector Improvements"
+                description: "More great work from Teddy Zeenny has just been merged into the ember-inspector project."
+                link: https://github.com/tildeio/ember-extension/pull/25
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "NEW: Ember Salt Lake City"
+                description: "15th August, 6:30pm @ Instructure. There's a new Ember meetup group in Salt Lake City, UT"
+                link: http://www.meetup.com/EmberJS-SLC
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Ember Google+ Page"
+                description: "Follow news and updates on the new Google+ page."
+                link: https://plus.google.com/u/1/101668252557697758617/posts

@@ -1,0 +1,112 @@
+issue: 21
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "(Near) Releases"
+        headlines:
+            -
+                title: "Ember 1.0 RC8 (Not yet!) Released"
+                description: "Not yet official, but since 1.0 final is likely to be out by next weeks issue (yay!), it's probably best to give you a heads up. Watch the [official Ember blog](http://emberjs.com/blog/) for further announcements. RC8 has some breaking changes and a few nifty new features have sneaked in."
+                link: https://github.com/emberjs/website/blob/rc8-cp-change/source/blog/2013-08-25-ember-1-0-rc8.md
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Resources for learning Ember"
+                description: "A list of resources you may find helpful if you're starting out with Ember."
+                link: http://www.chasepursley.com/build-ember-apps-in-the-cloud-with-nitrous-dot-io-and-grunt
+            -
+                title: "Why I Chose Ember.js"
+                description: "Ryan Tablada offers his take on JS framework options & why Ember was the best fit for him."
+                link: http://ryantablada.com/post/why-i-chose-ember-js
+            -
+                title: "Why AngularJS beat out Ember.js in our stack"
+                description: "May seem like a strange link to include in an Ember newsletter, but it includes some interesting comments and replies from the Ember core team at the bottom. You may find these interesting, especially if you enjoy the Ember vs Angular debates!."
+                link: https://errplane.com/blog/why-angularjs-beat-out-emberjs-in-our-stack
+            -
+                title: "Ember JS Best Practices - Helpful debugging tools"
+                description: "A short post collecting some helpful debugging tools built into Ember and how you can easily implement some yourself."
+                link: http://mavilein.github.io/javascript/2013/08/20/Ember-JS-Best-Practices-helpful-debugging-tools/
+            -
+                title: "Ember 1.0 Documentation Audit"
+                description: "A heroic effort by Trek and a load of community members to clean up the API documentation in time for the imminent release of 1.0 (docs not yet live on website). Check out [Trek's postmortem](https://gist.github.com/trek/6343879) for more information. Great work everyone!"
+                link: https://github.com/emberjs/ember.js/pull/3082
+            -
+                title: "An introduction to Ember.js"
+                description: "The slides from Russell Jones' presentation to the Maine Web Developer Group. Check out the \"Useful App Stuff\" section."
+                link: http://www.slideshare.net/codeofficer/ember-presentation
+            -
+                title: "EmberUI"
+                description: "The beginnings of an interface framework built on Ember. Jaco Joubert is currently blogging about the design of the [button](https://medium.com/design-ux/1044da1d607c) & [form elements](https://medium.com/emberui-updates/e0ffaf7a4db3). Follow along at the blog and [github repo](https://github.com/jacojoubert/emberui)."
+                link: https://medium.com/p/dac11785c50f
+            -
+                title: "Create a Custom Select Box Using Ember.Component"
+                description: ""
+                link: http://pixelhandler.com/blog/2013/08/25/create-a-custom-select-box-using-ember-component/
+            -
+                title: "Using Disqus with Ember.js"
+                description: ""
+                link: http://aaron.haurwitz.com/#!/posts/using-disqus-with-emberjs
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember on Rails by Brandon Hays"
+                description: "Brandon's talk from Lone Star Ruby Conference 2013 looks at Ember from the perspective of Rails developers."
+                link: http://www.confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk
+            
+
+    # -
+    #     heading: "Freelance"
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember expert?"
+    #            description: "Are you looking for a freelance developer to work on your project? I specialize in building Rails-backed Ember.js apps and would love to talk to you about how I can help you."
+    #            link: http://resistor.io/stack
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "AdminJS"
+                description: "The Backend-Agnostic Administration Framework built with Ember."
+                link: http://adminjs.com/
+            -
+                title: "Bootstrap for Ember"
+                description: "A collection of UI components based on Twitter Bootstrap v3 for Ember.js using Ember Components. ([showcase](http://ember-addons.github.io/bootstrap-for-ember/dist/#/))"
+                link: https://github.com/ember-addons/bootstrap-for-ember
+            -
+                title: "Charts with Ember Components"
+                description: "A great StackOverflow answer describing how to use Ember Component to display reusable charts. ([jsbin example](http://jsbin.com/odosoy/140/edit))"
+                link: http://stackoverflow.com/questions/18482457/architecture-for-reusable-object-in-ember/18486477#18486477
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Seattle Meetup"
+                description: "29th August, 6:30pm @ Avalara."
+                link: http://www.meetup.com/Ember-js-Seattle-Meetup/events/130334662/
+            -
+                title: "Frontend Framework Showdown, SF"
+                description: "29th August, 6:30pm @ ConnectSolutions, San Francisco. A fun debate covering the finer points of Backbone, Angular, Ember and more."
+                link: https://frontendframeworkshowdown.eventbrite.com/
+            -
+                title: "Ember Fest"
+                description: "30th August in Munich, Germany. A dedicated Ember conference, preceded by 2 training days, for those looking to get in to Ember, and a hackathon."
+                link: http://emberfest.eu/
+            -
+                title: "Chicago Meetup"
+                description: "5th September, 6:30pm @ Lightbank."
+                link: http://www.meetup.com/Chicago-Ember-js/events/137166102/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Radiohead meets Ember"
+                description: "15 Step using Ember.js Beats. Made by [Alex Matchneer](https://twitter.com/machty/status/370688429241012224)."
+                link: http://emberbeats.gavinjoyce.com/#/song/N4IgdghgtgpiBcICMBWABAZQC4wA5oAoAlCAEwEsB7ACxjIEoQAaEHKXShAThRYGNqEMGBgAbAM4IA2qHGUArmFIIQAa3J9VzEADdKo%2BbARIW4nLknwZusZT7ksAT2MBfJqB237ThAAY3Hl4OzvD%2B7jaidsF%2BARFRPqGxnpHeIWGBKdGhAHQoSUEJvrn5mYUl8WkuALqxcorKiOKQAE5wLHoGRvAmIGZ4ltbJFTHhQ6kjGcOJowUhSOXj05OL8zOllWtT6XErC1n%2BNeF1SirU5IJYAPp8keIwyu36hnDdpuYDy%2Ft7ZZuLRXm%2FL6AwrFYEbT4JVYQ8E7fag6ExQ6yBQnRA3CC4bQdZ7GN79aQIpawn6E%2F7fGFjOEA0nkvzw4kU2Z06kMiasomUkns7actL03lsgUcpk5FlCnkiiXrRHVFxAAA

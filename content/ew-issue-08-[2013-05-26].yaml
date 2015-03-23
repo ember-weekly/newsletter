@@ -1,0 +1,164 @@
+issue: 8
+strapline: "Lot's of Ember News, Videos, Commits & more..."
+content:
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Organizing Data in Long Lived Applications"
+                description: "Robin Ward looks at how client-side frameworks like Ember can change the way data is requested compared to server-side frameworks and how you may want to model your data differently."
+                domain: eviltrout.com
+                link: http://eviltrout.com/2013/05/26/organizing-data-in-long-lived-applications.html
+            -
+                title: "User-friendly live collections in Ember.js"
+                description: "Joe Fiorini shows how easy it is to implement an auto-updating collection of live tweets from the twitter api."
+                domain: joefiorini.com
+                link: http://joefiorini.com/posts/user-friendly-live-collections-in-emberjs
+            -
+                title: "Dynamic Binding in Ember.js Using Observers"
+                description: "Using observers to dynamically create a form from JSON data."
+                domain: spin.atomicobject.com
+                link: http://spin.atomicobject.com/2013/05/12/dynamic-ember-js-binding-observers/
+            -
+                title: "Communication Between Controllers in Ember.js"
+                description: "Three ways that controllers can talk to each other in Ember."
+                domain: madhatted.com
+                link: http://madhatted.com/2013/5/26/communication-between-controllers-in-ember-js
+            -
+                title: "ASP.NET Single Page Application - Ember.js Template"
+                description: "Ember SPA template is designed to get you started quickly building interactive client-side web apps using Ember & ASP.NET"
+                domain: asp.net
+                link: http://www.asp.net/single-page-application/overview/templates/emberjs-template
+            -
+                title: "Hacking with Ember.js"
+                description: "Experiences from a Ember hack day & the resulting applications."
+                domain: nmecdesign.com
+                link: http://nmecdesign.com/blog/hacking-with-ember-js/
+
+
+    # -
+    #     heading: "Promoted Link"
+    #     headlines:
+    #         -
+    #             title: "Sponsor Ember Weekly"
+    #             description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Data and Magic - SF Meetup"
+                description: "An in-depth look at Ember-Data from Igor Terzic"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=2WpymH6Qc3Q
+            -
+                title: "Light Up Your Web Apps With Ember.js - SF Meetup"
+                description: "A beginners’ walkthrough by Gabriel Grant"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=mZm2F3R6sdI
+            -
+                title: "Flowfeeds - SoCal Meetup"
+                description: "Benjamin Rhodes shows Flowfeeds, built with Ember with Audio/Video player, Drag & Drop, Infinite scroll. [slides](https://speakerdeck.com/nerdyworm/flowfeeds)"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=VuIFdXmi080#t=5149s
+            -
+                title: "Backburner.js and the Ember Run Loop - SoCal Meetup"
+                description: "Erik Bryn is back again with a talk on making the Ember Run Loop a micro-library and how it works. [slides](http://talks.erikbryn.com/backburner-and-the-run-loop/#/)"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?v=VuIFdXmi080&t=24m5s
+    -
+       heading: "Interesting Commits"
+       headlines:
+            -
+               title: "Async Router API"
+               description: "Alex Matchneer has [been doing great work](https://github.com/tildeio/router.js/pull/19) to make the Ember Router API async, fixing common router issues. [Summary, examples & demos of changes are in this gist](https://gist.github.com/machty/5647589), and open to feedback."
+               domain: discuss.emberjs.com
+               link: http://discuss.emberjs.com/t/upcoming-async-router-api/1339
+            -
+                title: "Ember-Testing: chain test helpers"
+                description: "This Ember core commit allows you to chain test helpers for integration testing hawtness!"
+                domain: github.com
+                link: https://github.com/emberjs/ember.js/pull/2724
+            -
+                title: "Breaking: Move setting controller's `model` into setupController"
+                description: "This commit fixed the issue that the `model` property is set in a place that is not easy to override. This may break some applications when RC4 is released, so make sure you understand this change."
+                domain: github.com
+                link: https://github.com/emberjs/ember.js/commit/5a5d04865ff3e0e8b571a7ddbe4de069ce2ef073
+            -
+                title: "breaux, where's my defaultContainer?"
+                description: "Information to help aggregate issues and solutions around the defaultContainer deprecation."
+                domain: gist.github.com
+                link: https://gist.github.com/stefanpenner/5627411
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Mocha Adapter"
+                description: "Teddy Zeenny is working on making Ember-Testing work nicely with Mocha."
+                domain: github.com
+                link: https://github.com/teddyzeenny/ember-mocha-adapter
+            -
+                title: "Ember Start"
+                description: "Another project to help you get your project up and running with Ember. Includes suite of build/development tools care of gruntjs."
+                domain: github.com
+                link: https://github.com/kennethdavidbuck/ember-start
+            -
+                title: "Ember Calendar"
+                description: "A Calendar component for Ember.js"
+                domain: joinspoton.github.io
+                link: http://joinspoton.github.io/ember-calendar/
+            -
+                title: "Morpheus - an interactive visual algorithm simulation system"
+                description: "An interactive visual algorithm simulation system for a distributed synchronous network written with Ember."
+                domain: rkarthick.github.io
+                link: http://rkarthick.github.io/morpheus-client/
+            -
+                title: "Ember Mongoose"
+                description: "An Ember-Data Mongoose Adapter"
+                domain: github.com
+                link: https://github.com/kelonye/ember-mongoose
+# -
+#         heading: "Jobs"
+#         headlines:
+#             -
+#                 title: "Looking for an Ember Developer?"
+#                 description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+#                 domain: emberweekly.com
+#                 link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Intro to Ember.js - Melbourne Meetup"
+                description: "28th May, 6:00pm @ Papercloud HQ. The 1st Melbourne meetup!"
+                domain: meetup.com
+                link: http://www.meetup.com/Ember-Melb-JS/events/118097762/
+            -
+                title: "Ember Hacker Hours - NYC Meetup"
+                description: "28th May, 6:00pm @ Red Rover."
+                domain: meetup.com
+                link: http://www.meetup.com/EmberJS-NYC/events/120727732/
+            -
+                title: "Ember Openhack - Boston Meetup"
+                description: "30th May, 6:00pm @ DevMynd Studios."
+                domain: meetup.com
+                link: http://www.meetup.com/Boston-Ember-js/events/120847052/
+            -
+                title: "Chicago Meetup"
+                description: "30th May, 6:30pm @ DockYard. Apps are from Mars, Servers are from Venus: Decoupling web apps from app servers by Justin McNally."
+                domain: meetup.com
+                link: http://www.meetup.com/Chicago-Ember-js/events/119932152/
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "Ember Data Merge Handling"
+                description: "An interesting proposal & discussion by core contributor, Tom Dale, on how to handle conflict between client and server truth. He's looking for your feedback."
+                domain: discuss.emberjs.com
+                link: http://discuss.emberjs.com/t/ember-data-merge-hook/1316
+

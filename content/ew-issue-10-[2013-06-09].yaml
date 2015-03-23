@@ -1,0 +1,194 @@
+issue: 10
+strapline: "Lots of Articles, blog posts, videos & more..."
+content:
+
+    -
+        heading: "Articles"
+        headlines:
+            -
+                title: "Authentication With Ember Apps"
+                description: "Adam Hawkins explains how you'd do token-based authentication using Ember routes."
+                domain: broadcastingadam.com
+                link: http://broadcastingadam.com/2013/05/authentication-with-ember-apps/
+            -
+                title: "Lifecycle Hooks in Ember.js Views"
+                description: "An overview of how you can use a view's lifecycle hooks to run code when you're sure the DOM is ready. Great for initializing jQuery plugins."
+                domain: madhatted.com
+                link: http://madhatted.com/2013/6/8/lifecycle-hooks-in-ember-js-views
+            -
+                title: "Ember-Light: A Build For Migrating Page-based Apps"
+                description: "If you're not ready to jump into a full single page app with ember (or just want to play around), Matthew shows how to create a custom build of Ember."
+                domain: madhatted.com
+                link: http://madhatted.com/2013/6/2/ember-light-a-build-for-migrating-page-based-apps
+            -
+                title: "Using ember-auth with Rails 3 and Authlogic"
+                description: "A great walkthrough on how to use the ember-auth library with Authlogic for easy authentication in your Rails app."
+                domain: blog.centresource.com
+                link: http://blog.centresource.com/2013/06/04/using-ember-auth-with-rails-3-and-authlogic/
+            -
+                title: "Ember.js Views and Live Templates with Handlebars.js"
+                description: "A detailed look at Handlebars and how it works with Ember."
+                domain: tech.pro
+                link: http://tech.pro/tutorial/1308/emberjs-views-and-live-templates-with-handlebarsjs-part-1
+            -
+                title: "Ember transitionToRoute With New Model Hack"
+                description: "A detailed workaround of an Ember Data bug where trying to transition to a newly created model doesn't work due to a null id."
+                domain: wjlroe.github.io
+                link: http://wjlroe.github.io/2013/06/06/ember-transition-to-new-model-hack.html
+            -
+                title: "Ember Time"
+                description: "An example of how to use moment.js to show a self-updating time in an Ember view. Mamba Time!"
+                domain: jgwhite.co.uk
+                link: http://jgwhite.co.uk/2013/06/08/ember-time.html
+            -
+                title: "Ember RC5 Upgrade Notes"
+                description: "Robin Ward covers some of the gotchas they experienced upgrading Discourse to Ember RC5."
+                domain: eviltrout.com
+                link: http://eviltrout.com/2013/06/09/ember-rc5-upgrade-notes.html
+            -
+                title: "The road to Ember.js"
+                description: "Timista have migrated to using Ember, they explain why they made the move."
+                domain: timista.com
+                link: http://www.timista.com/blog/the-road-to-ember-js.html
+    # -
+    #     heading: "Promoted Link"
+    #     headlines:
+    #         -
+    #             title: "Sponsor Ember Weekly"
+    #             description: "Help support Ember Weekly by sponsoring a future issue. Promote your Ember related product or service. Reply to this email for more info."
+    #             domain: emberweekly.com
+    #             link: mailto:info@emberweekly.com?Subject=Advertise%20in%20Ember%20Weekly&Body=What%20would%20you%20like%20to%20advertise%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising
+
+
+    -
+        heading: "Interesting Commits"
+        headlines:
+            -
+               title: "Ember Router Async Facelift"
+               description: "Alex Matchneer is still working hard on the Async facelift to the router API. It's getting a lot closer - give your thoughts on the current enhancements."
+               domain: gist.github.com
+               link: https://gist.github.com/machty/5723945
+    # -
+    #     heading: "Jobs"
+    #     headlines:
+    #         -
+    #            title: "Looking for an Ember Developer?"
+    #            description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+    #            domain: emberweekly.com
+    #            link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat Podcast - EP1: Tom Dale"
+                description: "An entertaining chat with core contributor, Tom Dale, on the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom’s fashion tips, and of course the wonderful Troll Comment of the Week."
+                domain: emberhotseat.com
+                link: http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html
+            -
+                title: "Ember 101 EP8: Ember Data - Reading"
+                description: "Ryan gives a quick introduction on how easy it can be to use Ember Data to read data from a REST API."
+                domain: ember101.com
+                link: http://ember101.com/videos/008-ember-data-reading
+            -
+                title: "Ruby Hangout - Brian Cardarella"
+                description: "Brian gives an introduction to Ember and covers Ember Data, Rails-API, ember-easyForm & ember-validations."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=DvuMBtbACCw#t=2704s
+            -
+                title: "NYC Meetup - Refactoring jQuery to Ember.js"
+                description: "Luke Melia walks through refactoring a jQuery widget into an Ember application. [Slides](https://speakerdeck.com/lukemelia/refactoring-jquery-to-ember)"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=708s
+            -
+                title: "NYC Meetup - Thinking in Ember.js: Buffered Proxy"
+                description: "Core contributor Kris Selden gives a talk on Object Proxies."
+                domain: youtube.com
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=2067s
+            -
+                title: "NYC Meetup - Prototyping Ember.js Applications"
+                description: "A great talk by Ryan Toronto shows how you can quickly prototype an Ember application. [Slides](http://slid.es/ryanto/prototyping-ember-applications)"
+                domain: youtube.com
+                link: https://www.youtube.com/watch?feature=player_detailpage&v=ysduY0ocUoA#t=3600s
+            -
+                title: "Ember.js Blitzkrieg - live coding an Ember app"
+                description: "Adam Hawkins gives an introduction talk on Ember by live coding an Ember application at Hamburg.js."
+                domain: lecture2go.uni-hamburg.de
+                link: http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14786
+            -
+                title: "metacasts.tv - Ember.js Pt. 4 ($)"
+                description: "A continuation of the BeerDB app where you'll learn how to extend Ember controllers to add additional functionality to the application."
+                domain: metacasts.tv
+                link: http://www.metacasts.tv/casts/ember-js-pt-4
+
+
+    # -
+    #    heading: "Interesting Commits"
+    #    headlines:
+    #         -
+    #            title: "Async Router API"
+    #            description: "Alex Matchneer has [been doing great work](https://github.com/tildeio/router.js/pull/19) to make the Ember Router API async, fixing common router issues. [Summary, examples & demos of changes are in this gist](https://gist.github.com/machty/5647589), and open to feedback."
+    #            domain: discuss.emberjs.com
+    #            link: http://discuss.emberjs.com/t/upcoming-async-router-api/1339
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "middleman-emberscript"
+                description: "EmberScript support for Middleman."
+                domain: github.com
+                link: https://github.com/j-mcnally/middleman-emberscript
+            -
+                title: "EmberCrossfilter"
+                description: "Instead of using Ember DataStore, EmberCrossfilter provides a basic architecture for creating Ember models with Crossfilter; which allows for much quicker sorting and filtering."
+                domain: github.com
+                link: https://github.com/Wildhoney/EmberCrossfilter
+            -
+                title: "ember-data-factory"
+                description: "Factory library for Ember Data. Allows you to define and create factories instead of using fixtures. It is best used with the ember-testing package."
+                domain: github.com
+                link: https://github.com/teddyzeenny/ember-data-factory
+            -
+                title: "term-ember"
+                description: "Run Ember.js in your terminal!"
+                domain: github.com
+                link: https://github.com/tricknotes/term-ember
+            -
+                title: "ember-leaflet"
+                description: "Ember + Leaflet = Fun with maps. (also checkout [miguelcobain/ember-leaflet](https://github.com/miguelcobain/ember-leaflet))"
+                domain: github.com
+                link: https://github.com/gabesmed/ember-leaflet
+            -
+                title: "ember-i18n"
+                description: "Updated to v1.4.0 - Internationalization for Ember"
+                domain: github.com
+                link: https://github.com/jamesarosen/ember-i18n
+            -
+                title: "balanced-dashboard"
+                description: "Balanced created their dashboard using Ember and have open sourced it. Another great OSS resource for Ember."
+                domain: github.com
+                link: https://github.com/balanced/balanced-dashboard
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Dublin Meetup"
+                description: "11th June, 6:30pm @ Tcube. Bootstrap your first Ember application with Lineman."
+                domain: meetup.com
+                link: http://www.meetup.com/emberjsdublin/events/121420672/
+            -
+                title: "Boston Meetup"
+                description: "13th June, 6:30pm."
+                domain: meetup.com
+                link: http://www.meetup.com/Boston-Ember-js/events/121000172/
+
+    -
+        heading: "Finally..."
+        headlines:
+            -
+                title: "Yoleo - The simple and beautiful feed reader"
+                description: "A newly released Google Reader alternative. Written in Ember."
+                domain: yoleoreader.com
+                link: https://yoleoreader.com/
+

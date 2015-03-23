@@ -1,0 +1,145 @@
+issue: 74
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.0.44 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.44
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Beginning to Understand the Ember.js Container"
+                description: ""
+                link: http://ember.zone/beginning-to-understand-the-ember-js-container/
+            -
+                title: "Ember - First Experiences"
+                description: ""
+                link: http://www.makegoodcode.com/2014/09/12/ember-first-experiences/
+            -
+                title: "Ember Data - Mastering Async Relationships Part 1"
+                description: ""
+                link: http://thau.me/2014/09/ember-data-mastering-async-relationships/
+            -
+                title: "Creating a Datepicker Ember Addon"
+                description: ""
+                link: http://edgycircle.com/blog/2014-creating-a-datepicker-ember-addon/
+            -
+                title: "Firebase Security And Updates With Ember Part 1"
+                description: ""
+                link: http://www.programwitherik.com/firebase-security-with-ember-part-1-3/
+            -
+                title: "Async SVG Icons With Ember-Data"
+                description: ""
+                link: http://www.briangonzalez.org/async-icons-with-ember-data/
+            -
+                title: "Build a Markdown Editor with Node Webkit and Ember"
+                description: ""
+                link: http://sammctaggart.com/build-a-markdown-editor-with-node-webkit-and-ember/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Backoff - Exponential Backoff and Retry for RSVP.js Promises"
+                description: ""
+                link: https://github.com/GavinJoyce/ember-backoff
+            -
+                title: "Ember-CLI Font Awesome - Ember-CLI Add-on for Font Awesome Icons"
+                description: ""
+                link: https://github.com/lfridael/ember-cli-font-awesome
+            -
+                title: "Ember-CLI Foundation SASS - Ember-CLI Add-on for Foundation 5"
+                description: ""
+                link: https://github.com/artificialio/ember-cli-foundation-sass
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Fest 2014: Keynote - Erik Bryn"
+                description: ""
+                link: https://emberfest.eu/talks/talks_C2E9A022778F6D7F
+            -
+                title: "Ember Fest 2014: No More `grunt watch`: Modern Build Workflows with Broccoli - Jo Liss"
+                description: ""
+                link: https://emberfest.eu/talks/talks_12C5ADD371A9A5D4
+            -
+                title: "Using EmberGrep Code Highlight"
+                description: ""
+                link: https://embergrep.com/free-lessons/using-ember-grep-code-highlight
+            -
+                title: "Beyond the Browser: EmberJS as a Framework for Building Ambitious Native Apps - Justin McNally"
+                description: ""
+                link: https://www.youtube.com/watch?v=IL0XIlPYrns
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas
+                description: "15th September, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/206160822/"
+            -
+                title: Vancouver
+                description: "16th September, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/204784302/"
+            -
+                title: Orlando
+                description: "16th September, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/202090772/"
+            -
+                title: Cincinnati
+                description: "17th September, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/205164002/"
+            -
+                title: Oslo
+                description: "17th September, 6:00pm @ Teknologihuset, Oslo."
+                link: "http://www.meetup.com/Ember-js-Oslo/events/184408452/"
+            -
+                title: Pittsburgh
+                description: "18th September, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/193439452/"
+            -
+                title: Southern California
+                description: "20th September, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/204166222/"
+            -
+                title: LA Hack Night
+                description: "23rd September, 6:30pm @ Wiredrive, Marina del Rey."
+                link: "http://www.meetup.com/Ember-SC/events/203280902/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

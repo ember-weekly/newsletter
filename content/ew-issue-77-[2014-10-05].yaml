@@ -1,0 +1,170 @@
+issue: 77
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.8 Beta 4 Available - Better SVG Support"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.8.0-beta.4
+            -
+                title: "Ember-CLI v0.1.0 Released - Huge Speed Improvements"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.1.0
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Deploying Ember-CLI Apps"
+                description: ""
+                link: http://blog.firstiwaslike.com/deploying-ember-cli-apps/
+            -
+                title: "Why I Believe That Ember-CLI is a Game-Changer"
+                description: ""
+                link: http://miguelcamba.com/blog/2014/09/28/why-i-believe-that-ember-cli-is-a-game-changer/
+            -
+                title: "Lazy Loading ES6 Modules with Ember"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2014/10/02/Lazy-loading-es6-modules-with-emberjs/
+            -
+                title: "Working with JavaScript Plugins in Ember-CLI"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/10/03/working-with-javascript-plugins-in-ember-cli
+            -
+                title: "Ember.js Route Hooks"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/10/01/ember-dot-js-route-hooks/
+            -
+                title: "Ember.js 101: From Zero to Ember in PubNub Seconds"
+                description: ""
+                link: http://www.pubnub.com/blog/emberjs-101-from-zero-to-ember-in-pubnub-seconds/
+            -
+                title: "Using PDF.js in an Ember View"
+                description: ""
+                link: https://medium.com/@gordon_cassie/using-pdf-js-in-an-ember-view-ec2626a3ac66
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember-CLI Addon for Lightbox2"
+                description: ""
+                link: https://ramybenaroya.github.io/ember-cli-lightbox/
+            -
+                title: "Calendar Component"
+                description: ""
+                link: https://github.com/netgusto/ember-cal
+            -
+                title: "Pagination Addon for Ember-CLI"
+                description: ""
+                link: https://github.com/mharris717/ember-cli-pagination
+            -
+                title: "Ember Admin - An Admin Back-End for Ember-CLI Projects"
+                description: ""
+                link: https://github.com/dockyard/ember-admin
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "This job will let you solve challenges you've never experienced"
+               description: "Pitchtarget is a marketing platform that makes complex tasks easy. If you think you've built great UXs, you should join us. We are looking for Frontend Engineers who love Ember and know how to quickly shop great interfaces and experiences."
+               link: http://www.pitchtarget.com/careers/?position=frontend-developer
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "SystemJS, JSPM & Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=lc9nQJR6RX4
+            -
+                title: "Building Mobile Apps using Ember + Phone Gap - Jake Craige"
+                description: ""
+                link: http://vimeo.com/107885050
+            -
+                title: "How to Update a Ember-CLI Addon"
+                description: ""
+                link: https://www.youtube.com/watch?v=XOMGGJ_d4wI
+            -
+                title: "Ember-CLI Bloggr Example with Ember Pouch - Martin Broerse"
+                description: ""
+                link: https://www.youtube.com/watch?v=CL1_makCgfM
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis
+                description: "6th October, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/207429152/"
+            -
+                title: Vancouver
+                description: "7th, 8th & 14th October, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/208051822/"
+            -
+                title: Boston
+                description: "9th October, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/202323042/"
+            -
+                title: St. Paul
+                description: "9th October, 7:00pm @ Tightrope Media Systems, St. Paul."
+                link: "http://www.meetup.com/EmberMN/events/207402012/"
+            -
+                title: Budapest
+                description: "9th October, 7:00pm @ LogMeIn HQ, Budapest."
+                link: "http://www.meetup.com/ember-bp/events/206141232/"
+            -
+                title: Montevideo
+                description: "9th October, 7:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/208995712/"
+            -
+                title: Southern Calafornia
+                description: "11th October, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/209882232/"
+            -
+                title: Portland
+                description: "14th October, 6:30pm @ Puppet Labs, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/208307832/"
+            -
+                title: A Day in the Life of an Ember Developer - Yehuda Katz
+                description: "16th October, 8:00pm CDT, Online."
+                link: http://nomadjavascript.com/
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

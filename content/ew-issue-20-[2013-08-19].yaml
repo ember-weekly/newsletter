@@ -1,0 +1,139 @@
+issue: 20
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.0 RC7 Released"
+                description: "We're getting very close! Highlights include - `Route#controllerFor` no longer auto generates controllers, the old state manager router has been removed, handlebars updated to v1.0, and other various small improvements and bug fixes."
+                link: http://emberjs.com/blog/2013/08/14/ember-1-0-rc7.html
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Testing an Ember Application: Integration and Unit Tests"
+                description: "An in-depth look at testing lessons learnt by a group of Southern California Meetup hackers"
+                link: http://pixelhandler.com/blog/2013/08/15/testing-an-ember-application-integration-and-unit-tests/
+            -
+                title: "How and when to use Ember.Application register and inject methods?"
+                description: "A good Stackoveflow answer about dependency injection in Ember."
+                link: http://stackoverflow.com/questions/18209862/how-and-when-to-use-ember-application-register-and-inject-methods
+            -
+                title: "Debounced and Throttled Observers in Ember.js"
+                description: "Alex Speller shows how to use the little known `Ember.run.debounce` and `Ember.run.throttle` functions."
+                link: http://alexspeller.com/2013/08/09/Debounced_and_Throttled_Observers_in_Ember.html
+            -
+                title: "Better Authentication in Ember.js"
+                description: ""
+                link: http://log.simplabs.com/post/57702291669/better-authentication-in-ember-js
+            -
+                title: "Configuring plurals of model names in Ember Data"
+                description: ""
+                link: http://www.kaspertidemann.com/configuring-plurals-of-model-names-in-ember-data/
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP10: Luke Melia"
+                description: "Luke talks about a host of things including Ember performance, why he chose Ember at Yapp, balancing contributing to the platform and shipping product, and his opinion on what Ember's killer features."
+                link: http://emberhotseat.com/2013/08/13/ember-hot-seat-episode-10.html
+            -
+                title: "The Ember Router by Alex Matchneer - NYC July Meetup"
+                description: "An in-depth talk on the Ember router by Alex Matchneer, the lead developer on the previous router re-write."
+                link: http://www.youtube.com/watch?feature=player_detailpage&v=-0qngpFNM5A&t=3451
+            -
+                title: "Ember App Kit by Stefan Penner - NYC July Meetup"
+                description: "An introduction to tooling and app structure with Ember App Kit from it's core contributor, Stefan Penner."
+                link: http://www.youtube.com/watch?feature=player_detailpage&v=-0qngpFNM5A&t=1828
+            -
+                title: "\"Your Front End Is Not Your Back End\" by Andre Malan - NYC July Meetup"
+                description: ""
+                link: http://www.youtube.com/watch?feature=player_detailpage&v=-0qngpFNM5A&t=384
+            -
+                title: "Lessons from an Amateur by Irvin Zhan - NYC July Meetup"
+                description: "A short lesson for those new to Ember and it's object model."
+                link: http://www.youtube.com/watch?feature=player_detailpage&v=-0qngpFNM5A&t=1257
+            -
+                title: "Ember and D3.js by Sam Selikoff - Boston August Meetup"
+                description: "Sam talks about using Ember and D3.js to build a dashboard. Find the [slides](http://slid.es/samselikoff/ember-and-d3), [code and demos on Sam's website](http://www.samselikoff.com/blog/2013/08/09/ember-d3-simple-dashboards/)."
+                link: http://www.youtube.com/watch?v=gz7Jy2abm10
+            -
+                title: "Ember App Kit by Alex Navasardyan - Boston August Meetup"
+                description: ""
+                link: http://www.youtube.com/watch?feature=player_detailpage&v=gz7Jy2abm10&t=4983
+
+    -
+        heading: "Freelance"
+        headlines:
+            -
+               title: "Looking for an Ember expert?"
+               description: "Are you looking for a freelance developer to work on your project? I specialise in building Rails-backed Ember.js apps and would love to talk to you about how I can help you."
+               link: http://resistor.io/stack
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "EmberWatch Libraries Resource"
+                description: "The awesome EmberWatch now has a section for libraries courtesy of [Taras Mankovski](https://twitter.com/tarasm)."
+                link: http://emberwatch.com/#libraries
+            -
+                title: "Ember Wings"
+                description: "An (evolving) mini-framework for for creating, building and deploying Ember applications."
+                link: https://github.com/cpursley/ember-wings
+            -
+                title: "Ember CRUD Example"
+                description: "Simple CRUD application using Ember.JS with a Node.JS Express backend with MongoDB."
+                link: https://github.com/ddewaele/emberjs-crud-rest
+            -
+                title: "Todo Ember Laravel"
+                description: "An example of a persisted Todo-MVC using Laravel and EmberJS."
+                link: https://github.com/rtablada/todo-ember-laravel
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ruby Ireland Meetup, in Dublin"
+                description: "20th August, 7:00pm @ Engine Yard, Dublin."
+                link: http://www.meetup.com/rubyireland/events/133323262/
+            -
+                title: "Ember & Bacon, London Meetup"
+                description: "21st August, 1:30pm @ The Breakfast Club, Spitalfields."
+                link: http://www.meetup.com/London-Emberjs-User-Group/events/134445532/
+            -
+                title: "Austin Meetup"
+                description: "22nd August, 7:00pm @ The FrontSide, Austin, TX."
+                link: http://www.meetup.com/Ember-ATX/events/120904472/
+            -
+                title: "NYC Meetup"
+                description: "22nd August, 7:00pm @ Pivotal Labs."
+                link: http://www.meetup.com/EmberJS-NYC/events/131405962/
+            -
+                title: "Southern California Meetup"
+                description: "22nd August, 7:00pm @ Satellite Santa Monica, Irvine, CA."
+                link: http://www.meetup.com/Ember-SC/events/132363982/
+            -
+                title: "San Francisco Meetup"
+                description: "27nd August, 6:30pm @ Switchfly."
+                link: http://www.meetup.com/Ember-SF/events/130078732/
+            -
+                title: "Ember Fest"
+                description: "30th August in Munich, Germany. A dedicated Ember conference, preceded by 2 training days, for those looking to get in to Ember, and a hackathon."
+                link: http://emberfest.eu/
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Bustle.com"
+                description: "A great example of how quick a JavaScript web application can be. Bustle is a news, entertainment, lifestyle, and fashion site. You can even open the [Ember Chrome Extension](https://github.com/tildeio/ember-extension) and poke around."
+                link: http://www.bustle.com/
+            -
+                title: "Ember.js Beats"
+                description: "An extremely cool drum machine built with Ember.js by Gavin Joyce for the Ruby Ireland Meetup. ([code](https://github.com/GavinJoyce/ember-beats))"
+                link: http://emberbeats.gavinjoyce.com/

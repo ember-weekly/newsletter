@@ -1,0 +1,156 @@
+issue: 62
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Canary has Query Params"
+                description: "Ember Canary now has Query Params enabled by default! Core Team member Alex Matchneer [recently posted](https://twitter.com/machty/status/477571348709904384/photo/1) a comprehensive example of [Query Params in action](http://jsbin.com/ucanam/5379#/sent)."
+                link: https://twitter.com/rwjblue/status/478223694582779905
+            -
+                title: "Ember CLI v0.0.34"
+                description: "Further bug fixes and enhancements, including [many new blueprints](https://github.com/stefanpenner/ember-cli/releases/tag/v0.0.33)."
+                link: https://github.com/stefanpenner/ember-cli/blob/master/CHANGELOG.md#0034
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Vic Ramon's Ember Tutorial"
+                description: "A very thorough tutorial which shows you how to build an Ember app with a Ruby on Rails backend while explaining all the underlying concepts along the way."
+                link: http://ember.vicramon.com/
+            -
+                title: "Lazy and Partial Data Loading with Ember.js and Rails"
+                description: "A look at async loading of data with Ember Data and Rails."
+                link: http://watsonbox.github.io/blog/2014/06/13/lazy-and-partial-data-loading-with-ember-dot-js-and-rails/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "FastBoot proof of concept"
+                description: "A proof of concept showing how it's possible to preload an Ember app on the server-side."
+                link: https://github.com/emberjs/ember.js/issues/5013
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "JavaScript Jabber Podcast: Refactoring JavaScript Apps Into a Framework with Brandon Hays"
+                description: "Brandon Hays discusses how to refactor exising applications to use frameworks like Ember."
+                link: http://javascriptjabber.com/112-jsj-refactoring-javascript-apps-into-a-framework-with-brandon-hays/
+            -
+                title: "Ember Sparks 13: ember-easyForm"
+                description: "Jeffery shows how ember-easyForm helps create forms and how to get it working with Ember CLI."
+                link: http://www.sparkcasts.net/posts/13-ember-easyform
+            -
+                title: "Check how Google sees your Ember app"
+                description: "A quick video by Balint Erdi showing how to check if Google is rendering your Ember application correctly."
+                link: https://www.youtube.com/watch?v=fWrfLhj2E3o
+            -
+                title: "Ember NYC: Ember with D3 for Data Visualization"
+                description: ""
+                link: https://www.youtube.com/watch?v=lVcSGybnP54#t=2629
+            -
+                title: "Ember NYC: Visualizing Hierarchical Data using D3.js, Neo4j, Ember.js & Ember Data"
+                description: ""
+                link: https://www.youtube.com/watch?v=lVcSGybnP54#t=3788
+            -
+                title: "Ember NYC: Ember Data Factory Guy"
+                description: ""
+                link: https://www.youtube.com/watch?v=lVcSGybnP54#t=4842
+            -
+                title: "Ember NYC: EmberShare (Share.js integration)"
+                description: ""
+                link: https://www.youtube.com/watch?v=lVcSGybnP54#t=5641
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember Fest 2014 - Discount Coupon!"
+                description: "Ember Fest is back in 2014 in August! This year the conference is hosted in Barcelona, in the beautiful Sant Marti district! Together with Ember Weekly, we would like to extend you with a 16% discount on your tickets. Be sure to apply coupon code “emberweekly” while purchasing your tickets to claim your discount!"
+                link: "https://emberfest.eu/"
+            -
+                title: Ember.js Portland
+                description: "17th June, 6:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/177519382/"
+            -
+                title: Embernati
+                description: "18th June, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/186842472/"
+            -
+                title: Ember.js Pittsburgh
+                description: "Contributing to Ember with only a web browser. 19th June, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/161796192/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 21st June, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/182282882/"
+            -
+                title: "NEW: Ember Vienna"
+                description: "First Vienna meetup! 23rd June, 6:30pm @ sektor5 coworking spaces, Vienna"
+                link: http://www.meetup.com/Ember-js-Vienna-Meetup/events/187292662/
+            -
+                title: Ember.js Denver
+                description: "Model relationships, big(ish) data, query params, and more. 24th June, 6:00pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/186920002/"
+            -
+                title: Ember.js San Francisco
+                description: "24th June, 6:30pm @ Practice Fusion, San Francisco."
+                link: "http://www.meetup.com/Ember-SF/events/168264722/"
+            -
+                title: Ember-SC
+                description: "24th June, 7:00pm @ Washio Dojo, Santa Monica."
+                link: "http://www.meetup.com/Ember-SC/events/183127442/"
+            -
+                title: Ember.js Budapest
+                description: "Web Components - Ember style. 24th June, 7:00pm @ LogMeIn HQ, Budapest."
+                link: "http://www.meetup.com/ember-bp/events/187569212/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

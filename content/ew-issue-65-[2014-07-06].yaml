@@ -1,0 +1,191 @@
+issue: 65
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Using Ember Simple Auth with ember-cli"
+                description: ""
+                link: http://log.simplabs.com/post/90339547725/using-ember-simple-auth-with-ember-cli
+            -
+                title: "Bringing together Docker, Grunt, Maven, EmberJS & MongoDB"
+                description: ""
+                link: http://ingini.org/2014/06/17/docker-mongodb-java-yes-it-easy/index.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "Wicked Good Ember Conf Videos"
+        description: "A [collection of videos](https://www.youtube.com/channel/UCwFd5yPBeWsbZHDWc-3KhjA) from the talks at Wicked Good Ember Conference in Boston. Links to the slides can be found in the video comments."
+        isList: true
+        headlines:
+            -
+                title: "Building Native Web Apps - Joe Fiorini"
+                isList: true
+                link: https://www.youtube.com/watch?v=hygxGDjhGp8
+            -
+                title: "Ember + D3: Data Visualization with Ember Components - Phil Renaud"
+                isList: true
+                link: https://www.youtube.com/watch?v=KPiRj-SWGXE
+            -
+                title: "Ember: The Magic, Demystified - Robert Jackson"
+                isList: true
+                link: https://www.youtube.com/watch?v=OjqcI8KWesk
+            -
+                title: "Push Patterns in Ember and Ember Data - Luke Melia"
+                isList: true
+                link: https://www.youtube.com/watch?v=fMtIqK0JH5Y
+            -
+                title: "Autonomous Web Applications with Ember.js and Orbit.js - Dan Gebhardt"
+                isList: true
+                link: https://www.youtube.com/watch?v=omc4pnXv1Ds
+            -
+                title: "Writing tests for Ember apps: Enjoying the experience - Katie Gengler"
+                isList: true
+                link: https://www.youtube.com/watch?v=-wN-7KcCfDM
+            -
+                title: "Extending Browser Applications - Robin Ward"
+                isList: true
+                link: https://www.youtube.com/watch?v=qpey5TuwyfY
+            -
+                title: "Distributed Data for User Experience - Edward Faulkner"
+                isList: true
+                link: https://www.youtube.com/watch?v=Pi4GyJ_8lq8
+            -
+                title: "Keynote - Erik Bryn"
+                isList: true
+                link: https://www.youtube.com/watch?v=E2qYKzA1BQE
+
+
+    -
+        heading: "Ember Meeting Minutes Catch-up"
+        description: "The minutes for the last few weeks of Core Team and Ember Data meetings were released this week."
+        isList: true
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2014/06/13"
+                isList: true
+                link: http://emberjs.com/blog/2014/06/28/core-team-meeting-minutes-2014-06-13.html
+            -
+                title: "Core Team Meeting Minutes - 2014/06/20"
+                isList: true
+                link: http://emberjs.com/blog/2014/06/28/core-team-meeting-minutes-2014-06-20.html
+            -
+                title: "Core Team Meeting Minutes - 2014/06/27"
+                isList: true
+                link: http://emberjs.com/blog/2014/06/28/core-team-meeting-minutes-2014-06-27.html
+            -
+                title: "Ember Data Meeting Minutes - 2014/06/25"
+                isList: true
+                link: http://emberjs.com/blog/2014/07/03/ember-data-meeting-minutes-2014-06-25.html
+            -
+                title: "Ember Data Meeting Minutes - 2014/07/02"
+                isList: true
+                link: http://emberjs.com/blog/2014/07/03/ember-data-meeting-minutes-2014-07-02.html
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-async-button"
+                description: "Handle the state of a button due to async actions, including disabling, re-enabling, and promise rejection."
+                link: https://github.com/dockyard/ember-cli-async-button
+            -
+                title: "ember-sync"
+                description: "Ember Sync allows your Ember application to seamlessly work online and offline by using a queue of operations."
+                link: https://github.com/kurko/ember-sync
+            -
+                title: "Deprecated: Ember-App-Kit"
+                description: "Ember-App-Kit has been officially deprecated in-favour of the [Ember-CLI project](https://github.com/stefanpenner/Ember-CLI)."
+                link: https://github.com/stefanpenner/ember-app-kit#deprecated
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember NYC June - Custom Ember Data Adapters, Torii, Mixins + more"
+                description: ""
+                link: https://www.youtube.com/watch?v=G77i1v0byL0
+            -
+                title: "Ember-Validations & Ember-EasyForm - Brian Cardarella"
+                description: ""
+                # description: "A rundown of Ember-Validations and Ember-EasyForm, two complimentary Ember libraries, that can also run independently."
+                link: https://www.youtube.com/watch?v=QtqgqabNkPM
+            -
+                title: "Ember Data: Tips, Tricks, & Lessons Learned"
+                description: ""
+                link: https://www.youtube.com/watch?v=HL2bMjndviE
+            -
+                title: "Ember.js Screencasts by Joachim Haagen Skeie"
+                description: ""
+                link: https://www.youtube.com/watch?v=T-s34EVSE_0&index=2&list=PLRf6JDZ-z7fAHAz0lg9Kya2a-75sRlD5h
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: STL Ember.js
+                description: "7th July, 6:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/174682692/"
+            -
+                title: Ember.js Seattle
+                description: "9th July, 6:30pm @ Urbanspoon, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/190309772/"
+            -
+                title: Boston Ember.js Group
+                description: "Animations. 10th July, 6:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/183866792/"
+            -
+                title: Ember.js Portland
+                description: "Hacker Hours. 10th July, 7:00pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/186684692/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 12th July, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/190516562/"
+            # -
+            #     title: Ember.js Munich
+            #     description: "15th July, 7:00pm @ Scoreloop, München."
+            #     link: "http://www.meetup.com/Ember-js-Munich/events/183204182/"
+            # -
+            #     title: Embernati
+            #     description: "16th July, 6:00pm @ Gaslight, Cincinnati."
+            #     link: "http://www.meetup.com/EmberNati/events/191490902/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

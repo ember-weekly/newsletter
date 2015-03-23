@@ -1,0 +1,206 @@
+issue: 51
+strapline: "EmberConf Catch-up Edition"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.5.0"
+                description: "This release includes many bug fixes as well as features such as - [routes now inherit a parent's model by default](https://github.com/emberjs/ember.js/pull/4246) and [Ember.AutoLocation](https://github.com/emberjs/ember.js/pull/3725). Also note a breaking change bug fix for ``Ember.run.throttle`` which now now supports leading edge execution."
+                link: https://github.com/emberjs/ember.js/blob/v1.5.0/CHANGELOG.md
+            -
+                title: "Ember-CLI v0.0.20"
+                description: "Ember-CLI was officially announced by Stefan Penner at EmberConf this week. It's a command line tool, built on Broccoli, with goal of making project bootstrapping and build pipeline easier and faster. It's till under heavy development so expect breaking changes."
+                link: https://github.com/stefanpenner/ember-cli/blob/master/CHANGELOG.md#0020
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    
+    -
+        heading: "EmberConf 2014: Summaries"
+        headlines:
+            -
+                title: "EmberConf picks up where the Rails community left off"
+                description: "A feel good write-up from Dockyard's Brian Cardarella on the inclusive community spirit demonstrated at EmberConf and how the Ember community it setting standards."
+                link: http://reefpoints.dockyard.com/2014/03/17/emberconf-picks-ups-where-the-rails-community-left-off.html
+            -
+                title: "EmberConf Notes by Kurt MacDonald"
+                description: "A collection of notes from each session from EmberConf 2014."
+                link: https://github.com/zurt/notes/blob/master/EmberConf-2014.markdown
+            -
+                title: "Sketched Notes by Michael Chan"
+                description: "If you followed the #EmberConf tweets during the week you'll likely have seen the brilliant sketched notes by Michael Chan. They can now all be viewed on together on his website."
+                link: http://chantastic.io/emberconf2014/
+            -
+                title: "EmberConf Talks Summary by Allison Sheren"
+                description: "Allison gives a concise summary post for nearly all of the talks from both EmberConf days."
+                link: http://allisonsherenmcmillan.blogspot.ca/search/label/emberconf%202014
+            -
+                title: "EmberConf Highlights by Herman Radtke"
+                description: "Brief summary notes of some of some of the highlights from EmberConf 2014."
+                link: http://hermanradtke.com/2014/03/27/emberconf-2014.html
+            -
+                title: "EmberConf Wrap Up by Justin Ball"
+                description: "Another glowing review of the Ember community and the problems it's solving."
+                link: http://www.justinball.com/2014/03/27/ember-conf-2014-wrap-up/
+
+                
+
+    # -
+    #     heading: "Promoted"
+    
+
+    -
+        heading: "EmberConf 2014: Slides"
+        headlines:
+            -
+                title: "EmberConf 2014 Keynote - Tom Dale & Yehuda Katz"
+                description: "An update on the state of Ember, how you can think about most web applications as a series of screens and flows — and how Ember makes you super productive at building them."
+                link: https://speakerdeck.com/tomdale/emberconf-2014-keynote
+            -
+                title: "Mr. Router embraces the Controller - Alex Matchneer"
+                description: "Alex discusses the state of query params, the model dependent state, and the subtleties of the route vs controller paradigm."
+                link: https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer
+            -
+                title: "Animations and Transitions - Edward Faulkner"
+                description: "Edward shows reusable, well-encapsulated techniques for animations that play well with integration tests, and give native-app-like performance on mobile devices."
+                link: http://ef4.github.io/ember-animation-demo/
+            -
+                title: "Ember Components Transclude My Directives - John K. Paul"
+                description: "A look at some of the key principles in Angular and their equivalents in Ember."
+                link: http://johnkpaul.github.io/presentations/emberconf/components-transclude-directives/
+            -
+                title: "Using Ember to Make the Seemingly Impossible Easy - Heyjin Kim & Andre Malan"
+                description: "Covers techniques of using ``Ember.Component`` to encapsulate code and some other tips and hacks."
+                link: https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy
+            -
+                title: "The {{x-foo}} in You - Ryan Florence"
+                description: "A close look at Ember Components and some of the cool things you can do with them."
+                link: https://github.com/rpflorence/talk-emberconf-2014
+            -
+                title: "Contributing to Ember - Robert Jackson"
+                description: "An introduction on how to start contributing to Ember - covering feature flags, release cycle, commit prefixing and documentation."
+                link: https://speakerdeck.com/rwjblue/contributing-to-ember
+            -
+                title: "The Unofficial, Official Ember Testing Guide - Eric Berry"
+                description: "A nice overview of how to test your Ember application."
+                link: https://speakerdeck.com/coderberry/the-unofficial-official-ember-testing-guide
+            -
+                title: "Controlling Route Traversal with Flows - Nathan Hammond"
+                description: "A review of a tree-shaped state machine implementation of moving around inside of an application along a scripted flow that loads any information it needs from the Ember resolver."
+                link: https://www.dropbox.com/s/02peoxevqwjz1bu/Controlling%20Route%20Traversal.pdf
+            -
+                title: "Performance in Ember Apps - Matthew Beale"
+                description: "A look at what slows down Ember applications and single-page applications in general."
+                link: http://madhatted.com/2014/3/28/via-emberconf-performance-in-ember-apps
+            -
+                title: "Broccoli - Jo Liss"
+                description: "An introduction to Broccoli from it's creator, Jo Liss. Broccoli is the build tool of choice for Ember-CLI."
+                link: http://www.slideshare.net/jo_liss/broccoli-32911567
+            -
+                title: "Convergent/Divergent - Christopher Meiklejohn"
+                description: "A look at how Ember Data is trying to solve a problem of distributed computing."
+                link: https://speakerdeck.com/cmeiklejohn/divergent
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Property Path Patterns in Ember.js"
+                description: "A nice walkthrough with examples of where you can use property paths in an Ember application."
+                link: http://balinterdi.com/2014/03/26/property-path-patterns-in-ember-dot-js.html
+            -
+                title: "Authentication with Ember-Rails"
+                description: "A guide to setting up an  ember-rails application using Devise for authentication."
+                link: http://kbarrett.com/blog/2014/03/24/authentication-with-ember-rails.html
+            -
+                title: "Nested run loops and autoruns"
+                description: "A deep dive into some of the internal of the Ember Run loop."
+                link: http://mmun.ghost.io/nested-run-loops-and-autoruns/
+            -
+                title: "String Templating Considered Harmful"
+                description: "Not specific to Ember but covers some of the disadvantages of string templating like handlebars. It also covers why newer solutions like Ember's HTMLBars will greatly improve performance."
+                link: http://flippinawesome.org/2014/03/24/string-templating-considered-harmful/
+            -
+                title: "Stubbing Network Calls (Api) Using Dyson for Ember.js Apps"
+                description: ""
+                link: http://nepalonrails.com/blog/2014/03/stubbing-network-calls-api-using-dyson-for-emberjs-apps/
+            -
+                title: "How to learn Ember by EmberSherpa"
+                description: ""
+                link: https://speakerdeck.com/embersherpa/how-to-learn-ember
+            # -
+            #     title: "Ember Unit Testing"
+            #     description: ""
+            #     link: http://bangline.co.uk/posts/ember-unit-testing-with-ember-data.html
+            
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "PR Dashboard"
+                description: "A pull requests reviewing tool build on top of Rails for the backend service, and Ember for the front-end framework."
+                link: https://github.com/crowdint/prdashboard
+            -
+                title: "Mogo Chat"
+                description: "An open source team chat application build with Elixir and Ember."
+                link: https://getmogochat.com/
+            -
+                title: "ember-qunit"
+                description: "Unit test helpers for Ember. This is the library mentioned in Eric Berry's EmberConf testing talk."
+                link: https://github.com/rpflorence/ember-qunit
+
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js Budapest
+                description: "1st April, 8:00pm @ DBX Iroda, Budapest."
+                link: "http://www.meetup.com/ember-bp/events/171254112/"
+            - 
+                title: Ember.js NYC
+                description: "EmberConf post game. 31st March, 8:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/173624442/"
+            - 
+                title: STL Ember.js
+                description: "7th April, 7:00pm @ Second Street, Saint Louis."
+                link: "http://www.meetup.com/STLEmber/events/171823602/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 

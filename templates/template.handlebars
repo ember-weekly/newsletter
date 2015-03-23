@@ -1,0 +1,150 @@
+<style type="text/css">
+    .news-section > p a,
+    .headline p a:not(.headline-source){
+        text-decoration:none !important;
+        color:#bf351c !important;
+    }
+
+    .news-section ul > li{
+        color: #ccc;
+        list-style: square;
+    }
+</style>
+
+{{#each content}}
+<div class="news-section">
+    {{#if image}}
+        <img src="{{image}}" style="margin-bottom: 10px; margin-top: 10px;display:block; width: 100px;" />
+    {{else}}
+        <h1 style="display: block;font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size: 16px;font-style: normal;font-weight: bold;line-height: 200%;letter-spacing: normal;margin: 0;text-align: left;color: #888888 !important;">
+            {{heading}}
+        </h1>
+    {{/if}}
+
+    {{#if newsletterAd}}
+        <style type="text/css">
+            .headline p a:not(.headline-source){
+                text-decoration:none !important;
+                color:#bf351c !important;
+            }
+            .sponsor-text a[href="http://launchbit.com/sp/13977-9440/"]{
+                display:none;
+            }
+            .sponsor-text a{
+                text-decoration:none !important;
+                color:#bf351c !important;
+            }
+        </style>
+
+
+        *|IF:LAUNCHBIT = on|*
+
+
+<style type="text/css">
+    .headline p a:not(.headline-source){
+        text-decoration:none !important;
+        color:#bf351c !important;
+    }
+    .sponsor-text a[href="http://launchbit.com/sp/13977-9440/"]{
+        display:none;
+    }
+    .sponsor-text a{
+        text-decoration:none !important;
+        color:#bf351c !important;
+    }
+</style>
+
+
+*|IF:LAUNCHBIT = on|*
+
+    <table>
+        <tbody>
+            <tr>
+                <td width="130">
+                    <a href="*|LBADLINK|**|EMAIL_UID|*"><img src="*|LBIMAGEURL|*" /></a>
+                </td>
+                <td>
+                    <p class="sponsor-text" style="font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size:16px; margin-top: 5px;">
+                        <a href="*|LBADLINK|**|EMAIL_UID|*">*|LBTITLE|*</a> *|HTML:LBADTEXT|*
+                        <img src="*|LBPIXEL|**|EMAIL_UID|*" />
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p style="font-size: 0.8em;color: #808080 !important; text-decoration: none !important; font-weight: normal;word-wrap: break-word !important;">Reply to this email for more information on sponsoring Ember Weekly.</p>
+
+*|END:IF|*
+
+        *|END:IF|*
+    {{/if}}
+
+{{#if descriptionHTML}}
+    <p style="font-family: 'Helvetica Neue', helvetica, arial, sans-serif;">
+        {{descriptionHTML}}
+    </p>
+{{/if}}
+
+
+    {{#if isList}}
+    <ul>
+    {{/if}}
+
+{{#each headlines}}
+
+    {{#if isList}}
+    <li class="headline" style="padding:8px 0;">
+    {{else}}
+    <div class="headline" style="padding:8px 0;">
+    {{/if}}
+
+        {{#if image}}
+            <a class="headline-source" style="color: #808080;text-decoration: none;" target="_blank" href="{{link}}">
+                <img src="{{image}}" style="float: left; margin-right: 14px; margin-bottom: 40px; margin-top: 20px;" />
+            </a>
+        {{/if}}
+{{!--
+        {{#unless isList}}
+            <a class="headline-source" style="font-size: 0.8em;color: #808080 !important; text-decoration: none!important; font-weight: normal; word-wrap: break-word !important;" target="_blank" href="{{link}}"> {{domain}}
+            </a>
+        {{/unless}} --}}
+        <h2 style="display: block;font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size: 18px;font-style: normal;font-weight: bold;line-height: 1.5em;letter-spacing: normal;margin: 0;text-align: left;color: #bf351c !important;">
+            <a class="headline-link" style="color: #bf351c !important;font-weight: normal;text-decoration: none !important; word-wrap: break-word !important;" href="{{link}}" target="_blank" >
+                {{title}}
+            </a>
+        </h2>
+        {{#if descriptionHTML}}
+            <p style="font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size:16px; margin-top: 5px;">
+                {{descriptionHTML}}
+                <a class="headline-source" style="font-size: 0.8em;color: #808080 !important; text-decoration: none !important; font-weight: normal;word-wrap: break-word !important;" target="_blank" href="{{link}}"> {{domain}}
+                </a>
+
+                {{#if advert}}<span class="promoted" style="font-size: 0.8em;font-weight: normal;background-color: #ddd; padding: 2px 4px; color: #fefefe; margin-left: 10px">promoted</span>{{/if}}
+            </p>
+        {{else}}
+            {{#unless isList}}
+            <a class="headline-source" style="font-size: 0.8em;color: #808080 !important; text-decoration: none!important; font-weight: normal; word-wrap: break-word !important;" target="_blank" href="{{link}}"> {{domain}}
+            </a>
+            {{/unless}}
+
+            {{#if advert}}<span class="promoted" style="font-size: 0.8em;font-weight: normal;background-color: #ddd; padding: 2px 4px; color: #fefefe; margin-left: 10px">promoted</span>{{/if}}
+        {{/if}}
+
+    {{#if isList}}
+    </li>
+    {{else}}
+    </div>
+    {{/if}}
+
+{{/each}}
+
+{{#if isList}}
+    </ul>
+{{/if}}
+
+</div>
+
+<hr style="border:0px;border-top:1px solid #bf351c; margin: 25px 0 40px;" />
+
+{{/each}}

@@ -1,0 +1,219 @@
+issue: 96
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.11 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.11.0-beta.2
+            -
+                title: "Ember Data v1.0.0 Beta 15 Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/02/14/ember-data-1-0-beta-15-released.html
+            -
+                title: "Ember-CLI v0.1.15 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.1.15
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Ember Community Survey, 2015"
+                description: ""
+                link: http://madhatted.com/2015/2/4/ember-community-survey-2015
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Lazy Loading Images in Ember"
+                description: ""
+                link: https://medium.com/the-ember-way/lazy-loading-images-in-ember-b130533583ff
+            -
+                title: "Using and Creating Services with Ember-CLI"
+                description: ""
+                link: http://www.codepreneur.io/2015/01/25/Using-and-creating-services-with-ember-cli/
+            -
+                title: "How to move from Ember-Rails to Ember-CLI"
+                description: ""
+                link: http://bryanrobl.es/2015/02/11/ember-rails-to-ember-cli/
+            -
+                title: "Data Down, Actions Up...Better But Still Not Far Enough"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/02/12/emberjs-data-down/
+            -
+                title: "Things I Remind Myself of When Working with Ember"
+                description: ""
+                link: http://www.enlightenedpixel.com/things-i-remind-myself-when-working-with-ember/
+            -
+                title: "Ember vs Angular: Authentication Example"
+                description: ""
+                link: http://brewhouse.io/blog/2015/02/12/ember-vs-angular-authentication
+            -
+                title: "Ember Testing with Ember-CLI"
+                description: ""
+                link: http://www.programwitherik.com/ember-testing-with-ember-cli/
+            -
+                title: "Deploying an Ember-CLI Application to Heroku"
+                description: ""
+                link: http://kerrygallagher.co.uk/deploying-an-ember-cli-application-to-heroku/
+            -
+                title: "Update Your Finds (store.find)"
+                description: ""
+                link: http://blog.abuiles.com/blog/2015/02/09/update-your-finds/
+            -
+                title: "Learnings from Making a Google Map Component — Ember Property Setters"
+                description: ""
+                link: https://medium.com/@deanmarano/learnings-from-making-a-google-map-component-ember-property-setters-48718c30a6b7
+            -
+                title: "SPA for Modern Enterprise: Why I Picked Ember Over Angular, Backbone, React"
+                description: ""
+                link: http://slides.com/ryanhayes/enterprise-spa-ember-js
+            -
+                title: "OAuth with Firebase and Ember"
+                description: ""
+                link: http://blog.willrax.com/oauth-with-firebase-and-ember/
+            -
+                title: "Setting Up Ember-CLI with a Rails Back-end with Basic Authentication/Authorization"
+                description: ""
+                link: https://adibsaad.com//blog/setting-up-ember-cli-with-a-rails-back-end-with-basic-authentication-authorization
+            -
+                title: "Ember-Cli & Torii Sessions - Part 3"
+                description: ""
+                link: http://appallingfarrago.com/ember/embercli/github/divshot/torii/rails/2015/02/09/ember-cli-torri-sessions.html
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-intl: Format.JS Support for Ember from Yahoo!"
+                description: ""
+                link: http://yahooeng.tumblr.com/post/110812216531/announcing-ember-intl-format-js-support-for-ember
+            -
+                title: "Broccoli Plugins: A Searchable List of Broccoli Plugins"
+                description: ""
+                link: http://broccoliplugins.com/
+            -
+                title: "ember-cli-build-notifications: OSX Build Error Notifications"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-build-notifications
+            -
+                title: "ember-cli-headroom: Add Content to the Document <head>"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-headroom
+            -
+                title: "ember-cli-transformicons: Transformicons Animated Icons Using SVG + CSS"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-transformicons
+            -
+                title: "ember-cli-notifications: Atom Inspired Notification Messages for Ember-CLI"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-notifications
+            -
+                title: "ember-group-by: A Macro for Grouping Objects by a Given Property"
+                description: ""
+                link: https://www.npmjs.com/package/ember-group-by
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+               description: ""
+               link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #2: Ember 1.10, Ember-QUnit, Community Survey, Nesting Helpers & Component Actions"
+                description: ""
+                link: http://www.ember.land/episodes/2
+            -
+                title: "Ask Tom & Yehuda: What's the Deal with Engines?"
+                description: ""
+                link: https://www.youtube.com/watch?v=sZlnEe1xkhE&index=3&list=PL2CDtLMcqrFnop-MlikNgcKzhXdSxeD61
+            -
+                title: "Ember SparkCasts #16: Installing the Ember Inspector"
+                description: ""
+                link: http://www.sparkcasts.net/posts/16-ember-inspector-1-installing-the-ember-inspector
+            -
+                title: "Ember SparkCasts #17: Ember Inspector 2 - Exploring Objects"
+                description: ""
+                link: http://www.sparkcasts.net/posts/17-ember-inspector-2-exploring-objects
+
+
+    -
+        heading: "Events"
+        headlines:
+        -
+            title: Dallas
+            description: "16th February, 7:00pm @ SoftLayer, Dallas."
+            link: "http://www.meetup.com/Ember-Dallas/events/220211212/"
+        -
+            title: Adelaide
+            description: "17th February, 6:00pm @ Majoran Distillery, Adelaide."
+            link: "http://www.meetup.com/Ember-js-Adelaide/events/219680705/"
+        -
+            title: Vancouver
+            description: "17th February, 6:30pm @ Code Core, Vancouver."
+            link: "http://www.meetup.com/Vancouver-Ember-js/events/220355120/"
+        -
+            title: Orlando
+            description: "17th February, 7:00pm @ IZEA, Orlando."
+            link: "http://www.meetup.com/Ember-js-Orlando/events/220252676/"
+        -
+            title: Cincinnati
+            description: "18th February, 6:00pm @ Gaslight, Cincinnati."
+            link: "http://www.meetup.com/EmberNati/events/220174681/"
+        -
+            title: Seattle
+            description: "18th February, 6:30pm @ Wayward Coffeehouse, Seattle."
+            link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220179644/"
+        -
+            title: Irvine
+            description: "18th February, 7:00pm @ CrowdStrike game room (1st floor), Irvine."
+            link: "http://www.meetup.com/Ember-SC/events/219687022/"
+        -
+            title: Madrid
+            description: "18th February, 7:00pm @ kunlabori coworking, Madrid."
+            link: "http://www.meetup.com/Ember-js-Madrid/events/220457427/"
+        -
+            title: Pittsburgh
+            description: "19th February, 7:00pm @ Revv Oakland, Pittsburgh."
+            link: "http://www.meetup.com/Ember-js-Pittsburgh/events/219977444/"
+
+
+
+    -
+        heading: "Finally"
+        advert: true
+        headlines:
+            -
+                title: "ReactWeek: Interested in learning React.js?"
+                description: "9-13th March @ Provo, UT - A week long workshop focused on learning React.js taught by Ryan Florence."
+                link: http://reactweek.com

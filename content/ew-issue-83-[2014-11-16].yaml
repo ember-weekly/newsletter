@@ -1,0 +1,174 @@
+issue: 83
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.9.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.9.0-beta.3
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Building with Ember.js - With Allen Cheung, Engineering Manager At Square"
+                description: ""
+                link: http://www.talentbuddy.co/blog/building-with-ember-js-advice-for-full-stack-developers-and-more-with-allen-cheung-engineering-manager-at-square/
+            -
+                title: "Future-Proofing Your Ember 1.x Code - Tips for Tranitioning to 2.0"
+                description: ""
+                link: https://gist.github.com/samselikoff/1d7300ce59d216fdaf97
+            -
+                title: "Ember Testing Internals with Ember-CLI"
+                description: ""
+                link: http://www.slideshare.net/bantic/ember-testing-internals-with-ember-cli
+            -
+                title: "Slack-style Loading Messages in an Ember App"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/slack-style-loading-messages-in-an-ember-app-6319559a19d0
+            -
+                title: "Ember Data: Mastering Async Relationships - Part 2"
+                description: ""
+                link: http://thau.me/2014/11/ember-data-mastering-async-relationships-part-2/
+            -
+                title: "Using Ember CLI with PhoneGap’s CLI Tools"
+                description: ""
+                link: http://spin.atomicobject.com/2014/11/13/ember-cli-phonegap
+            -
+                title: "Metaprogramming and Client-Side Storage with Ember"
+                description: ""
+                link: https://medium.com/the-ember-way/metaprogramming-in-emberjs-627921395299
+            -
+                title: "Ember-CLI, Github Authentication and DivShot"
+                description: ""
+                link: http://www.appallingfarrago.com/ember/embercli/github/divshot/torii/2014/11/02/ember-cli-github-authentication-and-divshot.html
+            -
+                title: "Using Highcharts.js in an Ember App"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/using-highcharts-js-in-an-ember-app-18a65d611644
+            -
+                title: "Time Based triggers in Ember.js"
+                description: ""
+                link: http://www.rvdh.de/2014/11/14/time-based-triggers-in-ember-js/
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+
+    -
+        heading: "Books"
+        headlines:
+            -
+                title: "Ember-CLI-101"
+                description: ""
+                link: http://blog.abuiles.com/blog/2014/11/16/announcing-my-ember-book-ember-cli-101/
+            -
+                title: "The Ember.js Way (Pre-Release)"
+                description: ""
+                link: http://signup.theemberjsway.com/
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-mocha - Mocha/Chai Testing for Ember-CLI apps"
+                description: ""
+                link: https://github.com/switchfly/ember-cli-mocha
+            -
+                title: "ember-cli-acceptance-test-helpers - Set of Useful Test Helpers for Ember Acceptance Tests"
+                description: ""
+                link: https://github.com/201-created/ember-cli-acceptance-test-helpers
+            -
+                title: "ember-responsive - Ember-Aware Way of Dealing With Media Queries"
+                description: ""
+                link: https://freshbooks.github.io/ember-responsive/
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember 2.0 - Boston Meetup Talk by Core Team Member Robert Jackson"
+                description: ""
+                link: https://www.youtube.com/watch?v=69wMY3CaklY&feature=youtu.be&t=1h6m8s
+            -
+                title: "Treehouse Ember.js Course ($)"
+                description: ""
+                link: http://teamtreehouse.com/library/emberjs
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "EmberConf 2015"
+                description: "[Call for Speakers](http://cfp.emberconf.com/events/emberconf-2015) now open. 3rd - 4th March @ Portland, OR"
+                link: http://emberconf.com/
+            -
+                title: Dallas
+                description: "17th November, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/218581991/"
+            -
+                title: Southern California
+                description: "18th November, 6:30pm."
+                link: "http://www.meetup.com/Ember-SC/events/213833032/"
+            -
+                title: Vancouver
+                description: "18th & 25th November, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/218655269/"
+            -
+                title: Orlando
+                description: "18th November, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/216420032/"
+            -
+                title: Cincinnati
+                description: "19th November, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/217577112/"
+            -
+                title: Seattle
+                description: "19th November, 6:30pm @ Wayward Coffeehouse, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/213937402/"
+            -
+                title: Denver
+                description: "19th November, 6:30pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/215907412/"
+            -
+                title: Pittsburgh
+                description: "20th November, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/213937122/"
+            -
+                title: Indianapolis
+                description: "20th November, 7:00pm @ TinderBox, Indianapolis."
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/217856292/"
+            -
+                title: Bangalore
+                description: "22nd November, 10:00am @ Artoo IT Solutions, Bangalore."
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/216306992/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

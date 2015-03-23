@@ -1,0 +1,131 @@
+issue: 29
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.1.1 Released"
+                description: "Includes tons of bug fixes and documentation updates from 1.0. See the [changelog](https://github.com/emberjs/ember.js/blob/v1.1.1/CHANGELOG) for more details. Note: Ember 1.1.0 included a small regression in ``Ember.Object.create``."
+                link: http://emberjs.com/builds/#/release/latest
+            -
+                title: "Ember 1.2.0 Beta Available"
+                description: "This beta includes some new [flagged features](https://github.com/emberjs/ember.js/blob/beta/FEATURES.md). See the [changelog](https://github.com/emberjs/ember.js/blob/beta/CHANGELOG) for more details."
+                link: http://emberjs.com/builds/#/beta/latest
+    -
+        heading: "Reading"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Embereños: Jamie White - With Associates"
+                description: "Weekly interviews with companies and people using ember. This week's interview is with Jamie White of With Associates."
+                link: http://emberenos.com/interviews/2013/10/23/jamie-white-with-associates
+            -
+                title: "Taming Computed Properties"
+                description: "Uģis Ozols takes a close look at Computed Properties, specifically working with arrays."
+                link: http://ugisozols.com/blog/2013/10/17/emberjs-taming-computed-properties/
+            -
+                title: "Announcing Firebase Bindings for EmberJS"
+                description: "Official announcement of the Ember Firebase bindings library mentioned in previous issues."
+                link: https://www.firebase.com/blog/2013-10-22-firebase-bindings-for-ember.html
+            -
+                title: "Ember.js Cheat Sheet"
+                description: "Based off the [Em­ber­She­rpa cheatsheet](http://embersherpa.com/cheatsheet/)."
+                link: http://www.cheatography.com/mwore/cheat-sheets/ember-js/
+            -
+                title: "Ember.js & Laravel"
+                description: "Slides from Flamur Mavraj's Oslo meetup talk on using Ember with the Laravel PHP Framework."
+                link: http://talks.empirio.no/20131017-emberjs-laravel.html#/
+            -
+                title: "An Ember JS Gauge Component"
+                description: "A detailed walkthrough of building a Gauge ``Ember.Component``."
+                link: http://front-back.com/an-ember-js-gauge-component
+
+    # -
+    #     heading: "Watch/Listen"
+    #     headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "Code"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember PouchDB"
+                description: "Adds promises to PouchDB API to make PouchDB easier to use with Ember.js."
+                link: https://github.com/taras/ember-pouchdb
+            -
+                title: "Spin.js Ember.Component"
+                description: "Ember Component using the Spin.js library by [Eric Berry](https://twitter.com/cavneb/status/392401353152008192)."
+                link: http://emberjs.jsbin.com/IVoluq/4/edit
+            -
+                title: "Autocomplete Ember.Component"
+                description: "Based on the [Embercast autocomplete widget](http://www.embercasts.com/episodes/building-an-autocomplete-widget-part-1), Heyjin Kim re-created it as an Ember component."
+                link: http://emberjs.jsbin.com/auto-complete-component/4/edit
+            -
+                title: "ember_template.rb"
+                description: "A template for making Ember apps with Rails."
+                link: https://gist.github.com/steveklabnik/7094241
+            -
+                title: "Billy Data"
+                description: "Billy Data is a data layer for Ember.js. It works with a standard JSON REST API."
+                link: https://github.com/billysbilling/billy-data
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "At BackOps we get it done!"
+                description: "BackOps is transforming the way businesses manage their back office. We’re looking for a kick-ass Front-End Eng. to develop fast and efficient front-ends with Ember on the front and Rails on the back. So if this is you, come work with us!"
+                link: http://www.jobscore.com/jobs/backops/front-end-developer-san-francisco-ca/bg8MAIJgSr4R14eJe4egig?ref=rss&sid=68
+
+            # -
+            #    title: "Looking for an Ember Developer?"
+            #    description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+            #    domain: emberweekly.com
+            #    link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "New York Meetup"
+                description: "24th October, 7:00pm @ Pivotal Labs."
+                link: http://www.meetup.com/EmberJS-NYC/events/135943842/
+            -
+                title: "Salt Lake City Meetup"
+                description: "24th October, 6:30pm @ Instructure."
+                link: http://www.meetup.com/EmberJS-SLC/events/141939662/
+            -
+                title: "NEW! Vancouver, Canada Meetup"
+                description: "24th October, 6:30pm."
+                link: http://www.meetup.com/Vancouver-Ember-js/events/142304532/
+            -
+                title: "Budapest, Hungary Meetup"
+                description: "29th October, 7:00pm @ DBX Iroda."
+                link: http://www.meetup.com/ember-bp/events/144270912/
+            -
+                title: "NEW! Brussels, Belgium Meetup"
+                description: "31st October, 8:00pm @ Salle Fénix at Betacowork / ICAB."
+                link: http://www.meetup.com/Ember-js-Brussels/events/144929462/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+

@@ -1,0 +1,213 @@
+issue: 57
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Hidden Features of The Each (aka Loopedy-loop) Helper"
+                description: "A deep dive into the features of the ``{{each}}`` handlebars helper in Ember."
+                link: http://ember.guru/2014/hidden-features-of-the-each-aka-loopedy-loop-helper
+            -
+                title: "Ember.js breaks my css :first-child styles"
+                description: "Using ``:first-child`` can cause problems in your Ember app, use ``:first-of-type`` instead. Thankfully, this'll go away with HTMLBars."
+                link: http://paulferrett.com/2014/ember-breaks-my-css/
+            -
+                title: "Getting Started with ES6 Modules"
+                description: "A quick introduction to ES6 modules and how they're being used with Ember."
+                link: http://eviltrout.com/2014/05/03/getting-started-with-es6.html
+            -
+                title: "Building an Ember.js Production Application with Ember CLI"
+                description: "An introduction to the (fast-moving) Ember CLI project."
+                link: http://edgycircle.com/blog/2014-building-an-emberjs-production-application-with-ember-cli/
+            -
+                title: "Wrapping localStorage and other POJOs with Ember.Object"
+                description: "A look at using ``unknownProperty`` and ``setUnknownProperty`` to interact with localStorage."
+                link: http://www.rvdh.de/2014/05/08/wrapping-localstorage-and-other-pojos-with-ember-object
+            -
+                title: "Stop using Ember Appkit Rails"
+                description: "Ember Appkit Rails is deprecated, Ember CLI will be the future of Ember/Rails integration as covered in Brian Cardarella posts below."
+                link: http://reefpoints.dockyard.com/2014/05/04/stop-using-ember-appkit-rails.html
+            -
+                title: "Building an Ember App with Rails"
+                description: "Brian Cardarella walks through building an Ember app using Ember CLI and Rails in this multi-part blog series ([part 1](http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html), [part 2](http://reefpoints.dockyard.com/2014/05/08/building-an-ember-app-with-rails-part-2.html), [part 3](http://reefpoints.dockyard.com/2014/05/09/building-an-ember-app-with-rails-part-3.html))."
+                link: http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html
+            -
+                title: "Preserve scrolling position in Ember Apps"
+                description: ""
+                link: http://reefpoints.dockyard.com/2014/05/05/preserve-scroll-position-in-ember-apps.html
+            # -
+            #     title: "Ember.run.bind"
+            #     description: ""
+            #     link: http://balinterdi.com/2014/05/09/ember-dot-run-dot-bind.html
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+
+    -
+        heading: "Promoted"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/newsletter/ads/media/emberkit-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Emberkit - the quickest way to build your subscription based app - 25% discount"
+                description: "Want to create a monthly billed subscription service? Emberkit saves you weeks of development. Just want to learn from a non trivial full stack project? Educational license available. 25% discount for Ember Weekly readers using this link!"
+                link: https://emberkit.com/?coupon=EMBERWEEKLY
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "EmberUI Alpha Release"
+                description: "A component library for crafting ambitious interfaces. ([demo](http://emberui.com/))"
+                link: http://blog.venn.lc/emberui-alpha-release/
+            -
+                title: "Ember Beates - Updated"
+                description: "The awesome drum machine built with Ember has been update to use Ember v1.5, more idiomatic code and Ember CLI."
+                link: https://github.com/GavinJoyce/ember-beats
+            -
+                title: "Spyglass"
+                description: "Spyglass provides a simple search interface for Solr using Ember."
+                link: https://github.com/o19s/Spyglass
+            -
+                title: "IRCAnywhere"
+                description: "An open source web based multi-user IRC bouncer that's billed as an alternative to paid services such as IRCCloud - built with Ember."
+                link: http://ircanywhere.com/
+
+    -
+        heading: "(More!) EmberConf 2014 Videos"
+        description: "A few brand new, unseen EmberConf videos have been added to [confreaks](http://confreaks.com/events/emberconf2014)."
+        isList: true
+        headlines:
+            -
+                title: "Empty Your Cup Reflections on Learning Ember - Matt Jones"
+                isList: true
+                link: http://confreaks.com/videos/3460-emberconf2014-empty-your-cup-reflections-on-learning-ember
+            -
+                title: "Extending Ember with Analytics - Alex DiLiberto"
+                isList: true
+                link: http://confreaks.com/videos/3456-emberconf2014-extending-ember-with-analytics
+            -
+                title: "Array Computing Properties - David Hamilton"
+                isList: true
+                link: http://confreaks.com/videos/3457-emberconf2014-array-computing-properties
+            -
+                title: "Ember & SOA - Jeremy Green"
+                isList: true
+                link: http://confreaks.com/videos/3458-emberconf2014-ember-soa
+            -
+                title: "Admin Your App: or Why Internal Tools Matter - Michael Becker"
+                isList: true
+                link: http://confreaks.com/videos/3459-emberconf2014-admin-your-app-or-why-internal-tools-matter
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js NYC April Meetup"
+                description: "Talks include Ember 1.5/1.6-beta Release Notes, Internationalization in Ember, Realtime Collaborative Apps (Google Drive API), Debugging Performance Issues, Abusing Computed Properties for Fun & Profit, Benchmarks for All, Debugging Techniques for Ember.js Development, and ember-responsive (media queries)."
+                link: https://www.youtube.com/watch?v=XQ0FZSgWArc
+            -
+                title: "Ember Sparks 9: Ember.computed"
+                description: "A look at breaking up big functions using ``Ember.computed``."
+                link: https://www.youtube.com/watch?v=f59zXZxiTlk
+            -
+                title: "Frontside Podcast Ep 3: Refactoring toward Ember"
+                description: "Charles and Brandon discuss how they refactor existing apps toward Ember without a big-bang rewrite."
+                link: http://frontside.io/blog/2014/03/10/refactoring-toward-ember.html?
+            -
+                title: "Ember Hot Seat - EP16: Igor Terzic"
+                description: "DeVaris discusses open source and Ember Data with Igor Terzic including what's coming down the pipeline, best practices, and much more."
+                link: http://emberhotseat.com/2014/05/04/ember-hot-seat-episode-016.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember Fest 2014 - Discount Coupon!"
+                description: "Ember Fest is back in 2014 in August! This year the conference is hosted in Barcelona, in the beautiful Sant Marti district! Together with Ember Weekly, we would like to extend you with a 16% discount on your tickets. Be sure to apply coupon code “emberweekly” while purchasing your tickets to claim your discount!"
+                link: "https://emberfest.eu/"
+            -
+                title: Ember.js Denver
+                description: "Ember in the Wild. 13th May, 6:00pm @ Cirro, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/180637062/"
+            -
+                title: Ember.js Adelaide
+                description: "Introduction to Ember CLI & Experience creating a simple realtime app. 13th May, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/179944652/"
+            -
+                title: Chicago Ember.js
+                description: "Erik Bryn on Web Components and Steve Faulkner with a Murfie.com Retrospective. 13th May, 6:30pm @ Groupon, Chicago."
+                link: "http://www.meetup.com/Chicago-Ember-js/events/180070512/"
+            -
+                title: Ember.js Pittsburgh
+                description: "What goes where: Ember application structure. 13th May, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/161140632/"
+            -
+                title: Ember.JS DC
+                description: "Ember.Object, Ember Controllers, and TDD-ing an ember-cli app. 14th May, 6:30pm."
+                link: "http://www.meetup.com/Ember-JS-DC/events/180475122/"
+            -
+                title: Ember.js Meetup - Vancouver
+                description: "The first-ever #EMBERYVR. 14th May, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/179975662/"
+            -
+                title: Ember.js Munich
+                description: "14th May, 7:00pm @ reppa.net GmbH, 80538 München."
+                link: "http://www.meetup.com/Ember-js-Munich/events/173267762/"
+            -
+                title: Ember.js Seattle
+                description: "Hacker Sessions. 15th May, 6:30pm @ Urbanspoon, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/181150472/"
+            -
+                title: Ember.js Brussels
+                description: "15th May, 8:00pm @ Salle Azzar at Betacowork / ICAB, Brussels."
+                link: "http://www.meetup.com/Ember-js-Brussels/events/156072202/"
+            -
+                title: Ember-SC
+                description: "Hackfest at the Beach. 17th May, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/179988312/"
+            -
+                title: Ember.js Dublin
+                description: "May Meetup with Tom Dale and James Rosen. 20th May, 6:30pm @ Engine Yard Offices, Dublin."
+                link: "http://www.meetup.com/emberjsdublin/events/179186602/"
+            -
+                title: London Ember.js User Group
+                description: "21st May, 6:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/177646192/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

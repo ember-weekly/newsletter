@@ -1,0 +1,185 @@
+issue: 53
+strapline: "Your weekly source of Ember News"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: "Ember 1.6.0-beta.2"
+    #             description: "Includes several bug fixes."
+    #             link: https://github.com/emberjs/ember.js/blob/v1.6.0-beta.2/CHANGELOG.md
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 
+    
+
+    -
+        heading: "EmberConf 2014 Videos"
+        description: "The EmberConf videos have started to trickle on to the [Confreaks website](http://confreaks.com/events/emberconf2014). A big thanks to Dockyard & Tilde for getting them up so soon."
+        headlines:
+            -
+                title: "EmberConf 2014 Keynote - Tom Dale & Yehuda Katz"
+                description: "An update on the state of Ember, how you can think about most web applications as a series of screens and flows — and how Ember makes you super productive at building them."
+                link: http://confreaks.com/videos/3297-emberconf2014-keynote
+            -
+                title: "Using Ember to Make the Seemingly Impossible Easy - Heyjin Kim & Andre Malan"
+                description: "Covers techniques of using ``Ember.Component`` to encapsulate code and some other tips and hacks."
+                link: http://confreaks.com/videos/3298-emberconf2014-using-ember-to-make-the-seemingly-impossible-easy
+            -
+                title: "Contributing to Ember - Robert Jackson"
+                description: "An introduction on how to start contributing to Ember - covering feature flags, release cycle, commit prefixing and documentation."
+                link: http://confreaks.com/videos/3299-emberconf2014-contributing-to-ember-the-inside-scoop
+            -
+                title: "Ember Data and the Way Forward - Igor Terzic"
+                description: "Igor's discusses the state of Ember Data and the road to 1.0."
+                link: http://confreaks.com/videos/3300-emberconf2014-ember-data-and-the-way-forward
+            -
+                title: "No more `grunt watch`: Modern build workflows with Broccoli - Jo Liss"
+                description: "An introduction to Broccoli from it's creator, Jo Liss. Broccoli is the build tool of choice for Ember CLI."
+                link: http://confreaks.com/videos/3301-emberconf2014-no-more-grunt-watch-modern-build-workflows-with-broccoli
+    
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Building Your Own Ember App Kit Lite"
+                description: "Toran Billups steps through building a Gruntfile based on some of the features in Ember App Kit. He breaks it up into concatenation, template pre-compilation, ES6 modules, JSHint, watch + LiveReload, Testem, and deployment."
+                link: http://www.toranbillups.com/blog/archive/2014/04/06/Building-your-own-ember-app-kit-lite/
+            -
+                title: "My Migration to Ember.js"
+                description: "Cully Mason tells the story of how he landed on Ember as his framework of choice, convincing his team to switch."
+                link: https://medium.com/p/bf0c155f7cfb
+            -
+                title: "Ember Tricks"
+                description: "A new (early) website dedicated to code snippets for Ember."
+                link: http://www.ember-tricks.com/
+            -
+                title: "Ember.js Authentication - The Right Way"
+                description: "A walkthrough exhibiting a strategy to build user authentication into your Ember application. ([code](https://github.com/WebCloud/EmberJS-Auth-Example))"
+                link: http://webcloud.github.io/blog/2014/04/07/emberjs-authentication-the-right-way-javascript-version/
+            -
+                title: "Ghost Ember Re-write"
+                description: "Some interesting discussions on the Ghost GitHub issue tracker surrounding approaches for re-writing the Ghost Admin UI with Ember."
+                link: https://github.com/TryGhost/Ghost/issues?milestone=17
+            -
+                title: "Core Team Meeting Minutes - 2014/04/04"
+                description: ""
+                link: http://emberjs.com/blog/2014/04/05/core-team-meeting-minutes-2014-04-04.html
+
+
+    # -
+    #     heading: "Promoted"
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "{{ic-modal}}"
+                description: "WAI-ARIA accessible modal dialog component for Ember ([code](https://github.com/instructure/ic-modal)). Check out some of [Instructure other components](http://instructure.github.io/ic-ember/) including {{ic-droppable}}, {{ic-menu}}, and {{ic-tabs}}."
+                link: http://instructure.github.io/ic-modal/
+            -
+                title: "Ember CLI - New Website"
+                description: "Ember CLI now has a website thanks to Alex Navasardyan. [v0.0.23](http://iamstef.net/ember-cli/#changelog) is now available on npm."
+                link: http://iamstef.net/ember-cli/
+            -
+                title: "Ember Property Delegation"
+                description: "Plugin to delegate Ember properties in a very descriptive way, based on [Ruby delegate module](http://apidock.com/rails/Module/delegate)."
+                link: https://github.com/zzarcon/ember-delegations
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP14: Jeremy Mack"
+                description: "Jeremy Mack from SparkBox chats about his new Ember application - [fnd.io](https://fnd.io/), the development toolset he built with Brunch - tapas with Ember, and how he got started with Ember. ([show notes](https://gist.github.com/mutewinter/10259827))"
+                link: http://emberhotseat.com/2014/04/08/ember-hot-seat-episode-014.html
+            -
+                title: "Mastering Ember.js"
+                description: "A series of short videos introducing the core concepts of Ember."
+                link: https://www.youtube.com/playlist?list=PL0nNJgE19Y-js_1XHA5QdEU1ed_ldOaks
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+
+
+    -
+        heading: "Training"
+        # image: ""
+        advert: true
+        headlines:
+            -
+                title: "Advanced Ember.js training classes in SF, NYC and Chicago: registration now open!"
+                description: "Ember core team members Erik Bryn ([@ebryn](https://twitter.com/ebryn)) & Trek Glowacki ([@trek](https://twitter.com/trek)) are teaching two day advanced training classes in SF and Chicago. In NYC, Erik will be accompanied by Discourse co-founder Robin Ward."
+                link: http://prototypal.io
+                advert: true
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Ember.js Portland
+                description: "15th April, 7:30pm @ Tilde Inc, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/172437432/"
+            - 
+                title: Embernati
+                description: "16th April, 7:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/173955282/"
+            - 
+                title: Ember.js Seattle
+                description: "Hacker Sessions. 16th April, 7:30pm @ Urbanspoon, Seattle."
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/174851672/"
+            - 
+                title: London Ember.js User Group
+                description: "16th April, 7:30pm @ SapientNitro, London."
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/169917902/"
+            - 
+                title: Ember.js NYC
+                description: "Debugging Techniques & Lightning Talks. 16th April, 8:00pm @ Pivotal Labs, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/169199292/"
+            - 
+                title: Ember.js Saint Petersburg
+                description: "Ember.js start from zero party. 16th April, 8:00pm @ Saint Petersburg, Russia"
+                link: https://plus.google.com/102274210168727640530/posts
+            - 
+                title: Boston Ember.js Group
+                description: "17th April, 7:30pm @ Brightcove, Boston."
+                link: "http://www.meetup.com/Boston-Ember-js/events/168816912/"
+            - 
+                title: EmberMN
+                description: "EmberConf Recap. 17th April, 7:30pm."
+                link: "http://www.meetup.com/EmberMN/events/175019172/"
+            - 
+                title: Ember.js Philly
+                description: "17th April, 8:00pm @ Philadelphia."
+                link: "http://www.meetup.com/Emberjs-Philly/events/173190492/"
+            - 
+                title: Ember.js Pittsburgh
+                description: "Testing your Ember App. 17th April, 8:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/161140582/"
+            - 
+                title: Ember.js NYC
+                description: "Ghost Hacker with Harry Wolff. 21st April, 8:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/176158942/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: 

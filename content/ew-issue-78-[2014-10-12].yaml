@@ -1,0 +1,164 @@
+issue: 78
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.8 Beta 5 Available"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.8.0-beta.5
+            -
+                title: "Ember-Data v1.0.0 Beta 11 Available"
+                description: ""
+                link: https://github.com/emberjs/data/blob/v1.0.0-beta.11/CHANGELOG.md
+            -
+                title: "Ember-CLI v0.1.1 Released"
+                description: ""
+                link: https://github.com/stefanpenner/ember-cli/releases/tag/v0.1.1
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "A Simple Auto Expanding Textarea Component"
+                description: ""
+                link: http://ember.zone/a-simple-auto-expanding-textarea-component/
+            -
+                title: "Automatic Breadcrumbs In Ember.js"
+                description: ""
+                link: http://blog.salsify.com/engineering/automatic-breadcrumbs-in-ember.js
+            -
+                title: "Ember-CLI and Content Security Policy (CSP)"
+                description: ""
+                link: https://www.justinbull.ca/anchor/posts/ember-cli-and-content-security-policy-csp
+            -
+                title: "Ember Runloop Handbook - A Deep Dive Into The Ember Runloop"
+                description: ""
+                link: https://github.com/eoinkelly/ember-runloop-handbook
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-devtools - A Collection of Useful Ember.js Debugging Functions"
+                description: ""
+                link: https://github.com/aexmachina/ember-devtools
+            -
+                title: "ember-component-inbound-actions - Send Actions to Ember.js Components"
+                description: ""
+                link: https://github.com/GavinJoyce/ember-component-inbound-actions
+            -
+                title: "ember-cli-map - Google Maps & Yandex Maps Components"
+                description: ""
+                link: https://github.com/ember-admin/ember-cli-map
+            -
+                title: "Backbone Computed Properties - Ember Style Computed Properties in Your Backbone Models"
+                description: ""
+                link: https://github.com/skaterdav85/backbone-computed-properties
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "jQuery to Ember.js - Joe Heth"
+                description: ""
+                link: https://www.youtube.com/watch?v=ABO9FtyAwnw
+            -
+                title: "Zero to Real-Time Ember.js in 60 Seconds - Sunny Gleason"
+                description: ""
+                link: https://www.youtube.com/watch?v=snId_sxeweE#t=630
+            -
+                title: "Why Ember-CLI Matters - Brian Cardarella"
+                description: ""
+                link: https://www.youtube.com/watch?v=snId_sxeweE#t=2160
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Adelaide
+                description: "14th October, 6:00pm @ Hub Adelaide, Adelaide."
+                link: "http://www.meetup.com/Ember-js-Adelaide/events/211857392/"
+            -
+                title: Portland
+                description: "14th October, 6:30pm @ Puppet Labs, Portland."
+                link: "http://www.meetup.com/Ember-PDX/events/208307832/"
+            -
+                title: Vancouver
+                description: "14th & 21st October, 6:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/212325232/"
+            -
+                title: Cincinnati
+                description: "15th October, 6:00pm @ Gaslight, Cincinnati."
+                link: "http://www.meetup.com/EmberNati/events/212522962/"
+            -
+                title: Oslo
+                description: "15th October, 6:00pm @ Teknologihuset, Oslo."
+                link: "http://www.meetup.com/Ember-js-Oslo/events/184408452/"
+            -
+                title: New York
+                description: "16th October, 7:00pm @ SimpleReach, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/210579962/"
+            -
+                title: Pittsburgh
+                description: "16th October, 7:00pm @ Revv Oakland, Pittsburgh."
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/201295962/"
+            -
+                title: A Day in the Life of an Ember Developer - Yehuda Katz
+                description: "16th October, 8:00pm CDT, Online."
+                link: http://nomadjavascript.com/
+            -
+                title: Southern California
+                description: "18th October, 10:00am."
+                link: "http://www.meetup.com/Ember-SC/events/209882262/"
+            -
+                title: Denver
+                description: "20th October, 6:00pm @ Rally Software, Denver."
+                link: "http://www.meetup.com/Ember-js-Denver/events/212799252/"
+            -
+                title: Dallas
+                description: "20th October, 7:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/209907952/"
+            -
+                title: Atlanta
+                description: "21st October, 7:00pm"
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/211269472/"
+            -
+                title: Orlando
+                description: "21st October, 7:00pm @ IZEA, Orlando."
+                link: "http://www.meetup.com/Ember-js-Orlando/events/210465262/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

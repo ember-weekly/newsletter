@@ -1,0 +1,115 @@
+issue: 36
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.3.0 Beta 2 Available"
+                description: "Includes an [assortment of bug fixes](https://github.com/emberjs/ember.js/compare/v1.3.0-beta.1...v1.3.0-beta.2). Check out the [changelog](https://github.com/emberjs/ember.js/blob/v1.3.0-beta.2/CHANGELOG.md) for more details."
+                link: http://emberjs.com/builds/#/beta/latest
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Core Team Meeting Minutes - 2013/12/06"
+                description: "The core team have begun to record minutes from their weekly team meeting in the hope of improved transparency. Last weeks topics included transparency and the status of the HTMLBars library."
+                link: http://emberjs.com/blog/2013/12/07/core-team-meeting-minutes-2013-12-06.html
+            -
+                title: "router.js Architecture by Alex Matchneer"
+                description: "An overview of the architecture and approach to the router.js micro-library refactor. A nice resource for understanding how the Ember router works."
+                link: https://gist.github.com/machty/7698646
+            -
+                title: "Build an Ember.js App With Firebase"
+                description: "Balint Erdi walks through building an Ember application using Firebase and the official Firebase Ember bindings library, [EmberFire](https://github.com/firebase/emberFire)."
+                link: http://balinterdi.com/2013/12/11/build-an-ember-dot-js-app-with-firebase.html
+            -
+                title: "Embereños: Kasper Tidemann - Meemo"
+                description: "Weekly interviews with companies and people using Ember. This week's interview is with Kasper Tidemann, CTO at Meemo."
+                link: http://emberenos.com/interviews/2013/12/11/kasper-tidemann-meemo
+            -
+                title: "Paginated Collections with Ember.js + Solr + Rails"
+                description: ""
+                link: http://blog.crowdint.com/2013/12/10/paginated-collections-with-ember-js-solr-rails.html
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Template-less Components Follow-up with Kris Seldon"
+                description: "Kris follows up his [original talk](https://www.youtube.com/watch?v=tULySd8MvS4) on Ember template-less components with a walkthrough of three examples: Google Map, Fast Select, D3 input component. Recorded at the Seattle Meetup."
+                link: https://www.youtube.com/watch?v=1CwSwBQnYgU
+            -
+                title: "Ember CRM - Building an Ember App Video Series"
+                description: "David Adams walks through building an Ember and Ember-Data CRM application in this 7 part video series."
+                link: https://www.youtube.com/watch?v=WIlxQYTA0QY&feature=youtu.be
+            -
+                title: "Ember Reusable Components and Widgets"
+                description: "Sergey Bolshchikov discusses building complex UIs with Ember.js by combining Handlebars templates and Ember.View."
+                link: http://www.infoq.com/presentations/ember-view-handlebars-ui
+            -
+                title: "Stop Breaking the Web by Tom Dale from CascadiaJS 2013"
+                description: "Tom talks about URLs and how Ember is built around the URL."
+                link: https://www.youtube.com/watch?v=BQ6at0addi4
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Looking for an Ember Developer?"
+               description: "Deliver your job opening directly to developers with known interest in Ember.js development. Simply reply for more information about posting a job in Ember Weekly."
+               domain: emberweekly.com
+               link: mailto:info@emberweekly.com?Subject=Post%20a%20Job%20in%20Ember%20Weekly&Body=Title%3A%20e.g%20Senior%20Front-End%20Web%20Developer%0ABody%3A%20e.g.%20Want%20to%20work%20on%20large%20Ember.js%20projects%3F%20We%27re%20looking%20for%20a%20rockstar%20developer%20with%205%20years%20JavaScript%20experience%21%20%0Aurl%3A%20e.g.%20www.your-companies-website.com/careers%0A%0A%23%20weeks%3A%20How%20many%20weeks%20would%20you%20like%20the%20ad%20to%20be%20live%20for%3F%0ADate%3A%20When%20would%20you%20like%20the%20ad%20to%20go%20live%3F%0A%0ANotes%3A%20any%20other%20info%20you%27d%20like%20us%20to%20know...%3F%0ANote.%20There%20is%20a%20fee%20associated%20with%20advertising%20a%20job
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Paris Meetup"
+                description: "17th December, 7:00pm @ Mozilla Paris."
+                link: http://www.meetup.com/EmberJS-Paris/events/151943782/
+            -
+                title: "Cincinnati Meetup"
+                description: "18th December, 6:00pm @ Ahalogy."
+                link: http://www.meetup.com/EmberNati/events/152672722/
+            -
+                title: "Budapest, Hungary Meetup"
+                description: "18th December, 7:00pm @ Veddvelem iroda"
+                link: http://www.meetup.com/ember-bp/events/153784542/
+            -
+                title: "Boston OpenHack"
+                description: "19th December, 6:30pm @ DockYard."
+                link: http://www.meetup.com/Boston-Ember-js/events/154894722/
+
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "2 years ago Amber.js was announced"
+                description: "2 years ago this week Ember was first announced by Yehuda Katz. It was initially named Amber.js but was soon [changed to Ember.js](http://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/)."
+                link: http://yehudakatz.com/2011/12/08/announcing-amber-js/
+

@@ -1,0 +1,317 @@
+issue: 99
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI v0.2.0 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/0.2.0
+
+
+    -
+        heading: "EmberConf 2015 - Featured"
+        headlines:
+            -
+                title: "[Video] EmberConf 2015: Keynote - Tom Dale & Yehuda Katz"
+                description: "State of the union along with announcements of Ember 2.0 & Ember Data 1.0 (+ more) release dates, a special guest, and Glimmer - the new speedy rendering engine!"
+                link: http://confreaks.tv/videos/emberconf2015-opening-keynote
+            -
+                title: "EmberConf 2015 Summary by Lauren Tan"
+                description: "All the links from EmberConf 2015 you ever need - including slides, videos, photos, and related blog posts."
+                link: https://github.com/poteto/emberconf-2015
+            # -
+            #     title: "Building Applications for Custom Environments with Ember-CLI - Brittany Storoz"
+            #     description: ""
+            #     link: https://brittanystoroz.github.io/presentations/embercli-fxos/
+            # -
+            #     title: "Ambitious UX for Ambitious Apps - Lauren Tan"
+            #     description: ""
+            #     link: https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps?
+            # -
+            #     title: "The Art of Ember App Deployment - Luke Melia"
+            #     description: ""
+            #     link: https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment
+            # -
+            #     title: "Fault Tolerant UX - Dan Gebhardt"
+            #     description: ""
+            #     link: https://speakerdeck.com/dgeb/fault-tolerant-ux
+            # -
+            #     title: "Growing Ember, One Tomster at a Time - Jamie White"
+            #     description: ""
+            #     link: https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time
+            # -
+            #     title: "Bring Sanity to your Front-End Infrastructure with Ember.js - Sam Selikoff"
+            #     description: ""
+            #     link: http://www.slideshare.net/samselikoff/frontend-infrastructure
+            # -
+            #     title: "Interaction Design with Ember 2.0 and Polymer - Bryan Langslet"
+            #     description: ""
+            #     link: https://speakerdeck.com/blangslet/interaction-design-with-ember-2-dot-0-and-polymer
+            # -
+            #     title: "Hijacking Hacker News with Ember.js - Godfrey Chan"
+            #     description: ""
+            #     link: https://speakerdeck.com/chancancode/hijacking-hacker-news-with-ember-dot-js
+            # -
+            #     title: "Building Real-Time Applications in Ember.js - Steve Kinney"
+            #     description: ""
+            #     link: http://www.slideshare.net/stevekinney/building-realtime-applications-in-emberjs
+            # -
+            #     title: "Composing data visualizations in Ember - Chris Henn"
+            #     description: ""
+            #     link: https://speakerdeck.com/chnn/composing-data-visualizations-in-ember
+            # -
+            #     title: "Designing for Single Page Applications - Steve Trevathan"
+            #     description: ""
+            #     link: https://speakerdeck.com/kidfribble/designing-for-single-page-applications
+            # -
+            #     title: "Aligning Ember.js with Web Standards - Matthew Beale"
+            #     description: ""
+            #     link: http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015
+
+
+    -
+        heading: "EmberConf 2015 - Summaries"
+        headlines:
+            # -
+            #     title: "EmberConf 2015 Summary - Lauren Tan"
+            #     description: ""
+            #     link: https://github.com/poteto/emberconf-2015
+            -
+                title: "EmberConf Notes by John Otander"
+                description: ""
+                link: http://johnotander.com/emberconf2015-notes/
+            -
+                title: "EmberConf Notes by Kurt MacDonald"
+                description: ""
+                link: https://github.com/zurt/notes/blob/master/EmberConf-2015.markdown
+            -
+                title: "EmberConf Live Blog Day 1 by Bill Heaton"
+                description: ""
+                link: http://pixelhandler.com/posts/emberconf-2015-day-1
+            -
+                title: "EmberConf Live Blog Day 2 by Bill Heaton"
+                description: ""
+                link: http://pixelhandler.com/posts/emberconf-2015-day-2
+            -
+                title: "EmberConf Day 1 by Marin Abernethy (DockYard)"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/03/03/ember-conf.html
+            -
+                title: "EmberConf Day 2 by Marin Abernethy (DockYard)"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/03/04/ember-conf.html
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Is Ember Fast Yet?"
+                description: "Status page for the upcoming Glimmer rendering engine, with links to [demo](https://dbmonster.firebaseapp.com/) and [pull request](https://github.com/emberjs/ember.js/pull/10501)."
+                link: https://is-ember-fast-yet.firebaseapp.com/
+            -
+                title: "Ember.js Community Survey 2015 - Results!"
+                description: ""
+                link: http://www.201-created.com/ember-community-survey-2015
+            -
+                title: "Wicked Good Ember 2015 - Request for Speakers Open!"
+                description: ""
+                link: https://docs.google.com/forms/d/1d2-KVP3KxdOsrnvdBq5R8zlF2mFoVMafQRa_9i4IySQ/viewform
+            -
+                title: "Ember.js Guides - Now Versioned!"
+                description: ""
+                link: http://guides.emberjs.com/v1.10.0/
+            -
+                title: "Ember Observer: Hand-Curated, Rated, & Searchable List of Ember Addons"
+                description: ""
+                link: http://emberobserver.com/
+            # -
+            #     title: "Tools of the Trade: A free design pattern library for Ember applications"
+            #     description: ""
+            #     link: http://toolsofthetrade.dockyard.com/
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Adapter Patterns in Ember.js"
+                description: "Follow up post to Godfrey Chan's 'Hijacking Hacker News with Ember.js' EmberConf talk."
+                link: http://brewhouse.io/blog/2015/03/06/adapter-patterns-in-ember-js.html
+            -
+                title: "Aligning Ember.js with Web Standards"
+                description: "Follow up post to Matthew Beale's EmberConf talk."
+                link: http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015
+            -
+                title: "Building with Ember.js At Yahoo"
+                description: ""
+                link: https://www.talentbuddy.co/blog/building-with-ember-js-at-yahoo/
+            -
+                title: "Ember Authentication Tutorial with Ember Simple Auth"
+                description: ""
+                link: http://www.programwitherik.com/ember-simple-auth-torii-example-application/
+            -
+                title: "Rails to Ember - Tip #5: You Already Understand Models"
+                description: ""
+                link: http://fromrailstoember.com/5-you-already-understand-models/
+            -
+                title: "How Much Faster is HTMLBars Than Handlebars?"
+                description: ""
+                link: http://pixelhandler.com/posts/how-much-faster-is-htmlbars-than-handlebars
+            -
+                title: "A Bet on Web Components and Ember.Component Synchronicity"
+                description: ""
+                link: http://pixelhandler.com/posts/a-bet-on-web-components-and-embercomponent-synchronicity
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-component-css: Specify CSS Inside of Component Pod Directories"
+                description: ""
+                link: https://github.com/ebryn/ember-component-css
+            -
+                title: "ember-cli-deploy v0.4.0: Deployment Pipeline for Ember-CLI Apps"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli-deploy/releases/tag/v0.4.0
+            -
+                title: "ember-state-services: Enable Ember Services to Manage State for Consumers, Such as Components"
+                description: ""
+                link: https://www.npmjs.com/package/ember-state-services
+            -
+                title: "ember-cli-emscripten: Add Emscripten-Flavored C/C++ Code to Your Ember App!"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-emscripten
+            -
+                title: "broccoli-file-contents-to-json: Reads a Directory of Fiels, Outputs a JSON Representation of Their Contents"
+                description: ""
+                link: https://github.com/briangonzalez/broccoli-file-contents-to-json
+            -
+                title: "ember-credit-cards: Credit Card Utility Library, with Form Elements"
+                description: ""
+                link: https://www.npmjs.com/package/ember-credit-cards
+            -
+                title: "ember-cli-copyable: Deeply Copy Records Including Their Relations"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-copyable
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Ticketfly - Front-End Software Engineer - Build Apps Used by Millions of Musicians & Fans"
+    #            description: ""
+    #            link: "http://start.ticketfly.com/open-positions?jvi=oGLc0fwn,Job"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #4: EmberConf Recap"
+                description: ""
+                link: http://ember.land/episodes/4
+            -
+                title: "Frontside Podcast Ep 19: Origin Stories with Tom Dale and Alex Matchneer"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/19
+            -
+                title: "EmberGrep: Ember.js Videos to Get You Up and Running ($)"
+                description: "Save 25% until March 23rd with code: `emberweekly`"
+                link: https://embergrep.com/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver
+                description: "10th March, 7:30pm @ Code Core, Vancouver."
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/220911449/"
+            -
+                title: Atlanta
+                description: "10th March, 8:00pm @ Big Nerd Ranch, Atlanta."
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/220480176/"
+            -
+                title: Calgary
+                description: "11th March, 7:30pm @ Joyce on Fourth, Calgary."
+                link: "http://www.meetup.com/EmberJS-YYC/events/220884746/"
+            -
+                title: New York
+                description: "11th March, 8:00pm @ Movable Ink, New York."
+                link: "http://www.meetup.com/EmberJS-NYC/events/220808222/"
+            -
+                title: Ember Riverside Meetup
+                description: "11th March, 8:00pm."
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/220421290/"
+            -
+                title: Amsterdam
+                description: "11th March, 8:00pm."
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/219963212/"
+            -
+                title: San Diego
+                description: "11th March, 8:30pm @ EvoNexus, San Diego."
+                link: "http://www.meetup.com/sandiego-ember/events/220473901/"
+            -
+                title: "MelbJS - Melbourne"
+                description: "The Ember Developer Experience presented by Lauren Tan. 11th March, 6:00pm @ Aconex, Melbourne."
+                link: http://lanyrd.com/2015/melbjs-march/
+            -
+                title: Philadelphia
+                description: "12th March, 7:30pm @ PromptWorks, Philadelphia."
+                link: "http://www.meetup.com/EmberJS-Philly/events/220580903/"
+            -
+                title: Montevideo
+                description: "12th March, 8:30pm @ WyeWorks, Montevideo."
+                link: "http://www.meetup.com/ember-montevideo/events/220173532/"
+            -
+                title: São Paulo
+                description: "14th March, 4:00pm."
+                link: "http://www.meetup.com/ember-sp/events/220503461/"
+            -
+                title: Dallas
+                description: "16th March, 8:00pm @ SoftLayer, Dallas."
+                link: "http://www.meetup.com/Ember-Dallas/events/219922103/"
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Mastering Ember.js – 3-Day Workshop in Cincinnati ($)"
+                advert: true
+                description: "6-8th April. Save 10% with code: `emberweekly`"
+                link: https://ti.to/gaslight/mastering-emberjs

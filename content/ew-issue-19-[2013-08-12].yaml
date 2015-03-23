@@ -1,0 +1,119 @@
+issue: 19
+strapline: "Your weekly source of Ember News"
+content:
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Useful Ember Code Examples"
+                description: "A collection of JSBin, JSFiddle and example code, including Ember.Components, code snippets and tips."
+                link: http://coderberry.me/blog/2013/08/07/useful-ember-code-examples/
+            -
+                title: "Ember Data Roadmap Discussion"
+                description: "Yehuda Katz responds to questions on the future of Ember Data, highlighting the key areas the team are tackling in the [jj-abrams](https://github.com/emberjs/data/tree/jj-abrams) branch."
+                link: http://discuss.emberjs.com/t/future-planning-roadmap-of-ember-data/2116
+            -
+                title: "Ember Doc"
+                description: "Searchable Ember API Documentation."
+                link: http://ember-doc.com/
+            -
+                title: "Why Ember JS is a great framework for building web applications"
+                description: ""
+                link: http://stephen-young.me.uk/2013/08/11/why-ember-js-is-a-great-framework-for-building-web-applications.html
+            -
+                title: "Creating Computed Properties at Runtime"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2013/08/11/dyanamic-cp/
+            -
+                title: "Finding out when an array of records is fully loaded in Ember.js"
+                description: ""
+                link: http://www.kaspertidemann.com/finding-out-when-an-array-of-records-is-fully-loaded-in-ember-js/
+            -
+                title: "Interview: Yehuda Katz"
+                description: ""
+                link: http://webandphp.com/Interview%3AYehudaKatz-166083
+            -
+                title: "Ember and D3 - Building a simple dashboard"
+                description: ""
+                link: http://www.samselikoff.com/blog/2013/08/09/ember-d3-simple-dashboards/
+
+    -
+        heading: "Promoted"
+        image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Make your Ember.js website indexable by Google with just a copy/paste"
+                description: "Google can't read your Ember.js website. With BromBone it can. You don't have to setup PhantomJS. You don't have to duplicate code. Keep programming in the language you love without sacrificing SEO. We take care of the dirty work."
+                # image: "https://raw.github.com/owilliams/ember-weekly/master/newsletter/ads/media/brombone_logo.png"
+                link: http://www.brombone.com/
+                advert: true
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Hot Seat - EP9: Eric Berry"
+                description: "\"Eric's written some great blog posts recently and I wanted to get his unique view of Ember and highlight some of the work he's done. If you're looking at Ember or need an extra push diving into the platform, this is a great episode to listen to.\""
+                link: http://emberhotseat.com/2013/08/05/ember-hot-seat-episode-009.html
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Guides to ePub"
+                description: "Generate one ePUB for the Ember.js guides."
+                link: https://github.com/bazzel/ember-guides-to-epub
+            -
+                title: "Ember Persistence Foundation Example"
+                description: "Ember.js Persistence Foundation version (EPF) of the Ember Data Example ([demo](http://epf-example.herokuapp.com/))."
+                link: https://github.com/kiwiupover/epf_example
+            -
+                title: "Ember Performance"
+                description: "A suite of tests for EmberJS to help with performance."
+                link: https://github.com/eviltrout/ember-performance
+            -
+                title: "Karma Ember Preprocessor"
+                description: "A preprocessor for the popular JavaScript test runner."
+                link: http://karma-runner.github.io/0.10/plus/emberjs.html
+            -
+                title: "Colour Picker Component"
+                description: "A colour picker Ember.Component with [Spectrum.js](http://bgrins.github.io/spectrum/), by [Stanley Stuart](https://twitter.com/fivetanley)."
+                link: http://jsbin.com/umesob/2/edit
+            -
+                title: "CoffeeScript & Ember-Tools Example"
+                description: "Example of using grunt and ember-tools together with CoffeeScript."
+                link: https://github.com/fivetanley/coffee-ember-tools-example
+            -
+                title: "Ember CouchDB Kit"
+                description: "An Ember.js adapter for Apache CouchDB."
+                link: https://github.com/roundscope/ember-couchdb-kit
+            -
+                title: "Ember Uploader"
+                description: "An Ember library for uploading files."
+                link: https://github.com/benefitcloud/ember-uploader
+            -
+                title: "Parse Ember Model"
+                description: "Ember Model adapter for the Parse REST API."
+                link: https://github.com/robharper/parse-ember-model
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "NYC Hacker Hours"
+                description: "13th August, 6:00pm @ Red Rover."
+                link: http://www.meetup.com/EmberJS-NYC/events/131409582/
+            -
+                title: "Ember Fest"
+                description: "30th August in Munich, Germany. A dedicated Ember conference, preceded by 2 training days, for those looking to get in to Ember, and a hackathon."
+                link: http://emberfest.eu/
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: "GitHub Issues built with Ember"
+    #             description: "Github issues rebuilt as an ember app (WIP)."
+    #             link: https://github.com/southpolesteve/github-ember
