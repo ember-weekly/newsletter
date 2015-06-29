@@ -1,0 +1,186 @@
+issue: 108
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Glimmer's In Canary, Test Your Apps!"
+                description: ""
+                link: http://emberjs.com/blog/2015/05/05/glimmer-merging.html
+            -
+                title: "Ember 2.0 Training This Summer in the SF Bay Area, New York City, and Chicago"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. Registration now open!"
+                link: http://www.prototypal.io/
+
+
+    # -
+    #     heading: "Training"
+    #     headlines:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Animations in Ember.js with liquid-fire"
+                description: ""
+                link: https://www.airpair.com/javascript/posts/animations-in-emberjs-with-liquidfire
+            -
+                title: "RFC: Add Improved Actions"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/action/active/0000-improved-actions.md
+            -
+                title: "Creating a One-To-Many Relationship with Sails.js, Mongo and SANE-CLI"
+                description: ""
+                link: http://www.programwitherik.com/creating-a-one-to-many-relationship-with-sails-and-sane/
+            -
+                title: "Adding New Posts with Sails.js, Mongo and SANE-CLI"
+                description: ""
+                link: http://www.programwitherik.com/adding-new-posts-with-sails-js-mongo-and-sane-cli/
+            -
+                title: "Getting Started with WebSockets And Ember"
+                description: ""
+                link: http://www.programwitherik.com/getting-started-with-web-sockets-and-ember/
+            -
+                title: "fillIn Test Helper with Key Events"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/05/10/test-input-helper/
+            -
+                title: "Why Ember 2.0 is the Framework You Want to Use"
+                description: ""
+                link: http://saloon.io/why-ember-2-0-is-the-framework-you-want-to-use/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-htmlbars-inline-precompile: Use ES6 Template Strings to Precompile HTMLBars Templates"
+                description: ""
+                link: https://github.com/pangratz/ember-cli-htmlbars-inline-precompile#ember-cli-htmlbars-inline-precompile
+            -
+                title: "ember-cli-to-wp-theme: Combine Ember and a WordPress Backend"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-to-wp-theme
+            -
+                title: "ember-computed-polyfill: Polyfill the New Computed Property Syntax in Older Versions of Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-computed-polyfill
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #9: Landed a Small PR"
+                description: "Ember-qunit, improved actions, and a small PR that was named Glimmer."
+                link: http://ember.land/episodes/9
+            -
+                title: "An Overview of Ember Simple Auth by Its Author, Marco Otte-Witte"
+                description: ""
+                link: https://www.youtube.com/watch?v=QiRqIZAoWfE
+            -
+                title: "Using ember-cli-deploy to Deploy Ember Apps, with One of its Maintainers, Michael Klein"
+                description: ""
+                link: https://www.youtube.com/watch?v=jE8Kc8c107w
+            -
+                title: "Ember Screencasts #36: Blueprint Basics [Part 1] - Generating Files"
+                description: "Plus a [new Pro video covering Blueprint Basics Part 2](http://www.emberscreencasts.com/posts/37-blueprint-basics-pt-2-custom-variables-editing-files-and-exploring-the-unknown) ($) ."
+                link: http://www.emberscreencasts.com/posts/36-blueprint-basics-pt-1-generating-files
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madrid - 11th May
+                link: "http://www.meetup.com/Ember-js-Madrid/events/222382356/"
+            -
+                title: Atlanta - 12th May
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/221443331/"
+            -
+                title: Paris - 12th May
+                link: "http://www.meetup.com/EmberJS-Paris/events/222111105/"
+            -
+                title: San Diego - 13th May
+                link: "http://www.meetup.com/sandiego-ember/events/221213035/"
+            -
+                title: Seattle - 13th May
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/222060502/"
+            -
+                title: Portland - 13th May
+                link: "http://www.meetup.com/Ember-PDX/events/221268087/"
+            -
+                title: London - 14th May
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221220636/"
+            -
+                title: Boston - 14th May
+                link: "http://www.meetup.com/Boston-Ember-js/events/221752373/"
+            -
+                title: Montevideo - 14th May
+                link: "http://www.meetup.com/ember-montevideo/events/221927678/"
+            -
+                title: Saint Louis - 18th May
+                link: "http://www.meetup.com/STLEmber/events/220981322/"
+            -
+                title: Dallas - 18th May
+                link: "http://www.meetup.com/Ember-Dallas/events/221588531/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

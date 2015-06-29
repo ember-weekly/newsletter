@@ -1,146 +1,155 @@
-# issue: 10
-# strapline: "Your weekly source of Ember news"
-# content:
+issue: 11
+strapline: "Your weekly source of Ember news"
+content:
 
-    # -
-    #     heading: "Releases"
-    #     headlines:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: ""
+                description: ""
+                link:
 
-    ## -
-    ##     heading: "Featured"
-    ##     headlines:
-    ##         -
-    ##             title: ""
-    ##             description: ""
-    ##             link:
-
-
-    # -
-    #     heading: "Reading"
-    #     headlines:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: "Ember 2.0 Training with Erik Bryn - New SF class in July!"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. A new SF class has just been announced. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
 
 
-    ## -
-    ##     heading: "From our sponsors"
-    ##     newsletterAd: true
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+
 
     # -
     #     heading: "From our sponsors"
-    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+
+
+    # -
+    #     heading: "Jobs"
     #     advert: true
     #     headlines:
     #         -
-    #             title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
-    #             description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
-    #             link: http://dockyard.com/contact
-    #             advert: true
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: "Ember Weekend Podcast #1X: XXX"
+                description: ""
+                link:
+            -
+                title: "Ember Land #1X: XXX"
+                description: ""
+                link:
+            -
+                title: "Ember Screencasts #5X: XXX (Xmins)"
+                description: "Plus a [new Pro video covering XXX](  ) ($) ."
+                link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: ""
+                description: ""
+                link:
+
 
     # -
-    #     heading: "Code"
+    #     heading: "Finally"
     #     headlines:
     #         -
     #             title: ""
     #             description: ""
     #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-
-
-    ## -
-    ##     heading: "Jobs"
-    ##     advert: true
-    ##     headlines:
-    ##         -
-    ##            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
-    ##            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
-    ##            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
-
-
-
-    # -
-    #     heading: "Watch/Listen"
-    #     headlines:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-
-
-    # -
-    #     heading: "Events"
-    #     headlines:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:
-
-
-    ## -
-    ##     heading: "Finally"
-    ##     headlines:
-    ##         -
-    ##             title: ""
-    ##             description: ""
-    ##             link:

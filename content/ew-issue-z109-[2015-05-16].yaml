@@ -1,0 +1,214 @@
+issue: 109
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.12 and 1.13 Beta (Glimmer!) Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/05/13/ember-1-12-released.html
+            -
+                title: "Ember Inspector 1.8.0 Released"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/blob/4db70f7aef2151044784fd01e031006679f6aaee/CHANGELOG.md#ember-inspector-180
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "The Transition to Ember 2.0 in Detail"
+                description: ""
+                link: http://emberjs.com/blog/2015/05/10/run-up-to-two-oh.html
+            -
+                title: "RFC: Stateful Helpers"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/improved-helpers/active/0000-stateful-helpers.md
+            -
+                title: "Ember 2.0 Training This Summer in the SF Bay Area, New York City, and Chicago"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. Registration now open!"
+                link: http://www.prototypal.io/
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js: An Antidote To Your Hype Fatigue"
+                description: ""
+                link: http://brewhouse.io/blog/2015/05/13/emberjs-an-antidote-to-your-hype-fatigue.html
+            -
+                title: "Previewing Ember 2.0 on Canary"
+                description: ""
+                link: http://madhatted.com/2015/5/14/ember-js-2-0-preview-with-canary
+            -
+                title: "Using the Page Object Pattern with Ember-Cli"
+                description: ""
+                link: http://wyeworks.com/blog/2015/5/13/using-the-page-object-pattern-with-ember-cli/
+            -
+                title: "Rails to Ember - Tip #10: Take Time to Understand Promises"
+                description: ""
+                link: http://fromrailstoember.com/10-take-time-to-understand-promises/
+            -
+                title: "Rails to Ember - Tip #11: Know How to CRUD"
+                description: ""
+                link: http://fromrailstoember.com/11-know-how-to-crud/
+            -
+                title: "Proposal for Ember-I18n v4"
+                description: ""
+                link: https://github.com/jamesarosen/ember-i18n/pull/211
+            -
+                title: "Acceptance Testing in Ember-CLI, an Introduction"
+                description: ""
+                link: http://mariogintili.svbtle.com/acceptance-testing-ember-cli
+            -
+                title: "Improving Ember-CLI Testing with Sinon.js"
+                description: ""
+                link: http://spin.atomicobject.com/2015/05/18/sinon-js-ember-cli-testing/
+            -
+                title: "Upgrading to ember-qunit 0.3.2"
+                description: ""
+                link: https://gist.github.com/jamesarosen/a0e7639ad403925e78f5
+            -
+                title: "Cleaning up After Components in Ember"
+                description: ""
+                link: https://medium.com/@chrisdmasters/cleaning-up-after-components-in-ember-js-73bbf0f16add
+            -
+                title: "10 Ember Resources You Must Check Out"
+                description: ""
+                link: https://netguru.co/blog/emberjs-resources
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-skeleton: Show Temporary Images in Place Loading Images"
+                description: ""
+                link: https://www.npmjs.com/package/ember-skeleton
+            -
+                title: "ember-infinity: Simple, Flexible Infinite Scroll for Ember-CLI Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-infinity
+            -
+                title: "Spree Ember - A Collection of Addons for Building Spree eCommerce Sites"
+                description: ""
+                link: http://www.spree-ember.com/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js: An Antidote to Your Hype Fatigue - Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=ASxwoyg40L4
+            -
+                title: "Ember Weekend Podcast #8: The Most Private of All APIs"
+                description: "Also out - [Ember Weekend Podcast #9: Interview with the Emberokai (Paul Elliott - Heroku](https://emberweekend.com/episodes/interview-with-the-emberokai)"
+                link: https://emberweekend.com/episodes/the-most-private-of-all-apis
+            -
+                title: "An Introduction to Ember.js - Jamie White"
+                description: ""
+                link: https://skillsmatter.com/skillscasts/6362-an-introduction-to-ember-js
+            -
+                title: "Monitor Your Ember App in Production - Pedro Checkos"
+                description: ""
+                link: https://www.youtube.com/watch?v=JC0mlBX3CxA
+            -
+                title: "Ember-CLI Addons - Gordon Plotter"
+                description: ""
+                link: https://www.youtube.com/watch?v=q7OHEh8buj8
+            -
+                title: "Ember-CLI In-Repo Addons - Jacob Bixby"
+                description: ""
+                link: https://www.youtube.com/watch?v=VYrMs1Zzpqs
+            -
+                title: "Boston Ember - May 2015"
+                description: "What to expect from NPM v3, lessons learned building a large-scale Ember app, Ember 2.0 Progress, ntegrating Elastic Search into an Ember app"
+                link: https://www.youtube.com/watch?v=9I2KgK2mYGM
+            -
+                title: "Between Screens Podcast: Interview with Tom Dale - Part 5"
+                description: "Ember pros/cons, Conventions, Hype fatigue, Release cycle, FastBoot, Ember’s future, Backends, Testing, RSpec/Capybara"
+                link: http://betweenscreens.fm/episodes/108
+            -
+                title: "Ember Screencasts #38: ES2015 - Functions minus 'function'"
+                description: "Plus a [new Pro video covering Ember.get](http://www.emberscreencasts.com/posts/39-emberget) ($) ."
+                link: http://www.emberscreencasts.com/posts/38-es2015-functions-minus-function
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis - 18th May
+                link: "http://www.meetup.com/STLEmber/events/220981322/"
+            -
+                title: Dallas - 18th May
+                link: "http://www.meetup.com/Ember-Dallas/events/221588531/"
+            -
+                title: Irvine - 19th May
+                link: "http://www.meetup.com/Ember-SC/events/222499309/"
+            -
+                title: Amsterdam - 19th May
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/222419007/"
+            -
+                title: Adelaide - 19th May
+                link: "http://www.meetup.com/adelaidejs/events/222450889/"
+            -
+                title: Cincinnati - 20th May
+                link: "http://www.meetup.com/EmberNati/events/221897767/"
+            -
+                title: Ann Arbor - 20th May
+                link: "http://www.meetup.com/Ember-A2D/events/221996637/"
+            -
+                title: London - 21st May
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221220708/"
+            -
+                title: Pittsburgh - 21st May
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/222068035/"
+            -
+                title: Jacksonville Beach - 21st May
+                link: "http://www.meetup.com/EmberJax/events/221300378/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

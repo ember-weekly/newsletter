@@ -1,0 +1,209 @@
+issue: 112
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Data 1.0.0 Beta 19 Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/06/05/ember-data-1-0-beta-19-released.html
+            -
+                title: "Ember-CLI v0.2.7 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.2.7
+            -
+                title: "JSON API 1.0"
+                description: ""
+                link: http://www.cerebris.com/blog/2015/06/04/jsonapi-1-0/
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "The 8 Most Common Ember.js Developer Mistakes"
+                description: ""
+                link: http://www.toptal.com/emberjs/the-8-most-common-ember-js-developer-mistakes
+            -
+                title: "Ember.js Workshop in Munich, July 22nd-24th"
+                advert: true
+                description: "Three day workshop in Munich, taking participants through building a full Ember.js application."
+                link: http://ember-workshop.simplabs.com
+            -
+                title: "Ember 2.0 Training with Erik Bryn"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. SF class has sold out, but a waiting list is available. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rails to Ember: Tip #12 - You Don't Need CoffeeScript"
+                description: ""
+                link: http://fromrailstoember.com/12-you-dont-need-coffeescript/
+            -
+                title: "Declarative Breadcrumb Navigation in Ember"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/declarative-breadcrumb-navigation-in-ember-js-5908a92a5de3
+            -
+                title: "Using WebWorkers to Bring Native App Best Practices to JavaScript SPAs"
+                description: "Also see [accompanying video below](https://www.youtube.com/watch?v=v6e5gNfYBnk)."
+                link: http://blog.runspired.com/2015/06/05/using-webworkers-to-bring-native-app-best-practices-to-javascript-spas/
+            -
+                title: "Testing In Ember - Part 3: Mock Data With ember-cli-mirage"
+                description: ""
+                link: https://blogs.library.ucsf.edu/ckm/2015/05/27/testing-in-ember-js-part-3-mock-data-with-ember-cli-mirage/
+            -
+                title: "Deploy Your Ember Application To Heroku"
+                description: ""
+                link: http://www.programwitherik.com/deploy-your-ember-application-to-heroku/
+            -
+                title: "A Beginners Guide On Building Your Ember Project"
+                description: ""
+                link: http://www.programwitherik.com/how-to-build-using-ember/
+            -
+                title: "Google Spreadsheets On Ember"
+                description: ""
+                link: http://www.foraker.com/blog/google-spreadsheets-on-ember
+            -
+                title: "Understanding the Ember Run Loop"
+                description: ""
+                link: http://www.monsoonco.com/forrest-thomas-writes-about-the-ember-run-loop-on-emberflare-com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/ember-consulting)!"
+                link: http://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-orientation: Idiomatically Mobile Device Orientation Changes"
+                description: ""
+                link: https://www.npmjs.com/package/ember-orientation
+            -
+                title: "ember-fullscreen: Fullscreen API Packaged as an Ember Service"
+                description: ""
+                link: https://www.npmjs.com/package/ember-fullscreen
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Plans for Ember 2.0 - Erik Bryn"
+                description: ""
+                link: https://www.youtube.com/watch?v=QQra2wm8B_A
+            -
+                title: "Fiddling with Ember CLI, Ember Twiddle - Joost de Vries"
+                description: ""
+                link: https://www.youtube.com/watch?v=OgqTHCNa5R0
+            -
+                title: "Ember Mobile Web Dev - Alex Matchneer"
+                description: ""
+                link: https://www.youtube.com/watch?v=E6UuqZEkOHQ
+            -
+                title: "Using WebWorkers to Bring Native App Best Practices to JavaScript SPAs - Chris Thoburn"
+                description: "Also see [accompanying article above](http://blog.runspired.com/2015/06/05/using-webworkers-to-bring-native-app-best-practices-to-javascript-spas/)."
+                link: https://www.youtube.com/watch?v=v6e5gNfYBnk
+            -
+                title: "Interactive Testing with Ember - Chris Watts"
+                description: ""
+                link: https://www.youtube.com/watch?v=JGQ7F4pP61A
+            -
+                title: "An Antidote To Your Hype Fatigue - Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=cvhAqyBUtgU
+            -
+                title: "Ember Screencasts #44: ES2015 Template Strings (2m40s)"
+                description: "Plus a [new Pro video covering Custom Test Helpers in Ember-CLI](https://www.emberscreencasts.com/posts/custom-test-helpers-in-ember-cli) ($) ."
+                link: https://www.emberscreencasts.com/posts/es2015-template-strings
+            -
+                title: "Ember Land #11: Rob's Heading to Vegas!"
+                description: ""
+                link: http://ember.land/episodes/11
+            -
+                title: "Frontside Podcast: Getting to Ember 2.0 With Matthew Beale"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/25
+            -
+                title: "Ember Weekend Podcast #11: E3r W5d with R4t D4a"
+                description: ""
+                link: https://emberweekend.com/episodes/e3r-w5d-with-r4t-d4a
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Juan - 8th June
+                link: "http://www.meetup.com/Ember-PR/events/222812253/"
+            -
+                title: Atlanta - 9th June
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/222536366/"
+            -
+                title: Los Gatos - 10th June
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/222228423/"
+            -
+                title: San Diego - 10th June
+                link: "http://www.meetup.com/sandiego-ember/events/222892111/"
+            -
+                title: Seattle - 10th June
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/222607115/"
+            -
+                title: London - 11th June
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221220654/"
+            -
+                title: Boston - 11th June
+                link: "http://www.meetup.com/Boston-Ember-js/events/222484812/"
+            -
+                title: Montevideo - 11th June
+                link: "http://www.meetup.com/ember-montevideo/events/221983254/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 
     ////////////////////////////////////////////////////////////////////////
 
-    var newsletterYaml = newsletterDir + 'ew-issue-z101-[2015-03-22].yaml';
+    var newsletterYaml = newsletterDir + 'ew-issue-z115-[2015-06-28].yaml';
 
     ////////////////////////////////////////////////////////////////////////
 
@@ -24,7 +24,32 @@ module.exports = function (grunt) {
         }
     });
 
-    grunt.renameTask('regarde', 'watch');
+    // grunt.renameTask('regarde', 'watch');
+
+
+    grunt.registerTask('new', function (issueNum) {
+        var moment = require('moment');
+        var templatePath = templateDir + 'template.yaml';
+
+        var today = new Date();
+        var date = moment().format('YYYY-MM-DD');
+
+        if (!issueNum){
+            if (!grunt.option.issueNum){
+                grunt.fail.fatal('\nNo issue number passed!\n [][]' + grunt.option.issueNum);
+            }else{
+                grunt.option.issueNum++;
+            }
+        }else{
+            grunt.option.issueNum = issueNum;
+        }
+
+        var destinationPath = newsletterDir + 'ew-issue-z' + grunt.option.issueNum + '-[' + date + '].yaml';
+
+        grunt.log.write('\ncreating new issue at ' + destinationPath + '...\n');
+
+        grunt.file.copy(templatePath, destinationPath);
+    });
 
     //TODO: This is soooooo bad! Don't look at it!
     grunt.registerTask('news', function (arg1) {

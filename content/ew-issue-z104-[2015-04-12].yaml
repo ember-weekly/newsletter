@@ -1,0 +1,204 @@
+issue: 104
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember-CLI 0.2.3 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.2.3
+
+    -
+        heading: "Featured"
+        # image: ""
+        headlines:
+            -
+                title: "ES Weekly - Keep Up To Date with New ES6 Features"
+                description: "Stay up to date with the changes in JavaScript with my new newsletter."
+                link: http://esweekly.com
+            -
+                title: "Wicked Good Ember 2015 - Request for Speakers Open!"
+                description: ""
+                link: https://docs.google.com/forms/d/1d2-KVP3KxdOsrnvdBq5R8zlF2mFoVMafQRa_9i4IySQ/viewform
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rails to Ember: Tip #8 - Debugging & the Ember Inspector"
+                description: ""
+                link: http://fromrailstoember.com/8-debugging-and-the-ember-inspector/
+            -
+                title: "How To Setup Your Ember Project With Node or io.js And Express"
+                description: ""
+                link: http://www.programwitherik.com/setup-your-ember-project-with-node/
+            -
+                title: "How To Setup Your Ember Project With Mongo and Node"
+                description: ""
+                link: http://www.programwitherik.com/how-to-setup-your-ember-project-with-mongo-and-node/
+            -
+                title: "Passing Block Params From a Component"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/04/09/block-params/
+            -
+                title: "Observers the Root of All Evil"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/04/07/observables-evil/
+            -
+                title: "Building a Real Time Application with Express, Socket.io, and Ember"
+                description: ""
+                link: http://www.hutchinson.io/building-a-real-time-application-with-express-socketio-and-ember/
+            -
+                title: "Ember and Sails.js: Getting Started"
+                description: ""
+                link: http://www.hutchinson.io/ember-and-sails-js-getting-started/
+            -
+                title: "A List of Open Source Ember Applications"
+                description: ""
+                link: http://iheanyi.com/blog/a-list-of-open-source-emberjs-projects/
+            -
+                title: "Ember Reading Group"
+                description: ""
+                link: http://www.foraker.com/ember-reading-group/
+            -
+                title: "Broccoli: The Build Tool, Not the Vegetable"
+                description: ""
+                link: http://hashrocket.com/blog/posts/broccoli-the-build-tool-not-the-vegetable
+            -
+                title: "A Brief History of Time: The Ember Run Loop in Short"
+                description: ""
+                link: http://www.peterfessel.com/2015/04/a-brief-history-of-time-the-ember-run-loop-in-short/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "hbars - Haml-like Syntax Transpiler for HTMLBars Templates"
+                description: ""
+                link: http://www.hbars.io/
+            -
+                title: "ember-watson v0.3.0 Released: Automatically Migrate Away From Prototype Extensions"
+                description: ""
+                link: https://github.com/abuiles/ember-watson/releases/tag/0.3.0
+            -
+                title: "Ember Giftwrap - A Tool for Packaging Ember Addons"
+                description: ""
+                link: https://github.com/ef4/ember-giftwrap
+            -
+                title: "smoke-and-mirrors: Collection of Performance Minded Views, Mixins, and Components"
+                description: ""
+                link: https://www.npmjs.com/package/smoke-and-mirrors
+            -
+                title: "ember-material-design: Ember Implementation of Google's Material Design"
+                description: ""
+                link: https://github.com/mike1o1/ember-material-design
+            -
+                title: "ember-cli-pace: Pace.js Load Progress Bar for Ember Apps"
+                description: ""
+                link: https://github.com/vectart/ember-cli-pace
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Red Spartan - Ember Front End Developer - Help develop our product with Ember & Django (Remote)"
+               description: ""
+               link: "http://jobs.redspartan.com.au/emberjobadd"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #7: 62 days"
+                description: "With Estelle DeBlois, IE 8 Support, FastBoot, ember-cli-node-webkit, Full Integration Testing, and Handlebars Whitespace Control."
+                link: http://ember.land/episodes/7
+            -
+                title: "Frontside Podcast Ep 23: Ember Islands with Mitch Lloyd"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/23
+            -
+                title: "Ember Weekend Podcast #3: Broccoli, But Not the Vegetable"
+                description: ""
+                link: https://emberweekend.com/episodes/broccoli-but-not-the-vegetable
+            -
+                title: "A Comparision of Glimmer and React by Tom Dale & Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=msS-3zqKKUI&t=51m30s
+            -
+                title: "Off-The-Shelf Productivity & Real-Time with Firebase - Brendan O'Hara"
+                description: ""
+                link: https://www.youtube.com/watch?v=msS-3zqKKUI
+            -
+                title: "Between Screens Podcast: Interview with Tom Dale - Part 3"
+                description: "MVC in Ember, Ember Container, Ember Router, Backbone use cases, StateManager, Angular.js, Complexity budget, and Island of richness"
+                link: http://betweenscreens.fm/episodes/88
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco - 14th April
+                link: "http://www.meetup.com/Ember-SF/events/221266437/"
+            -
+                title: Atlanta - 14th April
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/220743220/"
+            -
+                title: Seattle - 15th April
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220935582/"
+            -
+                title: Saint Louis - 15th April
+                link: "http://www.meetup.com/STLEmber/events/220981322/"
+            -
+                title: Cincinnati - 15th April
+                link: "http://www.meetup.com/EmberNati/events/221628649/"
+            -
+                title: Pittsburgh - 16th April
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/221732370/"
+            -
+                title: Ann Arbor - 16th April
+                link: "http://www.meetup.com/Ember-A2D/events/221304339/"
+            -
+                title: Dallas - 20th April
+                link: "http://www.meetup.com/Ember-Dallas/events/221588778/"
+
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

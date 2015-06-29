@@ -1,0 +1,192 @@
+issue: 110
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember Data v1.0.0 Beta 17/18 Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/05/21/ember-data-1-0-beta-18-released.html
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Another Ember 2.x Status Update"
+                description: ""
+                link: http://emberjs.com/blog/2015/05/24/another-two-oh-status-update.html
+            -
+                title: "Wicked Good Ember 2015 Conference"
+                advert: true
+                description: "More dorm rooms (shared) now available! 16th June, Thompson Island, Boston"
+                link: http://wickedgoodember.com/
+            -
+                title: "Ember 2.0 Training with Erik Bryn"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. SF and Chicago classes are almost sold out. Registration for the NYC class has just opened!"
+                link: http://www.prototypal.io/
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "RFC: Refining the Release Process"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/two-dot-x-improvements/active/0000-improved-release-cycle.md
+            -
+                title: "RFC: Component Unification (Angle Brackets)"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/angle-bracket-components/active/0000-component-unification.md
+            -
+                title: "RFC: Reference Unification"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/ember-data-reference-unification/active/0000-ember-data-reference-unification.md
+            -
+                title: "Deploy Ember to S3 and CloudFront"
+                description: ""
+                link: https://medium.com/@elbuo8/deploy-ember-to-s3-and-cloudfront-f950bc934a94
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-tether: Tether an Element to Another Element in the DOM"
+                description: ""
+                link: https://github.com/yapplabs/ember-tether
+            -
+                title: "ember-crumbly: Declarative Breadcrumb Navigation for Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-crumbly
+            -
+                title: "November: Generate a Simple Node API Tailored for Ember Apps Using Express and Sequelize"
+                description: ""
+                link: https://github.com/t4t5/november-cli
+            -
+                title: "ember-plaid: Securely Integrate with Plaid's Banking Data API"
+                description: ""
+                link: https://github.com/jasonkriss/ember-plaid
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Screencasts #40: Class Inheritance (3mins)"
+                description: "Plus a [new Pro video covering Ember Mixins (2mins)](http://www.emberscreencasts.com/posts/41-mixins) ($) ."
+                link: http://www.emberscreencasts.com/posts/40-class-inheritance
+            -
+                title: "Ember Weekend Podcast #10: Do Your Job, Test the Betas"
+                description: ""
+                link: http://ember.land/episodes/10
+            -
+                title: "Testing in Ember with Sam Selikoff"
+                description: ""
+                link: https://www.youtube.com/watch?v=xKG0uh8ZVEY
+            -
+                title: "Intro to Ember, Building a Basic Twitter App - Steve Tyler"
+                description: ""
+                link: https://vimeo.com/128728112
+            -
+                title: "Taming Content Editable with Ember - Gavin Joyce"
+                description: ""
+                link: https://vimeo.com/128728111
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Budapest - 26th May
+                link: "http://www.meetup.com/ember-bp/events/222291304/"
+            -
+                title: Santa Monica - 27th May
+                link: "http://www.meetup.com/Ember-SC/events/222657075/"
+            -
+                title: Denver - 27th May
+                link: "http://www.meetup.com/Ember-js-Denver/events/222388077/"
+            -
+                title: Brussels - 27th May
+                link: "http://www.meetup.com/Ember-js-Belgium/events/222231084/"
+            -
+                title: New York - 28th May
+                link: "http://www.meetup.com/EmberJS-NYC/events/222013516/"
+            -
+                title: Seattle - 28th May
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/222195632/"
+            -
+                title: Austin - 28th May
+                link: "http://www.meetup.com/Ember-ATX/events/221836037/"
+            -
+                title: Jacksonville Beach - 28th May
+                link: "http://www.meetup.com/EmberJax/events/221300378/"
+            -
+                title: Houston - 28th May
+                link: "http://www.meetup.com/EmberJS-Houston/events/222415643/"
+            -
+                title: Dublin - 1st June
+                link: "http://www.meetup.com/ember-columbus/events/222044891/"
+            -
+                title: New York - 1st June
+                link: "http://www.meetup.com/EmberJS-NYC/events/222673435/"
+            -
+                title: Saint Louis - 1st June
+                link: "http://www.meetup.com/STLEmber/events/222471903/"
+            -
+                title: Indianapolis - 2nd June
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/222690874/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

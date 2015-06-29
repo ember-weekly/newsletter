@@ -1,0 +1,228 @@
+issue: 102
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.11.0 and 1.12 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/03/27/ember-1-11-0-released.html
+            -
+                title: "Ember Data 1.0.0 Beta 16 Released"
+                description: "Note that [Beta 16.1 was also released](http://emberjs.com/blog/2015/03/24/ember-data-1-0-beta-16-1-released.html) to fix regressions."
+                link: http://emberjs.com/blog/2015/03/23/ember-data-1-0-beta-16-released.html
+            -
+                title: "Ember-CLI 0.2.2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v0.2.2
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Services and Dependency Injection"
+                description: ""
+                link: http://hutchinson.io/ember-services-and-dependency-injection/
+            -
+                title: "Orangizing an Ember.js App with the Awesome {{component}} Helper"
+                description: ""
+                link: http://spin.atomicobject.com/2015/03/26/emberjs-dynamically-render-components/
+            -
+                title: "Rails to Ember: Tip #7 - Feel at Home with Ember-CLI"
+                description: ""
+                link: http://fromrailstoember.com/7-feel-at-home-with-ember-cli/
+            -
+                title: "Rubyists Guide to Ember.js Dependencies"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/03/24/rubyists-guide-to-ember-dependencies.html
+            -
+                title: "Removing Prototype Extensions with Ember-Watson"
+                description: ""
+                link: http://blog.abuiles.com/blog/2015/03/30/removing-prototype-extensions-with-ember-watson/
+            -
+                title: "Bringing Ember to the Desktop with NW.js"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/03/26/bringing-ember-to-the-desktop-part.html
+            -
+                title: "Heroku, Ember-CLI and Safe OAuth2 From the Browser"
+                description: ""
+                link: http://thau.me/2015/03/ember-cli-and-safe-oauth2-from-the-browser/
+            -
+                title: "HATEOAS with Ember Data"
+                description: ""
+                link: https://robots.thoughtbot.com/hateoas-with-ember-data
+            -
+                title: "Migrating a CoffeeScript Ember Application to Ember-CLI"
+                description: ""
+                link: http://benlimmer.com/2015/03/23/coffeescript-to-ember-cli/
+            -
+                title: "Building an Infinite Scroll Ember-CLI Addon"
+                description: ""
+                link: http://blog.jasonkriss.com/building-an-infinite-scroll-ember-cli-addon/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-try: Test Against Multiple Versions ofEmber, Ember-Data, and Other Dependencies"
+                description: ""
+                link: http://emberobserver.com/addons/ember-try
+            -
+                title: "ember-modal-dialog: Addon for Implementing Modal Dialogs"
+                description: ""
+                link: https://www.npmjs.com/package/ember-modal-dialog
+            -
+                title: "ember-cli-server-variables: Insert Meta Tag Server Variables Into an Ember-CLI App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-server-variables
+            -
+                title: "ember-cli-indexeddb-wrapper: Thin Wrapper Around IndexedDB"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-indexeddb-wrapper
+            -
+                title: "ember-youtube-data-model: Ember Data Adapters, Serializers, and Model for the YouTube API"
+                description: ""
+                link: https://www.npmjs.com/package/ember-youtube-data-model
+            -
+                title: "ember-cli-flash v1.0.0 Released: Simple Flash Messages for Ember-CLI"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-flash
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Riders Discount - Frontend Software Engineer - Build Internal Ember/Django Apps. In-house or Remote."
+               description: ""
+               link: "http://jobs.emberjs.com/jobs/31425-frontend-software-engineer-at-riders-discount"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #6: Ember 1.11 Came Out On Time, Oh Wait, No It Didn't"
+                description: ""
+                link: http://ember.land/episodes/6
+            -
+                title: "Frontside Podcast Ep 22: Deploy to the Future with Luke Melia"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/22
+            -
+                title: "Ember Weekend Podcast #1: Our First Foray"
+                description: "Also [Episode #2: The Weekend Strikes Back](https://emberweekend.firebaseapp.com/episodes/the-weekend-strikes-back)"
+                link: https://emberweekend.firebaseapp.com/episodes/our-first-foray
+            -
+                title: "Between Screens Podcast: Interview with Tom Dale - Part 2"
+                description: ""
+                link: http://betweenscreens.fm/episodes/80
+            -
+                title: "Ask Tom & Yehuda: How Do You Build a Robust Open Source Project?"
+                description: ""
+                link: https://www.youtube.com/watch?v=RdL1TfkFICs
+            -
+                title: "Space-age File Picking and Conversion with Ember and Filepicker - Max Minkoff"
+                description: ""
+                link: https://youtu.be/dpaw4oIAEA0?t=632
+            -
+                title: "Using Aviary’s Image Editor with Ember - Danielle Adams"
+                description: ""
+                link: https://youtu.be/dpaw4oIAEA0?t=1473
+            -
+                title: "ember-modal-dialog (aka Modal Wormholes) - Chris LoPresto"
+                description: ""
+                link: https://youtu.be/dpaw4oIAEA0?t=1894
+            -
+                title: "Ember.js, Firebase, & Firebase Hosting - Brendan O'Hara"
+                description: ""
+                link: https://youtu.be/dpaw4oIAEA0?t=2875
+            -
+                title: "Building a Real-Time CMS with Ember and Web Sockets - Tyler Love"
+                description: ""
+                link: https://youtu.be/dpaw4oIAEA0?t=4896
+            # -
+            #     title: "Ember Weekend Podcast #2: The Weekend Strikes Back"
+            #     description: ""
+            #     link: https://emberweekend.com/episodes/the-weekend-strikes-back
+            -
+                title: "Ember Screencasts #24: Handlebars Subexpressions"
+                description: "Plus a new Pro ($) video on [Advanced Handlebars](http://www.emberscreencasts.com/posts/25-advanced-handlebars-option-hashes-and-more)."
+                link: http://www.emberscreencasts.com/posts/24-handlebars-subexpressions
+            # -
+            #     title: "Learn Ember From Its Creators, Tom Dale & Yehuda Katz ($)"
+            #     advert: true
+            #     description: "Online Course - Save $50 with code: `emberweekly`"
+            #     link: https://teamgaslight.com/training/courses/14-introduction-to-ember-js
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Diego - 1st April
+                link: "http://www.meetup.com/sandiego-ember/events/220483863/"
+            -
+                title: Seattle - 1st April
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/220935579/"
+            -
+                title: Ottawa - 1st April
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/218835618/"
+            -
+                title: Toronto - 2nd April
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/221395017/"
+            -
+                title: Saint Louis - 6th April
+                link: "http://www.meetup.com/STLEmber/events/220928560/"
+            -
+                title: Philadelphia - 7th April
+                link: "http://www.meetup.com/EmberJS-Philly/events/221134013/"
+            -
+                title: Calgary - 8th April
+                link: "http://www.meetup.com/EmberJS-YYC/events/221185924/"
+            -
+                title: Ember Riverside - 8th April
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/220941503/"
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "Mastering Ember.js – 3-Day Workshop in Cincinnati ($)"
+                advert: true
+                description: "6-8th April. Save $120 with code `emberweekly`!"
+                link: https://ti.to/gaslight/mastering-emberjs

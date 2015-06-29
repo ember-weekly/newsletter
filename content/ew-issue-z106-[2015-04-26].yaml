@@ -1,0 +1,188 @@
+issue: 106
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Releases"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "Internet Explorer 8 Support Will Be Removed In Ember 2.0"
+                description: ""
+                link: http://emberjs.com/blog/2015/04/20/ie8-support-update.html
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js: The Ever Evolving Rock"
+                description: ""
+                link: https://medium.com/@koryteg/ember-js-the-ever-evolving-rock-aadf1ac2f278
+            -
+                title: "How To Use Outlets From Within Your Each Loop"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2015/04/21/how-to-use-outlets-from-within-your-each-loop/
+            -
+                title: "Rails to Ember: Tip #9 - Nested Routes = Nested UI"
+                description: ""
+                link: http://fromrailstoember.com/9-nested-routes-equals-nested-ui/
+            -
+                title: "Testing In Ember.js, Part 1"
+                description: ""
+                link: https://blogs.library.ucsf.edu/ckm/2015/04/24/testing-in-ember-js-part-1/
+            -
+                title: "Dynamically Loading Ember Components"
+                description: ""
+                link: http://www.hutchinson.io/dynamically-loading-ember-components/
+            -
+                title: "How We Migrated from Rails to Ember-CLI...Incrementally"
+                description: ""
+                link: https://medium.com/@madebystrange/how-me-migrated-from-rails-to-ember-cli-incrementally-part-1-dce6a0794c8
+            -
+                title: "Communication Between Components"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/04/26/inter-component/
+            -
+                title: "Deploy an Ember App with ember-cli-deploy"
+                description: ""
+                link: http://pixelhandler.com/posts/practical-deploy-an-ember-app-with-ember-cli-deploy-on-digitalocean
+            -
+                title: "How To Add Records With Mongo and Ember"
+                description: "Also check out [How To Edit Or Delete Records With Mongo And Ember](http://www.programwitherik.com/how-to-edit-or-delete-with-mongo-and-ember/)."
+                link: http://www.programwitherik.com/how-to-add-records-with-mongo-and-ember/
+            -
+                title: "How To Build an Ember Community with Luke Melia"
+                description: ""
+                link: http://www.programwitherik.com/how-to-build-a-community-with-luke-melia/
+            -
+                title: "Theming Semantic UI with Ember-CLI"
+                description: ""
+                link: http://ember-love.de/theming-semantic-ui-with-ember-cli/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Hearth: A Mac App to Manage Ember Projects"
+                description: ""
+                link: http://ember.town/ember-hearth/
+            -
+                title: "ember-a11y-testing: Suite of Accessibility Tests That Run Against Your App"
+                description: "(Work-in-progress)"
+                link: https://github.com/trentmwillis/ember-a11y-testing
+            -
+                title: "ember-sortable: Sortable UI Primitives for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-sortable
+            -
+                title: "ember-popup-menu: Popup-Menu with a Pluggable Interface for Dealing with Popups"
+                description: "(Work-in-progress)"
+                link: https://github.com/paddle8/ember-popup-menu
+            -
+                title: "ember-cli-cssnext: Use cssnext in Your Ember App"
+                description: ""
+                link: https://github.com/ebryn/ember-cli-cssnext#readme
+            -
+                title: "ember-cli-eyeglass: Use eyeglass & node-sass to Compile Sass Files."
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-eyeglass
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Fireside Chat with Tom Dale and Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=0B9XjwoaCNM&feature=youtu.be&t=390
+            -
+                title: "Ember.js NYC April 2015: Ember Components Deep Dive with Ray Tiley + More"
+                description: "Including \"Tips for Robust Ember Apps\" by Kris Selden & Ember Waypoints library by Hassan Abdel-Rahman"
+                link: https://www.youtube.com/watch?v=d7ocGnN9fh4
+            -
+                title: "Ember Land #8: Rob loves IE8"
+                description: "Ember's security release policy, Glimmer, killing IE8 support for Ember 2.0, Fastboot, Routeable Components, and the phrase \"PRs Welcome\""
+                link: http://ember.land/episodes/8
+            -
+                title: "Between Screens Podcast: Interview with Tom Dale - Part 4"
+                description: "Ember Data, Model concerns, Adaptor, JSON API, Promises, Router, Ember-CLI, Convention over configuration, Infrastructure setup, and Firefox OS."
+                link: http://betweenscreens.fm/episodes/98
+            -
+                title: "Ember Screencasts #32: Nested Routes and Outlets"
+                description: "Plus a [new Pro video on Pods](http://www.emberscreencasts.com/posts/33-pods) ($) ."
+                link: http://www.emberscreencasts.com/posts/32-nested-routes-and-outlets
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: New York - 27th April
+                link: "http://www.meetup.com/EmberJS-NYC/events/221989248/"
+            -
+                title: Medellín - 28th April
+                link: "http://www.meetup.com/Ember-Medellin/events/221715261/"
+            -
+                title: Santa Monica - 29th April
+                link: "http://www.meetup.com/Ember-SC/events/221840413/"
+            -
+                title: Seattle - 29th April
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/221582977/"
+            -
+                title: Chicago - 30th April
+                link: "http://www.meetup.com/Chicago-Ember-js/events/221397703/"
+            -
+                title: Jacksonville Beach - 30th April
+                link: "http://www.meetup.com/EmberJax/events/221439735/"
+            -
+                title: Saint Louis - 4th May
+                link: "http://www.meetup.com/STLEmber/events/221852536/"
+
+
+
+    -
+        heading: "ES Weekly"
+        headlines:
+            -
+                title: "ES Weekly - Keep Up To Date with New ES6/ES7 Features"
+                description: "Stay up to date with the changes in JavaScript with my new newsletter."
+                link: http://esweekly.com

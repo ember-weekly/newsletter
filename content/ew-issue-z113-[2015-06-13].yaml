@@ -1,0 +1,205 @@
+issue: 113
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.13 and 2.0 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/06/12/ember-1-13-0-released.html
+            -
+                title: "Ember Data 1.0.0 Beta 19.1 Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/06/09/ember-data-1-0-beta-19-1-released.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "RFC: Contextual Component Lookup"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/contextual-component-lookup/text/0000-contextual-component-lookup.md
+            -
+                title: "Ember 2.0 Training with Erik Bryn"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. SF class has sold out, but a waiting list is available. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
+            -
+                title: "Ember.js Workshop in Munich, July 22nd-24th"
+                advert: true
+                description: "Three day workshop in Munich, taking participants through building a full Ember.js application."
+                link: http://ember-workshop.simplabs.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Inspector Guides"
+                description: ""
+                link: http://guides.emberjs.com/v1.12.0/ember-inspector/installation/
+            -
+                title: "Three Ways to Declare Computed Properties and Observers"
+                description: ""
+                link: http://blog.ksol.fr/ember-js-declaring-computed-property-and-observers/
+            -
+                title: "Ember Simple Auth vs Torii"
+                description: ""
+                link: https://www.codementor.io/ember-js/tutorial/ember-simple-auth-torii-fetch-user-data
+            -
+                title: "An Overview of Ember Simple Auth"
+                description: ""
+                link: https://www.codementor.io/ember-js/tutorial/overview-ember-simple-auth
+            -
+                title: "Deploy Your Ember Application To Firebase"
+                description: ""
+                link: http://www.programwitherik.com/deploy-your-ember-application-to-firebase/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Dynamic Images at Web Scale with imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=dynamic-images&utm_content=dynamic-images&utm_campaign=ember-weekly-2015-06-14
+            -
+                title: "ember-jsonapi-resources: Persistence Library Adhering to JSON API 1.0"
+                description: ""
+                link: https://github.com/pixelhandler/ember-jsonapi-resources#ember-json-api-resources
+            -
+                title: "ember-legacy-views: Extended Support for Ember.View and Friends Until Ember v2.4"
+                description: ""
+                link: https://www.npmjs.com/package/ember-legacy-views
+            -
+                title: "ember-cli-deploy-slack: ember-cli-deploy Plugin for Sending Messages to Slack"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-deploy-slack
+            -
+                title: "broccoli-serviceworker: Automate ServiceWorker File Creation for Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/broccoli-serviceworker
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "An Interview With Balint Erdi Of Rock & Roll with Ember.js"
+                description: ""
+                link: http://www.programwitherik.com/an-interview-with-balint-erdi-of-rock-roll-with-ember-js/
+            -
+                title: "Codementor Office Hours: Discourse and the Use of Ember.js with Robin Ward (aka EvilTrout)"
+                description: ""
+                link: https://www.youtube.com/watch?v=2klSE6ZANW4
+            -
+                title: "Ember Screencasts #46: Bar Charts with ember-cli-chart (6mins)"
+                description: "Plus a [new Pro video covering Time series Line Graphs with ember-cli-chart](https://www.emberscreencasts.com/posts/47-time-series-line-graphs-with-ember-cli-chart) ($) ."
+                link: https://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart
+            -
+                title: "Ember Weekend Podcast #12: The Curiously Strong Weekend"
+                description: ""
+                link: https://emberweekend.com/episodes/the-curiously-strong-weekend
+            -
+                title: "Ember Data Progress - Igor Terzic"
+                description: "Also checkout Project Demos by [MajorBreakfast](https://www.youtube.com/watch?v=Tk33VLDPGs8) & [Marco Otte-Witte](https://www.youtube.com/watch?v=V863W7DmVGw)"
+                link: https://www.youtube.com/watch?v=4j-zGbwX3LM
+            -
+                title: "Query parameters in Ember - Balint Erdi"
+                description: ""
+                link: https://www.codementor.io/officehours/4529640813/query-parameters-in-ember
+            -
+                title: "Upload Files Directly to S3 With Ember"
+                description: ""
+                link: http://www.buildlab.co/u/validkeys/channels/1/episodes/upload-files-directly-to-s3-with-ember
+
+    -
+        heading: "Events"
+        headlines:
+        -
+            title: Raleigh - 15th June
+            link: "http://www.meetup.com/Triangle-Ember/events/222394450/"
+        -
+            title: Saint Louis - 15th June
+            link: "http://www.meetup.com/STLEmber/events/222891006/"
+        -
+            title: Dallas - 15th June
+            link: "http://www.meetup.com/Ember-Dallas/events/221589060/"
+        -
+            title: San Francisco - 16th June
+            link: "http://www.meetup.com/Ember-SF/events/221871368/"
+        -
+            title: Treviso - 16th June
+            link: "http://www.meetup.com/The-Ember-js-Treviso-Meetup/events/222647434/"
+        -
+            title: Adelaide - 16th June
+            link: "http://www.meetup.com/adelaidejs/events/223194673/"
+        -
+            title: Irvine - 17th June
+            link: "http://www.meetup.com/Ember-SC/events/223184377/"
+        -
+            title: Cincinnati - 17th June
+            link: "http://www.meetup.com/EmberNati/events/222854174/"
+        -
+            title: Ann Arbor - 17th June
+            link: "http://www.meetup.com/Ember-A2D/events/222679784/"
+        -
+            title: Pittsburgh - 18th June
+            link: "http://www.meetup.com/Ember-js-Pittsburgh/events/222519677/"
+        -
+            title: Philadelphia - 19th June
+            link: "http://www.meetup.com/EmberJS-Philly/events/222829894/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

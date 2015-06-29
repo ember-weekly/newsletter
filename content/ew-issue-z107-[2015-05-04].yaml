@@ -1,0 +1,205 @@
+issue: 107
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.12 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.12.0-beta.3
+
+    # -
+    #     heading: "Featured"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Alternative Persistence Patterns with Ember.js"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2015/04/26/alternative-persistence-patterns-with-ember-js/
+            -
+                title: "Testing In Ember [Part 2]: Ember-Try and the Travis CI Build Matrix"
+                description: ""
+                link: https://blogs.library.ucsf.edu/ckm/2015/04/30/testing-in-ember-js-part-2-ember-try-and-the-travis-ci-build-matrix/
+            -
+                title: "Things to know Moving Off Globals in Ember (or Ember-Rails)"
+                description: ""
+                link: https://medium.com/@koryteg/things-to-know-moving-off-globals-in-ember-or-ember-rails-a8497e8c2ea3
+            -
+                title: "Simple Global Event Bus"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/04/27/event-bus/
+            -
+                title: "Action Maker"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/05/01/action-maker/
+            -
+                title: "How To Convince Your Boss To Finance Your Ember.js Learning Adventure"
+                description: ""
+                link: https://www.talentbuddy.co/blog/how-to-convince-your-boss-to-finance-your-ember-js-learning-adventure/
+            -
+                title: "Using Ember CLI and working with Ember Data fixtures"
+                description: ""
+                link: http://ryanchristiani.com/using-ember-cli-and-working-with-ember-data-fixtures/
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-page-object: Helpers to Implement the Page Object Pattern in Your Tests"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-page-object
+            -
+                title: "ember-offline: Show a Notification When Connectivity is Lost"
+                description: ""
+                link: https://github.com/ahmadsoe/ember-offline
+            -
+                title: "ember-cli-image-cropper: Wraps jQuery Cropper into an Ember Component"
+                description: ""
+                link: http://mhretab.github.io/ember-cli-image-cropper/
+            -
+                title: "ember-state-services: State Management Pattern Using Services"
+                description: ""
+                link: https://github.com/stefanpenner/ember-state-services
+            -
+                title: "ember-cli-canadian-stylesheets: PostCSS Plugin to Make Your CSS Canadian-friendly"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-canadian-stylesheets
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Animating in Ember.js with Liquid Fire - Edward Faulkner"
+                description: ""
+                link: https://www.youtube.com/watch?v=vq_BcIFM8Rc
+            -
+                title: "Ember 2.0 - Erik Bryn"
+                description: ""
+                link: https://www.youtube.com/watch?v=U1HEzVWseng
+            -
+                title: "Test like a pro with Ember.js - Mike North"
+                description: ""
+                link: https://www.youtube.com/watch?v=2E0vC_Vk3dU
+            -
+                title: "Ember Weekend Podcast #7: Champions Needed"
+                description: "Also checkout [Ember Weekend Podcast #6: Ember in Atlanta](https://emberweekend.com/episodes/ember-in-atlanta)."
+                link: https://emberweekend.com/episodes/champions-needed
+            -
+                title: "Ruby on Rails Podcast #190: Toran Billups - Ember Counseling"
+                description: ""
+                link: http://5by5.tv/rubyonrails/190
+            -
+                title: Rapid Prototyping with Front End Frameworks - Alexander Blom
+                description: ""
+                link: https://www.youtube.com/watch?v=pmQm5lu-Ygw
+            -
+                title: "The Ember.js Run Loop - Rizwan Reza"
+                description: ""
+                link: https://www.youtube.com/watch?v=LSCislCKMBw
+            -
+                title: "Ember Screencasts: Embering on the Shoulders of Giants"
+                description: "An introduction to Ember, it's philosophies and surrounding technologies."
+                link: http://www.emberscreencasts.com/posts/embering-on-the-shoulders-of-giants
+            -
+                title: "Ember Screencasts #34: CRUD [Part 1]: Read, Update, Delete"
+                description: "Plus a [new Pro video covering CRUD part 2 - Create](http://www.emberscreencasts.com/posts/35-crud-pt-2-create) ($) ."
+                link: http://www.emberscreencasts.com/posts/34-crud-pt-1-read-update-delete
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco - 5th May
+                link: "http://www.meetup.com/Ember-SF/events/220881276/"
+            -
+                title: Salt Lake City - 5th May
+                link: "http://www.meetup.com/EmberJS-SLC/events/222046948/"
+            -
+                title: München - 5th May
+                link: "http://www.meetup.com/Ember-js-Munich/events/221733613/"
+            -
+                title: Ottawa - 6th May
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/221671062/"
+            -
+                title: Riverside - 6th May
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/220421294/"
+            -
+                title: Toronto - 7th May
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/222138665/"
+            -
+                title: Atlanta - 12th May
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/221443331/"
+            -
+                title: Paris - 12th May
+                link: "http://www.meetup.com/EmberJS-Paris/events/222111105/"
+            -
+                title: San Diego - 13th May
+                link: "http://www.meetup.com/sandiego-ember/events/221213035/"
+            -
+                title: Seattle - 13th May
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/222060502/"
+            -
+                title: Portland - 13th May
+                link: "http://www.meetup.com/Ember-PDX/events/221268087/"
+            -
+                title: London - 14th May
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221220636/"
+            -
+                title: Boston - 14th May
+                link: "http://www.meetup.com/Boston-Ember-js/events/221752373/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

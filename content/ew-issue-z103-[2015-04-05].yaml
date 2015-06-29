@@ -1,0 +1,197 @@
+issue: 103
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.11.1 Released - Regression Fixes"
+                description: ""
+                link: http://emberjs.com/blog/2015/04/04/ember-1-11-1-released.html
+
+    -
+        heading: "RFCs"
+        headlines:
+            -
+                title: "Should Ember 2.x Support IE8 and IE9?"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/drop-ie8/active/0000-internet-explorer.md
+            -
+                title: "Route Driven Pod Structure Proposal"
+                description: ""
+                link: https://github.com/emberjs/rfcs/pull/44
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "An Agile Design Manifesto (for Ember.js)"
+                description: ""
+                link: https://medium.com/@hhff/an-agile-design-manifesto-for-emberjs-faae08ce7869
+            -
+                title: "Adding Animations With Liquid Fire And Ember"
+                description: ""
+                link: http://www.programwitherik.com/doing-animations-and-transitions-with-liquid-fire-and-ember/
+            -
+                title: "Top New Features For Ember 1.11.0"
+                description: ""
+                link: http://www.programwitherik.com/top-5-new-features-for-ember-1-11-0/
+            -
+                title: "Pluralize Your Word(s) With ember-pluralize"
+                description: ""
+                link: http://reefpoints.dockyard.com/2015/03/27/pluralize-your-words-with-ember-pluralize.html
+            -
+                title: "Change and its Detection in JavaScript Frameworks"
+                description: ""
+                link: http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
+            -
+                title: "HTMLBars Implementation Documentation"
+                description: ""
+                link: https://github.com/tildeio/htmlbars/blob/idempotent-rerender/LIFECYCLE.md
+            -
+                title: "How To Add Polymer To Your Ember Project"
+                description: ""
+                link: http://www.programwitherik.com/how-to-add-polymer-to-your-ember-project/
+            -
+                title: "Using HTML 5 Application Cache for Single Page Applications"
+                description: ""
+                link: http://js-for.ninja/using-html5-application-cache-for-single-page-applications.html
+            -
+                title: "Why I use Ember.js?"
+                description: ""
+                link: http://givan.se/ember-i-choose-you
+            -
+                title: "Improving UI Stability with Ember Data and ArrayProxy"
+                description: ""
+                link: http://spin.atomicobject.com/2015/04/01/ember-data-stability-arrayproxy/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-nf-graph: A Component-Based DSL for Creating Graphs"
+                description: ""
+                link: https://github.com/netflix/ember-cli-nf-graph
+            -
+                title: "ember-new-computed: Try the New Ember Computed Syntax Today"
+                description: ""
+                link: https://github.com/rwjblue/ember-new-computed
+            -
+                title: "ember-ionic: Ember Components that use the Ionic Project's CSS"
+                description: ""
+                link: https://github.com/ebryn/ember-ionic
+            -
+                title: "ember-radio-button: Radio Button Component with Nice Syntax"
+                description: ""
+                link: https://github.com/yapplabs/ember-radio-button
+            -
+                title: "ember-wormhole: Render a Child View Somewhere Else in the DOM"
+                description: ""
+                link: https://www.npmjs.com/package/ember-wormhole
+            -
+                title: "ember-turbolinks: Makes Migrating Your Server-Generated Apps to Ember Easier"
+                description: ""
+                link: https://github.com/ebryn/ember-turbolinks
+            -
+                title: "ember-keyboard-shortcuts: Easily Add Keyboard Shortcuts to Your App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-keyboard-shortcuts
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Red Spartan - Ember Front End Developer - Help develop our product with Ember & Django (Remote)"
+               description: ""
+               link: "http://jobs.emberjs.com/jobs/31590-ember-js-gun-for-remote-work-at-rs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberConf 2015 Recap - Silicon Valley Ember Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=CBI3wREj5rY
+            -
+                title: "Ember at Netflix - Ben Lesh"
+                description: ""
+                link: https://www.youtube.com/watch?v=pl3qRS0Iky4
+            -
+                title: "Ruby on Rails Podcast 187: Dan Gebhardt - JSON API, JSONAPI::Resources, Orbit.js & Ember Data"
+                description: ""
+                link: http://5by5.tv/rubyonrails/187
+            -
+                title: "Ember Screencasts #26: Client-Side Pagination Part 1 - Basics"
+                description: "Plus a new Pro ($) video for [Part 2](http://www.emberscreencasts.com/posts/27-client-side-pagination-part-2-previousnext-page-buttons-change-page-size)."
+                link: http://www.emberscreencasts.com/posts/26-client-side-pagination-part-1-basics
+            -
+                title: "Learn Ember From Its Creators, Tom Dale & Yehuda Katz ($)"
+                advert: true
+                description: "Online Course - Save $50 with code: `emberweekly`"
+                link: https://teamgaslight.com/training/courses/14-introduction-to-ember-js
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis - 6th April
+                link: "http://www.meetup.com/STLEmber/events/220928560/"
+            -
+                title: Leeds, UK - 7th April
+                link: http://hey.wearestac.com/
+            -
+                title: Philadelphia - 7th April
+                link: "http://www.meetup.com/EmberJS-Philly/events/221134013/"
+            -
+                title: Salt Lake City - 7th April
+                link: "http://www.meetup.com/EmberJS-SLC/events/221419705/"
+            -
+                title: Fishers, Indianapolis - 8th April
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/221491009/"
+            -
+                title: Toronto - 8th April
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/221550231/"
+            -
+                title: Calgary - 8th April
+                link: "http://www.meetup.com/EmberJS-YYC/events/221185924/"
+            -
+                title: Ember Riverside Meetup - 8th April
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/220941503/"
+            -
+                title: Boston - 9th April
+                link: "http://www.meetup.com/Boston-Ember-js/events/221302354/"
+            -
+                title: Montevideo - 9th April
+                link: "http://www.meetup.com/ember-montevideo/events/221241931/"
+
+
+    -
+        heading: "Finally"
+        headlines:
+            -
+                title: "NEW: ES Weekly - Keep Up To Date With New ES6 (ECMAScript 2015) Features"
+                description: "JavaScript is changing! Stay up to date with this new newsletter - 1st issue coming 6th April."
+                link: http://esweekly.com

@@ -1,0 +1,207 @@
+issue: 114
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember v1.3.2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.13.2
+            -
+                title: "Ember-Data v1.13.3 Released"
+                description: "No this is not a typo, Ember Data versioning has been brought in line with Ember as outlined by Yehuda in [The Ember 2.x Project blog post](http://emberjs.com/blog/2015/06/16/ember-project-at-2-0.html) below."
+                link: https://github.com/emberjs/data/blob/master/CHANGELOG.md#release-1133-june-19-2015
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "The Ember 2.x Project"
+                description: ""
+                link: http://emberjs.com/blog/2015/06/16/ember-project-at-2-0.html
+            -
+                title: "Ember 2.0 Training with Erik Bryn"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. SF class has sold out, but a waiting list is available. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
+            -
+                title: "Ember.js Workshop in Munich, July 22nd-24th"
+                advert: true
+                description: "Three day workshop in Munich, taking participants through building a full Ember.js application."
+                link: http://ember-workshop.simplabs.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "RFC: Publicize Log Level API"
+                description: ""
+                link: https://github.com/pangratz/rfcs/blob/publicize-log-levels/text/0000-publicize-log-level-api.md
+            -
+                title: "RFC: Outlet Focusing"
+                description: ""
+                link: https://github.com/nathanhammond/rfcs/blob/master/text/0000-outlet-focusing.md
+            -
+                title: "RFC: Better Record Polymorphism"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/polymorphism/text/0000-find-polymorphism.md
+            -
+                title: "Deliver Audacious Web Apps with Ember 2 - Now Available in Beta from The Pragmatic Bookshelf"
+                advert: true
+                description: ""
+                link: https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2
+            -
+                title: "Ember Component Integration Tests"
+                description: ""
+                link: http://alisdair.mcdiarmid.org/2015/06/20/ember-component-integration-tests.html
+            -
+                title: "My Battle with Data Persistence in Ember Apps"
+                description: ""
+                link: http://pixelhandler.com/posts/my-battle-with-data-persistence-in-ember-apps
+            -
+                title: "The Code Climate Platform - New Ember Static Analysis Engines"
+                description: ""
+                link: http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/
+            -
+                title: "Deploy Your Ember Application To Divshot"
+                description: ""
+                link: http://www.programwitherik.com/deploy-your-ember-application-to-divshot/
+            -
+                title: "Migrating FormKeep to ember-cli-rails"
+                description: ""
+                link: https://robots.thoughtbot.com/migrating-formkeep-to-ember-cli-rails
+            -
+                title: "Analysis of Ember File Size Over Time"
+                description: ""
+                link: http://iao.fi/ember-size/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Dynamic Images at Web Scale with imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=dynamic-images&utm_content=dynamic-images&utm_campaign=ember-weekly-2015-06-14
+            -
+                title: "ember-axe: The Future of Accessibility Testing in Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-axe
+            -
+                title: "ember-ckeditor: Exposes CKEditor via Friendly Ember Components"
+                description: ""
+                link: https://www.npmjs.com/package/ember-ckeditor
+            -
+                title: "ember-cloudkit: Easily Use CloudKit in an Ember App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cloudkit
+            -
+                title: "ember-i18n v4.0.0 Released"
+                description: ""
+                link: https://github.com/jamesarosen/ember-i18n/releases/tag/v4.0.0
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Screencasts #48: Upload a File as Part of a Form (6mins)"
+                description: "Plus a [new Pro video covering Image Upload Preview](https://www.emberscreencasts.com/posts/49-image-upload-preview) ($) ."
+                link: https://www.emberscreencasts.com/posts/48-upload-a-file-as-part-of-a-form
+            -
+                title: "Ember IsLand 2.0 Beta / Ember WeekendLand"
+                description: "A special cross over episode between Ember Land and Ember Weekend where the guys recap this year's Wicked Good Ember conference. ([Ember Weekend episode](https://emberweekend.com/episodes/ember-island-two-oh-beta))"
+                link: http://ember.land/episodes/12
+            -
+                title: "Ember Weekend Podcast #13: The Most Interesting Episode"
+                description: ""
+                link: https://emberweekend.com/episodes/the-most-interesting-episode
+            -
+                title: "How To Deploy Your Ember Application To Firebase Screencast"
+                description: ""
+                link: http://www.programwitherik.com/how-to-deploy-your-ember-application-to-firebase-screencast/
+            -
+                title: "Between Screens Podcast: Interview with Tom Dale - Part 6"
+                description: "Web Components, Ember Components, DRY, Standards, Glimmer Engine, HTMLBars"
+                link: http://betweenscreens.fm/episodes/120
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Santa Monica - 24th June
+                link: "http://www.meetup.com/Ember-SC/events/223184395/"
+            -
+                title: Seattle - 24th June
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/223042341/"
+            -
+                title: London - 25th June
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221220728/"
+            -
+                title: New York - 25th June
+                link: "http://www.meetup.com/EmberJS-NYC/events/222833665/"
+            -
+                title: Austin - 25th June
+                link: "http://www.meetup.com/Ember-ATX/events/222044720/"
+            -
+                title: Jacksonville Beach - 25th June
+                link: "http://www.meetup.com/EmberJax/events/223369388/"
+            -
+                title: Madrid - 26th June
+                link: "http://www.meetup.com/Ember-js-Madrid/events/223155409/"
+            -
+                title: Portland - 30th June
+                link: "http://www.meetup.com/Ember-PDX/events/222537266/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,194 @@
+issue: 111
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Ember 1.12.1 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.12.1
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "The Tomster - Ever Wonder How Many There Are?"
+                description: ""
+                link: http://emberjs.com/tomster/
+            -
+                title: "Ember.js Workshop in Munich, July 22nd-24th"
+                advert: true
+                description: "Three day workshop in Munich, taking participants through building a full Ember.js application."
+                link: http://ember-workshop.simplabs.com
+            -
+                title: "Ember 2.0 Training with Erik Bryn"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. SF class has sold out, but a waiting list is available. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rendering Templates to Strings in Ember"
+                description: ""
+                link: https://netguru.co/blog/rendering-templates-strings-emberjs
+            -
+                title: "Visualizing Glimmer Performance"
+                description: ""
+                link: http://www.codekitchen.ca/visualizing-glimmer-performance/
+            -
+                title: "How to Initialize a jQuery Component With Ember"
+                description: ""
+                link: http://www.programwitherik.com/how-to-initialize-a-jquery-component-with-ember-js/
+            -
+                title: "Ember: Avoiding Side Effects... Or at Least Trying"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/05/21/functional-ui-ember-1/
+            -
+                title: "Creating a Better Search Experience With Ember"
+                description: ""
+                link: http://www.foraker.com/blog/creating-a-better-search-experience-with-ember
+            -
+                title: "Managing Ordered Child Components in Ember and Glimmer"
+                description: ""
+                link: http://blog.runspired.com/2015/05/27/managing-ordered-child-components-in-ember-and-glimmer/
+            -
+                title: "Reclaiming the URL From Ember-Data"
+                description: ""
+                link: http://blog.runspired.com/2015/05/27/reclaiming-the-url-from-ember-data/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-table: Table with Lazy Rendering Rows (Now Ember-CLI Compatible)"
+                description: ""
+                link: https://www.npmjs.com/package/ember-table
+            -
+                title: "ember-i18n: v4.0.0 Beta 1"
+                description: ""
+                link: https://github.com/jamesarosen/ember-i18n/releases/tag/v4.0.0-beta.1
+            -
+                title: "ember-cli-filesize-transform: Ember Data Transform to Allow Easy Filesize Manipulations"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-filesize-transform
+            -
+                title: "ember-cli-document-title: Change the Document Title in Your Ember App"
+                description: ""
+                link: https://github.com/kimroen/ember-cli-document-title
+            -
+                title: "node-ember-cli-deploy-redis: Use Redis for ember-cli-deploy Revisions in Node"
+                description: ""
+                link: https://github.com/blimmer/node-ember-cli-deploy-redis
+            -
+                title: "ember-resize: Respond to Window and View Resizing"
+                description: ""
+                link: https://github.com/truenorth/ember-resize
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #10: Meh, Ship it"
+                description: ""
+                link: https://emberweekend.com/episodes/meh-ship-it
+            -
+                title: "Ember Screencasts #42: Object Instantiation"
+                description: "Plus a [new Pro video covering On Init](http://www.emberscreencasts.com/posts/43-on-init) ($) ."
+                link: http://www.emberscreencasts.com/posts/object-instantiation
+            -
+                title: "Ember Routes - A Look at the Power of Ember's Route Lifecycle Hooks"
+                description: ""
+                link: http://www.buildlab.co/u/validkeys/channels/1/episodes/ember-routes
+            -
+                title: "Sharing Thoughts in Real Time with Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=q0Sj0t1GBkU
+            -
+                title: "Deploying a Location-Aware Ember Application"
+                description: ""
+                link: http://benlimmer.com/2015/05/31/deploying-a-location-aware-ember-app/
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Wicked Good Ember 2015 Conference"
+                advert: true
+                description: "More dorm rooms (shared) now available! 16th June, Thompson Island, Boston"
+                link: http://wickedgoodember.com/
+            -
+                title: "EmberFest 2015 - Cambridge, UK - 8-10th September"
+                description: "Early bird tickets now on sale."
+                link: https://emberfest.eu
+            -
+                title: Dublin - 2nd June
+                link: "http://www.meetup.com/ember-columbus/events/222044891/"
+            -
+                title: New York - 2nd June
+                link: "http://www.meetup.com/EmberJS-NYC/events/222673435/"
+            -
+                title: Saint Louis - 2nd June
+                link: "http://www.meetup.com/STLEmber/events/222471903/"
+            -
+                title: Indianapolis - 3rd June
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/222690874/"
+            -
+                title: Ottawa - 4th June
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/222333450/"
+            -
+                title: Riverside - 4th June
+                link: "http://www.meetup.com/Ember-Riverside-Meetup/events/222367166/"
+            -
+                title: Toronto - 5th June
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/222691170/"
+            -
+                title: Houston - 5th June
+                link: "http://www.meetup.com/EmberJS-Houston/events/222415643/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,206 @@
+issue: 105
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Releases"
+        headlines:
+            -
+                title: "Security and Bugfix Releases - Ember 1.10.1, 1.11.2, 1.11.3"
+                description: ""
+                link: http://emberjs.com/blog/2015/04/14/security-and-bugfix-releases-ember-1-10-1-1-11-2-1-11-3.html
+
+    -
+        heading: "Featured"
+        headlines:
+            -
+                title: "ES Weekly - Keep Up To Date with New ES6 Features"
+                description: "Stay up to date with the changes in JavaScript with my new newsletter."
+                link: http://esweekly.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember 2.0 to Drop IE8 Support (Keep IE9 Support)"
+                description: ""
+                link: https://github.com/emberjs/rfcs/pull/45#issuecomment-93009469
+            -
+                title: "Detecting Ember.js Components Entering or Leaving the Viewport"
+                description: ""
+                link: https://medium.com/delightful-ui-for-ember-apps/creating-an-ember-cli-addon-detecting-ember-js-components-entering-or-leaving-the-viewport-7d95ceb4f5ed
+            -
+                title: "Real-Time Ember and Sails"
+                description: ""
+                link: http://www.hutchinson.io/real-time-ember-and-sails/
+            -
+                title: "Refactoring Away From arrayComputed"
+                description: ""
+                link: http://www.thesoftwaresimpleton.com/blog/2015/04/18/arraycomputed-refactor/
+            -
+                title: "Working with Ember Data, Node, Express and MongoDB"
+                description: ""
+                link: http://ryanchristiani.com/working-with-ember-data-node-express-and-mongodb/
+            -
+                title: "Using Recursive Components in Ember.js"
+                description: ""
+                link: https://robots.thoughtbot.com/using-recursive-components-in-emberjs
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Rails), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. [Contact us to learn more](http://dockyard.com/contact)!"
+                link: http://dockyard.com/contact
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-in-viewport: Detect if a Component is in the Viewport @ 60FPS"
+                description: ""
+                link: https://github.com/dockyard/ember-in-viewport
+            -
+                title: "ember-computed-decorators: Use the Proposed ES7 Decorator Syntax for Your Computed Properties"
+                description: ""
+                link: https://www.npmjs.com/package/ember-computed-decorators
+            -
+                title: "ember-component-css v0.1.1 Released: Specify CSS Inside of Component Pod Directories"
+                description: ""
+                link: https://www.npmjs.com/package/ember-component-css
+            -
+                title: "ember-solr: Solr Adapter for Ember Data"
+                description: ""
+                link: https://www.npmjs.com/package/ember-solr
+            -
+                title: "ember-test-container: Light-Weight Container for Unit Testing Objects That Rely on Ember's Container"
+                description: ""
+                link: https://www.npmjs.com/package/ember-test-container
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Preparing for Ember 2.0 - Edward Faulkner"
+                description: ""
+                link: https://www.youtube.com/watch?v=wsydQzQF4Ww
+            -
+                title: "EmberConf 2015 Recap - Chicago"
+                description: ""
+                link: https://www.youtube.com/watch?v=u27NkvZF7ok
+            -
+                title: "Iterating Towards Ember.js - Erik Bryn"
+                description: ""
+                link: https://www.youtube.com/watch?v=xAYzktloU48&feature=youtu.be&t=52m54s
+            -
+                title: "Our Journey with the Tomster - British Gas Team"
+                description: ""
+                link: https://vimeo.com/124930055
+            -
+                title: "Unpacking Ember’s Routes and the Router - Chris Game"
+                description: ""
+                link: https://vimeo.com/124906883
+            -
+                title: "Ember, Firebase, and the Backend-as-a-Service Revolution - Vaidas Mykolaitis"
+                description: ""
+                link: https://vimeo.com/124906884
+            -
+                title: "JSON API - Dan Gebhardt"
+                description: ""
+                link: https://www.youtube.com/watch?v=xAYzktloU48
+            -
+                title: "Ember: When the Lights Go On - Aaron Chambers"
+                description: ""
+                link: https://www.youtube.com/watch?v=ML486tHrDjk
+            -
+                title: "Ember Weekend Podcast #4: IE - Seeya L8er"
+                description: "Also checkout [Ember Weekend Podcast #5: Wicked Good Design](https://emberweekend.com/episodes/wicked-good-design)."
+                link: https://emberweekend.com/episodes/ie-seeya-l8er
+            -
+                title: "Ask Tom and Yehuda: Mobile Development in Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=VLPIMwORxs4
+            -
+                title: "Ember Screencasts #28: Metaprogramming Magic with Arrays and the Ember Get Helper Addon"
+                description: "Plus a new Pro ($) video for [Dynamic Toggling of Tables](http://www.emberscreencasts.com/posts/29-toggle-table-columns)."
+                link: http://www.emberscreencasts.com/posts/28-metaprogramming-magic-with-arrays-and-the-ember-get-helper-addon
+            -
+                title: "Ember Screencasts #30: Rearranging Table Columns"
+                description: "Plus a new Pro ($) video for [Ember Inspector 5: Data](http://www.emberscreencasts.com/posts/31-ember-inspector-5-data)."
+                link: http://www.emberscreencasts.com/posts/30-rearranging-table-columns
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas - 20th April
+                link: "http://www.meetup.com/Ember-Dallas/events/221588778/"
+            -
+                title: Atlanta - 21st April
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/221248662/"
+            -
+                title: Irvine - 22nd April
+                link: "http://www.meetup.com/Ember-SC/events/221738260/"
+            -
+                title: Washington - 22nd April
+                link: "http://www.meetup.com/Ember-JS-DC/events/221740041/"
+            -
+                title: Denver - 22nd April
+                link: "http://www.meetup.com/Ember-js-Denver/events/221485230/"
+            -
+                title: New York - 23rd April
+                link: "http://www.meetup.com/EmberJS-NYC/events/220915091/"
+            -
+                title: Boston - 23rd April
+                link: "http://www.meetup.com/Boston-Ember-js/events/221752414/"
+            -
+                title: Austin - 23rd April
+                link: "http://www.meetup.com/Ember-ATX/events/221609281/"
+            -
+                title: Berlin - 23rd April
+                link: "http://www.meetup.com/Ember-js-Berlin/events/221422080/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
