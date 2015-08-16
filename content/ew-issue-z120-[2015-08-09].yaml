@@ -1,0 +1,182 @@
+issue: 120
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "EmberConf 2016 - March 29-30 in Portland, OR"
+                description: "Also launched - [Women Helping Women](http://emberconf.com/women-helping-women.html) to promote speaking opportunities for women in the Ember community."
+                link: http://emberconf.com
+            -
+                title: "Ember v1.13.7 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.13.7
+            -
+                title: "Ember Data v1.13.8 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v1.13.8
+            -
+                title: "Ember Data v2.0.0 Beta 1 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.0.0-beta.1
+            -
+                title: "Ember 2.0 Training with Erik Bryn - NYC Class in August!"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn."
+                link: http://www.prototypal.io/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Applying the Adapter Pattern for Analytics in Ember.js Apps"
+                description: ""
+                link: https://medium.com/the-ember-way/applying-the-adapter-pattern-for-analytics-in-ember-js-apps-29448cbcedf3
+            -
+                title: "Suave Up Your Code - Introduction to Ember-Suave"
+                description: ""
+                link: https://dockyard.com/blog/2015/08/07/suave-up-your-code
+            -
+                title: "How to Stop Using deferReadiness and advanceReadiness in Ember"
+                description: ""
+                link: http://hussfelt.net/2015/08/06/how-to-stop-using-deferreadiness-and-advancereadiness-in-ember/
+            -
+                title: "Ember Core Team Minutes - 3rd August"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2015-08/august-3.md
+            -
+                title: "Ember Core Team Minutes - 7th August"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2015-08/august-7.md
+            -
+                title: "Should Components Load Data?"
+                description: ""
+                link: http://emberigniter.com/should-components-load-data/
+            -
+                title: "Create a Dead Simple Ember App with Restle"
+                description: ""
+                link: https://medium.com/@dcslack/create-a-dead-simple-ember-app-with-restle-9e01aadd47ef
+            -
+                title: "Eliminating The Ember-Rails Context-Switch"
+                description: ""
+                link: http://www.colewillsea.com/blog/context-switching-ember-rails
+            -
+                title: "Speed Up Ember.js List Rendering By Example"
+                description: ""
+                link: http://strauss.io/blog/2015-speed-up-ember-js-list-rendering-by-example.html
+            -
+                title: "Free Font Bundle for Your Ember Project in Celebration of the Launch of WebDesignerNews.com"
+                advert: true
+                description: ""
+                link: http://www.webdesignernews.com/free-font-bundle?ref=freefontbundleember
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-deploy v0.5.0 Beta 1 - A Deployment Pipeline for Ember-CLI Apps"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli-deploy/releases/tag/v0.5.0-beta.1
+            -
+                title: "ember-data-offline - Extend Ember Data to Work in Offline Mode"
+                description: ""
+                link: https://github.com/api-hogs/ember-data-offline
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-08-09
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Web Frameworks in 2015 and Where Ember Fits In - Yehuda Katz at JSChannel 2015"
+                description: ""
+                link: https://www.youtube.com/watch?v=GKWhDPk_AcM
+            -
+                title: "Ember Screencasts #62: ES2015 Modules - Import, Export"
+                description: "Plus a [new Pro video covering Content Security Policy](https://www.emberscreencasts.com/posts/63-content-security-policy) ($) ."
+                link: https://www.emberscreencasts.com/posts/62-es2015-modules-import-export
+            -
+                title: "Ember Weekend Podcast #20: Faking the Funk"
+                description: ""
+                link: https://emberweekend.com/episodes/faking-the-funk
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: New York - 10th August
+                link: "http://www.meetup.com/EmberJS-NYC/events/224086973/"
+            -
+                title: Vancouver - 10th August
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/224039974/"
+            -
+                title: Atlanta - 11th August
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/223270858/"
+            -
+                title: San Diego - 12th August
+                link: "http://www.meetup.com/sandiego-ember/events/223952205/"
+            -
+                title: Calgary - 12th August
+                link: "http://www.meetup.com/EmberJS-YYC/events/223718068/"
+            -
+                title: Zürich - 12th August
+                link: "http://www.meetup.com/Ember-js-Zurich/events/224203164/"
+            -
+                title: London - 13th August
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221724941/"
+            -
+                title: Boston - 13th August
+                link: "http://www.meetup.com/Boston-Ember-js/events/223929990/"
+            -
+                title: Montevideo - 13th August
+                link: "http://www.meetup.com/ember-montevideo/events/223890879/"
+            -
+                title: Saint Louis - 17th August
+                link: "http://www.meetup.com/STLEmber/events/fdbdhlytlbwb/"
+            -
+                title: Dallas - 17th August
+                link: "http://www.meetup.com/Ember-Dallas/events/224339985/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

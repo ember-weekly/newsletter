@@ -1,28 +1,39 @@
-issue: 11
+issue: 12
 strapline: "Your weekly source of Ember news"
 content:
 
     -
-        heading: "Releases"
-        headlines:
-            -
-                title: ""
-                description: ""
-                link:
-
-    -
-        heading: "Featured"
+        heading: "Headlines"
         headlines:
             -
                 title: ""
                 description: ""
                 link:
             -
-                title: "Ember 2.0 Training with Erik Bryn - New SF class in July!"
+                title: ""
+                description: ""
+                link:
+            -
+                title: "Ember 2.0 Training with Erik Bryn - NYC Class in August!"
                 advert: true
-                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. A new SF class has just been announced. Registration open for classes in Chicago & NYC."
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn."
                 link: http://www.prototypal.io/
 
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
 
     -
         heading: "Reading"
@@ -61,28 +72,14 @@ content:
                 link:
 
 
-    # -
-    #     heading: "From our sponsors"
-    #     newsletterAd: true
-
-    -
-        heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
-        advert: true
-        headlines:
-            -
-                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
-                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
-                link: https://dockyard.com/contact/join-us
-                advert: true
-
     -
         heading: "Code"
         headlines:
             -
                 title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
                 description: ""
-                link:
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-06-28
             -
                 title: ""
                 description: ""
@@ -124,7 +121,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #1X: XXX"
+                title: "Ember Weekend Podcast #2X: XXX"
                 description: ""
                 link:
             -
@@ -132,7 +129,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #5X: XXX (Xmins)"
+                title: "Ember Screencasts #6X: XXX (Xmins)"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 

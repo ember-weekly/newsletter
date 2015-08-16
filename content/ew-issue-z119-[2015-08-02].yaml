@@ -1,0 +1,181 @@
+issue: 119
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.0.0 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.0.0-beta.4
+            -
+                title: "Ember v1.13.6 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.13.6
+            -
+                title: "Ember-CLI v1.13.6 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v1.13.6
+            -
+                title: "Ember 2.0 Training with Erik Bryn - NYC Class in August!"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn."
+                link: http://www.prototypal.io/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Services Tutorial"
+                description: ""
+                link: http://www.programwitherik.com/ember-services-tutorial/
+            -
+                title: "Ember Simple Auth 1.0 - A First Look"
+                description: ""
+                link: http://log.simplabs.com/post/125328675580/ember-simple-auth-10-a-first-look
+            -
+                title: "Using Query Parameters in Ember.js"
+                description: ""
+                link: http://spin.atomicobject.com/2015/07/28/query-parameters-ember-js/
+            -
+                title: "Scripting Vim to Help Run Ember Tests"
+                description: ""
+                link: http://spin.atomicobject.com/2015/07/30/vim-script-ember-tests/
+            -
+                title: "Ember Wednesday #2 - Ember Community Highlights"
+                description: ""
+                link: http://emberup.co/ember-wednesday-2/
+            -
+                title: "Auto Upgrade Apps with Ember-Watson"
+                description: ""
+                link: http://emberup.co/using-ember-watson/
+            -
+                title: "Setting up Custom Authorization in Ember-CLI using Google oAuth2"
+                description: ""
+                link: http://micahjon.com/setting-up-custom-authorization-in-ember-cli-using-google-oauth2-for-the-initial-login/
+            -
+                title: "Spotlight: Ember Closure Actions"
+                description: ""
+                link: http://alexdiliberto.com/posts/ember-closure-actions/
+            -
+                title: "Ember Docs Core Team - July 23rd Minutes"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2015-07/july-23.md
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-07-02
+            -
+                title: "EmberFire 1.5.0 Released - Official Ember Data Firebase Adapter"
+                description: ""
+                link: https://www.firebase.com/blog/2015-07-28-emberfire-1-13-0.html
+            -
+                title: "ember-hold-button: Hold to Confirm Buttons for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-hold-button
+            -
+                title: "broccoli-leasot: Broccoli Plugin to Parse/Output TODO and FIXME comments"
+                description: ""
+                link: https://github.com/sivakumar-kailasam/broccoli-leasot
+            -
+                title: "legacy-bind-attr: Legacy support for Deprecated {{bind-attr}} in Ember 2.0"
+                description: ""
+                link: https://www.npmjs.com/package/legacy-bind-attr
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember in Action - New Screencast Collection"
+                description: ""
+                link: http://remzolotykh.net/tag/ember-in-action/
+            -
+                title: "Tom Dale @ Texas JavaScript Conference (TXJS) 2015"
+                description: ""
+                link: https://www.youtube.com/watch?v=rw2MY9Q8Vsk&list=PLMWftTFfsA8Om-GqKm46bw8GVxyKXRz0X&index=8
+            -
+                title: "Ember Screencasts #59: Intro to Computed Properties"
+                description: "Also see Computed Properities videos on [Arrays](https://www.emberscreencasts.com/posts/59-computed-properties-working-with-arrays)($), [Setters](https://www.emberscreencasts.com/posts/60-computed-properties-setters), and [Array Setters](https://www.emberscreencasts.com/posts/61-computed-properties-array-setters) ($)."
+                link: https://www.emberscreencasts.com/posts/58-intro-to-computed-properties
+            -
+                title: "Ember Land #14: Kerfuffle with Your Docs"
+                description: ""
+                link: http://ember.land/episodes/14
+            -
+                title: "Ember Weekend Podcast #19: Consumer Driven Weekend"
+                description: ""
+                link: https://emberweekend.com/episodes/consumer-driven-weekend
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dublin - 3rd August
+                link: "http://www.meetup.com/ember-columbus/events/222497356/"
+            -
+                title: Saint Louis - 3rd August
+                link: "http://www.meetup.com/STLEmber/events/217042192/"
+            -
+                title: "Glasgow - 4th August"
+                link: http://glasgowjs.com
+            -
+                title: Indianapolis - 4th August
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/223834387/"
+            -
+                title: Seattle - 5th August
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/224107624/"
+            -
+                title: Toronto - 6th August
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/223892978/"
+            -
+                title: New York - 10th August
+                link: "http://www.meetup.com/EmberJS-NYC/events/224086973/"
+            -
+                title: Vancouver - 10th August
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/224039974/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

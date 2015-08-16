@@ -1,0 +1,211 @@
+issue: 116
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Core Notes: New GitHub Repo for Core Team Meeting Minutes & Notes"
+                description: ""
+                link: https://github.com/emberjs/core-notes
+            -
+                title: "Our Transition to Ember 1.13"
+                description: ""
+                link: http://blog.loadimpact.com/development/transition-ember-1-13/
+            -
+                title: "Ember 2.0 Training with Erik Bryn - New SF class in July!"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. A new SF class has just been announced. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+
+    -
+        heading: "Wicked Good Ember Conf Videos"
+        headlines:
+            -
+                title: "Compose All the Things - Mike North"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-compose-all-the-things
+            -
+                title: "Graffiti: The Coveted Universal Web Component Format - Jay Phelps"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-graffiti-the-coveted-universal-web-component-format
+            -
+                title: "Writing Code to Update our Code - Adolfo Builes"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-writing-code-to-update-our-code
+            -
+                title: "Build Better Desktop Apps with Ember - Estelle DeBlois"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-build-better-desktop-apps-with-ember
+            -
+                title: "Building for Accessibility - Nathan Hammond"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-building-for-accessibility
+            -
+                title: "Taking Ember Offline - John Kleinschmidt"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-taking-ember-offline
+            -
+                title: "The Observer Tip-Jar - Stefan Penner"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-the-observer-tip-jar
+            -
+                title: "Ember Data 1.0 - It’s Here - Igor Terzic"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-ember-data-1-0-it-s-here
+            -
+                title: "Keynote: The End of Single Page Apps - Chris Tse"
+                description: ""
+                link: http://confreaks.tv/videos/wickedgoodember2015-keynote-the-end-of-single-page-apps
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "RFC: Using an Initializer customEvents Can be Added to an Application"
+                description: ""
+                link: https://github.com/pixelhandler/rfcs/blob/initialize-custom-events/text/0000-initialize-custom-events.md
+            -
+                title: "RFC: Namespaced Components & Helpers Lookup"
+                description: ""
+                link: https://github.com/bcardarella/rfcs/blob/bc-namespaced-component-lookup/text/0000-namespaced-component-lookup.md
+            -
+                title: "RFC: Actions (aka Rails Service Objects)"
+                description: ""
+                link: https://github.com/tim-evans/rfcs/blob/master/text/0000-injectable-actions.md
+            -
+                title: "Ember-CLI RFC: [Proposal] ic-ajax -> ember-fetch"
+                description: ""
+                link: https://github.com/ember-cli/rfcs/issues/19
+            -
+                title: "How To Pass Information From Your Template To Your Route in Ember.js"
+                description: ""
+                link: http://www.programwitherik.com/quick-tip-how-to-pass-information-from-your-template-to-your-route-in-ember-js/
+            -
+                title: "How To Build A Rails 5 Api Only And Ember Application"
+                description: ""
+                link: http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application/
+            -
+                title: "How to Translate Ember.js Apps"
+                description: ""
+                link: https://localize-software.phraseapp.com/posts/emberjs-how-to-translate-emberjs-apps/
+            # -
+            #     title: "A Simple Ember-Popover for Ember 1.13"
+            #     description: ""
+            #     link: https://github.com/ember-cli/rfcs/issues/19
+            -
+                title: "Rock and Roll With Ember.js v1.13 Is Out"
+                description: ""
+                link: http://balinterdi.com/2015/07/03/rock-and-roll-with-ember-dot-js-v1-dot-13-is-out.html
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-06-28
+            -
+                title: "ember-cli-geo - Geolocation Service for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-geo
+            -
+                title: "ember-lodash - Consume Lodash's ES6 Modules in an Ember App"
+                description: ""
+                link: https://www.npmjs.com/package/ember-lodash
+            -
+                title: "ember-tooltips - Render and Position Tooltips on any Ember Component"
+                description: ""
+                link: https://www.npmjs.com/package/ember-tooltips
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Screencasts #52: dotEnv (6mins)"
+                description: "Plus a [new Pro video covering dragEnter and dragLeave](https://www.emberscreencasts.com/posts/53-dragenter-and-dragleave) ($) ."
+                link: https://www.emberscreencasts.com/posts/52-dotenv
+            -
+                title: "SANE Stack: Progress Report - Markus Padourek"
+                description: ""
+                link: https://vimeo.com/132203795
+            -
+                title: "Ember Weekend Podcast #15: EmberJax Edits a Podcast"
+                description: ""
+                link: https://emberweekend.com/episodes/emberjax-edits-a-podcast
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: New York - 6th July
+                link: "http://www.meetup.com/EmberJS-NYC/events/223267233/"
+            -
+                title: Chicago - 7th July
+                link: "http://www.meetup.com/Chicago-Ember-js/events/223106278/"
+            -
+                title: San Diego - 8th July
+                link: "http://www.meetup.com/sandiego-ember/events/222985880/"
+            -
+                title: Seattle - 8th July
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/223370104/"
+            -
+                title: Denver - 8th July
+                link: "http://www.meetup.com/Ember-js-Denver/events/223418191/"
+            -
+                title: Barcelona - 8th July
+                link: "http://www.meetup.com/Ember-js-Barcelona/events/223198909/"
+            -
+                title: London - 9th July
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/221724935/"
+            -
+                title: Boston - 9th July
+                link: "http://www.meetup.com/Boston-Ember-js/events/223448596/"
+            -
+                title: Indianapolis - 9th July
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/223199209/"
+            -
+                title: Montevideo - 9th July
+                link: "http://www.meetup.com/ember-montevideo/events/223198827/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

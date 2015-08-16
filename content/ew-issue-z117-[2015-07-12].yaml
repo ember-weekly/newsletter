@@ -1,0 +1,208 @@
+issue: 117
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v1.13.3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v1.13.3
+            -
+                title: "Ember v2.0.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.0.0-beta.2
+            -
+                title: "Ember Data v1.13.5 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v1.13.5
+            -
+                title: "Ember 2.0 Training with Erik Bryn - New SF class in July!"
+                advert: true
+                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn. A new SF class has just been announced. Registration open for classes in Chicago & NYC."
+                link: http://www.prototypal.io/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember-CLI 101 eBook - $1 for Limited Time"
+                description: ""
+                link: https://leanpub.com/ember-cli-101
+            # -
+            #     title: "Glimmer Memory Leak Bug Fix Writeup by Tom Dale"
+            #     description: ""
+            #     link: https://github.com/emberjs/ember.js/pull/11667
+            -
+                title: "Merging Rails and Ember-CLI - Part III"
+                description: ""
+                link: http://smashingboxes.com/ideas/merging-rails-and-ember-cli-part-iii
+            -
+                title: "An Introduction to Ember for Django Developers"
+                description: ""
+                link: http://jerel.co/blog/2015/07/an-introduction-to-emberjs-for-django-developers
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-07-12
+            -
+                title: "ember-calendar: A Composable and Reusabile Calendar"
+                description: ""
+                link: https://www.npmjs.com/package/ember-calendar
+            -
+                title: "Ember Twiddle - Ember-CLI Friendly JSFiddle Alternative"
+                description: ""
+                link: http://ember-twiddle.com
+            -
+                title: "ember-material-lite: Material Design Lite for Ember Apps"
+                description: ""
+                link: https://github.com/truenorth/ember-material-lite#ember-material-lite
+            -
+                title: "ember-anchor: Simple Scroll-to-Anchor Support for Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-anchor
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Now You're Thinking with Pods - Elad Shahar"
+                description: ""
+                link: https://www.youtube.com/watch?v=M8Q-PmQshqg&t=106
+            -
+                title: "JSON API 1.0 - Sean Devine"
+                description: ""
+                link: https://youtu.be/M8Q-PmQshqg?t=2960
+            -
+                title: "Writing Your Own Identity Map for Ember - Toran Billups"
+                description: ""
+                link: https://www.youtube.com/watch?v=N5p7cg02hTs
+            -
+                title: "Mastering the Head Tag: Part 2, Meta Tags"
+                description: ""
+                link: http://buildlab.co/u/validkeys/channels/1/episodes/mastering-the-head-tag-part-2-meta-tags
+            -
+                title: "Ember Weekend Podcast #16: Resources and Junk"
+                description: ""
+                link: https://emberweekend.com/episodes/resources-and-junk
+            -
+                title: "Ember Land #13: The Blog Post is Massive"
+                description: ""
+                link: http://ember.land/episodes/13
+            # -
+            #     title: "Ember Screencasts #5X: XXX (Xmins)"
+            #     description: "Plus a [new Pro video covering XXX](  ) ($) ."
+            #     link: The blog post is massive
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dublin - 13th July
+                link: "http://www.meetup.com/ember-columbus/events/222497279/"
+            -
+                title: San Francisco - 14th July
+                link: "http://www.meetup.com/Ember-SF/events/221266972/"
+            -
+                title: Atlanta - 14th July
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/223270864/"
+            -
+                title: Treviso - 14th July
+                link: "http://www.meetup.com/The-Ember-js-Treviso-Meetup/events/223303222/"
+            -
+                title: Cincinnati - 15th July
+                link: "http://www.meetup.com/EmberNati/events/223596681/"
+            -
+                title: Boston - 16th July
+                link: "http://www.meetup.com/Boston-Ember-js/events/223122409/"
+            -
+                title: Pittsburgh - 16th July
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/222969081/"
+            -
+                title: Saint Louis - 20th July
+                link: "http://www.meetup.com/STLEmber/events/223666070/"
+            -
+                title: Dallas - 20th July
+                link: "http://www.meetup.com/Ember-Dallas/events/222062795/"
+            -
+                title: Portland - 21st July
+                link: "http://www.meetup.com/Ember-PDX/events/223447925/"
+            -
+                title: Houston - 21st July
+                link: "http://www.meetup.com/EmberJS-Houston/events/223281138/"
+            -
+                title: Santa Monica - 22nd July
+                link: "http://www.meetup.com/Ember-SC/events/223744510/"
+            -
+                title: Seattle - 22nd July
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/223370114/"
+            -
+                title: Dublin - 22nd July
+                link: "http://www.meetup.com/emberjsdublin/events/223806906/"
+            -
+                title: New York - 23rd July
+                link: "http://www.meetup.com/EmberJS-NYC/events/223509427/"
+            -
+                title: Seattle - 23rd July
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/223789229/"
+            -
+                title: Austin - 23rd July
+                link: "http://www.meetup.com/Ember-ATX/events/223505163/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
