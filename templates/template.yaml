@@ -76,11 +76,6 @@ content:
         heading: "Code"
         headlines:
             -
-                title: "Real-time Image Resizing as a Service - imgix"
-                advert: true
-                description: ""
-                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-06-28
-            -
                 title: ""
                 description: ""
                 link:
@@ -137,6 +132,9 @@ content:
     -
         heading: "Events"
         headlines:
+            -
+                title: Global Online Meetup - 12th September
+                link: http://www.meetup.com/Ember-Global-Meetup/events/224541190/
             -
                 title: ""
                 description: ""

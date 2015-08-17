@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 
     ////////////////////////////////////////////////////////////////////////
 
-    var newsletterYaml = newsletterDir + 'ew-issue-z120-[2015-08-09].yaml';
+    var newsletterYaml = newsletterDir + 'ew-issue-z121-[2015-08-16].yaml';
 
     ////////////////////////////////////////////////////////////////////////
 
@@ -106,7 +106,7 @@ module.exports = function (grunt) {
                     headline.descriptionHTML = convertToHTML(headline.description);
 
                     try{
-                        validator.check(headline.link).isUrl();
+                        validator.isURL(headline.link);
                     }catch(e){
                         if (headline.link.indexOf('mailto:') !== -1){
                             grunt.log.warn('Double check that the following mailto is vailid', headline.link);
