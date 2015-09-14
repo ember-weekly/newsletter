@@ -1,0 +1,187 @@
+issue: 125
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.0.2 Released"
+                description: "Also [Ember v1.13.10 Released](https://github.com/emberjs/ember.js/releases/tag/v1.13.10) and [Ember v2.1.0 Beta 4 Released](https://github.com/emberjs/ember.js/releases/tag/v2.1.0-beta.4)."
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.0.2
+            -
+                title: "Ember Data v1.13.12 Released"
+                description: "Also [Ember Data v2.1.0 Beta 2 Released](https://github.com/emberjs/data/releases/tag/v2.1.0-beta.2)."
+                link: https://github.com/emberjs/data/releases/tag/v1.13.12
+            -
+                title: "API-First Training with Sean Devine - Sep 16th-18th - Online"
+                advert: true
+                description: "Learn API-first development with Ruby on Rails, JSON API, and Ember from Sean Devine of the Ruby on Rails Podcast. Save $200 with code EMBERWEEKLY"
+                link: http://apifirst.training?utm_medium=email&utm_source=EmberWeekly
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Fit Any Backend Into Ember with Custom Adapters & Serializers"
+                description: ""
+                link: http://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/
+            -
+                title: "Ember Closure Actions Have Return Values"
+                description: ""
+                link: http://alisdair.mcdiarmid.org/ember-closure-actions-have-return-values/
+            -
+                title: "Upgrading Ember: The Way It Was Intended (Part I)"
+                description: "Also see [Part II - In The Real World](http://www.jordanhawker.com/posts/128657408146) and [Part III - The Road To 2.0](http://www.jordanhawker.com/posts/128725196501)."
+                link: http://www.jordanhawker.com/posts/128580938346
+            -
+                title: "Ember Library #1: Addons, News & Podcasts, Oh My!"
+                description: "Also see [Ember Library #2: The Reference Section](http://www.jordanhawker.com/posts/128859380461)"
+                link: http://www.jordanhawker.com/posts/128796753326
+            -
+                title: "Use Helpers to Remove Two-Way Bindings"
+                description: ""
+                link: http://emberup.co/bindings-with-htmlbars-helpers/
+            -
+                title: "Complex Component Design in Ember.js - Intro"
+                description: ""
+                link: http://balinterdi.com/2015/09/10/complex-component-design-in-ember-intro.html
+            -
+                title: "Server-Side Validation in Your Ember Application"
+                description: ""
+                link: https://www.bignerdranch.com/blog/server-side-validation-in-your-ember-application
+            -
+                title: "How to Write Smoke Tests for an Ember Rails Stack"
+                description: ""
+                link: http://blog.codeship.com/how-to-write-smoke-tests-for-an-ember-rails-stack/
+            -
+                title: "RFC: WeakMap"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/weakmap/text/0066-template.md
+            -
+                title: "RFC: `url-for` Helper"
+                description: ""
+                link: https://github.com/GavinJoyce/rfcs/blob/gj/href-to/text/0000-url-for.md
+            -
+                title: "Ember Core Team Minutes - 11th September"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/86d85e82437af9f6f1343cce7d4b8a0d4e81c7a9/ember.js/2015-09/september-11.md
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-09-13
+            -
+                title: "a11y-announcer: An Accessible Ember Route Change Announcer"
+                description: ""
+                link: https://www.npmjs.com/package/a11y-announcer
+            -
+                title: "ember-computed-sortby: A New Proposal for Official CP Macro"
+                description: ""
+                link: https://www.npmjs.com/package/ember-computed-sortby
+            -
+                title: "ember-cp-validations: RoR Inspired Model Validation Framework Based on Computed Property"
+                description: ""
+                link: https://github.com/offirgolan/ember-cp-validations
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #25: Lingua Franca"
+                description: ""
+                link: https://emberweekend.com/episodes/lingua-franca
+            -
+                title: "Ember Screencasts #72: Introduction to Ember Actions"
+                description: "Plus a [new Pro video covering Action Bubbling](https://www.emberscreencasts.com/posts/73-action-bubbling) ($) ."
+                link: https://www.emberscreencasts.com/posts/72-introduction-to-ember-actions
+            -
+                title: "Setup Bootstrap with Ember.js"
+                description: ""
+                link: https://www.youtube.com/watch?v=DjgmQqKS1TU
+            -
+                title: "Ember Boston - September Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=JoRTYJjbf-I
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "EmberCamp London Conference - October 29th"
+                description: ""
+                link: http://embercamp.com/
+            -
+                title: Raleigh - 14th September
+                link: "http://www.meetup.com/Triangle-Ember/events/224877308/"
+            -
+                title: Vancouver - 14th September
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/224757011/"
+            -
+                title: Orlando - 15th September
+                link: "http://www.meetup.com/Ember-js-Orlando/events/224558908/"
+            -
+                title: München - 15th September
+                link: "http://www.meetup.com/Ember-js-Munich/events/223830507/"
+            -
+                title: Adelaide - 15th September
+                link: "http://www.meetup.com/adelaidejs/events/225088120/"
+            -
+                title: Amsterdam - 16th September
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/224579314/"
+            -
+                title: London - 17th September
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/225087946/"
+            -
+                title: "Seattle - 17th September"
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/225083298/"
+            -
+                title: Pittsburgh - 17th September
+                link: "http://www.meetup.com/Ember-js-Pittsburgh/events/225173718/"
+            -
+                title: Dallas - 21st September
+                link: "http://www.meetup.com/Ember-Dallas/events/225201116/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

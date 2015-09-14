@@ -133,9 +133,6 @@ content:
         heading: "Events"
         headlines:
             -
-                title: Global Online Meetup - 12th September
-                link: http://www.meetup.com/Ember-Global-Meetup/events/224541190/
-            -
                 title: ""
                 description: ""
                 link:
