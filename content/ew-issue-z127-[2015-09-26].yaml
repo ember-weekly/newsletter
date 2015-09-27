@@ -1,0 +1,167 @@
+issue: 127
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Select in Ember With Multiple Selection"
+                description: ""
+                link: http://balinterdi.com/2015/09/25/select-in-ember-with-multiple-selection.html
+            -
+                title: "How to Load Multiple Models in a Single Route"
+                description: ""
+                link: http://emberigniter.com/load-multiple-models-single-route/
+            -
+                title: "Ember Best Practices: Avoid Leaking State Into Factories"
+                description: ""
+                link: https://dockyard.com/blog/2015/09/18/ember-best-practices-avoid-leaking-state-into-factories
+            -
+                title: "Services and Self-Recomputing Helpers in Ember 2.0"
+                description: ""
+                link: https://60devs.com/services-and-self-recomputing-helpers-in-ember.html
+            -
+                title: "RFC: Network Service"
+                description: ""
+                link: https://github.com/tomdale/rfcs/blob/network-service/text/0000-network-service.md
+            -
+                title: "RFC: Router Service"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/router-service/text/0000-router-service.md
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Announcing Torii 0.6.0: Authentication Library for Ember.js"
+                description: ""
+                link: http://madhatted.com/2015/9/25/announcing-torii-0-6-0
+            -
+                title: "ember-cli-opinionated: Enhanced Ember Application Blueprint"
+                description: ""
+                link: https://github.com/elwayman02/ember-cli-opinionated
+            -
+                title: "Liquid Tether: Animations for Modals, Dropdowns, Popovers, and More"
+                description: ""
+                link: http://pzuraq.github.io/liquid-tether/
+            -
+                title: "ember-cli-fake-server: Simplify Stubbing Ajax Requests"
+                description: ""
+                link: https://github.com/201-created/ember-cli-fake-server
+            -
+                title: "ember-state-services: State Management Pattern for Ember Apps"
+                description: ""
+                link: https://github.com/stefanpenner/ember-state-services
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "HTMLBars Deep Dive with Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=DrFXw0QGDLM
+            -
+                title: "CRUD in Glimmerland - EmberSherpa"
+                description: ""
+                link: https://vimeo.com/139890518
+            -
+                title: "Visualising Data the Ember Way with E3 - Ben Holmes"
+                description: ""
+                link: https://vimeo.com/139890520
+            -
+                title: "Using ES7 Decorators in Ember - Marten Schilstra"
+                description: ""
+                link: https://www.youtube.com/watch?v=NVb9sfURUPU
+            -
+                title: "Ember Screencasts #76: Closure Actions in Ember 2.0 Components - Passing Functions"
+                description: "Plus a [new Pro video covering Metaprogramming with Parameter Currying](https://www.emberscreencasts.com/posts/77-closure-actions-in-ember-20-components-metaprogramming-with-parameter-currying) ($) ."
+                link: https://www.emberscreencasts.com/posts/76-closure-actions-in-ember-20-components-passing-functions
+            -
+                title: "Ember Weekend Podcast #27: Stickolas Cage"
+                description: ""
+                link: https://emberweekend.com/episodes/stickolas-cage
+            -
+                title: "Frontside Podcast Ep 30: Building Great Communities with Jamie White"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/30
+
+
+    -
+        heading: "Events"
+        headlines:
+        -
+            title: Portland - 29th September
+            link: "http://www.meetup.com/Ember-PDX/events/225373233/"
+        -
+            title: Seattle - 30th September
+            link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/224805231/"
+        -
+            title: Denver - 30th September
+            link: "http://www.meetup.com/Ember-js-Denver/events/225069522/"
+        -
+            title: Toronto - 1st October
+            link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/225563949/"
+        -
+            title: Dublin - 5th October
+            link: "http://www.meetup.com/ember-columbus/events/225171563/"
+        -
+            title: New York - 5th October
+            link: "http://www.meetup.com/EmberJS-NYC/events/225360120/"
+        -
+            title: Saint Louis - 5th October
+            link: "http://www.meetup.com/STLEmber/events/225562697/"
+        -
+            title: Dublin - 5th October
+            link: "http://www.meetup.com/ember-columbus/events/225171563/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -13,11 +13,6 @@ content:
                 title: ""
                 description: ""
                 link:
-            -
-                title: "Ember 2.0 Training with Erik Bryn - NYC Class in August!"
-                advert: true
-                description: "Come learn Ember 2.0 best practices from core team member Erik Bryn."
-                link: http://www.prototypal.io/
 
 
     # -
@@ -30,9 +25,9 @@ content:
         advert: true
         headlines:
             -
-                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
-                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
-                link: https://dockyard.com/contact/join-us
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
                 advert: true
 
     -
@@ -124,7 +119,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #6X: XXX (Xmins)"
+                title: "Ember Screencasts #7X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 

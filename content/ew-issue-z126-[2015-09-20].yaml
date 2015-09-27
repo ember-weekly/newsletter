@@ -1,0 +1,186 @@
+issue: 126
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Guides Status Update"
+                description: ""
+                link: http://emberjs.com/blog/2015/09/02/ember-guides-status-update.html
+            -
+                title: "Ember Data v2.0.1 Released"
+                description: "Also released [Ember Data v1.13.13](https://github.com/emberjs/data/releases/tag/v1.13.13) and [Ember Data v2.1.0 Beta 3](https://github.com/emberjs/data/releases/tag/v2.1.0-beta.3)"
+                link: https://github.com/emberjs/data/releases/tag/v2.0.1
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rock and Roll With Ember 2 Is Coming Soon!"
+                description: ""
+                link: http://balinterdi.com/2015/09/16/rock-and-roll-with-ember-2-is-coming-soon.html
+            -
+                title: "Test-Driving Ember.js Models"
+                description: ""
+                link: https://semaphoreci.com/community/tutorials/test-driving-ember-js-models
+            -
+                title: "Two Techniques for Keeping Your Ember.js Project Clean"
+                description: ""
+                link: http://spin.atomicobject.com/2015/09/17/ember-js-clean/
+            -
+                title: "How To Use Ember Observers"
+                description: ""
+                link: http://www.programwitherik.com/how-to-use-ember-ember-observers/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-route-layers: Easily Wire Up Close and Cancel Buttons"
+                description: ""
+                link: https://github.com/dollarshaveclub/ember-route-layers#ember-route-layers
+            -
+                title: "ember-weakmap: ES6 Inspired WeakMaps for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-weakmap
+            -
+                title: "Seeds: A Full-Stack Framework for Rapidly Building Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/seeds
+            -
+                title: "ember-tabs package: Makes Atom.io Work Better with Ember Pods"
+                description: ""
+                link: https://github.com/katalysatorab/atom-ember-tabs
+            -
+                title: "ember-responds-to: Mixins for Browser Event Handling"
+                description: ""
+                link: https://www.npmjs.com/package/ember-responds-to
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "ember-cli-deploy: One Command to Deploy Them All! - Aaron Chambers"
+                description: ""
+                link: https://vimeo.com/139125310
+            -
+                title: "ember-twiddle - Alex Speller"
+                description: ""
+                link: https://vimeo.com/139125309
+            -
+                title: "ember-grid - Bryan Crotaz"
+                description: ""
+                link: https://vimeo.com/139126170
+            -
+                title: "ember CLI deploy 0.5.0 - Michael Klein"
+                description: ""
+                link: https://www.youtube.com/watch?v=d4xwIv_9Cg0
+            -
+                title: "Ember Simple Auth 1.0 - Marco Otte-Witte"
+                description: ""
+                link: https://www.youtube.com/watch?v=aeH_9YGgt9E
+            -
+                title: "Smart Spaces UI - Andreas Hubel"
+                description: ""
+                link: https://www.youtube.com/watch?v=eL-cJCWKoe0
+            -
+                title: "How to Avoid The White Screen of Death in Your Ember Apps"
+                description: ""
+                link: http://ulisesrmzroche.info/blog/posts/how-to-avoid-the-white-screen-of-death-in-your
+            -
+                title: "Securing your Ember Application - Philippe de Rick"
+                description: "Also see [Part 2](https://vimeo.com/139197840)."
+                link: https://vimeo.com/139188362
+            -
+                title: "Ember Screencasts #74: ember-modal-dialog"
+                description: "Plus a [new Pro video covering Actions and Components in Ember 1.x](https://www.emberscreencasts.com/posts/75-actions-and-components-in-ember-1x) ($) ."
+                link: https://www.emberscreencasts.com/posts/74-ember-modal-dialog
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas - 21st September
+                link: "http://www.meetup.com/Ember-Dallas/events/225201116/"
+            -
+                title: Mountain View - 22nd September
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/225291295/"
+            -
+                title: 31056 Roncade - 22nd September
+                link: "http://www.meetup.com/The-Ember-js-Treviso-Meetup/events/225092527/"
+            -
+                title: Marina del Rey - 23rd September
+                link: "http://www.meetup.com/Ember-SC/events/225033831/"
+            -
+                title: New York - 24th September
+                link: "http://www.meetup.com/EmberJS-NYC/events/224874021/"
+            -
+                title: Austin - 24th September
+                link: "http://www.meetup.com/Ember-ATX/events/224955957/"
+            -
+                title: Jacksonville Beach - 24th September
+                link: "http://www.meetup.com/EmberJax/events/225421643/"
+            -
+                title: Melbourne - 24th September
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/224918872/"
+            -
+                title: Portland - 29th September
+                link: "http://www.meetup.com/Ember-PDX/events/225373233/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
