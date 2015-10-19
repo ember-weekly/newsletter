@@ -1,0 +1,185 @@
+issue: 129
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember 2.1 and 2.2 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/10/04/ember-2-1-released.html
+            -
+                title: "Ember Data 2.1 and 2.2 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/10/05/ember-data-2-1-released.html
+            -
+                title: "Test Driven Development Workshop November 20th"
+                description: "Learn how to apply test driven development with Ember.js during this remote 1 day hands-on workshop with Toran Billups."
+                advert: true
+                link: http://tdd-with-emberjs.com
+            -
+                title: "2-Day Ember Training with Balint Erdi, Author of Rock and Roll with Ember.js"
+                description: "Brussels, Belgium, Nov 26th-27th. Use coupon code BLACKDOG to get €50 off."
+                advert: true
+                link: http://value-object.com/training/ember-js-balint-erdi-nov2015.html
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Decorating Arrays in Ember"
+                description: ""
+                link: https://robots.thoughtbot.com/decorating-arrays-in-ember
+            -
+                title: "Acceptance Testing Best Practices with Ember"
+                description: ""
+                link: https://medium.com/the-backlog-by-nimbo-x/acceptance-testing-best-practices-with-ember-js-b8c5ef0ba3d2
+            -
+                title: "The Meta Guide to Upgrading Ember"
+                description: ""
+                link: https://www.emberscreencasts.com/meta_guide_to_upgrading_ember
+            -
+                title: "Implementing an Offscreen Menu in Ember"
+                description: ""
+                link: http://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/
+            -
+                title: "Immutable State Management in Ember (PoC)"
+                description: ""
+                link: http://ember-app-state-slider.divshot.io
+            -
+                title: "Routable Modal Dialog in Ember"
+                description: ""
+                link: http://adamniedzielski.github.io/blog/2015/10/09/routable-modal-dialog-in-ember-dot-js/
+            -
+                title: "Backburner.js – A Dive into the Implementation of the Ember Run Loop"
+                description: ""
+                link: http://www.peterfessel.com/2015/10/a-dive-into-the-implementation-of-the-ember-run-loop/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Spotlight #4: Ember-CLI-Document-Title"
+                description: ""
+                link: http://www.jordanhawker.com/posts/130670745471
+            -
+                title: "ember-select-list: A Select Dropdown Component"
+                description: ""
+                link: https://github.com/begedin/ember-select-list#ember-select-list
+            -
+                title: "emberx-file-input: File Selector Component"
+                description: ""
+                link: https://www.npmjs.com/package/emberx-file-input
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember 2.0 and the Road Ahead - Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=iSuCraN0yEY
+            -
+                title: "FastBoot and Beyond - Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=b-LZjy5QS7Q
+            -
+                title: "Introduction to ember-state-services"
+                description: ""
+                link: https://vimeo.com/141974064
+            -
+                title: "Introduction to ember-cli-opinionated"
+                description: ""
+                link: https://vimeo.com/141975109
+            -
+                title: "JavaScript Essentials for Ember.js Development"
+                description: ""
+                link: https://vimeo.com/142001242
+            -
+                title: "Inside Ember Twiddle"
+                description: ""
+                link: https://vimeo.com/141977383
+            -
+                title: "Introduction to ui-list"
+                description: ""
+                link: https://vimeo.com/141975827
+            -
+                title: "Ember Boston Meetup - October 2015"
+                description: ""
+                link: https://www.youtube.com/watch?v=LXpYCCCw6bY
+            -
+                title: "Ember Weekend Podcast #29: The Rule of Least Power"
+                description: ""
+                link: http://emberweekend.com/episodes/the-rule-of-least-power
+            -
+                title: "Ember Screencasts #80: Inject Code with Application Initializers"
+                description: "Plus a [new Pro video covering Loading Data with Instance Initiliazers](https://www.emberscreencasts.com/posts/81-load-data-with-instance-initiliazers) ($) ."
+                link: https://www.emberscreencasts.com/posts/80-inject-code-with-application-initializers
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 13th October
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/225428704/"
+            -
+                title: San Diego - 14th October
+                link: "http://www.meetup.com/sandiego-ember/events/225373218/"
+            -
+                title: Englewood - 14th October
+                link: "http://www.meetup.com/Ember-js-Denver/events/225411279/"
+            -
+                title: London - 15th October
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/224459328/"
+            -
+                title: Berlin - 15th October
+                link: "http://www.meetup.com/Ember-js-Berlin/events/225005861/"
+            -
+                title: Dallas - 19th October
+                link: "http://www.meetup.com/Ember-Dallas/events/225281879/"
+            -
+                title: "Mini Ember Unconference - San Francisco - 27th October"
+                link: https://www.eventbrite.com/e/mini-ember-unconference-in-san-francisco-2015-tickets-19016976288
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

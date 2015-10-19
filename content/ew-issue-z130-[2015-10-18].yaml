@@ -1,0 +1,187 @@
+issue: 130
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v1.13.14 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v1.13.14
+            -
+                title: "Ember Data v2.2.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.2.0-beta.2
+            -
+                title: "2-Day Ember Training with Balint Erdi, Author of Rock and Roll with Ember.js"
+                description: "Brussels, Belgium, Nov 26th-27th. Use coupon code BLACKDOG to get €50 off."
+                advert: true
+                link: http://value-object.com/training/ember-js-balint-erdi-nov2015.html
+            -
+                title: "3-Day Mastering Ember.js Workshop - Oct 29-31 in Marina del Ray, CA"
+                description: "Build your Ember skills from the ground up. Hands-on workshop with Chris Nelson from Gaslight. Save $120 with code: emberweekly"
+                advert: true
+                link: https://teamgaslight.com/training/courses/22-mastering-ember-js
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rails to Ember - Tip #15: Deploy it!"
+                description: ""
+                link: http://fromrailstoember.com/15-deploy-it/
+            -
+                title: "Creating a Todo Application Using the Phoenix Framework and Ember"
+                description: ""
+                link: http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js
+            -
+                title: "Should We Use Controllers in Ember 2.0?"
+                description: ""
+                link: http://emberigniter.com/should-we-use-controllers-ember-2.0/
+            -
+                title: "Communication Between Distant Components"
+                description: ""
+                link: http://emberigniter.com/communication-between-distant-components/
+            -
+                title: "RFC: Kebab Actions"
+                description: ""
+                link: https://github.com/mixonic/rfcs/blob/kebab/text/0000-kebab-actions.md
+            -
+                title: "A Gentle Introduction to Ember 2.0"
+                description: ""
+                link: https://medium.com/@jamesfuthey/a-gentle-introduction-to-ember-2-0-8ef1f378ee4
+            -
+                title: "Ember CLI Mirage a Tutorial with Examples"
+                description: ""
+                link: http://www.programwitherik.com/ember-mirage-tutorial-and-examples/
+            -
+                title: "Track Table Selections in Ember"
+                description: ""
+                link: http://blog.humblecoder.com/track-table-selections-in-ember/
+            -
+                title: "Ember Addon Nomenclature"
+                description: ""
+                link: http://www.jordanhawker.com/posts/131340074151
+            -
+                title: "Using ES7 Async Functions in Ember"
+                description: ""
+                link: https://topaxi.codes/using-es7-async-functions-in-ember/
+            -
+                title: "Stubbing a JSON API spec API with ember-cli-mirage"
+                description: ""
+                link: https://github.com/jsncmgs1/mirage-tutorial/blob/master/tutorial.md#stubbing-a-json-api-spec-api-with-ember-cli-mirage
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "PageFront: Hosting & Deployment for Ember Apps"
+                description: ""
+                link: http://pagefronthq.com/
+            -
+                title: "Ember Spotlight #5: Ember-Sinon"
+                description: ""
+                link: http://www.jordanhawker.com/posts/131144162401
+            -
+                title: "Ember Simple Auth 1.0"
+                description: ""
+                link: http://ember-simple-auth.com/
+            -
+                title: "ember-hypersearch: Hyperspeed Real-Time Search with Caching"
+                description: ""
+                link: https://www.npmjs.com/package/ember-hypersearch
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Screencasts #82: Introduction to Services"
+                description: "Plus a [new Pro video covering Session Services](https://www.emberscreencasts.com/posts/83-session-service) ($) ."
+                link: https://www.emberscreencasts.com/posts/82-introduction-to-services
+            -
+                title: "Progressive Enhancement is Dead, Long Live Progressive Enhancement - Tom Dale"
+                description: ""
+                link: https://www.youtube.com/watch?v=puOrC7cfjRI
+            # -
+            #     title: "Ember Weekend Podcast #2X: XXX"
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Ember Land #1X: XXX"
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas - 19th October
+                link: "http://www.meetup.com/Ember-Dallas/events/225281879/"
+            -
+                title: Vancouver - 19th October
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/226008781/"
+            -
+                title: Roncade - 20th October
+                link: "http://www.meetup.com/The-Ember-js-Treviso-Meetup/events/225748645/"
+            -
+                title: Adelaide - 20th October
+                link: "http://www.meetup.com/adelaidejs/events/225997895/"
+            -
+                title: Palo Alto - 21st October
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/226015194/"
+            -
+                title: Durham - 21st October
+                link: "http://www.meetup.com/Triangle-Ember/events/225434840/"
+            -
+                title: Aliso Viejo - 21st October
+                link: "http://www.meetup.com/Ember-SC/events/225033835/"
+            -
+                title: Budapest - 21st October
+                link: "http://www.meetup.com/ember-bp/events/226000662/"
+            -
+                title: New York - 22nd October
+                link: "http://www.meetup.com/EmberJS-NYC/events/224874029/"
+            -
+                title: Austin - 22nd October
+                link: "http://www.meetup.com/Ember-ATX/events/224875953/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

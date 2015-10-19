@@ -1,0 +1,167 @@
+issue: 128
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Integration Testing Multiselect with Ember"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2015/09/27/integration-testing-multiselect-with-ember/
+            -
+                title: "Ember Best Practices: DRYer and less fragile Acceptance Tests"
+                description: ""
+                link: https://dockyard.com/blog/2015/09/25/ember-best-practices-acceptance-tests
+            -
+                title: "Using Ember Simple Auth 1.0 with Devise"
+                description: ""
+                link: http://romulomachado.github.io/2015/09/28/using-ember-simple-auth-with-devise.html
+            -
+                title: "Rock and Roll With Ember 2 Just Went Live"
+                description: ""
+                link: http://balinterdi.com/2015/10/01/rock-and-roll-with-ember-2-just-went-live.html
+            -
+                title: "Router Service for Ember Apps"
+                description: ""
+                link: https://60devs.com/router-service-for-ember-apps.html
+            -
+                title: "Adding Analytics to Your Ember Apps Once and for All Using Segment's Analytics.js"
+                description: ""
+                link: https://60devs.com/adding-analytics-to-your-ember-apps-once-and-for-all-using-segment-analytics-js.html
+            -
+                title: "Model-based Sidebars in Ember"
+                description: ""
+                link: http://blog.humblecoder.com/model-based-sidebars-in-ember/
+            -
+                title: "Test Driven Development Workshop November 13th"
+                description: "Learn how to apply test driven development with Ember.js during this remote 1 day hands-on workshop with Toran Billups."
+                advert: true
+                link: http://tdd-with-emberjs.com
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-macaroni: Collection of Computed Property Macros"
+                description: ""
+                link: https://www.npmjs.com/package/ember-macaroni
+            -
+                title: "ember-cli-custom-assertions-collection: Library of Assertions for QUnit in Ember"
+                description: ""
+                link: https://github.com/lolmaus/ember-cli-custom-assertions-collection
+            -
+                title: "ember-unauthorized: Mixins for Handling Unauthorized Access to App Content"
+                description: ""
+                link: https://github.com/elwayman02/ember-unauthorized
+            -
+                title: "Ember Spotlight #3: Ember-Redirect"
+                description: ""
+                link: http://www.jordanhawker.com/posts/130166792716
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Inside Glimmer: What Makes Ember's Rendering Engine Tick - Tom Dale"
+                description: ""
+                link: https://www.youtube.com/watch?v=VY-r7Ac06ho
+            -
+                title: "Ember Screencasts #78: Closure Action In Ember 2.0 Components - Return Value"
+                description: "Plus a [new Pro video covering Block Components](https://www.emberscreencasts.com/posts/79-closure-actions-in-ember-20-components-block-components) ($) ."
+                link: https://www.emberscreencasts.com/posts/78-closure-action-in-ember-20-components-return-values
+            -
+                title: "What Is Ember Twiddle? An Interview With Gaurav Munjal"
+                description: ""
+                link: http://www.programwitherik.com/what-is-ember-twiddle-an-interview-with-guarav-munjal/
+            -
+                title: "Ember Problems: Pagination with an API"
+                description: ""
+                link: http://ryanlabouve.com/ember-problems-pagination-with-api/
+            -
+                title: "Ember Problems: Infiniscroll with an API"
+                description: ""
+                link: http://ryanlabouve.com/ember-problems-infiniscroll-with-api/
+            -
+                title: "EmberATX September 2015"
+                description: "Includes talks on a11y-announcer, Ember & Ember-CLI, and Drag & Drop."
+                link: https://www.youtube.com/watch?v=w3XKLoLNCdY
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dublin - 5th October
+                link: "http://www.meetup.com/ember-columbus/events/225171563/"
+            -
+                title: New York - 5th October
+                link: "http://www.meetup.com/EmberJS-NYC/events/225360120/"
+            -
+                title: Saint Louis - 5th October
+                link: "http://www.meetup.com/STLEmber/events/225562697/"
+            -
+                title: Indianapolis - 6th October
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/225058471/"
+            -
+                title: Chicago - 7th October
+                link: "http://www.meetup.com/Chicago-Ember-js/events/225736386/"
+            -
+                title: Boston - 8th October
+                link: "http://www.meetup.com/Boston-Ember-js/events/223886583/"
+            -
+                title: Montevideo - 8th October
+                link: "http://www.meetup.com/ember-montevideo/events/224664352/"
+            -
+                title: Zürich - 8th October
+                link: "http://www.meetup.com/Ember-js-Zurich/events/225417801/"
+            -
+                title: Atlanta - 13th October
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/225428704/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
