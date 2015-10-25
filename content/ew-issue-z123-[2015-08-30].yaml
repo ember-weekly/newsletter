@@ -1,0 +1,191 @@
+issue: 123
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "How to Do a Select (Dropdown) in Ember 2.0?"
+                description: ""
+                link: http://balinterdi.com/2015/08/29/how-to-do-a-select-dropdown-in-ember-20.html
+            -
+                title: "5 Essential Ember 2.0 Concepts You Must Understand"
+                description: ""
+                link: http://emberigniter.com/5-essential-ember-2.0-concepts/
+            -
+                title: "Using Ember-CLI as a Single Page Static Site Generator"
+                description: ""
+                link: http://blog.current.sh/using-ember-cli-as-a-single-page-static-site-generator/
+            -
+                title: "How an Ember JS Bin Works and How to Create Your Own"
+                description: ""
+                link: https://medium.com/@bantic/how-an-ember-js-bin-works-and-how-to-create-your-own-930ad962887d
+            -
+                title: "Side-Load Like a Pro with Ember-RESTless"
+                description: ""
+                link: http://spin.atomicobject.com/2015/08/26/side-load-like-pro-ember-restless/
+            -
+                title: "10 Steps for Ramping into Ember.js Quickly"
+                description: ""
+                link: http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/
+            -
+                title: "API-First Training with Sean Devine - Sep 16th-18th - Online"
+                advert: true
+                description: "Learn API-first development with Ruby on Rails, JSON API, and Ember from Sean Devine of the Ruby on Rails Podcast. Save $200 with code EMBERWEEKLY"
+                link: http://apifirst.training?utm_medium=email&utm_source=EmberWeekly
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-08-23
+            -
+                title: "ember-hooks: A Component Mixin to Log Glimmer Hooks"
+                description: ""
+                link: https://github.com/embersherpa/ember-hooks
+            -
+                title: "ember-load: A Spinner While Your Ember App Loads"
+                description: ""
+                link: https://www.npmjs.com/package/ember-load
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "6 x Videos from Ember San Francisco June 2015 Meetup"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PLjVN4mHRz23wsZ6e_tY5htAkfuwe5bRz7
+            -
+                title: "Designing Mental Models for Ember - Mitch Lloyd"
+                description: ""
+                link: https://www.youtube.com/watch?v=1E2E7qEkyeA
+            -
+                title: "Angle Bracket Components Sneak Peak - Yehuda Katz and Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=LsUSurw6sg4
+            -
+                title: "Visualizing Data the Ember Way with E3 - Ben Holmes"
+                description: ""
+                link: https://www.youtube.com/watch?v=9lXQ024NoRc
+            -
+                title: "Instrumenting Page Load Performance in Single Page Apps - Mike North"
+                description: ""
+                link: https://www.youtube.com/watch?v=Nbcnnjf89M4
+            -
+                title: "Ember Screencasts #68: Custom Validations with ember-validations"
+                description: "Plus a [new Pro video covering Custom Validators with Multiple Keys](https://www.emberscreencasts.com/posts/69-custom-validators-with-multiple-keys) ($) ."
+                link: https://www.emberscreencasts.com/posts/68-custom-validations-with-ember-validations
+            -
+                title: "Ember Weekend Podcast #23: Testing Talk"
+                description: ""
+                link: http://emberweekend.com/episodes/testing-talk
+            -
+                title: "Frontside The Podcast: Open Source, UX, and Ember with Trek Glowacki"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/28
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Indianapolis - 1st September
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/224457731/"
+            -
+                title: Seattle - 2nd September
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/224570559/"
+            -
+                title: Ottawa - 2nd September
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/224191972/"
+            -
+                title: Brussels - 2nd September
+                link: "http://www.meetup.com/Ember-js-Belgium/events/224581553/"
+            -
+                title: Stockholm - 2nd September
+                link: "http://www.meetup.com/Stockholm-Ember-js-Meetup/events/224736152/"
+            -
+                title: Toronto - 3rd September
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/224852095/"
+            -
+                title: Hamburg - 3rd September
+                link: "http://www.meetup.com/emberHH/events/223837353/"
+            -
+                title: Saint Louis - 7th September
+                link: "http://www.meetup.com/STLEmber/events/224787685/"
+            -
+                title: Columbus - 8th September
+                link: "http://www.meetup.com/ember-columbus/events/224879067/"
+            -
+                title: Atlanta - 8th September
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/224441763/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

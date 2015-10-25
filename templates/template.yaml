@@ -34,6 +34,11 @@ content:
         heading: "Reading"
         headlines:
             -
+                title: "API-First Training with Sean Devine - Sep 16th-18th - Online"
+                advert: true
+                description: "Learn API-first development with Ruby on Rails, JSON API, and Ember from Sean Devine of the Ruby on Rails Podcast. Save $200 with code EMBERWEEKLY"
+                link: http://apifirst.training?utm_medium=email&utm_source=EmberWeekly
+            -
                 title: ""
                 description: ""
                 link:
@@ -70,6 +75,11 @@ content:
     -
         heading: "Code"
         headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-08-23
             -
                 title: ""
                 description: ""

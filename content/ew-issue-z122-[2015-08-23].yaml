@@ -1,0 +1,181 @@
+issue: 122
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.1 Beta Released"
+                description: "Also [Ember v1.13.9 Released](https://github.com/emberjs/ember.js/releases/tag/v1.13.9) and [Ember v2.0.1 Released](https://github.com/emberjs/ember.js/releases/tag/v2.0.1)"
+                link: http://emberjs.com/blog/2015/08/16/ember-2-1-beta-released.html
+            -
+                title: "Ember Data v2.0.0 Released"
+                description: "Also [Ember Data v1.13.11 Released](https://github.com/emberjs/data/releases/tag/v1.13.11) and [Ember Data v2.1.0 Beta 2 Released](https://github.com/emberjs/ember.js/releases/tag/v2.1.0-beta.2)"
+                link: https://github.com/emberjs/data/releases/tag/v2.0.0
+            -
+                title: "Community Versioning for Ember Content"
+                description: "A badge to clearly identify what version of Ember a community article supports."
+                link: http://mixonic.github.io/ember-community-versions/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "DockYard is hiring Sr. Ember developers for their Boston office. Work with one of the leading Ember.js companies."
+                description: "DockYard offers competitive salaries, full health care/dental, six weeks of vacation per year, open source days, and up to $7k relocation for candidates outside of Boston."
+                link: https://dockyard.com/contact/join-us
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "API-First Training with Sean Devine - Sep 16th-18th - Online"
+                advert: true
+                description: "Learn API-first development with Ruby on Rails, JSON API, and Ember from Sean Devine of the Ruby on Rails Podcast. Save $200 with code EMBERWEEKLY"
+                link: http://apifirst.training?utm_medium=email&utm_source=EmberWeekly
+            -
+                title: "Getting Started With Ember.js 2.0 Using Ember-CLI"
+                description: ""
+                link: https://www.twilio.com/blog/2015/08/getting-started-with-ember-js-2-0-using-ember-cli.html
+            -
+                title: "Ember Wednesday #3 - Ember News Recap"
+                description: ""
+                link: http://emberup.co/ember-wednesday-3/
+            -
+                title: "A Look Into Ember Authentication Using Sane-Auth"
+                description: ""
+                link: http://www.programwitherik.com/a-look-into-sane-auth-a-sane-stack-addon/
+            -
+                title: "RFC: Capture Based Eventing"
+                description: ""
+                link: https://github.com/runspired/rfcs/blob/master/active/0000-capture-based-eventing.md
+            -
+                title: "Proposal: Improve Guides Organization"
+                description: ""
+                link: https://github.com/emberjs/guides/issues/639
+            -
+                title: "Building Team Time Zone: 5-Part Series on Building Ember App with Slack API"
+                description: ""
+                link: http://alisdair.mcdiarmid.org/building-team-time-zone-inception-prototype-and-planning/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Real-time Image Resizing as a Service - imgix"
+                advert: true
+                description: ""
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-08-23
+            -
+                title: "ember-cli-sublime-snippets: Ember Snippet Support for Sublime Text 3"
+                description: ""
+                link: https://github.com/terminalvelocity/ember-cli-sublime-snippets
+            -
+                title: "ember-aupac-mocks: Mocking and Matching Library for Unit Testing Ember-CLI Apps"
+                description: ""
+                link: https://github.com/aupac/ember-aupac-mocks
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "The PEEP Stack (Postgres, Elixir, Ember, Phoenix) - Rik Lomas"
+                description: ""
+                link: https://vimeo.com/136696498
+            -
+                title: "How to Design Reusable Components in Ember 2.0 - Ju Liu"
+                description: ""
+                link: https://vimeo.com/136671317
+            -
+                title: "Ember Weekend Podcast #22: Clear the Runway"
+                description: ""
+                link: https://emberweekend.com/episodes/clear-the-runway
+            -
+                title: "Ember Screencasts #6X: Advanced Validations with ember-validations"
+                description: "Plus a [new Pro video covering Conditional Validations](https://www.emberscreencasts.com/posts/67-conditional-validations) ($) ."
+                link: https://www.emberscreencasts.com/posts/66-advanced-validations-with-ember-validations
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver - 24th August
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/224040087/"
+            -
+                title: San Francisco - 25th August
+                link: "http://www.meetup.com/Ember-SF/events/223448055/"
+            -
+                title: New York - 27th August
+                link: "http://www.meetup.com/EmberJS-NYC/events/224089438/"
+            -
+                title: Austin - 27th August
+                link: "http://www.meetup.com/Ember-ATX/events/223968400/"
+            -
+                title: Melbourne - 27th August
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/223785698/"
+            -
+                title: Seattle - 2nd September
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/224570559/"
+            -
+                title: Ottawa - 2nd September
+                link: "http://www.meetup.com/Ember-js-Ottawa/events/224191972/"
+            -
+                title: Brussels - 2nd September
+                link: "http://www.meetup.com/Ember-js-Belgium/events/224581553/"
+            -
+                title: Stockholm - 2nd September
+                link: "http://www.meetup.com/Stockholm-Ember-js-Meetup/events/224736152/"
+            -
+                title: Hamburg - 3rd September
+                link: "http://www.meetup.com/emberHH/events/223837353/"
+            -
+                title: Global Online Meetup - 12th September
+                link: http://www.meetup.com/Ember-Global-Meetup/events/224541190/
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
