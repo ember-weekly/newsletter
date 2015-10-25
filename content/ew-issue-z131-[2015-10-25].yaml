@@ -1,0 +1,180 @@
+issue: 131
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.2.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.2.0-beta.2
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build apps with modern patterns available in Ember 2.x from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+            -
+                title: "3-Day Mastering Ember.js Workshop - Oct 29-31 in Marina del Ray, CA"
+                description: "Build your Ember skills from the ground up. Hands-on workshop with Chris Nelson from Gaslight. Save $120 with code: `emberweekly`"
+                advert: true
+                link: https://teamgaslight.com/training/courses/22-mastering-ember-js
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The Tale of Two Bindings"
+                description: ""
+                link: http://balinterdi.com/2015/10/22/the-tale-of-two-bindings.html
+            -
+                title: "Ember Best Practices: Don't Don't Override Init"
+                description: ""
+                link: https://dockyard.com/blog/2015/10/19/2015-dont-dont-override-init
+            -
+                title: "Ember Best Practices: Actions Down, Data Up... Wait What?"
+                description: ""
+                link: https://dockyard.com/blog/2015/10/14/best-practices-data-down-actions-up
+            -
+                title: "Updating to Ember Simple Auth 1.0"
+                description: ""
+                link: http://log.simplabs.com/post/131698328145/updating-to-ember-simple-auth-10
+            -
+                title: "Choosing a Front End Framework: Angular vs Ember vs React"
+                description: ""
+                link: http://smashingboxes.com/ideas/choosing-a-front-end-framework-angular-ember-react
+            -
+                title: "Ember Data: Working with Custom API Endpoints"
+                description: ""
+                link: http://blog.ksol.fr/ember-data-working-with-custom-api-endpoints
+            -
+                title: "Creating a Sortable Table Component in Ember"
+                description: ""
+                link: http://kevink.me/2015/10/23/creating-a-sortable-table-component-in-ember-js/
+            -
+                title: "Inheriting from LinkComponent in Ember is Amazing!"
+                description: ""
+                link: http://emberweekend.com/blog/faef1058c3-inheriting-from-linkcomponent-in-ember-is-amazing
+            -
+                title: "Force Ember Data to Skip Cache with `reload: true`"
+                description: ""
+                link: http://emberweekend.com/blog/da277635d1-force-ember-data-to-skip-cache-with-reload-true
+            -
+                title: "Using the `wait` Helper in Ember Integration Tests"
+                description: ""
+                link: http://emberweekend.com/blog/851fb1e6f7-using-the-wait-helper-in-ember-integration-tests
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Perforator: Ember Performance Chrome Extension"
+                description: ""
+                link: https://www.reddit.com/r/emberjs/comments/3pps6e/perforator_ember_performance_chrome_extension/
+            -
+                title: "ember-data-partial-model: Add Support for Partial Models to Ember Data"
+                description: ""
+                link: https://github.com/BookingSync/ember-data-partial-model#ember-data-partial-model
+            -
+                title: "Ember Spotlight #6: Ember-Pagefront"
+                description: ""
+                link: http://www.jordanhawker.com/posts/131585214886
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #31: Hijacking TIL for fun and profit"
+                description: ""
+                link: http://emberweekend.com/episodes/hijacking-til
+            -
+                title: "A Lap Around the Ember Source Code with Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=RN_kVPga9y8
+            -
+                title: "A Comprehensive Discussion of Ember Services - Chris Thorburn"
+                description: ""
+                link: https://www.youtube.com/watch?v=zwb3HvjpG3o&index=1&list=PLaKDKbFmAv-aLYGogQ63zzKeUpy_opDia
+            -
+                title: "Ember Screencasts #84: Remember your Session with Cookies"
+                description: "Plus a [new Pro video covering Authenticated Routes](https://www.emberscreencasts.com/posts/85-authenticated-routes) ($) ."
+                link: https://www.emberscreencasts.com/posts/84-remember-your-session-with-cookies
+            -
+                title: "Ember NYC Meetup - October 2015"
+                description: "Including [Building Tetris with Ember](https://www.youtube.com/watch?v=Cm0SGRer05w&feature=youtu.be&t=14m48s) and [Weird Tricks You Can Stop Using in Ember 2.0](https://youtu.be/Cm0SGRer05w?t=3672)"
+                link: https://www.youtube.com/watch?v=Cm0SGRer05w
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Houston - 27th October
+                link: "http://www.meetup.com/EmberJS-Houston/events/225731813/"
+            -
+                title: Seattle - 28th October
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/226029715/"
+            -
+                title: Denver - 28th October
+                link: "http://www.meetup.com/Ember-js-Denver/events/225741647/"
+            -
+                title: Jacksonville Beach - 29th October
+                link: "http://www.meetup.com/EmberJax/events/226177128/"
+            -
+                title: Melbourne - 29th October
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/225295721/"
+            -
+                title: Dublin - 2nd November
+                link: "http://www.meetup.com/ember-columbus/events/225832620/"
+            -
+                title: Saint Louis - 2nd November
+                link: "http://www.meetup.com/STLEmber/events/226151881/"
+            -
+                title: Indianapolis - 3rd November
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/225834840/"
+            -
+                title: "Global Ember Meetup"
+                link: https://www.bigmarker.com/communities/global-ember-meetup/about
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

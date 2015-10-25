@@ -13,6 +13,11 @@ content:
                 title: ""
                 description: ""
                 link:
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build apps with modern patterns available in Ember 2.x from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
 
 
     # -
@@ -76,11 +81,6 @@ content:
         heading: "Code"
         headlines:
             -
-                title: "Real-time Image Resizing as a Service - imgix"
-                advert: true
-                description: ""
-                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_term=real-time-image-resizing-as-a-service&utm_content=real-time-image-resizing-as-a-service&utm_campaign=ember-weekly-2015-08-23
-            -
                 title: ""
                 description: ""
                 link:
@@ -121,7 +121,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #2X: XXX"
+                title: "Ember Weekend Podcast #3X: XXX"
                 description: ""
                 link:
             -
@@ -129,7 +129,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #7X: XXX"
+                title: "Ember Screencasts #8X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 
