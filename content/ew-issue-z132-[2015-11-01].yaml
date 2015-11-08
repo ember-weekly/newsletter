@@ -1,0 +1,181 @@
+issue: 132
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "7 Reasons to Use Ember.js"
+                description: ""
+                link: http://blog.codeschool.io/2015/10/26/7-reasons-to-use-ember-js/
+            -
+                title: "What’s New in Ember 2.0?"
+                description: ""
+                link: http://www.sitepoint.com/whats-new-in-ember-2/
+            -
+                title: "Fastboot Proofing Your Ember Addons"
+                description: ""
+                link: https://emberweekend.com/blog/933848db54-fastboot-proofing-your-ember-addons
+            -
+                title: "Module Imports in Ember-CLI"
+                description: ""
+                link: https://emberweekend.com/blog/059199c7d4-module-imports-in-embercli
+            -
+                title: "The Difference Between `rootURL` and `baseURL`"
+                description: ""
+                link: https://emberweekend.com/blog/d1aff13969-the-difference-between-rooturl-and-baseurl
+            -
+                title: "Learn Ember with Kabisa's Free Workshop"
+                description: ""
+                link: http://www.theguild.nl/learn-ember-with-our-free-workshop
+            -
+                title: "Ember-CLI-Deploy Core Team Meeting Notes - 30 October"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli-deploy/wiki/30-October-2015-core-team-meeting-notes
+            -
+                title: "Ember Best Practices: Stop bubbling actions and use closure actions"
+                description: ""
+                link: https://dockyard.com/blog/2015/10/29/ember-best-practice-stop-bubbling-and-use-closure-actions
+            -
+                title: "Ember Services: Logging Route Transitions"
+                description: ""
+                link: http://kevink.me/2015/10/30/ember-services-logging-route-transitions/
+            -
+                title: "Ember Way to Format Data Using Dynamic CPs, Services and Helpers"
+                description: ""
+                link: https://60devs.com/the-ember-way-to-format-data-using-dynamic-cps-services-and-helpers.html
+            -
+                title: "Shell Script to Deploy and Activate Your Ember App to S3"
+                description: ""
+                link: http://www.mtmckenna.com/posts/2015/10/25/shell-script-to-deploy-and-activate-your-ember-app/
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Power Select: Powerful and Customizable Select Component for Ember"
+                description: ""
+                link: http://www.ember-power-select.com/
+            -
+                title: "ember-one-way-input: Native One-Way Input Ember Component"
+                description: ""
+                link: https://github.com/dockyard/ember-one-way-input
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #32: I <3 EmberNYC "
+                description: ""
+                link: https://emberweekend.com/episodes/i-%3C3-ember-nyc
+            -
+                title: "Ember Screencasts #86: Login Form"
+                description: "Plus a [new Pro video covering Login Form Validation and Flash Messages](https://www.emberscreencasts.com/posts/87-login-form-validations-and-flash-messages) ($) ."
+                link: https://www.emberscreencasts.com/posts/86-login-form
+            -
+                title: "Inside Ember Mirage - Sam Selikoff"
+                description: ""
+                link: https://vimeo.com/144256352
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dublin - 2nd November
+                link: "http://www.meetup.com/ember-columbus/events/225832620/"
+            -
+                title: Saint Louis - 2nd November
+                link: "http://www.meetup.com/STLEmber/events/226151881/"
+            -
+                title: Vancouver - 2nd November
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/226406611/"
+            -
+                title: Dublin - 2nd November
+                link: "http://www.meetup.com/ember-columbus/events/225832620/"
+            -
+                title: Indianapolis - 3rd November
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/225834840/"
+            -
+                title: Chicago - 5th November
+                link: "http://www.meetup.com/Chicago-Ember-js/events/226213671/"
+            -
+                title: Toronto - 5th November
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/226187820/"
+            -
+                title: Barcelona - 5th November
+                link: "http://www.meetup.com/Ember-js-Barcelona/events/225464557/"
+            -
+                title: "Global Ember Meetup - 7th November"
+                description: ""
+                link: https://www.bigmarker.com/global-ember-meetup/Ember-Authentication-Day
+            -
+                title: Laguna Niguel - 7th November
+                link: "http://www.meetup.com/Ember-SC/events/226389095/"
+            -
+                title: Houston - 9th November
+                link: "http://www.meetup.com/EmberJS-Houston/events/225983036/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

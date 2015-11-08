@@ -15,7 +15,7 @@ content:
                 link:
             -
                 title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
-                description: "Learn how to build apps with modern patterns available in Ember 2.x from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
                 advert: true
                 link: http://ember-workshop.simplabs.com/
 
@@ -38,11 +38,6 @@ content:
     -
         heading: "Reading"
         headlines:
-            -
-                title: "API-First Training with Sean Devine - Sep 16th-18th - Online"
-                advert: true
-                description: "Learn API-first development with Ruby on Rails, JSON API, and Ember from Sean Devine of the Ruby on Rails Podcast. Save $200 with code EMBERWEEKLY"
-                link: http://apifirst.training?utm_medium=email&utm_source=EmberWeekly
             -
                 title: ""
                 description: ""
