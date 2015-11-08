@@ -1,0 +1,201 @@
+issue: 133
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "EmberCamp 2015 Notes"
+                description: ""
+                link: http://www.peterfessel.com/2015/10/embercamp-2015-notes/
+            -
+                title: "Ghost & Ember @ EmberCamp"
+                description: ""
+                link: https://hannah.wf/embercamp-2015/
+            -
+                title: "Making Ember-101 Creative Commons"
+                description: ""
+                link: http://blog.abuiles.com/blog/2015/11/06/making-ember-101-creative-commons/
+            -
+                title: "Implementing Authentication with Ember Services"
+                description: ""
+                link: http://emberigniter.com/implementing-authentication-with-ember-services/
+            -
+                title: "Real-world Authentication with Ember Simple Auth"
+                description: ""
+                link: http://emberigniter.com/real-world-authentication-with-ember-simple-auth/
+            -
+                title: "Testing in Ember with Ember CLI"
+                description: ""
+                link: https://www.codementor.io/ember-js/tutorial/testing-emberjs-with-ember-cli
+            -
+                title: "Testing Serializers in Ember"
+                description: ""
+                link: http://thejsguy.com/2015/11/04/testing-serializers-in-ember.html
+            -
+                title: "Deploying Ember to AWS CloudFront."
+                description: ""
+                link: http://blog.testdouble.com/posts/2015-11-03-deploying-ember-to-aws-cloudfront-using-ember-cli-deploy.html
+            -
+                title: "Real-Time Chat with Ember 2 and Pusher"
+                description: ""
+                link: https://blog.pusher.com/real-time-chat-with-ember-2-and-pusher
+            -
+                title: "Advanced usage of Ember Inspector"
+                description: ""
+                link: https://medium.com/@martinmalinda/advanced-usage-of-ember-inspector-9f018c273b0f
+            -
+                title: "Ember Core Team Minutes - 6th November"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2015-11/november-6.md
+            -
+                title: "A Migration Path to JSON API with Ember Data from AMS"
+                description: ""
+                link: http://tech.kinesis.org/2015/11/06/a-migration-path-to-json-api-with-ember-data-from-ams/
+            -
+                title: "3-Day Ember.js 2.0 Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. The workshop will be held at betahaus Berlin."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Introduction to Ember 2.0 - Matt White"
+                description: ""
+                link: https://vimeo.com/144684394
+            -
+                title: "0 to Ember - Tracy Lee"
+                description: ""
+                link: https://vimeo.com/144527585
+            -
+                title: "Debugging - Ember Sherpa"
+                description: ""
+                link: https://vimeo.com/144526575
+            -
+                title: "Ember Weekend Podcast #33: Context Clues"
+                description: ""
+                link: https://emberweekend.com/episodes/context-clues
+            -
+                title: "The Web Platform Podcast: Ember 2 & The Ember Community"
+                description: ""
+                link: http://thewebplatform.libsyn.com/68-ember-2-the-ember-community
+            -
+                title: "Ember Screencasts #88: Token Authentication with Server Sessions"
+                description: "Plus a [new Pro video covering Registration Form](https://www.emberscreencasts.com/posts/89-registration-form) ($) ."
+                link: https://www.emberscreencasts.com/posts/88-token-authentication-with-server-sessions
+            -
+                title: "Learning with Ember Screencasts and Jeffrey Biles"
+                description: ""
+                link: http://www.programwitherik.com/learning-with-emberscreencasts-jeff-biles/
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Houston - 9th November
+                link: "http://www.meetup.com/EmberJS-Houston/events/225983036/"
+            -
+                title: San Francisco - 10th November
+                link: "http://www.meetup.com/Ember-SF/events/224766565/"
+            -
+                title: Atlanta - 10th November
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/226087099/"
+            -
+                title: San Diego - 11th November
+                link: "http://www.meetup.com/sandiego-ember/events/226146724/"
+            -
+                title: Denver - 11th November
+                link: "http://www.meetup.com/Ember-js-Denver/events/226475514/"
+            -
+                title: London - 12th November
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/224459337/"
+            -
+                title: Boston - 12th November
+                link: "http://www.meetup.com/Boston-Ember-js/events/225354972/"
+            -
+                title: St. Paul - 12th November
+                link: "http://www.meetup.com/EmberMN/events/226371069/"
+            -
+                title: Berlin - 12th November
+                link: "http://www.meetup.com/Ember-js-Berlin/events/226562648/"
+            -
+                title: Dallas - 16th November
+                link: "http://www.meetup.com/Ember-Dallas/events/225281912/"
+            -
+                title: Vancouver - 16th November
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/226406638/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
