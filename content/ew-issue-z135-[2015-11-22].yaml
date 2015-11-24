@@ -1,0 +1,164 @@
+issue: 135
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.2 Released and v2.3 Beta Released"
+                description: "Also released: [Ember v1.13.11](https://github.com/emberjs/ember.js/releases/tag/v1.13.11) and [Ember v2.1.1](https://github.com/emberjs/ember.js/releases/tag/v2.1.1)."
+                link: http://emberjs.com/blog/2015/11/16/ember-2-2-released.html
+            -
+                title: "Ember-Data v2.2 Released and v2.3 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2015/11/17/ember-data-2-2-released.html
+            -
+                title: "Ember-CLI 1.13.13 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v1.13.13
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Use discount code EMBERWEEKLY for a 20% discount."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Best Practices: Functional Programming and the Observer Effect"
+                description: ""
+                link: https://dockyard.com/blog/2015/11/16/best-practices-functional-programming-and-the-observer-effect
+            -
+                title: "JavaScript Frameworks and Mobile Performance"
+                description: ""
+                link: http://tomdale.net/2015/11/javascript-frameworks-and-mobile-performance/
+            -
+                title: "React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight"
+                description: ""
+                link: https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/
+            -
+                title: "Deploying Ember Apps to S3 and Cloudfront"
+                description: ""
+                link: http://gridium.com/deploying-ember-apps-to-s3-and-cloudfront/
+            -
+                title: "Behavior-Driven Rails 5 API for an Ember.js Application"
+                description: ""
+                link: https://semaphoreci.com/community/tutorials/behavior-driven-rails-5-api-for-an-ember-js-application
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "vsc-ember-cli: Turn Visual Studio Code into an Ember-CLI IDE"
+                description: ""
+                link: https://github.com/felixrieseberg/vsc-ember-cli
+            -
+                title: "ember-cli-Mutation-Observer: Subscribe to DOM Changes in Your Components"
+                description: ""
+                link: https://github.com/zzarcon/ember-cli-Mutation-Observer
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #35: Copy Pasta Problems"
+                description: ""
+                link: https://emberweekend.com/episodes/copy-pasta-problems
+            -
+                title: "EmberConf 2016: CFP Ideas"
+                description: "Leah Silber, Yehuda Katz, Robert Jackson, Matthew Beale, Godfrey Chan and Alex Matchneer brainstorming ideas for potential talks."
+                link: http://emberconf.com/cfp-ideas.html
+            -
+                title: "Ember Screencasts #92: Promises Basics"
+                description: "Plus a [new Pro video covering Creating New Promises](https://www.emberscreencasts.com/posts/93-creating-new-promises) ($) ."
+                link: https://www.emberscreencasts.com/posts/92-promises-basics
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Calgary - 24th November
+                link: "http://www.meetup.com/EmberJS-YYC/events/226567343/"
+            -
+                title: Santiago - 24th November
+                link: "http://www.meetup.com/Ember-js-Chile/events/226237778/"
+            -
+                title: Jacksonville Beach - 26th November
+                link: "http://www.meetup.com/EmberJax/events/226602850/"
+            -
+                title: Melbourne - 26th November
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/225529563/"
+            -
+                title: Sydney - 26th November
+                link: "http://www.meetup.com/EmberJS-SYD/events/226506415/"
+            -
+                title: Louisville  - 1st December
+                link: "http://www.meetup.com/Ember-js-Louisville/events/226887186/"
+            -
+                title: Portland - 1st December
+                link: "http://www.meetup.com/Ember-PDX/events/226111057/"
+            -
+                title: "Global Ember Meetup - 5th December"
+                link: https://www.bigmarker.com/global-ember-meetup/Ember-Components-Day
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
