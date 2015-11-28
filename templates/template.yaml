@@ -14,8 +14,8 @@ content:
                 description: ""
                 link:
             -
-                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
-                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
+                title: "3-Day Ember.js 2.0 Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. The workshop will be held at betahaus Berlin."
                 advert: true
                 link: http://ember-workshop.simplabs.com/
 
@@ -124,7 +124,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #8X: XXX"
+                title: "Ember Screencasts #9X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 

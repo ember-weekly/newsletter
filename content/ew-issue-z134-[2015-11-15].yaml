@@ -1,0 +1,186 @@
+issue: 134
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v1.13.12 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v1.13.12
+            -
+                title: "Ember Data v1.13.15 Released"
+                description: "Also released [Ember Data 2.2.0 Beta 4](https://github.com/emberjs/data/releases/tag/2.2.0-beta.4)."
+                link: https://github.com/emberjs/data/releases/tag/v1.13.15
+            -
+                title: "EmberConf 2016 - Now Accepting Talk Proposals"
+                description: ""
+                link: http://cfp.emberconf.com/events/emberconf-2016
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Early Bird Tickets are available until Oct. 31st."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Best Practices: Extend vs Mixin"
+                description: ""
+                link: https://dockyard.com/blog/2015/11/09/best-practices-extend-or-mixin
+            -
+                title: "New Plugins to Deploy Ember to CloudFront"
+                description: ""
+                link: http://blog.testdouble.com/posts/2015-11-10-introducing-ember-cli-deploy-cloudfront-and-ember-cli-deploy-aws-pack.html
+            -
+                title: "How Should Your Ember Tests Look?"
+                description: ""
+                link: https://netguru.co/blog/ember-tests
+            -
+                title: "[Ember Integration Tests] `this.inject` Rocks!"
+                description: ""
+                link: https://emberweekend.com/blog/0d3d77e8f6-ember-integration-tests-thisinject-rocks
+            -
+                title: "Application Design in Ember.js"
+                description: ""
+                link: https://www.codementor.io/ember-js/tutorial/reusable-maintainable-design-emberjs-architecture
+            -
+                title: "Testing with Ember Data RecordArrays"
+                description: ""
+                link: http://thejsguy.com/2015/11/09/testing-with-ember-data-recordarrays.html
+            -
+                title: "Rendering a Promise Before it Resolves"
+                description: ""
+                link: http://emberigniter.com/render-promise-before-it-resolves/
+            -
+                title: "Quickest Backend API for Ember"
+                description: ""
+                link: http://emberigniter.com/quickest-backend-api-for-ember/
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "jscs-ember-deprecations: Ember Deprecation Warnings for JSCS"
+                description: ""
+                link: https://www.npmjs.com/package/jscs-ember-deprecations
+            -
+                title: "ember-charts: Charting Library Built with Ember and D3"
+                description: ""
+                link: https://www.npmjs.com/package/ember-charts
+            -
+                title: "Bash Script to Update Dependencies for Ember-CLI v1.13.8 -> v1.13.12"
+                description: ""
+                link: https://gist.github.com/pixelhandler/d67892f44f4ee14628f0
+            -
+                title: "papu-force-adapter: A Salesforce Data Adapter"
+                description: ""
+                link: https://github.com/bvellacott/papu-force-adapter
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "ember-views: A Deep Dive with Robert Jackson"
+                description: ""
+                link: https://www.youtube.com/watch?v=7kU5lLnEtJs
+            -
+                title: "Ember Weekend Podcast #34: Adventures in the Amazon"
+                description: ""
+                link: https://emberweekend.com/episodes/adventures-in-the-amazon
+            -
+                title: "Ember Screencasts #90: Ember 2.0 Function Helpers"
+                description: "Plus a [new Pro video covering Ember 2.0 Class Helpers](https://www.emberscreencasts.com/posts/91-ember-20-class-helpers) ($) ."
+                link: https://www.emberscreencasts.com/posts/90-ember-20-function-helpers
+            -
+                title: "Decorators - Ember Boston"
+                description: ""
+                link: https://youtu.be/PYzMsKJB3mQ?t=565
+            -
+                title: "Ember Data: DS.Store, DS.Adapter, and DS.Serializer - Ember Boston"
+                description: ""
+                link: https://youtu.be/PYzMsKJB3mQ?t=1237
+            -
+                title: "Phoenix and Ember Living Together - Ember Boston"
+                description: ""
+                link: https://youtu.be/PYzMsKJB3mQ?t=2644
+            -
+                title: "Ember Authentication Day - Ember Global Meetup"
+                description: ""
+                link: https://www.bigmarker.com/global-ember-meetup/Ember-Authentication-Day
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas - 16th November
+                link: "http://www.meetup.com/Ember-Dallas/events/225281912/"
+            -
+                title: Vancouver - 16th November
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/226406638/"
+            -
+                title: London - 18th November
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/226564727/"
+            -
+                title: Cincinnati - 18th November
+                link: "http://www.meetup.com/embernati/events/226336002/"
+            -
+                title: New York - 18th November
+                link: "http://www.meetup.com/EmberJS-NYC/events/226550327/"
+            -
+                title: Denver - 18th November
+                link: "http://www.meetup.com/Ember-js-Denver/events/226386520/"
+            -
+                title: Chile - 18th November
+                link: "http://www.meetup.com/Ember-js-Chile/events/226237778/"
+            -
+                title: Montevideo - 19th November
+                link: "http://www.meetup.com/ember-montevideo/events/224664353/"
+            -
+                title: "Global Ember Meetup - 21st November"
+                link: https://www.bigmarker.com/global-ember-meetup/Ember-Testing-Day?utm_content=buffere7a91
+            -
+                title: Calgary - 24th November
+                link: "http://www.meetup.com/EmberJS-YYC/events/226567343/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
