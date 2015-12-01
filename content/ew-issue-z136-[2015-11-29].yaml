@@ -1,0 +1,277 @@
+issue: 136
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.3.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.3.0-beta.2
+            -
+                title: "Ember-Data v2.2.1 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.2.1
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Use discount code EMBERWEEKLY for a 20% discount."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Use Ember.js To Create an Example Gallery App with Reddit Data"
+                description: ""
+                link: http://www.programwitherik.com/an-ember-js-example-app-using-reddit/
+            -
+                title: "Testing Ember with Page Objects"
+                description: ""
+                link: http://marten.schilstra.codes/testing-ember-with-page-objects.html
+            -
+                title: "Understanding Unknownproperty in Ember"
+                description: ""
+                link: https://wyeworks.com/blog/2015/11/24/understanding-unknownproperty-in-ember/
+            -
+                title: "How to Test Components in Ember 2.0"
+                description: ""
+                link: http://emberigniter.com/test-components-ember-2.0/
+            -
+                title: "A Look Into Ember Data Transforms"
+                description: ""
+                link: http://thejsguy.com/2015/11/23/a-look-into-ember-data-transforms.html
+            -
+                title: "Ember.js 2.0 Tutorial - Building a Complex Web Application"
+                description: ""
+                link: http://www.yoember.com/
+            -
+                title: "Use an Ember Service to Load Paginated Global Data in the Background"
+                description: ""
+                link: https://medium.com/@barelyknown/use-an-ember-service-to-load-paginated-global-data-in-the-background-75fdc654ddae#.wd77laxyr
+            -
+                title: "How to Integrate jQuery Plugins into an Ember Application"
+                description: ""
+                link: http://www.sitepoint.com/how-to-integrate-jquery-plugins-into-an-ember-application
+            -
+                title: "The Command Pattern Applied to Your Ember.js Application"
+                description: ""
+                link: http://yoranbrondsema.com/command-pattern-applied-ember-js-application/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+    -
+        heading: "EmberCamp London 2015 Videos"
+        headlines:
+            -
+                title: "Opening Keynote - Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=gk-xyLM7R4g
+            -
+                title: "Ghost and Ember - Hannah Wolfe"
+                description: ""
+                link: https://www.youtube.com/watch?v=oOZ25fjvsc0
+            -
+                title: "Ember's Addon Community - Katie Gengler"
+                description: ""
+                link: https://www.youtube.com/watch?v=b1Q6SJoYqm8
+            -
+                title: "Composable Components - Miguel Camba"
+                description: ""
+                link: https://www.youtube.com/watch?v=6N4qsO22fmw
+            -
+                title: "Ember CLI Deploy - Aaron Chambers and Luke Melia"
+                description: ""
+                link: https://www.youtube.com/watch?v=fcSL5poJ1gQ
+            -
+                title: "Ember at Intercom - Gavin Joyce"
+                description: ""
+                link: https://www.youtube.com/watch?v=fVwDuMGVhYY
+            -
+                title: "The Hidden Power of HTMLBars - Matthew Beale"
+                description: ""
+                link: https://www.youtube.com/watch?v=GXcDQK678_E
+            -
+                title: "Routing - Alex Speller"
+                description: ""
+                link: https://www.youtube.com/watch?v=Dp57YdJPWx4
+            -
+                title: "Closing Keynote, Babel 6.0 - Sebastian McKenzie"
+                description: ""
+                link: https://www.youtube.com/watch?v=Q_ncaTYEizc
+
+
+    -
+        heading: "Global Ember Meetup Videos"
+        headlines:
+            -
+                title: "Introduction to ember-cp-validations - Offir Golan"
+                description: ""
+                link: https://vimeo.com/146857699
+            -
+                title: "OAuth 1.0 with Torii - Andrey Listochkin"
+                description: ""
+                link: https://vimeo.com/146853483
+            -
+                title: "Introduction to Torii - Cory Forsyth"
+                description: ""
+                link: https://vimeo.com/146851881
+            -
+                title: "Introduction to Ember Data 2.0 - Christoffer Persson"
+                description: ""
+                link: https://vimeo.com/146840596
+            -
+                title: "Introduction to ember-data-factory-guy - Daniel Sudol"
+                description: ""
+                link: https://vimeo.com/146964694
+            -
+                title: "Advanced Testing Techniques - Katie Gengler"
+                description: ""
+                link: https://vimeo.com/146960558
+            -
+                title: "Introduction to Ember Testing - Liz Baillie"
+                description: ""
+                link: https://vimeo.com/146960505
+            -
+                title: "Mocha is born for BDD - Charles Lowell"
+                description: ""
+                link: https://vimeo.com/146960282
+            -
+                title: "Outside In TDD - Toran Billups"
+                description: ""
+                link: https://vimeo.com/146953048
+            -
+                title: "Ember Simple Auth - Marco Otte-Witte"
+                description: ""
+                link: https://vimeo.com/146952852
+            -
+                title: "QUnit Roadmap - Leo Balter"
+                description: ""
+                link: https://vimeo.com/146930874
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "How to Incrementally Port Your Rails App Front End to Ember, Page by Page - Jon Beer"
+                description: ""
+                link: https://vimeo.com/146828819
+            -
+                title: "BDD Approach with Ember - Michael Schinis"
+                description: ""
+                link: https://vimeo.com/146828818
+            -
+                title: "First Step Towards Polymorphic Validation with Ember and Rails - Andrew McArdle"
+                description: ""
+                link: https://vimeo.com/146828817
+            -
+                title: "Ember Screencasts #94: Finding Current Route and Creating Breadcrumbs with ui-navigator-service"
+                description: "Plus a [new Pro video covering Multiple Concurrent Promises](https://www.emberscreencasts.com/posts/95-multiple-concurrent-promises) ($) ."
+                link: https://www.emberscreencasts.com/posts/94-finding-current-route-and-creating-breadcrumbs-with-ui-navigator-service
+            -
+                title: "Ember Weekend Podcast #36: Easy PRs"
+                description: ""
+                link: https://emberweekend.com/episodes/easy-prs
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Louisville  - 1st December
+                link: "http://www.meetup.com/Ember-js-Louisville/events/226887186/"
+            -
+                title: Portland - 1st December
+                link: "http://www.meetup.com/Ember-PDX/events/226111057/"
+            -
+                title: "Wellington, NZ - 3rd December"
+                link: http://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/226854852/
+            -
+                title: Mountain View - 3rd December
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/226381381/"
+            -
+                title: New York - 3rd December
+                link: "http://www.meetup.com/EmberJS-NYC/events/224874042/"
+            -
+                title: Toronto - 3rd December
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/226865093/"
+            -
+                title: Barcelona - 3rd December
+                link: "http://www.meetup.com/Ember-js-Barcelona/events/226587451/"
+            -
+                title: Indianapolis - 5th December
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/226652406/"
+            -
+                title: "Global Ember Meetup - 5th December"
+                link: https://www.bigmarker.com/global-ember-meetup/Ember-Components-Day
+            -
+                title: Saint Louis - 7th December
+                link: "http://www.meetup.com/STLEmber/events/226923661/"
+            -
+                title: Dublin - 7th December
+                link: "http://www.meetup.com/ember-columbus/events/226652192/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

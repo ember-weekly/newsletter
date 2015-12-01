@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 
     ////////////////////////////////////////////////////////////////////////
 
-    var newsletterYaml = newsletterDir + 'ew-issue-z135-[2015-11-22].yaml';
+    var newsletterYaml = newsletterDir + 'ew-issue-z136-[2015-11-29].yaml';
 
     ////////////////////////////////////////////////////////////////////////
 
