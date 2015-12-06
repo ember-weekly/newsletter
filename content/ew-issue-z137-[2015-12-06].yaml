@@ -1,0 +1,154 @@
+issue: 137
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js — Goodbye MVC (Part 1)"
+                description: ""
+                link: https://emberway.io/ember-js-goodbye-mvc-part-1-21777ecfd708#.pphe04z2z
+            -
+                title: "Ember Best Practices: Handlebars's Overlooked {{#each}} {{else}} Conditional Block"
+                description: ""
+                link: https://dockyard.com/blog/2015/11/23/ember-practices-each-else
+            -
+                title: "Ember and ES7: Decorators"
+                description: ""
+                link: http://karolgalanciak.com/blog/2015/12/02/ember-and-es7-decorators/
+            -
+                title: "A Look Into Ember Data Transforms"
+                description: ""
+                link: http://thejsguy.com/2015/11/23/a-look-into-ember-data-transforms.html
+            -
+                title: "Powering Your Ember Apps with Rails' ActionCable"
+                description: ""
+                link: http://www.algonauti.com/posts/powering-your-ember-apps-with-rails-actioncable
+            -
+                title: "EmberSherpa: A List of Open Source Ember Apps"
+                description: ""
+                link: https://github.com/embersherpa/open-source-ember-apps
+            -
+                title: "Ember Core Team Minutes - 13th November"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2015-11/november-13.md
+            -
+                title: "Input Date with Ember.js and Moment.js"
+                description: ""
+                link: http://ayoubgdah.com/blog/input-date-with-ember-js-and-moment-js/
+            -
+                title: "Tom Dale on Why Larger Frameworks Trump Stitching Together 'Microlibraries'"
+                description: ""
+                link: https://www.reddit.com/r/javascript/comments/3v43qf/im_a_web_developer_who_uses_jquery_to_write_a/cxkl9d1?
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Use discount code EMBERWEEKLY for a 20% discount."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-deploy-notifications"
+                description: ""
+                link: http://log.simplabs.com/post/134465706555/ember-cli-deploy-notifications
+            -
+                title: "Ember.js Component Best Practices"
+                description: ""
+                link: http://poteto.github.io/component-best-practices/
+            -
+                title: "ember-exam: Run Tests with Better Filtering, Randomization, Splitting, and Parallelization"
+                description: ""
+                link: https://www.npmjs.com/package/ember-exam
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ember.js Developer - Toronto"
+               description: "Design complex front end applications with Ember.js. Experience with JavaScript, jQuery, and Ember.js required.  Must be eligible to work on-site in Toronto. Apply through [site](http://www.nichetalent.ca/candidates) or [info@nichetalent.ca](mailto:info@nichetalent.ca)"
+               link: http://www.nichetalent.ca/candidates
+            -
+               title: "Senior Web Developer - Ciena Networks"
+               description: "We build software that powers the largest networks in the world. Want to join us? We're looking for Ember developers to help build Ciena's most ambitious network applications ever."
+               link: "https://ciena-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=3925&source=ONLINE&JobOwner=994171&company_id=16622&version=4&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=&postalCode=&radiusDistance=&isKilometers=&tosearch=yes&city"
+            -
+               title: "Senior Front End Developer - Shopify"
+               description: "Shopify has one of the largest front end architectures in the world, and we’re looking for people to join our team who eat, breathe, and live all things front end!"
+               link: https://jobs.lever.co/shopify/1476705d-37fe-49c7-beb0-574fef80213d?lever-via=o8vklqFxwi
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "4 Extraordinary Talks You Can't Miss from EmberCamp 2015"
+                description: ""
+                link: https://www.netguru.co/blog/ember-camp-2015
+            -
+                title: "Ember Screencasts #98: Ember Data 2.0: Getting Started, and Basics of DS.Model"
+                description: "Plus a [new Pro video covering Getting Data from the Server with findRecord and findAll](https://www.emberscreencasts.com/posts/97-ember-data-20-getting-data-from-the-server-with-findrecord-and-findall) ($) ."
+                link: https://www.emberscreencasts.com/posts/96-ember-data-20-getting-started-and-basics-of-dsmodel
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Raleigh - 7th December
+                link: "http://www.meetup.com/Triangle-Ember/events/227159485/"
+            -
+                title: Saint Louis - 7th December
+                link: "http://www.meetup.com/STLEmber/events/226923661/"
+            -
+                title: Dublin - 7th December
+                link: "http://www.meetup.com/ember-columbus/events/226652192/"
+            -
+                title: Atlanta - 8th December
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/226692029/"
+            -
+                title: New York - 9th December
+                link: "http://www.meetup.com/EmberJS-NYC/events/226992470/"
+            -
+                title: Chicago - 10th December
+                link: "http://www.meetup.com/Chicago-Ember-js/events/227098803/"
+            -
+                title: Boston - 10th December
+                link: "http://www.meetup.com/Boston-Ember-js/events/226215479/"
+            -
+                title: Berlin - 10th December
+                link: "http://www.meetup.com/Ember-js-Berlin/events/226728988/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
