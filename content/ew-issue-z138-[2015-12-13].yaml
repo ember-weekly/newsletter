@@ -1,0 +1,180 @@
+issue: 138
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+    #             description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Use discount code EMBERWEEKLY for a 20% discount."
+    #             advert: true
+    #             link: http://ember-workshop.simplabs.com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Offline Web Applications with CouchDB, PouchDB and Ember-CLI"
+                description: ""
+                link: https://teamgaslight.com/blog/offline-web-applications-with-couchdb-pouchdb-and-ember-cli
+            -
+                title: "Yield to Inverse"
+                description: ""
+                link: http://codingvalue.com/blog/ember-inverse-yield/
+            -
+                title: "Lowest Common Ancestor"
+                description: ""
+                link: http://www.samselikoff.com/blog/lowest-common-ancestor/
+            -
+                title: "Understanding Ember.js Components"
+                description: ""
+                link: http://www.danielgynn.com/understanding-ember-components/
+            -
+                title: "Which Ember Data Serializer Should I Use?"
+                description: ""
+                link: http://thejsguy.com/2015/12/05/which-ember-data-serializer-should-i-use.html
+            -
+                title: "Debugging Ember-CLI Build Times"
+                description: ""
+                link: https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9#.g5ak0fvum
+            -
+                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
+                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Use discount code EMBERWEEKLY for a 20% discount."
+                advert: true
+                link: http://ember-workshop.simplabs.com/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+                link: https://dockyard.com/ember-consulting
+                advert: true
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "A Tale of Two Pods - Robert Jackson"
+                description: ""
+                link: https://youtu.be/1wc3a_ttTy0?t=1640
+            -
+                title: "Infinite Jest by David Tomster Wallace - Charles Lowell"
+                description: ""
+                link: https://youtu.be/1wc3a_ttTy0?t=313
+            -
+                title: "Introduction to ember-responsive - Alex Baizeau"
+                description: ""
+                link: https://vimeo.com/148555635
+            -
+                title: "Ember Workshop - Patrick Baselier"
+                description: ""
+                link: https://vimeo.com/148555606
+            -
+                title: "Ember Addons Served Three Ways - Mike North"
+                description: ""
+                link: https://vimeo.com/148554681
+            -
+                title: "Component Best Practices - Lauren Tan"
+                description: ""
+                link: https://vimeo.com/148529508
+            -
+                title: "Ember Weekend Podcast #37: Update your package.json"
+                description: ""
+                link: https://emberweekend.com/episodes/update-your-package-json
+            -
+                title: "Ember Screencasts #98: Ember Data 2.0: Store Manipulation with Peek, Unload, and More"
+                description: "Plus a [new Pro video covering Creating, Saving, and Destroying Records](https://www.emberscreencasts.com/posts/99-ember-data-20-create-save-and-destroy-records) ($) ."
+                link: https://www.emberscreencasts.com/posts/98-ember-data-20-store-manipulation-with-peek-unload-and-more
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior Web Developer - Ciena Networks"
+               description: "We build software that powers the largest networks in the world. Want to join us? We're looking for Ember developers to help build Ciena's most ambitious network applications ever."
+               link: "https://ciena-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=3925&source=ONLINE&JobOwner=994171&company_id=16622&version=4&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=&postalCode=&radiusDistance=&isKilometers=&tosearch=yes&city"
+            -
+               title: "Senior Front End Developer - Shopify"
+               description: "Shopify has one of the largest front end architectures in the world, and we’re looking for people to join our team who eat, breathe, and live all things front end!"
+               link: https://jobs.lever.co/shopify/1476705d-37fe-49c7-beb0-574fef80213d?lever-via=o8vklqFxwi
+
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Tokyo - 15th December
+                link: https://emberjs.doorkeeper.jp/events/35757
+            -
+                title: London - 15th December
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/227035674/"
+            -
+                title: Cincinnati - 16th December
+                link: "http://www.meetup.com/embernati/events/226872046/"
+            -
+                title: Denver - 16th December
+                link: "http://www.meetup.com/Ember-js-Denver/events/226999644/"
+            -
+                title: Zürich - 17th December
+                link: "http://www.meetup.com/Ember-js-Zurich/events/227110991/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
