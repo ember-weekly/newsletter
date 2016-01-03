@@ -1,0 +1,158 @@
+issue: 140
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "EmberConf 2016 Schedule"
+                description: ""
+                link: http://emberconf.com/schedule.html
+            -
+                title: "Ember-CLI v2.2.0 Beta 3"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.2.0-beta.3
+            -
+                title: "Ember Data v2.3.0 Beta 5"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.3.0-beta.5
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/pagefront-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Pagefront: Hosting & Deployment for your Ember Apps"
+                description: "Deploy your app in just two steps! We offer custom domains, multi-environment support, organizations and much more. Give it a try!"
+                link: https://www.pagefronthq.com
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Testing Responsive Ember Applications"
+                description: ""
+                link: https://medium.com/@isaacezer/testing-responsive-ember-applications-bc00e5e3fd88#.6y7c04n82
+            -
+                title: "Grouping Select Options in Ember 2.0 with <optgroup>"
+                description: ""
+                link: http://ember.joeltrew.com/using-optgroup-in-ember-2-0/
+            -
+                title: "Exploring Immutability in Ember.js"
+                description: ""
+                link: https://medium.com/@cyk/exploring-immutability-in-ember-js-e45a2a2cf5f#.hqu1nbjk0
+            -
+                title: "Ember: Adding Catch Block for Returned Promise"
+                description: ""
+                link: https://www.netguru.co/blog/ember-adding-catch-block-for-returned-promise
+            -
+                title: "Ember Computed Style"
+                description: ""
+                link: https://medium.com/@ivanderbyl/ember-addon-computed-style-3e80dd122be0#.nwr9d0k1p
+            -
+                title: "Ember Truth Helpers"
+                description: ""
+                link: http://mockra.com/2015/12/28/ember-truth-helpers/
+            -
+                title: "Ember-CLI Mirage 0.2 Update"
+                description: ""
+                link: http://www.ember-cli-mirage.com/blog/2016/01/03/0-2-update-only-inject-schema/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-range-slider: Horizontal Slider Component with Two Handles"
+                description: ""
+                link: https://github.com/collectrium/ember-range-slider
+            -
+                title: "component-check: Compares the Usage and Development of Components in Several Frameworks"
+                description: ""
+                link: https://github.com/Mercateo/component-check
+            -
+                title: "ember-slack-search-input: Tag Search Component"
+                description: ""
+                link: https://github.com/bekzod/ember-slack-search-input
+            -
+                title: "Ember Data 2.0 Model State Explorer"
+                description: ""
+                link: https://ember-data-model-states.pagefrontapp.com/
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #39: Whacked Out Hegemony - Part 2"
+                description: ""
+                link: https://emberweekend.com/episodes/whacked-out-hegemony-part-2
+            -
+                title: "Ember Weekend Podcast #40: Happy New Years"
+                description: ""
+                link: https://emberweekend.com/episodes/happy-new-years
+            -
+                title: "The Changelog Podcast #189: JSON API with Yehuda Katz"
+                description: ""
+                link: https://changelog.com/189/
+            -
+                title: "Ember Screencasts #102: Ember Data 2.0 - Model States and Flags"
+                description: "Plus a [new Pro video covering a states.js deep dive](https://www.emberscreencasts.com/posts/103-ember-data-20-statesjs-deep-dive) ($) ."
+                link: https://www.emberscreencasts.com/posts/102-ember-data-20-model-states-and-flags
+            -
+                title: "Ember Screencasts #104: Ember Data 2.0 - Relationships"
+                description: "Plus a [new Pro video covering \"The Making of the Model State Explorer\"](https://www.emberscreencasts.com/posts/105-the-making-of-the-model-state-explorer) ($) ."
+                link: https://www.emberscreencasts.com/posts/104-ember-data-20-relationships
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis - 4th January
+                link: "http://www.meetup.com/STLEmber/events/227167748/"
+            -
+                title: Raleigh - 11th January
+                link: "http://www.meetup.com/Triangle-Ember/events/227164765/"
+            -
+                title: Atlanta - 12th January
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/227392289/"
+            -
+                title: Budapest - 12th January
+                link: "http://www.meetup.com/ember-bp/events/227568232/"
+            -
+                title: "EmberConf 2016 - March 29-30 in Portland, OR"
+                link: http://emberconf.com/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

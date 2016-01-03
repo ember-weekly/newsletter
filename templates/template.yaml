@@ -1,4 +1,4 @@
-issue: 13
+issue: 14
 strapline: "Your weekly source of Ember news"
 content:
 
@@ -13,27 +13,22 @@ content:
                 title: ""
                 description: ""
                 link:
-            -
-                title: "3-Day Ember.js Workshop with the simplabs team - Jan 25-27 in Berlin, Germany"
-                description: "Learn how to build ambitious Ember 2.0 applications from the creators of Ember Simple Auth. Use discount code EMBERWEEKLY for a 20% discount."
-                advert: true
-                link: http://ember-workshop.simplabs.com/
 
 
     # -
     #     heading: "From our sponsors"
     #     newsletterAd: true
 
-    -
-        heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
-        advert: true
-        headlines:
-            -
-                title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
-                description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
-                link: https://dockyard.com/ember-consulting
-                advert: true
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
+    #             description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
+    #             link: https://dockyard.com/ember-consulting
+    #             advert: true
 
     -
         heading: "Reading"
@@ -124,7 +119,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #9X: XXX"
+                title: "Ember Screencasts #10X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 
