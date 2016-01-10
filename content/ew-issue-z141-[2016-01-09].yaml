@@ -1,0 +1,155 @@
+issue: 141
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Recreating Little Professor in Ember"
+                description: ""
+                link: https://medium.com/@barelyknown/recreating-little-professor-in-ember-8870e140654a#.ny3xkb2wf
+            -
+                title: "Ember.js 2.0 Example App With Firebase And Login Authentication"
+                description: ""
+                link: http://www.programwitherik.com/emberjs_2-0_example_app_with_firebase/
+            -
+                title: "Ember isn't Rails"
+                description: ""
+                link: http://emberup.co/ember-isnt-rails/
+            -
+                title: "Write Your Next Web App With Ember CLI"
+                description: ""
+                link: https://www.smashingmagazine.com/2016/01/write-next-web-app-ember-cli/
+            -
+                title: "Selecting a Client-Side Framework for Drupal"
+                description: ""
+                link: http://buytaert.net/selecting-a-client-side-framework-for-drupal
+            -
+                title: "Handling Errors with Ember Data"
+                description: ""
+                link: http://thejsguy.com/2016/01/09/handling-errors-with-ember-data.html
+            -
+                title: "Emberocop to Safeguard Your Code — Intro"
+                description: ""
+                link: http://ryrych.pl/2015/12/21/emberocop-to-safe-guard-your-code-intro.html
+            -
+                title: "Making Ember Approachable"
+                description: ""
+                link: http://bryanrobl.es/2016/01/10/making-ember-approachable/
+            -
+                title: "Ember Community Survey 2016 Internship"
+                description: ""
+                link: https://docs.google.com/forms/d/1a6_eeWTFCyYPQtpVrZOVjxzcDntbMuswzmKEdhHXBrE/viewform?c=0&w=1
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Improve Ember app performance with imgix"
+                description: "imgix is a real-time responsive image service and CDN that works with your existing storage solution. Find out why thousands of companies including Eventbrite, Kickstarter and The Guardian love us."
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_campaign=2016-01-10-ember-weekly-prime
+                advert: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-electron: Package Desktop Apps with Ember-Cli and Electron"
+                description: ""
+                link: https://github.com/felixrieseberg/ember-electron
+            -
+                title: "embercms: A Fullstack JavasCript Content Management System (CMS)"
+                description: ""
+                link: https://github.com/dioptre/embercms
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Great Lakes Consulting Services - Senior Ember Front-End Web Developer"
+    #            description: "Love Javascript, CSS, and building front-end; Remote available for proven resource."
+    #            link: "http://www.indeed.com/cmp/Great-Lakes-Consulting-Services/jobs"
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #17: They're back"
+                description: ""
+                link: http://ember.land/episodes/17
+            -
+                title: "Ember Screencasts #106: Ember Data 2.0 - Metaprogramming with Relationships"
+                description: "Plus a [new Pro video covering Metaprogramming: Editing and Saving Generic Attributes](https://www.emberscreencasts.com/posts/107-metaprogramming-editing-and-saving-generic-attributes) ($) ."
+                link: https://www.emberscreencasts.com/posts/106-ember-data-20-metaprogramming-with-relationships
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Raleigh - 11th January
+                link: "http://www.meetup.com/Triangle-Ember/events/227164765/"
+            -
+                title: Atlanta - 12th January
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/227392289/"
+            -
+                title: Budapest - 12th January
+                link: "http://www.meetup.com/ember-bp/events/227568232/"
+            -
+                title: San Diego - 13th January
+                link: "http://www.meetup.com/sandiego-ember/events/226689799/"
+            -
+                title: London - 14th January
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/227823719/"
+            -
+                title: Boston - 14th January
+                link: "http://www.meetup.com/Boston-Ember-js/events/227108545/"
+            -
+                title: Montevideo - 14th January
+                link: "http://www.meetup.com/ember-montevideo/events/227943767/"
+            -
+                title: "Global Ember Meetup - 16th January"
+                description: ""
+                link: https://www.bigmarker.com/global-ember-meetup/Season-2-Episode-1-Ember-gets-wings
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

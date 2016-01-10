@@ -19,16 +19,16 @@ content:
     #     heading: "From our sponsors"
     #     newsletterAd: true
 
-    # -
-    #     heading: "From our sponsors"
-    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/dockyard-logo.png"
-    #     advert: true
-    #     headlines:
-    #         -
-    #             title: "Work with the Ember.js Experts at DockYard to Build Your Next Ember.js Project!"
-    #             description: "We offer full stack services: UX Design, Backend (Elixir/Phoenix), and unmatched expertise in Ember.js consulting. We're happy taking complete ownership of projects or working alongside your existing team. Contact us to learn more!"
-    #             link: https://dockyard.com/ember-consulting
-    #             advert: true
+ -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Improve Ember app performance with imgix"
+                description: "imgix is a real-time responsive image service and CDN that works with your existing storage solution. Find out why thousands of companies including Eventbrite, Kickstarter and The Guardian love us."
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_campaign=2016-01-10-ember-weekly-prime
+                advert: true
 
     -
         heading: "Reading"
