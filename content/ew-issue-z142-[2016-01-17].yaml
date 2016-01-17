@@ -1,0 +1,165 @@
+issue: 142
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Security Releases - Ember 1.11.4, 1.12.2, 1.13.12, 2.0.3, 2.1.2, 2.2.1"
+                description: ""
+                link: http://emberjs.com/blog/2016/01/14/security-releases-ember-1-11-4-1-12-2-1-13-12-2-0-3-2-1-2-2-2-1.html
+            -
+                title: "Ember Data 2.3 and 2.4 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/01/12/ember-data-2-3-released.html
+            -
+                title: "Ember-CLI v1.13.14 Released"
+                description: "And [Ember-CLI v2.2.0 Beta 6 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.2.0-beta.6)."
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v1.13.14
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Increase Your Ember App's Performance with On-the-fly Image Processing and Delivery"
+                description: "imgix is a real-time responsive image service and CDN that works with your existing storage solution. Find out why thousands of companies including Eventbrite, Kickstarter and The Guardian love us."
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_campaign=2016-01-17-ember-weekly-prime
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "New to Ember? Start Here! (2016 Tutorial)"
+                description: ""
+                link: http://emberigniter.com/new-to-ember-cli-start-here-2016-tutorial/
+            -
+                title: "Outside-In Testing for Ember Apps"
+                description: ""
+                link: http://blog.codeship.com/outside-in-testing-for-ember-apps/
+            -
+                title: "Testing Ember Components With Both Unit and Integration Tests"
+                description: ""
+                link: http://thejsguy.com/2016/01/14/testing-ember-components-with-both-unit-and-integration-tests.html
+            -
+                title: "Mastering Ember.js Helpers: Testing"
+                description: ""
+                link: http://emberup.co/mastering-ember-js-helpers-testing
+            -
+                title: "Mastering Ember.js Helpers: Arguments"
+                description: ""
+                link: http://emberup.co/mastering-ember-js-helper-arguments/
+            -
+                title: "Codemods: Path to Painless Upgrades in Ember"
+                description: ""
+                link: https://vramana.github.io/blog/2016/01/13/codemods-path-to-painless-updgrade-in-ember/
+            -
+                title: "How to Dockerize an Ember app"
+                description: ""
+                link: http://blog.humblecoder.com/how-to-dockerize-an-ember-app/
+            -
+                title: "Tools to Keep Code in Order - Code Style Guide with JSCS"
+                description: ""
+                link: http://ryrych.pl/2016/01/11/tools-to-keep-code-in-order-code-style-guide-with-jscs.html
+            -
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                advert: true
+                link: https://www.continuousupgrades.com
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-engines: Experimental Support for the Ember Engines RFC"
+                description: ""
+                link: https://github.com/dgeb/ember-engines#ember-engines
+            -
+                title: "ember-cli-redux: Ambitious State Management for Ember"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-redux
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Help Us Find Ember's Limits and Disrupt the Insurance Industry in the Process!"
+               description: "Claimable is like a CRM for insurance claims. People hate making claims, and insurers are lagging behind, but we're using Ember to change that. Join us to see how we can leverage Ember to build ambitious features and disrupt insurance!"
+               link: "https://www.claimable.com/jobs#ember-developer"
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Components and Dependency Inversion - Jeffrey Horn"
+                description: ""
+                link: https://youtu.be/wLEVTqWbQNc?t=263
+            -
+                title: "Introducing Ember-Engines - Dan Gebhardt"
+                description: ""
+                link: https://youtu.be/wLEVTqWbQNc?t=2415
+            -
+                title: "Restoring Sanity to JavaScript Development with Ember 2 - Kevin Pfefferle"
+                description: ""
+                link: https://www.youtube.com/watch?v=npsaDBiO3n4
+            -
+                title: "Ember Screencasts #108: Ember Data 2.0: Overview of Using Adapters and Serializers"
+                description: "Plus a [new Pro video with an Overview of Customizing Adapters and Serializers](https://www.emberscreencasts.com/posts/109-ember-data-20-overview-of-customizing-adapters-and-serializers) ($) ."
+                link: https://www.emberscreencasts.com/posts/108-ember-data-20-overview-of-using-adapters-and-serializers
+            -
+                title: "Ember Weekend Podcast #41: And We're Back"
+                description: ""
+                link: https://emberweekend.com/episodes/and-were-back
+            -
+                title: "Ember Land #18: U Can't Touch This"
+                description: ""
+                link: http://ember.land/episodes/18
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Cincinnati - 20th January
+                link: "http://www.meetup.com/embernati/events/227749658/"
+            -
+                title: Irvine - 20th January
+                link: "http://www.meetup.com/Ember-SC/events/227382849/"
+            -
+                title: San Francisco - 26th January
+                link: "http://www.meetup.com/Ember-SF/events/227305438/"
+            -
+                title: Calgary - 26th January
+                link: "http://www.meetup.com/EmberJS-YYC/events/227007124/"
+            -
+                title: Santiago - 26th January
+                link: "http://www.meetup.com/Ember-js-Chile/events/227516465/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
