@@ -19,7 +19,7 @@ content:
     #     heading: "From our sponsors"
     #     newsletterAd: true
 
- -
+    -
         heading: "From our sponsors"
         image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
         advert: true
@@ -116,7 +116,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #3X: XXX"
+                title: "Ember Weekend Podcast #34: XXX"
                 description: ""
                 link:
             -
@@ -124,7 +124,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #10X: XXX"
+                title: "Ember Screencasts #11X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 

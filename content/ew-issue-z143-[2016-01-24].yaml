@@ -1,0 +1,214 @@
+issue: 143
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember.js 2.3 and 2.4 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/01/15/ember-2-3-released.html
+            -
+                title: "Ember Data v2.3.3 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.3.3
+            -
+                title: "Ember-CLI v1.13.15 Released"
+                description: "Also [Ember-CLI v2.3.0 Beta 1 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.3.0-beta.1)."
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v1.13.15
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Increase your Ember app's performance with on-the-fly image processing and delivery"
+                description: "imgix is a real-time responsive image service and CDN that works with your existing storage solution. Find out why thousands of companies including Eventbrite, Kickstarter and The Guardian love us."
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_campaign=2016-01-17-ember-weekly-prime
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Functional Templating in Ember"
+                description: ""
+                link: http://frontside.io/blog/2016/01/22/functional-templating-in-ember.html
+            -
+                title: "Ember Core Team Meeting Minutes - January Face-to-Face"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-01
+            -
+                title: "How to Deploy an Ember CLI app to Amazon S3 or a Linux box"
+                description: ""
+                link: http://emberigniter.com/deploy-ember-cli-app-amazon-s3-linux-ssh-rsync/
+            -
+                title: "References API in Ember 2.4"
+                description: ""
+                link: http://emberup.co/references-api-in-ember-2-4/
+            -
+                title: "Introducing embadge.io"
+                description: ""
+                link: http://emberup.co/introducing-embadge-io/
+            -
+                title: "Bringing a Modern Javascript Build Pipeline to LinkedIn"
+                description: ""
+                link: https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith
+            -
+                title: "Authentication via Google Oauth2 with Ember-Simple-Auth and Torii - Part 1"
+                description: ""
+                link: http://tech.liftforward.com/2016/01/19/ember-simple-auth-torii-google-oauth2-part-1.html
+            -
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                advert: true
+                link: https://www.continuousupgrades.com
+            -
+                title: "Ember Data and Custom APIs - 5 Common Serializer Customizations"
+                description: ""
+                link: http://thejsguy.com/2016/01/23/ember-data-and-custom-apis-5-common-serializer-customizations.html
+            -
+                title: "How to Test Facebook Login with Ember + Torii"
+                description: ""
+                link: https://emberweekend.com/blog/35ebbb758a-how-to-test-facebook-login-with-ember-torii
+            -
+                title: "Ember.js - ES7 Async/Await"
+                description: ""
+                link: http://mockra.com/2016/01/13/emberjs-es7-async/
+            -
+                title: "If I Have Learned One Thing From Ember in the Last 4 Years..."
+                description: ""
+                link: http://chris.manson.ie/blog/if-i-have-learned-one-thing-from-ember-in-the-last-4-years/
+            -
+                title: "Lightning Deploys with Phoenix and Ember"
+                description: ""
+                link: https://mfeckie.github.io/Lightning-Deploys/
+            -
+                title: "Component Integration Testing in Ember"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2016/01/22/component-integration-testing-in-ember/
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "embadge.io: Ember.js Badge Generator Service"
+                description: ""
+                link: https://embadge.io/
+            -
+                title: "Ember-CLI-Deploy v0.6.0 Beta 1 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli-deploy/releases/tag/v0.6.0-beta.1
+            -
+                title: "A11y-Announcer v1.0.0 Released"
+                description: ""
+                link: https://github.com/Robdel12/a11y-announcer/releases/tag/v1.0.0
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Help Us Find Ember's Limits and Disrupt the Insurance Industry in the Process!"
+               description: "Claimable is like a CRM for insurance claims. People hate making claims, and insurers are lagging behind, but we're using Ember to change that. Join us to see how we can leverage Ember to build ambitious features and disrupt insurance!"
+               link: "https://www.claimable.com/jobs#ember-developer"
+            -
+               title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
+               description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
+               link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Realtime Applications with Ember and Xmpp"
+                description: ""
+                link: https://www.youtube.com/watch?v=0Y-JhA3joZ4
+            -
+                title: "Introduction to Elixir and Phoenix - Brian Cardarella"
+                description: ""
+                link: https://vimeo.com/152241839
+            -
+                title: "Introduction to ember-cli-release - Steven Lindberg"
+                description: ""
+                link: https://vimeo.com/152244691
+            -
+                title: "Composable Components (Part 2) - Miguel Camba"
+                description: ""
+                link: https://vimeo.com/152244663
+            -
+                title: "Introduction to ember-islands - Mitch Lloyd"
+                description: ""
+                link: https://vimeo.com/152241622
+            -
+                title: "Ember Weekend Podcast #42: Start Your Engines"
+                description: ""
+                link: https://emberweekend.com/episodes/start-your-engines
+            -
+                title: "Ember Screencasts #110: Ember Data 2.0: Essential Adapter Customizations"
+                description: "Plus a [new Pro video covering Advanced Adapter Customizations](https://www.emberscreencasts.com/posts/111-ember-data-20-advanced-adapter-customizations) ($) ."
+                link: https://www.emberscreencasts.com/posts/110-ember-data-20-essential-adapter-customizations
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco - 26th January
+                link: "http://www.meetup.com/Ember-SF/events/227305438/"
+            -
+                title: Calgary - 26th January
+                link: "http://www.meetup.com/EmberJS-YYC/events/227007124/"
+            -
+                title: Santiago - 26th January
+                link: "http://www.meetup.com/Ember-js-Chile/events/227516465/"
+            -
+                title: Atlanta - 27th January
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/228071028/"
+            -
+                title: Seattle - 27th January
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/227879633/"
+            -
+                title: Denver - 27th January
+                link: "http://www.meetup.com/Ember-js-Denver/events/228000931/"
+            -
+                title: Treviso - 27th January
+                link: "http://www.meetup.com/The-Ember-js-Treviso-Meetup/events/228037907/"
+            -
+                title: New York - 28th January
+                link: "http://www.meetup.com/EmberJS-NYC/events/227578831/"
+            -
+                title: Austin - 28th January
+                link: "http://www.meetup.com/Ember-ATX/events/226630357/"
+            -
+                title: Jacksonville Beach - 28th January
+                link: "http://www.meetup.com/EmberJax/events/224075775/"
+            -
+                title: Melbourne - 28th January
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/227578219/"
+            -
+                title: Sydney - 28th January
+                link: "http://www.meetup.com/EmberJS-SYD/events/227147423/"
+            -
+                title: Bangalore - 30th January
+                link: http://www.meetup.com/EmberJS-Bangalore/events/228299300/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
