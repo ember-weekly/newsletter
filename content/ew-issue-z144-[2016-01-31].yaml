@@ -1,0 +1,150 @@
+issue: 144
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Core Team Face To Face, January 2016"
+                description: ""
+                link: http://emberjs.com/blog/2016/01/23/core-team-face-to-face-january-2016.html
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://gathercontent-miniatures-800px.s3.amazonaws.com/1453778439_6512_667e41bdc3011d24da789d594151fcea"
+        advert: true
+        headlines:
+            -
+                title: "Get Multiple Job Offers From Top Companies With 1 Application"
+                description: "Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application. Join Hired today and get a $1,000 bonus when you get a job!"
+                link: http://synd.co/202XE53
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "To `attrs` or Not to `attrs`"
+                description: ""
+                link: http://locks.svbtle.com/to-attrs-or-not-to-attrs
+            -
+                title: "Working With Nested Data In Ember Data Models"
+                description: ""
+                link: http://thejsguy.com/2016/01/29/working-with-nested-data-in-ember-data-models.html
+            -
+                title: "How Ember.js Saved My Life"
+                description: ""
+                link: https://medium.com/@jurgenwerk/how-ember-js-saved-my-life-3207acba4c3c#.ob19r4c4m
+            -
+                title: "Ember Closure Actions in Depth"
+                description: ""
+                link: http://miguelcamba.com/blog/2016/01/24/ember-closure-actions-in-depth/
+            -
+                title: "Component Integration Testing in Ember"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2016/01/22/component-integration-testing-in-ember/
+            -
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                advert: true
+                link: https://www.continuousupgrades.com
+            -
+                title: "Building Ember Data Apps with Firebase"
+                description: ""
+                link: http://www.danielgynn.com/using-ember-data-with-firebase/
+            -
+                title: "The Real Reason to Avoid jQuery"
+                description: ""
+                link: http://blog.isleofcode.com/the-real-reason-to-avoid-jquery/
+            -
+                title: "How to Avoid Shared States Between Mixins in Ember.js"
+                description: ""
+                link: https://www.netguru.co/blog/how-to-avoid-shared-states-between-mixins-in-ember.js
+            -
+                title: "User Authentication Made Easy with Firebase"
+                description: ""
+                link: http://zachgarwood.com/2016/01/25/user-authentication-made-easy-with-firebase/
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
+               description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
+               link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
+            -
+               title: "Help Us Find Ember's Limits and Disrupt the Insurance Industry in the Process!"
+               description: "Claimable is like a CRM for insurance claims. People hate making claims, and insurers are lagging behind, but we're using Ember to change that. Join us to see how we can leverage Ember to build ambitious features and disrupt insurance!"
+               link: "https://www.claimable.com/jobs#ember-developer"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js NYC: Tom Dale on FastBoot, and More"
+                description: ""
+                link: https://www.youtube.com/watch?v=xFTDNGZExuU
+            -
+                title: "Todo HBS (Functional Templating) - Alex Ford"
+                description: ""
+                link: https://www.youtube.com/watch?v=otIpuV9Q4Eg
+            -
+                title: "Intro to Ember.js - Iheanyi Ekechukwu"
+                description: ""
+                link: https://www.youtube.com/watch?v=qOlmcAOzKvA&feature=youtu.be
+            -
+                title: "Ember Screencasts #112: Ember Data 2.0: Miscellaneous Adapter Customizations"
+                description: "Plus a [new Pro video looking at RESTAdapter vs JSONAPIAdapter vs ActiveModelAdapter](https://www.emberscreencasts.com/posts/113-restadapter-vs-jsonapiadapter-vs-activemodeladapter) ($) ."
+                link: https://www.emberscreencasts.com/posts/112-ember-data-20-miscellaneous-adapter-customizations
+            -
+                title: "Questions With Erik - Where Are The Best Places To Learn Ember.js?"
+                description: ""
+                link: http://www.programwitherik.com/questions-with-erik-good-ember-resources/
+            -
+                title: "Ember Weekend Podcast #43: Application Instance Instances"
+                description: ""
+                link: https://emberweekend.com/episodes/application-instance-instances
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Columbus - 1st February
+                link: "http://www.meetup.com/ember-columbus/events/227680580/"
+            -
+                title: Raleigh - 2nd February
+                link: "http://www.meetup.com/Triangle-Ember/events/227911412/"
+            -
+                title: Wellington, New Zealand - 4th February
+                link: http://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/228264619/
+            -
+                title: Toronto - 4th February
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/228111480/"
+            -
+                title: Durham - 6th February
+                link: "http://www.meetup.com/Triangle-Ember/events/228005893/"
+            -
+                title: "Global Ember Meetup: Live in Raleigh - 6th February"
+                link: https://www.bigmarker.com/communities/global-ember-meetup/conferences
+            -
+                title: Raleigh, NC (Global Ember Meetup) - 6th February
+                link: https://www.eventbrite.com/e/global-ember-meetup-live-in-raleigh-nc-tickets-20438811034
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
