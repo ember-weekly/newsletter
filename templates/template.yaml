@@ -25,10 +25,10 @@ content:
         advert: true
         headlines:
             -
-                title: "Increase your Ember app's performance with on-the-fly image processing and delivery"
-                description: "imgix is a real-time responsive image service and CDN that works with your existing storage solution. Find out why thousands of companies including Eventbrite, Kickstarter and The Guardian love us."
-                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_campaign=2016-01-17-ember-weekly-prime
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
                 advert: true
+                link: https://www.continuousupgrades.com
 
     -
         heading: "Reading"
@@ -65,11 +65,17 @@ content:
                 title: ""
                 description: ""
                 link:
+                Linked Title:
             -
-                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
-                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                title: "Pagefront: Hosting & Deployment for your Ember Apps"
+                description: "Deploy your app in just two steps! We offer custom domains, multi-environment support, organizations and much more. Give it a try!"
                 advert: true
-                link: https://www.continuousupgrades.com
+                link: https://www.pagefronthq.com
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
 
 
 
@@ -99,9 +105,9 @@ content:
         advert: true
         headlines:
             -
-               title: "Help Us Find Ember's Limits and Disrupt the Insurance Industry in the Process!"
-               description: "Claimable is like a CRM for insurance claims. People hate making claims, and insurers are lagging behind, but we're using Ember to change that. Join us to see how we can leverage Ember to build ambitious features and disrupt insurance!"
-               link: "https://www.claimable.com/jobs#ember-developer"
+               title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
+               description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
+               link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
 
 
     -

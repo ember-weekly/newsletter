@@ -5,13 +5,17 @@ module.exports = function (grunt) {
     // load all grunt tasks
     require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 
+    // var YAML = require('yamljs');
+    // var yaml = require('js-yaml');
+
     var newsletterDir   = 'content/';
     var templateDir     = 'templates/';
     var outputDir       = 'output/';
+    var configFile      = templateDir + 'config.json';
 
     ////////////////////////////////////////////////////////////////////////
 
-    var newsletterYaml = newsletterDir + 'ew-issue-z144-[2016-01-31].yaml';
+    // var newsletterYaml = newsletterDir + 'ew-issue-z144-[2016-01-31].yaml';
 
     ////////////////////////////////////////////////////////////////////////
 
@@ -44,11 +48,21 @@ module.exports = function (grunt) {
             grunt.option.issueNum = issueNum;
         }
 
-        var destinationPath = newsletterDir + 'ew-issue-z' + grunt.option.issueNum + '-[' + date + '].yaml';
+        var newFilename = 'ew-issue-z' + grunt.option.issueNum + '-[' + date + '].yaml';
+        var destinationPath = newsletterDir + newFilename;
+
+        var configFileJson = grunt.file.readJSON(configFile);
+        configFileJson.currentIssueFilename = newFilename;
+        grunt.file.write(configFile, JSON.stringify(configFileJson));
 
         grunt.log.write('\ncreating new issue at ' + destinationPath + '...\n');
 
         grunt.file.copy(templatePath, destinationPath);
+
+        // var newIssueYaml = grunt.file.readYAML(destinationPath);
+        // grunt.log.write('\nwriting issue number ' + grunt.option.issueNum + ' to ' + newFilename + '...\n');
+        // newIssueYaml.issue = grunt.option.issueNum;
+        // grunt.file.write(destinationPath, yaml.dump(newIssueYaml));
     });
 
     //TODO: This is soooooo bad! Don't look at it!
@@ -65,6 +79,9 @@ module.exports = function (grunt) {
         var templatePath = arg1 === 'text' ? templateDir + 'text-template.handlebars' : templateDir + 'template.handlebars';
         var content = {};
         var template = '';
+
+        var configFileJson = grunt.file.readJSON(configFile);
+        var newsletterYaml = configFileJson.currentIssueFilename;
 
         if (!newsletterYaml && !grunt.file.exists(newsletterYaml)) {
             grunt.log.error('error - no yaml file at ' + newsletterYaml);

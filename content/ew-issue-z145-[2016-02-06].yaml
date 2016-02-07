@@ -1,0 +1,214 @@
+issue: 145
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.3.1 Released"
+                description: "Also [Ember v2.4.0 Beta 2 Released](https://github.com/emberjs/ember.js/releases/tag/v2.4.0-beta.2)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.3.1
+            -
+                title: "Ember-CLI v2.3.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.3.0-beta.2
+            -
+                title: "Ember Data v2.4.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.4.0-beta.2
+            -
+                title: "EmberConf 2016 Scholarship Program"
+                description: ""
+                link: https://tilde.wufoo.com/forms/scholarship-program/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                advert: true
+                link: https://www.continuousupgrades.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "FastBoot Team Meeting Minutes - 2016/02/03"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-02/february-3.md
+            -
+                title: "FastBoot: The Road to 1.0"
+                description: ""
+                link: https://github.com/tildeio/ember-cli-fastboot/issues/98
+            -
+                title: "Binding Style Attributes Warning in Ember"
+                description: ""
+                link: http://balinterdi.com/2016/02/03/binding-style-attributes-warning-in-ember.html
+            -
+                title: "Complex Components in Ember.js - Part 2 - Towards a More Reactive Component"
+                description: ""
+                link: http://balinterdi.com/2016/02/04/complex-components-in-ember-dot-js-part-2-towards-a-more-reactive-component.html
+            -
+                title: "How To: Use EmberJS with Phoenix"
+                description: ""
+                link: http://g33kidd.com/how-to-use-emberjs-with-phoenix/
+            -
+                title: "Async ‘N Sync: This I Promise You (Promises Part I)"
+                description: "Also [Best Street Practices: I Want It That Way (Promises Part II)](https://engineering.zenefits.com/2016/01/best-street-practices-i-want-it-that-way-promises-part-ii/)."
+                link: https://engineering.zenefits.com/2016/01/async-n-sync-this-i-promise-you-promises-part-i/
+            -
+                title: "yoember.com Tutorial - Building a Complex Web Application (Updated to Ember v2.3)"
+                description: ""
+                link: http://yoember.com
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Introducing \"Continuous Ember Upgrades\""
+                description: ""
+                link: http://codeallday.com/blog/introducing-continuous-ember-upgrades/
+            -
+                title: "Isle of Code"
+                description: "????"
+                advert: true
+                link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-fastboot-docker: Dockerized Node Server For Ember FastBoot Apps"
+                description: ""
+                link: https://github.com/jpadilla/ember-fastboot-docker
+            -
+                title: "heroku-buildpack-ember-cli: Heroku buildpack for ember-cli apps"
+                description: ""
+                link: https://github.com/heroku/heroku-buildpack-ember-cli
+            -
+                title: "ember-cli-select-box: A Faux Select Box for Ember"
+                description: ""
+                link: https://github.com/amk221/ember-cli-select-box
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Help Us Find Ember's Limits and Disrupt the Insurance Industry in the Process!"
+               description: "Claimable is like a CRM for insurance claims. People hate making claims, and insurers are lagging behind, but we're using Ember to change that. Join us to see how we can leverage Ember to build ambitious features and disrupt insurance!"
+               link: "https://www.claimable.com/jobs#ember-developer"
+            -
+               title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
+               description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
+               link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Building Apps in Ember 2 - Jeffrey Biles"
+                description: ""
+                link: https://www.youtube.com/watch?v=NW-SzGu57Qc
+            -
+                title: "CSP (Communicating Sequential Processes) in Ember"
+                description: ""
+                link: https://youtu.be/xFTDNGZExuU?t=1297
+            -
+                title: "Practical Web Workers - Mukund Lakshman"
+                description: ""
+                link: https://www.youtube.com/watch?v=Q5jlWb28JFI&index=7&list=PL4eq2DPpyBbk5hPbX1kSoIpPspYKoeC5V
+            -
+                title: "Security-Conscious Ember - Nathan Hammon"
+                description: ""
+                link: https://www.youtube.com/watch?v=vD4G358rEUY&index=8&list=PL4eq2DPpyBbk5hPbX1kSoIpPspYKoeC5V
+            -
+                title: "Q&A with Robert Jackson"
+                description: ""
+                link: https://www.youtube.com/watch?v=Ce67ItpXMGw&index=9&list=PL4eq2DPpyBbk5hPbX1kSoIpPspYKoeC5V
+            -
+                title: "Ember Power Select & Composable Components - Miguel Camba"
+                description: ""
+                link: https://vimeo.com/154419491
+            -
+                title: "No REST for the wicked: an introduction to GraphQL - Ju Liu"
+                description: ""
+                link: https://vimeo.com/154418341
+            -
+                title: "Ember.js in 2015 and Ember London in 2016 - Jamie White"
+                description: ""
+                link: https://vimeo.com/154416143
+            -
+                title: "RubyDay 2015: JSON API - Marco Otte-Witte"
+                description: ""
+                link: https://www.youtube.com/watch?v=fixLcFPXo0I
+            -
+                title: "Ember Screencasts #11X: XXX"
+                description: "Plus a [new Pro video covering XXX](  ) ($) ."
+                link:
+            -
+                title: "Ember Land #19: Hand to Hand Combat"
+                description: ""
+                link: http://ember.land/episodes/19-hand-to-hand-combat
+            -
+                title: "Ember Weekend Podcast #44: Fastboot Has a Logo Now"
+                description: ""
+                link: https://emberweekend.com/episodes/fastboot-has-a-logo-now
+            -
+                title: "Modern Web Podcast: Angular vs Ember vs React at Netflix with Ben Lesh & Taras Mankovski"
+                description: ""
+                link: https://soundcloud.com/modern-web/s01e02-part-1-angular-vs-ember-vs-react-at-netflix-with-ben-lesh-taras-mankovski
+
+    -
+        heading: "Events"
+        headlines:
+			-
+			    title: Atlanta - 9th February
+			    link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/228055698/"
+			-
+			    title: San Diego - 10th February
+			    link: "http://www.meetup.com/sandiego-ember/events/228393192/"
+			-
+			    title: London - 11th February
+			    link: "http://www.meetup.com/London-Emberjs-User-Group/events/227825625/"
+			-
+			    title: New York - 11th February
+			    link: "http://www.meetup.com/EmberJS-NYC/events/228359810/"
+			-
+			    title: Boston - 11th February
+			    link: "http://www.meetup.com/Boston-Ember-js/events/228333385/"
+			-
+			    title: Montevideo - 11th February
+			    link: "http://www.meetup.com/ember-montevideo/events/228022886/"
+			-
+			    title: Budapest - 11th February
+			    link: "http://www.meetup.com/ember-bp/events/228354635/"
+			-
+			    title: Dallas - 15th February
+			    link: "http://www.meetup.com/Ember-Dallas/events/225281920/"
+			-
+			    title: Hamburg - 15th February
+			    link: "http://www.meetup.com/emberHH/events/228485355/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
