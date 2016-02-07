@@ -29,7 +29,7 @@ content:
 
     -
         heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/continuous-upgrades-logo.png"
         advert: true
         headlines:
             -
@@ -42,14 +42,6 @@ content:
         heading: "Reading"
         headlines:
             -
-                title: "FastBoot Team Meeting Minutes - 2016/02/03"
-                description: ""
-                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-02/february-3.md
-            -
-                title: "FastBoot: The Road to 1.0"
-                description: ""
-                link: https://github.com/tildeio/ember-cli-fastboot/issues/98
-            -
                 title: "Binding Style Attributes Warning in Ember"
                 description: ""
                 link: http://balinterdi.com/2016/02/03/binding-style-attributes-warning-in-ember.html
@@ -57,6 +49,14 @@ content:
                 title: "Complex Components in Ember.js - Part 2 - Towards a More Reactive Component"
                 description: ""
                 link: http://balinterdi.com/2016/02/04/complex-components-in-ember-dot-js-part-2-towards-a-more-reactive-component.html
+            -
+                title: "FastBoot Team Meeting Minutes - 2016/02/03"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-02/february-3.md
+            -
+                title: "FastBoot: The Road to 1.0"
+                description: ""
+                link: https://github.com/tildeio/ember-cli-fastboot/issues/98
             -
                 title: "How To: Use EmberJS with Phoenix"
                 description: ""
@@ -69,19 +69,31 @@ content:
                 title: "yoember.com Tutorial - Building a Complex Web Application (Updated to Ember v2.3)"
                 description: ""
                 link: http://yoember.com
-            # -
-            #     title: ""
-            #     description: ""
-            #     link:
+            -
+                title: "Implementing non-RESTful Actions With Ember Data"
+                description: ""
+                link: https://karolgalanciak.com/blog/2016/02/07/implementing-non-restful-actions-with-ember-data/
+            -
+                title: "Ember Screencast New Blog"
+                description: ""
+                link: http://blog.emberscreencasts.com/
+            -
+                title: "Testing Serializers in Ember - Part 2"
+                description: ""
+                link: http://thejsguy.com/2016/02/06/testing-serializers-in-ember-part-2.html
+            -
+                title: "Integrating SASS and Bootstrap to Ember Components"
+                description: ""
+                link: http://emberigniter.com/integrating-sass-bootstrap-ember-components/
             -
                 title: "Introducing \"Continuous Ember Upgrades\""
                 description: ""
                 link: http://codeallday.com/blog/introducing-continuous-ember-upgrades/
             -
-                title: "Isle of Code"
-                description: "????"
+                title: "Isle of Code: Ember & Hybrid App Development"
+                description: "Scoped & on-demand development from a team of Javascript hackers for Ember, Performant Hybrid Apps, iBeacons & team augmentation. est. 2012, we’re based in Toronto + Chicago."
                 advert: true
-                link:
+                link: https://isleofcode.com/?utm_source=ember-weekly&utm_medium=newsletter&utm_campaign=ember-weekly-week-1
 
 
 
@@ -156,9 +168,9 @@ content:
                 description: ""
                 link: https://www.youtube.com/watch?v=fixLcFPXo0I
             -
-                title: "Ember Screencasts #11X: XXX"
-                description: "Plus a [new Pro video covering XXX](  ) ($) ."
-                link:
+                title: "Ember Screencasts #114: ES2015 Destructuring"
+                description: "Plus a [new Pro video covering ES2016 Decorators](https://www.emberscreencasts.com/posts/115-es2016-decorators) ($) ."
+                link: https://www.emberscreencasts.com/posts/114-es2015-destructuring
             -
                 title: "Ember Land #19: Hand to Hand Combat"
                 description: ""
@@ -175,33 +187,33 @@ content:
     -
         heading: "Events"
         headlines:
-			-
-			    title: Atlanta - 9th February
-			    link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/228055698/"
-			-
-			    title: San Diego - 10th February
-			    link: "http://www.meetup.com/sandiego-ember/events/228393192/"
-			-
-			    title: London - 11th February
-			    link: "http://www.meetup.com/London-Emberjs-User-Group/events/227825625/"
-			-
-			    title: New York - 11th February
-			    link: "http://www.meetup.com/EmberJS-NYC/events/228359810/"
-			-
-			    title: Boston - 11th February
-			    link: "http://www.meetup.com/Boston-Ember-js/events/228333385/"
-			-
-			    title: Montevideo - 11th February
-			    link: "http://www.meetup.com/ember-montevideo/events/228022886/"
-			-
-			    title: Budapest - 11th February
-			    link: "http://www.meetup.com/ember-bp/events/228354635/"
-			-
-			    title: Dallas - 15th February
-			    link: "http://www.meetup.com/Ember-Dallas/events/225281920/"
-			-
-			    title: Hamburg - 15th February
-			    link: "http://www.meetup.com/emberHH/events/228485355/"
+            -
+                title: "Atlanta - 9th February"
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/228055698/"
+            -
+                title: San Diego - 10th February
+                link: "http://www.meetup.com/sandiego-ember/events/228393192/"
+            -
+                title: London - 11th February
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/227825625/"
+            -
+                title: New York - 11th February
+                link: "http://www.meetup.com/EmberJS-NYC/events/228359810/"
+            -
+                title: Boston - 11th February
+                link: "http://www.meetup.com/Boston-Ember-js/events/228333385/"
+            -
+                title: Montevideo - 11th February
+                link: "http://www.meetup.com/ember-montevideo/events/228022886/"
+            -
+                title: Budapest - 11th February
+                link: "http://www.meetup.com/ember-bp/events/228354635/"
+            -
+                title: Dallas - 15th February
+                link: "http://www.meetup.com/Ember-Dallas/events/225281920/"
+            -
+                title: Hamburg - 15th February
+                link: "http://www.meetup.com/emberHH/events/228485355/"
 
 
 

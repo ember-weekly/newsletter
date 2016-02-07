@@ -81,7 +81,7 @@ module.exports = function (grunt) {
         var template = '';
 
         var configFileJson = grunt.file.readJSON(configFile);
-        var newsletterYaml = configFileJson.currentIssueFilename;
+        var newsletterYaml = newsletterDir + configFileJson.currentIssueFilename;
 
         if (!newsletterYaml && !grunt.file.exists(newsletterYaml)) {
             grunt.log.error('error - no yaml file at ' + newsletterYaml);
