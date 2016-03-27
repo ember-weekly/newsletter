@@ -1,0 +1,197 @@
+issue: 149
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "2016 Ember Community Survey"
+                description: ""
+                link: http://emberjs.com/blog/2016/03/04/2016-ember-community-survey.html
+            -
+                title: "Ember.js 2.4 And 2.5 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/02/29/ember-2-4-released.html
+            -
+                title: "Ember Data 2.4.0 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.4.0
+            -
+                title: "Ember-CLI 2.4.2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.4.2
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/simplabs-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Web Experts at simplabs!"
+                description: "simplabs offers Ember.js as well as Ruby on Rails and Elixir/Phoenix consulting. We are based in Munich, Germany and work with clients all over the world. We take ownership of projects, augment your internal dev team and offer workshops and training."
+                advert: true
+                link: http://simplabs.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "ember-concurrency: The Solution to So Many Problems You Never Knew You Had"
+                description: ""
+                link: https://medium.com/@machty/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9#.14y3prj21
+            -
+                title: "Using Better Element Selectors in Ember.js Tests"
+                description: ""
+                link: http://simplabs.com/blog/2016/03/04/ember-test-selectors.html
+            -
+                title: "Mock JSON API Backend with Mirage"
+                description: ""
+                link: http://emberigniter.com/mock-json-api-backend-with-mirage/
+            -
+                title: "Customizing Relationship Links with JSON API"
+                description: ""
+                link: http://emberigniter.com/custom-relationship-links-json-api/
+            -
+                title: "The Path to Contextual Components: Understanding Positional Parameters"
+                description: ""
+                link: http://www.serabe.com/2016/02/29/the-path-to-contextual-components-understanding-positional-parameters/
+            -
+                title: "Computed Property Caching in Ember"
+                description: ""
+                link: https://m.alphasights.com/computed-property-caching-in-ember-941c8eff98ed#.6846zxxg0
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Flexi - A Lightweight, Mobile First, Performance Focused Layout Framework for Ember"
+                description: ""
+                link: https://github.com/runspired/flexi#flexi
+            -
+                title: "ember-cli-template-lint - Will Lint Your Templates "
+                description: ""
+                link: https://github.com/rwjblue/ember-cli-template-lint#ember-cli-template-lint
+            -
+                title: "ember-cli-simple-store v4.0 Released"
+                description: ""
+                link: https://github.com/toranb/ember-cli-simple-store/issues/50
+            # -
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Remote Front End Developer - Ticketsolve"
+               description: "Join us on the next evolution of our ticketing platform. Moving from a traditional RoR app to a modern SPA, exposing our app as a set of API’s consumed by an Ember client to provide a rich interactive experience. Get in touch at [shanly@ticketsolve.com](mailto:shanly@ticketsolve.com)!"
+               link: "http://www.ticketsolve.com/"
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Podcast: Why Should Ember.js Be Your First Framework You Learn?"
+                description: ""
+                link: http://www.programwitherik.com/why_should_ember_be_your_first_framework/
+            -
+                title: "Loading and Error Substates in Ember - Alex Speller"
+                description: ""
+                link: https://vimeo.com/157235004
+            -
+                title: "Introduction to ember-modal-dialog - Chris LoPresto"
+                description: ""
+                link: https://vimeo.com/157192323
+            -
+                title: "Introduction to ember-coin-clicks - Tracy Lee"
+                description: ""
+                link: https://vimeo.com/157481331
+            -
+                title: "Ember Weekend Podcast #48: Whack-a-hamster"
+                description: ""
+                link: https://emberweekend.com/episodes/whack-a-hamster
+            -
+                title: "Ember Screencasts #122: Liquid Fire - Animating Transitions"
+                description: "Plus a [new Pro video covering liquid-if and liquid-spacer](https://www.emberscreencasts.com/posts/123-liquid-fire-liquid-if-and-liquid-spacer) ($) ."
+                link: https://www.emberscreencasts.com/posts/122-liquid-fire-animating-transitions
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver - 7th March
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/229072505/"
+            -
+                title: Columbus - 7th March
+                link: "http://www.meetup.com/ember-columbus/events/228936748/"
+            -
+                title: Atlanta - 8th March
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/228802347/"
+            -
+                title: St. Paul - 8th March
+                link: "http://www.meetup.com/EmberMN/events/228777745/"
+            -
+                title: Minneapolis - 8th March
+                link: http://www.meetup.com/EmberMN/events/228777745/
+            -
+                title: New York - 9th March
+                link: "http://www.meetup.com/EmberJS-NYC/events/229019320/"
+            -
+                title: San Diego - 9th March
+                link: "http://www.meetup.com/sandiego-ember/events/228763286/"
+            -
+                title: Guatemala - 10th March
+                link: http://www.meetup.com/ember-gt/events/229135887/
+            -
+                title: Boston - 10th March
+                link: "http://www.meetup.com/Boston-Ember-js/events/226215476/"
+            -
+                title: Denver - 10th March
+                link: "http://www.meetup.com/Ember-js-Denver/events/229056667/"
+            -
+                title: Montevideo - 10th March
+                link: "http://www.meetup.com/ember-montevideo/events/229241491/"
+            -
+                title: Amsterdam - 10th March
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/228575821/"
+            -
+                title: "EmberFest 2016, Budapest: 27/28th October"
+                description: ""
+                link: https://emberfest.eu/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

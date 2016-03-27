@@ -1,0 +1,209 @@
+issue: 150
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.4.2 Released"
+                description: "Also [Ember v2.5.0 Beta 2](https://github.com/emberjs/ember.js/releases/tag/v2.5.0-beta.2) Released"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.4.2
+            -
+                title: "Ember-CLI v2.4.2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.4.2
+            -
+                title: "Ember Data v2.5.0 Beta 1 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.5.0-beta.1
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/46a9e00732c537f919723bea82857d6bf7ba10b3/assets/sponsors/greenfield-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Need help taking advantage of everything Ember.js has to offer? Contact Greenfield"
+                description: "Want to integrate Ember into your technology stack? Greenfield is a full stack application consultancy specializing in Ember.js and we want to help."
+                advert: true
+                link: http://greenfieldhq.com/#contact
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Promises and Closure Actions in Ember"
+                description: ""
+                link: http://thejsguy.com/2016/03/12/promises-and-closure-actions-in-ember.html
+            -
+                title: "Slimming Down Your ember-cli-page-object Components with a Custom `component` Helper"
+                description: ""
+                link: https://medium.com/@lolmaus/custom-component-helper-for-ember-cli-page-object-b6cead3ed32a
+            -
+                title: "Modern Responsive Design (Illustrated with Ember and Flexi)"
+                description: ""
+                link: http://blog.isleofcode.com/modern-responsive-design/
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016/03/03"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-03/march-03.md
+            -
+                title: "Leveraging Computed Properties in Ember.js"
+                description: ""
+                link: http://seangoresht.com/#/blog/posts/leveraging-computed-properties-in-emberjs
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-page-object v1.1.0 Released - with Integration Test Support"
+                description: ""
+                link: https://github.com/san650/ember-cli-page-object/releases/tag/v1.1.0
+            -
+                title: "ember-sidebars: A Sidebar Manager For Ember Apps"
+                description: ""
+                link: https://github.com/ef4/ember-sidebars
+            -
+                title: "ember-prop-types: React-like Property Management for Components"
+                description: ""
+                link: https://www.npmjs.com/package/ember-prop-types
+            -
+                title: "Ember Model Generator: Create Models from JSON Data"
+                description: ""
+                link: http://feditor.io/content/gist/6478b5134893399879c0
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+            -
+               title: "Remote Front End Developer - Ticketsolve"
+               description: "Join us on the next evolution of our ticketing platform. Moving from a traditional RoR app to a modern SPA, exposing our app as a set of API’s consumed by an Ember client to provide a rich interactive experience. Get in touch at [shanly@ticketsolve.com](mailto:shanly@ticketsolve.com)!"
+               link: "http://www.ticketsolve.com/"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Introduction to ember-cli-deploy - Mattia Gheda"
+                description: ""
+                link: https://vimeo.com/158447249
+            -
+                title: "Introduction to ember-electron - Felix Rieseberg"
+                description: ""
+                link: https://vimeo.com/158447290
+            -
+                title: "How to use EmberTry - Katie Gengler"
+                description: ""
+                link: https://vimeo.com/157688157
+            -
+                title: "Introduction to Ember Engines - Dan Gebhardt"
+                description: ""
+                link: https://vimeo.com/157688181
+            -
+                title: "Introduction to Ember FastBoot - Tom Dale"
+                description: ""
+                link: https://vimeo.com/157688134
+            -
+                title: "PhoneGap Applications with Ember: Lessons Learned (PhoneGap Day US 2016)"
+                description: ""
+                link: http://phonegap.com/blog/2016/03/04/pgdayus2016-phonegap-apps-with-ember/
+            -
+                title: "Atlanta Ember Meetup - March 2016"
+                description: ""
+                link: https://www.youtube.com/watch?v=i90N1iwWkd8
+            -
+                title: "Program With Erik: A Behind the Scenes Look at the Ember.js Cookbook with Zoltan Debre"
+                description: ""
+                link: http://www.programwitherik.com/a-behind-the-scenes-look-of-the-ember-js-cookbook-with-zoltan-debre/
+            -
+                title: "Modern Web Podcast S1E06: The Beginning of Ember, Ember-CLI-Deploy, and OSS Teams with Luke Melia & Ember Weekend"
+                description: ""
+                link: http://modernweb.podbean.com/e/s1e06-the-beginning-of-ember-ember-cli-deploy-and-oss-teams-with-luke-melia-ember-weekend/?token=5e735a411d77cb7a94432a2c088110b5
+            -
+                title: "Ember Weekend Podcast #49: I Found Your Subtweets"
+                description: ""
+                link: https://emberweekend.com/episodes/i-found-your-subtweets
+            -
+                title: "Ember Land #20: What is this?"
+                description: "RFC, Deferred-content Addon, Ember-CLI, and Ember LTS"
+                link: http://ember.land/episodes/20
+            -
+                title: "Ember Screencasts #124: Liquid Fire - Liquid Bind"
+                description: "Plus a [new Pro video covering Matchers and the Transition Map](https://www.emberscreencasts.com/posts/125-liquid-fire-matchers-and-the-transition-map) ($) ."
+                link: https://www.emberscreencasts.com/posts/124-liquid-bind
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "NEW: Madison, WI - 15th March"
+                link: "http://www.meetup.com/mad-ember/events/229022369/"
+            -
+                title: San Francisco - 15th March
+                link: "http://www.meetup.com/Ember-SF/events/227465864/"
+            -
+                title: Cincinnati - 16th March
+                link: "http://www.meetup.com/embernati/events/229090873/"
+            -
+                title: Los Angeles - 16th March
+                link: "http://www.meetup.com/Ember-SC/events/228949680/"
+            -
+                title: London - 17th March
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/227825632/"
+            -
+                title: München - 17th March
+                link: "http://www.meetup.com/Ember-js-Munich/events/229219748/"
+            -
+                title: "Global Ember Meetup: S02E04 - Jetpack Training Wheels 19th March"
+                description: ""
+                link: https://www.bigmarker.com/global-ember-meetup/S02E04-Jetpack-Training-Wheels
+            -
+                title: Dallas - 21st March
+                link: "http://www.meetup.com/Ember-Dallas/events/225281942/"
+            -
+                title: "Wicked Good Ember Conference - 27-28 June"
+                description: ""
+                link: https://wickedgoodember.com/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

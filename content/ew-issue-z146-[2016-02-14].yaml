@@ -1,0 +1,198 @@
+issue: 146
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Working with Ember.js in Windows"
+                description: ""
+                link: http://www.programwitherik.com/working-with-ember-js-in-windows/
+            -
+                title: "Be the Bark: Thoughts on the OSS Communities"
+                description: ""
+                link: http://madhatted.com/2016/2/10/be-the-bark-ember-js-community
+            -
+                title: "Ember Best Practices: Brace Expansion for Computed Properties"
+                description: ""
+                link: https://dockyard.com/blog/2016/02/05/ember-practices-property-brace-expansion
+            -
+                title: "Ember.js \"Magic\" Crash Course"
+                description: ""
+                link: http://blog.isleofcode.com/ember-magic-crash-course
+            -
+                title: "Ember.js Validations the Easy (and Fast!) Way"
+                description: ""
+                link: https://spin.atomicobject.com/2016/02/08/ember-validations/
+            -
+                title: "Web Fonts, WebFontLoader and Ember"
+                description: ""
+                link: https://kuzzmi.com/blog/web-fonts-webfontloader-and-ember
+            -
+                title: "An Introduction to Ember for Angular Developers"
+                description: ""
+                link: http://thejsguy.com/2016/02/10/introduction-to-ember-for-angular-developers.html
+            -
+                title: "Getting trolled by Ember.onerror"
+                description: ""
+                link: http://raytiley.com/posts/ember-onerror-troll
+            -
+                title: "FastBoot Team Meeting Minutes - 2016/02/10"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-02/february-10.md
+            -
+                title: "Setting up Revision Previews with Ember-CLI Deploy"
+                description: ""
+                link: https://dockyard.com/blog/2016/02/03/ember-cli-deploy-revision-previews
+            -
+                title: "Ember Liquid Fire and CSS Transitions"
+                description: ""
+                link: http://wattydev.com/ember-liquid-fire-and-css-transitions/
+            -
+                title: "Learning Ember.js: Playing with Fieldbook API"
+                description: ""
+                link: https://medium.com/@benoror/learning-ember-js-playing-with-fieldbook-api-b419d43b7ad#.l5vwte1l2
+
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Ember Core Team Meeting Minutes - February 2016"
+            #     description: ""
+            #     link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-02
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember-cli
+            -
+                title: "Pagefront: Hosting & Deployment for your Ember Apps"
+                description: "Deploy your app in just two steps! We offer custom domains, multi-environment support, organizations and much more. Give it a try!"
+                advert: true
+                link: https://www.pagefronthq.com
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/continuous-upgrades-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                advert: true
+                link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-platforms: Proposed Platform Development and Deployment Pipeline for Ember Applications"
+                description: ""
+                link: https://github.com/isleofcode/ember-cli-platforms#ember-cli-platforms
+            -
+                title: "ember-concurrency: Write Concise, Worry-free, Cancellable, Restartable, Asynchronous Tasks"
+                description: ""
+                link: http://ember-concurrency.com/
+            -
+                title: "ember-cli-pixijs: Wraps pixi.js - HTML5 2D Rendering Engine"
+                description: ""
+                link: https://github.com/simplabs/ember-cli-pixijs
+            -
+                title: "Ember Simple Auth v 1.1.0 Beta 1 Released"
+                description: ""
+                link: https://github.com/simplabs/ember-simple-auth/releases/tag/1.1.0-beta.1
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
+               description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
+               link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
+
+
+    -
+        Heading: "watch/listen"
+        Headlines:
+            # -
+            #     Title: ""
+            #     Description: ""
+            #     Link:
+            # -
+            #     Title: ""
+            #     Description: ""
+            #     Link:
+            # -
+            #     Title: ""
+            #     Description: ""
+            #     Link:
+            -
+                Title: "New Podcast: Real World Ember"
+                Description: ""
+                Link: Http://www.real-world-ember.com/
+            -
+                Title: "Ember Weekend Podcast #45: Global Ember Weekend"
+                Description: ""
+                Link: Https://emberweekend.com/episodes/global-ember-weekend
+            -
+                Title: "Ember Screencasts #116: Ember-computed-decorators"
+                Description: "plus A [new Pro Video Covering One-way-bound <input>s](  ) ($) ."
+                Link: Https://www.emberscreencasts.com/posts/116-ember-computed-decorators
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Hamburg - 15th February
+                link: "http://www.meetup.com/emberHH/events/228485355/"
+            -
+                title: Cincinnati - 17th February
+                link: "http://www.meetup.com/embernati/events/228704679/"
+            -
+                title: West Hollywood - 17th February
+                link: "http://www.meetup.com/Ember-SC/events/228289932/"
+            -
+                title: London - 18th February
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/228104881/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

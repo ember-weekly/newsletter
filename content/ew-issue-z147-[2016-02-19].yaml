@@ -1,0 +1,204 @@
+issue: 147
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v2.3.0 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.3.0
+            -
+                title: "Ember v2.4.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.4.0-beta.3
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://gathercontent-miniatures-800px.s3.amazonaws.com/1455560854_189_503015c399c98a147771b50587dfd80b"
+        advert: true
+        headlines:
+            -
+                title: "​Get Multiple Job Offers From Top Companies With 1 Application"
+                description: "​​Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application. "
+                link: http://synd.co/202XE53
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Handling Nested Resources in Ember Data"
+                description: ""
+                link: http://thejsguy.com/2016/02/21/handling-nested-resources-in-ember-data.html
+            -
+                title: "How to Make an Ember Module Resolve as Another One"
+                description: ""
+                link: http://balinterdi.com/2016/02/12/how-to-make-an-ember-module-resolve-as-another-one.html
+            -
+                title: "Ember Data: Worryless Model Defaults"
+                description: ""
+                link: https://dockyard.com/blog/2016/02/12/defaults-in-ember
+            -
+                title: "Staging Environments with ember-cli-deploy"
+                description: ""
+                link: http://blog.firstiwaslike.com/staging-environments-with-ember-cli-deploy/
+            -
+                title: "Deploying an Ember.js Application to Amazon S3 Using ember-cli-deploy"
+                description: ""
+                link: http://jarredkenny.com/blog/deploying_an_ember_app_to_s3_using_ember_cli_deploy
+            -
+                title: "10 Considerations When Developing Ember-CLI Addons"
+                description: ""
+                link: http://notmessenger.com/considerations-when-developing-ember-cli-addons/
+            -
+                title: "Ember Data for the Curious"
+                description: ""
+                link: http://mfeckie.github.io/Ember-Data-For-The-Curious/
+            -
+                title: "FastBoot Team Meeting Minutes - 2016/02/17"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-02/february-17.md
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016/02/18"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-02/februrary-18.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Isle of Code: Ember & Hybrid App Development"
+                description: "Scoped & on-demand development from a team of Javascript hackers for Ember, Performant Hybrid Apps, iBeacons & team augmentation. est. 2012, we’re based in Toronto + Chicago."
+                advert: true
+                link: https://isleofcode.com/?utm_source=ember-weekly&utm_medium=newsletter&utm_campaign=ember-weekly-week-1
+
+
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
+    #            description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
+    #            link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "New Podcast: Real World Ember"
+                description: ""
+                link: http://www.real-world-ember.com/
+            -
+                title: "Ember Weekend Podcast #45: Global Ember Weekend"
+                description: ""
+                link: https://emberweekend.com/episodes/global-ember-weekend
+            -
+                title: "Ember Weekend Podcast #46: Team Tofu Burrito"
+                description: ""
+                link: https://emberweekend.com/episodes/team-tofu-burrito
+            -
+                title: "Modern Web Podcast S01E04: MobileDoc, Torii, and The Future of EmberJS with Matt Beale and Ember Weekend"
+                description: ""
+                link: http://modernweb.podbean.com/e/s01e04-mobiledoc-torii-and-the-future-of-emberjs-with-matt-beale-and-ember-weekend
+            -
+                title: "Ember Screencasts #116: Ember-computed-decorators"
+                description: "Plus a [new Pro Video Covering One-way-bound <input>s](https://www.emberscreencasts.com/posts/117-one-way-bound-inputs) ($) ."
+                link: https://www.emberscreencasts.com/posts/116-ember-computed-decorators
+            -
+                title: "Ember Screencasts #118: ember-one-way-controls addon"
+                description: "Plus a [new Pro video covering CRUD (Setup and Index)](https://www.emberscreencasts.com/posts/119-crud-2016-pt-1-setup-and-index) ($) ."
+                link: https://www.emberscreencasts.com/posts/118-ember-one-way-controls-addon
+            -
+                title: "Ember Power Select - Miguel Camba"
+                description: ""
+                link: https://vimeo.com/155779142
+            -
+                title: "Ember in Action at Particle.io - Wojtek Siudinski"
+                description: ""
+                link: https://vimeo.com/156069129
+            -
+                title: "Ember in Action at British Gas - Andy Czerwinski"
+                description: ""
+                link: https://vimeo.com/155782869
+            -
+                title: "Using Ember with Greensock - Jamie White"
+                description: ""
+                link: https://vimeo.com/156069128
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Dallas - 22nd February
+                link: "http://www.meetup.com/Ember-Dallas/events/225281920/"
+            -
+                title: Tempe, AZ - 23rd February
+                link: "http://www.meetup.com/EmberJS-Phoenix/events/228620247/"
+            -
+                title: Atlanta - 24th February
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/228873023/"
+            -
+                title: Denver - 24th February
+                link: "http://www.meetup.com/Ember-js-Denver/events/228464595/"
+            -
+                title: New York - 25th February
+                link: "http://www.meetup.com/EmberJS-NYC/events/228440679/"
+            -
+                title: Austin - 25th February
+                link: "http://www.meetup.com/Ember-ATX/events/228387209/"
+            -
+                title: Jacksonville Beach - 25th February
+                link: "http://www.meetup.com/EmberJax/events/228511362/"
+            -
+                title: Melbourne - 25th February
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/227585361/"
+            -
+                title: "Global Ember Meetup - 27th February"
+                description: ""
+                link: https://www.bigmarker.com/global-ember-meetup/S02E03-Ember-gets-hardcore
+            -
+                title: Calgary - 28th February
+                link: "http://www.meetup.com/EmberJS-YYC/events/227684406/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

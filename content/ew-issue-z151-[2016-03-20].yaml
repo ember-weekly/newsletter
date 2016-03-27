@@ -1,0 +1,170 @@
+issue: 151
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Community Survey 2016 - Ends Soon!"
+                description: ""
+                link: http://emberjs.com/ember-community-survey-2016/
+            -
+                title: "Ember Data 2.4 and 2.5 Beta Released"
+                description: "Also [Ember v2.4.2](https://github.com/emberjs/data/releases/tag/v2.4.2) Released"
+                link: http://emberjs.com/blog/2016/03/13/ember-data-2-4-released.html
+            -
+                title: "Ember v2.3.2 Released"
+                description: "Also [Ember v2.5.0 Beta 3 Released](https://github.com/emberjs/ember.js/releases/tag/v2.5.0-beta.3)."
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.3.2
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://gathercontent-miniatures-800px.s3.amazonaws.com/1455560854_189_503015c399c98a147771b50587dfd80b"
+        advert: true
+        headlines:
+            -
+                title: "​Get Multiple Job Offers From Top Companies With 1 Application"
+                description: "​​Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application. "
+                link: http://synd.co/202XE53
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Zesty: Why We Use Ember"
+                description: ""
+                link: http://engineering.zesty.com/why-we-use-ember/
+            -
+                title: "New, Easier Ember-try Config, For Most Addons"
+                description: ""
+                link: http://codeallday.com/blog/new-easier-ember-try-config-for-most-addons/
+            -
+                title: "Customizing DS.RESTSerializer"
+                description: ""
+                link: http://hatethatcode.com/emberjs-customizing-dsrestserializer.html
+            -
+                title: "RFC: Normalized Modules"
+                description: ""
+                link: https://github.com/dgeb/rfcs/blob/normalized-modules/text/0000-normalized-modules.md
+            -
+                title: "[Pls Send Halp!] The Ultimate Glimmer 2 Test Porting Guide"
+                description: ""
+                link: https://github.com/emberjs/ember.js/issues/13127
+            -
+                title: "Ember Docs Team Minutes - 17th March"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-03/march-17.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-i18n-csv: JSON to CSV and vice-versa for ember-i18n"
+                description: ""
+                link: https://github.com/kellyselden/ember-i18n-csv
+            -
+                title: "ember-cli-deploy-gcs-index: Ember-CLI-Deploy Plugin to Deploy to Google Cloud Storage."
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-deploy-gcs-index
+            -
+                title: "ember-api-actions: Trigger Remote Actions That Don't Fit Into CRUD"
+                description: ""
+                link: https://www.npmjs.com/package/ember-api-actions
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Leveling Up Your Forms - Todd Jordan"
+                description: ""
+                link: https://vimeo.com/159309998
+            -
+                title: "Modern Web Podcast S01E08 - The Evolution of Ember,js and Mentoring Developers Featuring EmberSherpa with EmberWeekend"
+                description: ""
+                link: https://www.youtube.com/watch?list=PL-G5r6j4GptH6S6WnII0fg2fJqhST8SjJ&v=8-Hu_rUnZ5w
+            -
+                title: "Ember Screencasts #126: Liquid Fire: The Explode Transition"
+                description: "Plus a [new Pro video covering DS.attr Transforms](https://www.emberscreencasts.com/posts/127-dsattr-transforms) ($) ."
+                link: https://www.emberscreencasts.com/posts/126-liquid-fire-the-explode-transition
+            -
+                title: "Ember Weekend Podcast #50: Await For It"
+                description: ""
+                link: https://emberweekend.com/episodes/await-for-it
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Ember Fest 2016 Conference, Budapest - 27-28th October
+                link: https://emberfest.eu/
+            -
+                title: Wicked Good Ember 2016 - Speaker Proposals Open
+                link: https://docs.google.com/forms/d/1dWJKc3244owUjxvj9QyA2cn3VHFdaHr37OQeWJdt-aw/viewform
+            -
+                title: Dallas - 21st March
+                link: "http://www.meetup.com/Ember-Dallas/events/225281942/"
+            -
+                title: Denver - 23rd March
+                link: "http://www.meetup.com/Ember-js-Denver/events/229114690/"
+            -
+                title: London - 24th March
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/228104885/"
+            -
+                title: New York - 24th March
+                link: "http://www.meetup.com/EmberJS-NYC/events/229145080/"
+            -
+                title: Austin - 24th March
+                link: "http://www.meetup.com/Ember-ATX/events/228743893/"
+            -
+                title: Salt Lake City - 24th March
+                link: "http://www.meetup.com/EmberJS-SLC/events/229100956/"
+            -
+                title: Sydney - 24th March
+                link: "http://www.meetup.com/EmberJS-SYD/events/229506411/"
+            -
+                title: Ember Community Happy Hour at EmberConf - 29th March
+                link: https://www.eventbrite.com/e/ember-community-happy-hour-at-emberconf-tickets-22752519398
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

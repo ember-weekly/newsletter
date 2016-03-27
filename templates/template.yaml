@@ -1,4 +1,4 @@
-issue: 14
+issue: 15
 strapline: "Your weekly source of Ember news"
 content:
 
@@ -21,14 +21,14 @@ content:
 
     -
         heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/simplabs-logo.png"
         advert: true
         headlines:
             -
-                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
-                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                title: "Work with the Web Experts at simplabs!"
+                description: "simplabs offers Ember.js as well as Ruby on Rails and Elixir/Phoenix consulting. We are based in Munich, Germany and work with clients all over the world. We take ownership of projects, augment your internal dev team and offer workshops and training."
                 advert: true
-                link: https://www.continuousupgrades.com
+                link: http://simplabs.com
 
     -
         heading: "Reading"
@@ -65,12 +65,6 @@ content:
                 title: ""
                 description: ""
                 link:
-                Linked Title:
-            -
-                title: "Pagefront: Hosting & Deployment for your Ember Apps"
-                description: "Deploy your app in just two steps! We offer custom domains, multi-environment support, organizations and much more. Give it a try!"
-                advert: true
-                link: https://www.pagefronthq.com
             # -
             #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
             #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
@@ -105,9 +99,13 @@ content:
         advert: true
         headlines:
             -
-               title: "Blue Apron's Using Ember To Build a Nationwide Farm-to-table Supply Chain System From Scratch"
-               description: "We're looking for someone who's passionate about building a more sustainable grocery supply chain. Our core project is building out a large-scale system (Ember/Rails) from scratch to be the backbone of our recipe & food delivery ops."
-               link: "https://www.blueapron.com/pages/jobs?gh_jid=14848"
+               title: "Remote Front End Developer - Ticketsolve"
+               description: "Join us on the next evolution of our ticketing platform. Moving from a traditional RoR app to a modern SPA, exposing our app as a set of API’s consumed by an Ember client to provide a rich interactive experience. Get in touch at [shanly@ticketsolve.com](mailto:shanly@ticketsolve.com)!"
+               link: "http://www.ticketsolve.com/"
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
 
 
     -
@@ -122,7 +120,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #4X: XXX"
+                title: "Ember Weekend Podcast #5X: XXX"
                 description: ""
                 link:
             -
