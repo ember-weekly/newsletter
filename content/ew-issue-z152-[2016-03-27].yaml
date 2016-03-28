@@ -1,0 +1,176 @@
+issue: 152
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v2.4.3 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.4.3
+            -
+                title: "Ember Data v2.4.3 Released"
+                description: "Also [Ember Data v2.5.0 Beta 3 Released](https://github.com/emberjs/data/releases/tag/v2.5.0-beta.3)"
+                link: https://github.com/emberjs/data/releases/tag/v2.4.3
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/46a9e00732c537f919723bea82857d6bf7ba10b3/assets/sponsors/greenfield-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Need help taking advantage of everything Ember.js has to offer? Contact Greenfield"
+                description: "Want to integrate Ember into your technology stack? Greenfield is a full stack application consultancy specializing in Ember.js and we want to help."
+                advert: true
+                link: http://greenfieldhq.com/#contact
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Testing an Ember select2 Component with Page Objects"
+                description: ""
+                link: https://gridium.com/testing-select2-with-page-objects/
+            -
+                title: "From Ember to React"
+                description: ""
+                link: https://medium.com/@eluciano11/from-ember-to-react-5c2faa0e8d10#.gtajiqu54
+            -
+                title: "Dynamic Sorting in Ember.js"
+                description: ""
+                link: https://www.codeschool.com/blog/2016/03/21/dynamic-sorting-in-emberjs/
+            -
+                title: "Deploying Ember Apps with Deploybot"
+                description: ""
+                link: http://builtbykrit.com/blog/deploying-ember-apps-to-aws-digitalocean-with-deploybot
+            -
+                title: "5 Ember.js Addons You Should Start Using"
+                description: ""
+                link: https://spin.atomicobject.com/2016/03/24/ember-addons/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Flattening the Initial Vim Learning Curve"
+                description: "An interactive workshop that aims to demystify the Vim editor, overcoming the initial hurdles which often discourage newcomers."
+                advert: true
+                link: http://flatteningthecurve.com/
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-promise-helpers: Promise-y Sugar for your Ember Templates"
+                description: ""
+                link: https://github.com/fivetanley/ember-promise-helpers
+            -
+                title: "ember-cordova: Simplifies Building Cordova Apps with Ember"
+                description: ""
+                link: https://github.com/isleofcode/ember-cordova
+            -
+                title: "ember-cli-deploy-appshell: applicationCache Based Shell for Loading Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-deploy-appshell
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember Weekend Podcast #51: You Can Have Glimmer Two"
+                description: ""
+                link: https://emberweekend.com/episodes/you-can-have-glimmer-two
+            -
+                title: "Ember Screencasts #128: Creating An Addon"
+                description: "Plus a [new Pro video covering Publishing an Addon](https://www.emberscreencasts.com/posts/129-publishing-an-addon) ($) ."
+                link: https://www.emberscreencasts.com/posts/128-creating-an-addon
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Portland - 28th March
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/228781125/"
+            -
+                title: Community Dinner & Drinks at EmberConf, Portland - 29th March
+                link: "https://www.eventbrite.com/e/community-dinner-drinks-at-emberconf-tickets-22752519398?__s=zdqwivnumwo8en1wttax"
+            -
+                title: Tempe - 29th March
+                link: "http://www.meetup.com/EmberJS-Phoenix/events/229404391/"
+            -
+                title: Raleigh - 4th April
+                link: "http://www.meetup.com/Triangle-Ember/events/229026939/"
+            -
+                title: New York - 4th April
+                link: "http://www.meetup.com/EmberJS-NYC/events/229598274/"
+            -
+                title: Atlanta - 4th April
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/229759499/"
+            -
+                title: Philadelphia - 4th April
+                link: "http://www.meetup.com/EmberJS-Philly/events/229294568/"
+            -
+                title: Toronto - 4th April
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/229637107/"
+            -
+                title: Jacksonville Beach - 4th April
+                link: "http://www.meetup.com/EmberJax/events/229126428/"
+            -
+                title: Columbus - 4th April
+                link: "http://www.meetup.com/ember-columbus/events/229562134/"
+            -
+                title: St. Paul - 6th April
+                link: "http://www.meetup.com/EmberMN/events/229638207/"
+            -
+                title: Indianapolis - 6th April
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/229343941/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

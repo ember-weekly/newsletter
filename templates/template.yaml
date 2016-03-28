@@ -21,14 +21,14 @@ content:
 
     -
         heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/simplabs-logo.png"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/46a9e00732c537f919723bea82857d6bf7ba10b3/assets/sponsors/greenfield-logo.png"
         advert: true
         headlines:
             -
-                title: "Work with the Web Experts at simplabs!"
-                description: "simplabs offers Ember.js as well as Ruby on Rails and Elixir/Phoenix consulting. We are based in Munich, Germany and work with clients all over the world. We take ownership of projects, augment your internal dev team and offer workshops and training."
+                title: "Need help taking advantage of everything Ember.js has to offer? Contact Greenfield"
+                description: "Want to integrate Ember into your technology stack? Greenfield is a full stack application consultancy specializing in Ember.js and we want to help."
                 advert: true
-                link: http://simplabs.com
+                link: http://greenfieldhq.com/#contact
 
     -
         heading: "Reading"
@@ -99,10 +99,6 @@ content:
         advert: true
         headlines:
             -
-               title: "Remote Front End Developer - Ticketsolve"
-               description: "Join us on the next evolution of our ticketing platform. Moving from a traditional RoR app to a modern SPA, exposing our app as a set of API’s consumed by an Ember client to provide a rich interactive experience. Get in touch at [shanly@ticketsolve.com](mailto:shanly@ticketsolve.com)!"
-               link: "http://www.ticketsolve.com/"
-            -
                title: "Senior JavaScript Engineer - Twitch"
                description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
                link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
@@ -128,7 +124,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #11X: XXX"
+                title: "Ember Screencasts #12X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 
