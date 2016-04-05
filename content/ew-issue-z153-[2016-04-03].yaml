@@ -1,0 +1,212 @@
+issue: 153
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.4.4 Released"
+                description: "Also [Ember v2.5.0 Beta 4 released](https://github.com/emberjs/ember.js/releases/tag/v2.5.0-beta.4)."
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.4.4
+            -
+                title: "Ember Data 2.5.0 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.5.0-beta.4
+            -
+                title: "Ember Community Survey 2016 - Results"
+                description: ""
+                link: http://emberjs.com/ember-community-survey-2016/
+
+    -
+        heading: "EmberConf 2016"
+        headlines:
+            -
+                title: "EmberConf 2016 Summary by Lauren Tan"
+                description: "A collection of links that cover what happened during EmberConf 2016"
+                link: https://github.com/poteto/emberconf-2016?#emberconf-2016-summary
+            -
+                title: "EmberConf 2016 Notes by Dockyard"
+                description: ""
+                link: https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn
+            -
+                title: "EmberConf 2016 CliffsNotes by Alex DiLiberto"
+                description: ""
+                link: http://alexdiliberto.com/posts/emberconf-2016-cliffsnotes/
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/46a9e00732c537f919723bea82857d6bf7ba10b3/assets/sponsors/greenfield-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Need help taking advantage of everything Ember.js has to offer? Contact Greenfield"
+                description: "Want to integrate Ember into your technology stack? Greenfield is a full stack application consultancy specializing in Ember.js and we want to help."
+                advert: true
+                link: http://greenfieldhq.com/#contact
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "New Ember Fastboot Website"
+                description: ""
+                link: http://www.ember-fastboot.com/
+            -
+                title: "The Future of Ember Templating"
+                description: "A livetweet of @wycats and @chancancode's EmberConf talk about Glimmer 2 internals."
+                link: https://storify.com/tomdale/the-future-of-ember-templating
+            -
+                title: "Glimmer 2 Technical Guides"
+                description: ""
+                link: https://github.com/tildeio/glimmer/blob/master/guides/01-introduction.md
+            -
+                title: "Introducing Zoey"
+                description: ""
+                link: http://emberjs.com/blog/2016/03/23/introducing-zoey.html
+            -
+                title: "Why I'm Excited About Glimmer 2 and Why You Already Know How it's Better"
+                description: ""
+                link: https://www.linkedin.com/pulse/why-im-excited-glimmer2-you-already-know-its-better-joel-kang
+            -
+                title: "Using Ember Inspector with Testem"
+                description: ""
+                link: https://medium.com/@chrisdmasters/using-ember-inspector-with-testem-520a0bbbe708#.cypf6jj4p
+            -
+                title: "Announcing: ember-deferred-content"
+                description: ""
+                link: https://dockyard.com/blog/2016/03/30/announcing-ember-deferred-content
+            -
+                title: "Customizing DS.RESTSerializer"
+                description: ""
+                link: http://hatethatcode.com/emberjs-customizing-dsrestserializer.html
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016/04/23"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-03/march-24.md
+            -
+                title: "Ember Theming"
+                description: ""
+                link: https://medium.com/@jonpitch/ember-theming-97e9562084c7#.18nhe0s37
+            -
+                title: "Getting Started with Laravel and Ember"
+                description: ""
+                link: https://www.cubewebsites.com/blog/development/php/getting-started-laravel-ember/
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-redux: An Addon That Provides Simple Redux Bindings for Ember"
+                description: ""
+                link: https://github.com/toranb/ember-redux
+            -
+                title: "ember-validated-form-buffer: An Ember Data Model Buffer to Validate Forms"
+                description: ""
+                link: https://github.com/simplabs/ember-validated-form-buffer#ember-validated-form-buffer
+            -
+                title: "ember-a11y: A Collection of Tools to Build Accessible Ember Apps"
+                description: ""
+                link: https://emberobserver.com/addons/ember-a11y
+            -
+                title: "ember-cookies: Cookies Abstraction That Works in the Browser and with Fastboot"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cookies
+            -
+                title: "ember-user-activity: Addon for Tracking User Activity & Idling"
+                description: ""
+                link: https://github.com/elwayman02/ember-user-activity
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+            -
+               title: "Full Stack Developer - Cornell University"
+               description: "Join a talented development team looking to make a difference in the research space.  Using cutting edge technology, we’re building beautiful products that make it easier for principal investigators to manage their research."
+               link: https://cornellu.taleo.net/careersection/10164/jobdetail.ftl?job=30857
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Frontside Podcast Ep 37: Ember CLI Mirage with Sam Selikoff"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/37
+            -
+                title: "Program With Erik: Our Favorite Ember Addons A Round Table Discussion"
+                description: ""
+                link: http://www.programwitherik.com/our-favorite-ember-addons-a-round-table-discussion/
+            -
+                title: "How To Install Ember.js on Mac/Linux and Upgrade Your Project"
+                description: ""
+                link: https://www.youtube.com/watch?v=Ie-rWifNLkY
+            -
+                title: "How To Use Ember.js in Windows"
+                description: ""
+                link: https://www.youtube.com/watch?v=VPyA2spcibY
+            -
+                title: "Ember Weekend Podcast #52: See you at EmberConf"
+                description: ""
+                link: https://emberweekend.com/episodes/see-you-at-emberconf
+            -
+                title: "Ember Screencasts #130: Making Addons Extensible"
+                description: "Plus a [new Pro video covering Addon Blueprints](https://www.emberscreencasts.com/posts/131-addon-blueprints) ($) ."
+                link: https://www.emberscreencasts.com/posts/130-making-addons-extensible
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember Global Meetup: Special EmberConf Recap - 4th April"
+                link: https://www.bigmarker.com/global-ember-meetup/Special-EmberConf-Recap
+            -
+                title: Raleigh - 4th April
+                link: "http://www.meetup.com/Triangle-Ember/events/229026939/"
+            -
+                title: Guatemala - 4th April
+                link: "http://www.meetup.com/ember-gt/events/229770774/"
+            -
+                title: New York - 4th April
+                link: "http://www.meetup.com/EmberJS-NYC/events/229598274/"
+            -
+                title: Philadelphia - 4th April
+                link: "http://www.meetup.com/EmberJS-Philly/events/229294568/"
+            -
+                title: Toronto - 4th April
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/229637107/"
+            -
+                title: Jacksonville Beach - 4th April
+                link: "http://www.meetup.com/EmberJax/events/229126428/"
+            -
+                title: St. Paul - 6th April
+                link: "http://www.meetup.com/EmberMN/events/229638207/"
+            -
+                title: Indianapolis - 6th April
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/229343941/"
+            -
+                title: "Ember Global Meetup: Something Different For A Change - 9th April"
+                link: https://www.bigmarker.com/global-ember-meetup/S02E05-Something-different-for-a-change
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
