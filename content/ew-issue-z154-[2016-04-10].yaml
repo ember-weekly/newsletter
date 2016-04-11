@@ -1,0 +1,177 @@
+issue: 154
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "EmberConf 2016 - Bigger and Better"
+                description: ""
+                link: https://dockyard.com/blog/2016/04/01/emberconf-2016-bigger-better
+            -
+                title: "EmberConf 2016: The Morning-After Post-Mortem"
+                description: ""
+                link: https://medium.com/@wifelette/emberconf-2016-the-morning-after-post-mortem-b37d195b916b#.aqc5dj7dt
+            -
+                title: "Talking with Tom Dale about Ember FastBoot and the Return of Scrappy JavaScript"
+                description: ""
+                link: https://blog.heroku.com/archives/2016/4/5/live_at_emberconf_tom_dale_talks_about_ember_fastboot
+            -
+                title: "Building a Performant Real-time Web App with Ember Fastboot and Phoenix (Part 1)"
+                description: ""
+                link: https://medium.com/@mikenorth/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.2mv5nki8b
+            -
+                title: "Complex Component Design in Ember - Part 3 - Replace the Observer"
+                description: ""
+                link: http://balinterdi.com/2016/04/08/complex-component-design-in-ember-replace-the-observer.html
+            -
+                title: "Ember at AltSchool: Many Apps and Many Add-Ons"
+                description: ""
+                link: https://medium.com/altschool-engineering/ember-at-altschool-many-apps-and-many-add-ons-934143933e68#.ggikv2p9d
+            -
+                title: "Ember Core Team Meeting Minutes - 2016/04/08"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2016-04/april-08.md
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016/04/07"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-04/april-07.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016/04/07"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-04/april-07.md
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/46a9e00732c537f919723bea82857d6bf7ba10b3/assets/sponsors/greenfield-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Need help taking advantage of everything Ember.js has to offer? Contact Greenfield"
+                description: "Want to integrate Ember into your technology stack? Greenfield is a full stack application consultancy specializing in Ember.js and we want to help."
+                advert: true
+                link: http://greenfieldhq.com/#contact
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #53: Killer Queen For Days"
+                description: ""
+                link: https://emberweekend.com/episodes/killer-queen-for-days
+            -
+                title: "Creating Your First Addon - Tracy Lee"
+                description: ""
+                link: https://vimeo.com/160173201
+            -
+                title: "RSVP And I Promise You’ll Learn Something - Dennis Qian"
+                description: ""
+                link: https://vimeo.com/160172303
+            -
+                title: "Get Up and Running with Ember FastBoot - David Tang"
+                description: ""
+                link: http://thejsguy.com/2016/04/08/get-up-and-running-with-ember-fastboot.html
+            -
+                title: "EmberConf 2016 Recap Video"
+                description: ""
+                link: https://www.youtube.com/watch?v=G9P8u7FucgA
+            -
+                title: "Program with Erik: Ember.js Video Guides"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PL-lxoPS_1OXWBn3h1mNyX2ZVGYsn5-akf
+            # -
+            #     title: "Ember Screencasts #12X: XXX"
+            #     description: "Plus a [new Pro video covering XXX](  ) ($) ."
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Full Stack Developer - Cornell University"
+               description: "Join a talented development team looking to make a difference in the research space.  Using cutting edge technology, we’re building beautiful products that make it easier for principal investigators to manage their research."
+               link: https://cornellu.taleo.net/careersection/10164/jobdetail.ftl?job=30857
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Raleigh - 11th April
+                link: "http://www.meetup.com/Triangle-Ember/events/230253371/"
+            -
+                title: Houston - 11th April
+                link: "http://www.meetup.com/EmberJS-Houston/events/229919523/"
+            -
+                title: Atlanta - 12th April
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/229713944/"
+            -
+                title: Guatemala - 14th April
+                link: "http://www.meetup.com/ember-gt/events/229899431/"
+            -
+                title: Chicago - 14th April
+                link: "http://www.meetup.com/Chicago-Ember-js/events/230124878/"
+            -
+                title: Boston - 14th April
+                link: "http://www.meetup.com/Boston-Ember-js/events/228839937/"
+            -
+                title: Amsterdam - 14th April
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/229467644/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
