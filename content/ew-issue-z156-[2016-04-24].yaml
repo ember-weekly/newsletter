@@ -1,0 +1,202 @@
+issue: 156
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.5.1 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.5.1
+            -
+                title: "Moar EmberConf Videos!"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/imgix-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Increase Your Ember App's Performance with On-the-fly Image Processing and Delivery"
+                description: "imgix is a real-time responsive image service and CDN that works with your existing storage solution. Find out why thousands of companies including Eventbrite, Kickstarter and The Guardian love us."
+                link: https://www.imgix.com/?utm_source=ember-weekly&utm_medium=email&utm_campaign=2016-01-17-ember-weekly-prime
+                advert: true
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Route Closure Actions in Ember.js"
+                description: ""
+                link: https://emberway.io/declarative-templating-in-ember-with-composable-helpers-a70f01d67165#.cntqksode
+            -
+                title: "Demystifying Redirection in Ember"
+                description: ""
+                link: http://www.briangonzalez.org/demystifying-redirection-ember/
+            -
+                title: "Complex Component Design in Ember - Part 3 - Replace the Observer"
+                description: ""
+                link: http://balinterdi.com/2016/04/08/complex-component-design-in-ember-replace-the-observer.html
+            -
+                title: "Building a performant real-time web app with Ember Fastboot and Phoenix (Part 2.1)"
+                description: "And checkout [part 3](https://medium.com/@mikenorth/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-3-dd0e03232034#.4j5qz2v5d)."
+                link: https://medium.com/@mikenorth/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-2-1-7c98452e19bb#.4nyaz818a
+            -
+                title: "How To: Autocomplete Inputs in Ember"
+                description: ""
+                link: https://kuzzmi.com/blog/how-to-autocomplete-inputs-in-ember
+            -
+                title: "Integrating Tiddle with Ember Simple Auth"
+                description: ""
+                link: http://blog.sundaycoding.com/blog/2016/04/23/integrating-tiddle-with-ember-simple-auth/
+            -
+                title: "Making Ember and Django Play Nicely Together: A To-Do App Walkthrough"
+                description: ""
+                link: https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/
+            -
+                title: "Ember Fastboot Team Meeting Minutes - 2016/04/20"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-04/april-20.md
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "fastboot-aws: A FastBoot Server for AWS"
+                description: ""
+                link: https://github.com/tomdale/fastboot-aws
+            -
+                title: "fastboot-app-server: A Production-Ready App Server for Ember FastBoot Apps"
+                description: ""
+                link: https://github.com/ember-fastboot/fastboot-app-server
+            -
+                title: "EmberJSThemes: Themes and Template Marketplace"
+                description: ""
+                link: http://www.emberjsthemes.com/
+            -
+                title: "Ember Redux Website"
+                description: ""
+                link: http://www.ember-redux.com/
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Hack on Ember, Cordova & Open-source with Isle of Code"
+               description: "Isle of Code is an Ember-only dev shop, focused on hybrid Ember/Cordova apps. We're looking for Ember hackers in Toronto + Chicago. Each team member typically spends 15-20 hours on open-source projects per week, and we've produced addons such as smoke & mirrors and ember-cordova. Email <a href=\"mailto:alex@isleofcode.com\">alex@isleofcode.com</a> with a GH link. No resumes needed."
+               link: http://isleofcode.com/
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+            -
+               title: "Full Stack Developer - Cornell University"
+               description: "Join a talented development team looking to make a difference in the research space.  Using cutting edge technology, we’re building beautiful products that make it easier for principal investigators to manage their research."
+               link: https://cornellu.taleo.net/careersection/10164/jobdetail.ftl?job=30857
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #55: Just a Little Reacty"
+                description: ""
+                link: https://emberweekend.com/episodes/just-a-litte-reacty
+            -
+                title: "Some More Scenarios for the \"select\" Tag in Ember 2 - Balint Erdi"
+                description: ""
+                link: https://www.youtube.com/watch?v=yCtUCZm46HA
+            -
+                title: "Accessibility Mechanics for Web Applications - Léonie Watson"
+                description: ""
+                link: https://vimeo.com/163925627
+            -
+                title: "Hot Reloading with React and Redux (and Ember?) - Rob Knight"
+                description: ""
+                link: https://vimeo.com/163933996
+            -
+                title: "EmberConf 2016 - Recap"
+                description: "Interviews with Jade Applegate, David Baker, Jay Phelps, Brandon Hays, Balint Erdi, Heather Alexandra Brysiewicz, Brian Cardarella, Sara Raasch."
+                link: https://www.youtube.com/watch?v=XWOFh0hmtn4
+            -
+                title: "Ember Screencasts #134: Introduction to Serializers"
+                description: "Plus a [new Pro video covering JSON API](https://www.emberscreencasts.com/posts/135-json-api) ($) ."
+                link: https://www.emberscreencasts.com/posts/134-introduction-to-serializers
+            -
+                title: "Ember Screencasts #136: Serializers - normalizeResponse"
+                description: "Plus a [new Pro video covering normalize${specific}Response](https://www.emberscreencasts.com/posts/137-serializers-normalizespecificresponse) ($) ."
+                link: https://www.emberscreencasts.com/posts/136-serializers-normalizeresponse
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Saint Louis - 25th April
+                link: "http://www.meetup.com/STLEmber/events/230430866/"
+            -
+                title: Atlanta - 27th April
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/230568570/"
+            -
+                title: San Diego - 27th April
+                link: "http://www.meetup.com/sandiego-ember/events/228231120/"
+            -
+                title: Denver - 27th April
+                link: "http://www.meetup.com/Ember-js-Denver/events/230233741/"
+            -
+                title: London - 28th April
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/228104892/"
+            -
+                title: New York - 28th April
+                link: "http://www.meetup.com/EmberJS-NYC/events/230054319/"
+            -
+                title: Austin - 28th April
+                link: "http://www.meetup.com/Ember-ATX/events/229120017/"
+            -
+                title: Jacksonville Beach - 28th April
+                link: "http://www.meetup.com/EmberJax/events/229126460/"
+            -
+                title: Melbourne - 28th April
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/229609446/"
+            -
+                title: Madison - 30th April
+                link: "http://www.meetup.com/mad-ember/events/230372558/"
+            -
+                title: Vancouver - 2nd May
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/230304803/"
+            -
+                title: Columbus - 2nd May
+                link: "http://www.meetup.com/ember-columbus/events/230120249/"
+            -
+                title: Wicked Good Ember Conference, Boston - 27–28th June
+                link: https://wickedgoodember.com/
+            -
+                title: Ember Fest 2016 Conference, Budapest - 27-28th October
+                link: https://emberfest.eu/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
