@@ -21,14 +21,14 @@ content:
 
     -
         heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/46a9e00732c537f919723bea82857d6bf7ba10b3/assets/sponsors/greenfield-logo.png"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
         advert: true
         headlines:
             -
-                title: "Need help taking advantage of everything Ember.js has to offer? Contact Greenfield"
-                description: "Want to integrate Ember into your technology stack? Greenfield is a full stack application consultancy specializing in Ember.js and we want to help."
+                title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+                description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
                 advert: true
-                link: http://greenfieldhq.com/#contact
+                link: https://ember-workshop.simplabs.com/
 
     -
         heading: "Reading"

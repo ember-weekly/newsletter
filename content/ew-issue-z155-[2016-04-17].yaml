@@ -1,0 +1,205 @@
+issue: 155
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "All EmberConf 2016 Videos Posted!"
+                description: ""
+                link: http://confreaks.tv/events/emberconf2016
+            -
+                title: "Ember.js 2.4-LTS, 2.5, and 2.6 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/04/11/ember-2-5-released.html
+            -
+                title: "Ember CLI v2.5.0 Released"
+                description: "Also [Ember CLI v2.6.0 Beta 1 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.6.0-beta.1)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.5.0
+            -
+                title: "Ember Data v2.5.2 Released"
+                description: "Also [Ember Data v2.6.0 Beta 1 Released](https://github.com/emberjs/data/releases/tag/v2.6.0-beta.1)"
+                link: https://github.com/emberjs/data/releases/tag/v2.5.2
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+        advert: true
+        headlines:
+            -
+                title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+                description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+                advert: true
+                link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Retrying Network Requests in Ember.js: Part 2"
+                description: ""
+                link: https://spin.atomicobject.com/2016/04/12/ember-retry-network-requests/
+            -
+                title: "A Match Made In Heaven (ember-concurrency)"
+                description: ""
+                link: https://dockyard.com/blog/2016/04/10/a-match-made-in-heaven
+            -
+                title: "Building a Performant Real-time Web App with Ember Fastboot and Phoenix (Part 2)"
+                description: ""
+                link: https://medium.com/@mikenorth/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-2-5dd2f74c7f34#.11lioi8wm
+            -
+                title: "Composable Helpers and Route Actions: Two Ember Add-Ons You Should Know"
+                description: ""
+                link: https://m.alphasights.com/composable-helpers-and-route-actions-two-ember-add-ons-you-should-know-655cf39fd9de#.g0y0h9ujd
+            -
+                title: "Ember Fastboot Team Meeting Minutes - 2016/04/12"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-04/april-13.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016/04/14"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-04/april-14.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2016/04/06"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2016-04/april-08.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+            -
+               title: "Hack on Ember, Cordova & Open-source with Isle of Code"
+               description: "Isle of Code is an Ember-only dev shop, focused on hybrid Ember/Cordova apps. We're looking for Ember hackers in Toronto + Chicago. Each team member typically spends 15-20 hours on open-source projects per week, and we've produced addons such as smoke & mirrors and ember-cordova. Email <a href=\"mailto:alex@isleofcode.com\">alex@isleofcode.com</a> with a GH link. No resumes needed."
+               link: http://isleofcode.com/
+            -
+               title: "Full Stack Developer - Cornell University"
+               description: "Join a talented development team looking to make a difference in the research space.  Using cutting edge technology, we’re building beautiful products that make it easier for principal investigators to manage their research."
+               link: https://cornellu.taleo.net/careersection/10164/jobdetail.ftl?job=30857
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Desarticulando Ember por Jorge Lainfiesta"
+                description: ""
+                link: https://vimeo.com/162289929
+            -
+                title: "Introduction to ember-concurrency by Alex Matchneer"
+                description: ""
+                link: https://vimeo.com/162329769
+            -
+                title: "DDAU with ember-simple-form and ember-with-service by Ryan Tablada"
+                description: ""
+                link: https://vimeo.com/162631962
+            -
+                title: "Start Me Up: Building an MVP with Ember, Firebase and Ember-Paper by Brendan OHara"
+                description: ""
+                link: https://vimeo.com/162620159
+            -
+                title: "Introduction to ember-data-partial-model by Karol Galanciak"
+                description: ""
+                link: https://vimeo.com/162329720
+            -
+                title: "Advanced Ember.js Routes and Models Screencast - Erik Hanchett"
+                description: ""
+                link: http://www.programwitherik.com/advanced-ember-js-routes-and-models-screencast/
+            -
+                title: "Are Ember.js Controllers Dead? - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=ovgDR2qAl-Q&feature=youtu.be&a
+            -
+                title: "Ember Screencasts #132: Dummy Apps"
+                description: "Plus a [new Pro video covering Addon Acceptance Tests](https://www.emberscreencasts.com/posts/133-addon-acceptance-tests) ($) ."
+                link: https://www.emberscreencasts.com/posts/132-dummy-apps
+            -
+                title: "Ember Weekend Podcast #54: Like Stealing Candy From a Baby"
+                description: ""
+                link: https://emberweekend.com/episodes/like-stealing-candy-from-a-baby
+            # -
+            #     title: "Ember Land #1X: XXX"
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madrid - 19th April
+                link: "http://www.meetup.com/Ember-js-Madrid/events/230317373/"
+            -
+                title: Cincinnati - 20th April
+                link: "http://www.meetup.com/embernati/events/229805969/"
+            -
+                title: Nashville - 20th April
+                link: "http://www.meetup.com/Nashville-EmberJS/events/230205823/"
+            -
+                title: Irvine - 20th April
+                link: "http://www.meetup.com/Ember-SC/events/229658488/"
+            -
+                title: Los Gatos - 20th April
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/229940682/"
+            -
+                title: London - 21st April
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/227825635/"
+            -
+                title: Salt Lake City - 21st April
+                link: "http://www.meetup.com/EmberJS-SLC/events/230022559/"
+            -
+                title: Montevideo - 21st April
+                link: "http://www.meetup.com/ember-montevideo/events/230176910/"
+            -
+                title: München - 21st April
+                link: "http://www.meetup.com/Ember-js-Munich/events/229574201/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
