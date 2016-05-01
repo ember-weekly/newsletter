@@ -1,0 +1,167 @@
+issue: 157
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Upcoming Deprecation baseURL in Ember CLI 2.7"
+                description: ""
+                link: http://emberjs.com/blog/2016/04/28/baseURL.html
+            -
+                title: "Ember v2.6.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.6.0-beta.2
+            -
+                title: "Ember Data v2.6.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.6.0-beta.2
+            -
+                title: "Ember CLI v2.6.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.6.0-beta.2
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/continuous-upgrades-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+                description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+                advert: true
+                link: https://www.continuousupgrades.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "EmberConf 2016 Recap"
+                description: ""
+                link: https://dockyard.com/blog/2016/04/29/ember-conf-recap
+            -
+                title: "Building a Performant Real-Time Web App With Ember Fastboot and Phoenix (Part 4)"
+                description: "And checkout [part 5](https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-5-817626ca4f5f#.eqm9fo4jh)"
+                link: https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-4-93118e278c68#.qfz361nmi
+            -
+                title: "FastBoot Team Meeting Minutes - 2016/04/27"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-04/april-27.md#fastboot-meeting-notes-2016-04-27
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016/04/21"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-04/april-21.md#2016-04-21-agenda
+            -
+                title: "Ember.js Tips - Delivered Straight to Your Inbox!"
+                description: ""
+                link: http://emberjs.tips/
+            -
+                title: "The EmberWatch Times"
+                description: "Weekly digest of the happenings of the Ember.js development ecosystem"
+                link: https://tinyletter.com/locks
+            -
+                title: "Build Pacman: Learn Modern Javascript, HTML5 Canvas, and a bit of EmberJS ($)"
+                description: ""
+                link: https://leanpub.com/buildpacman
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-aframe: aframe.io Integration for Ember.js"
+                description: ""
+                link: https://github.com/ebryn/ember-aframe
+            -
+                title: "ember-autoserve: Automatically Restart `ember serve` when Necessary"
+                description: ""
+                link: https://github.com/ebryn/ember-autoserve
+            -
+                title: "ember-better-errors: Shows Error Page when Runtime Errors Occur"
+                description: ""
+                link: https://github.com/ebryn/ember-better-errors
+            -
+                title: "ember-cli-deploy-ghpages: Upload Built Ember Dist Files to GitHub Pages"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-deploy-ghpages
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "JavaScript Air EP20 - JavaScript Frameworks: Ember"
+                description: ""
+                link: https://javascriptair.com/episodes/2016-04-27/
+            -
+                title: "Ember.js 2: Future-Friendly Ambitious Apps, that Scale! - Michael North"
+                description: ""
+                link: https://www.youtube.com/watch?v=S2-ScXk0LoY&feature=share
+            -
+                title: "Ember Weekend Podcast #56: didInsertEpisodeTitle"
+                description: ""
+                link: https://emberweekend.com/episodes/did-insert-episode-title
+            -
+                title: "Ember Screencasts #138: Serializers: How are normalize and normalizeResponse different?"
+                description: "Plus a [new Pro video covering Extracting Attributes and IDs](https://www.emberscreencasts.com/posts/139-serializers-extracting-attributes-and-ids) ($) ."
+                link: https://www.emberscreencasts.com/posts/138-serializers-how-are-normalize-and-normalizeresponse-different
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Vancouver - 2nd May
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/230304803/"
+            -
+                title: Columbus - 2nd May
+                link: "http://www.meetup.com/ember-columbus/events/230120249/"
+            -
+                title: Madison - 3rd May
+                link: "http://www.meetup.com/mad-ember/events/230371622/"
+            -
+                title: Budapest - 3rd May
+                link: "http://www.meetup.com/ember-bp/events/230299619/"
+            -
+                title: St. Paul - 4th May
+                link: "http://www.meetup.com/EmberMN/events/230552160/"
+            -
+                title: Toronto - 5th May
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/230487689/"
+            -
+                title: Raleigh - 9th May
+                link: "http://www.meetup.com/Triangle-Ember/events/230632775/"
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
