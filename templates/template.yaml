@@ -30,6 +30,18 @@ content:
                 advert: true
                 link: https://ember-workshop.simplabs.com/
 
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/4e743b31f9d7b4768d1f7c2889577e7ddeeb1a8c/assets/sponsors/hired-200-200-oneapplication.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "​​​Get Multiple Job Offers From Top Companies With 1 Application"
+    #             description: "​​​Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application."
+    #             advert: true
+    #             link: http://synd.co/202XE53
+    #             domain: hired.com
+
     -
         heading: "Reading"
         headlines:
@@ -100,12 +112,12 @@ content:
         headlines:
             -
                title: "Senior JavaScript Engineer - Twitch"
-               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
                link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
             -
-               title: "Full Stack Developer - Cornell University"
-               description: "Join a talented development team looking to make a difference in the research space.  Using cutting edge technology, we’re building beautiful products that make it easier for principal investigators to manage their research."
-               link: https://cornellu.taleo.net/careersection/10164/jobdetail.ftl?job=30857
+               title: "Full Stack Engineer at DataFox"
+               description: "DataFox is looking for full stack engineers that are passionate about data and great UI/UX.  If you are a risk-taking engineer who can take initiative and think creatively to solve complex data problems, get in touch!"
+               link: http://www.datafox.com/company/careers/
 
 
     -

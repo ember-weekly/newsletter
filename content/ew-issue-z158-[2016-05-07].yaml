@@ -1,0 +1,202 @@
+issue: 158
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.6.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.6.0-beta.3
+            -
+                title: "Ember Data v2.6.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.6.0-beta.3
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/8120234ff2bfab6b50b9784545ed3b015eef1eb2/assets/sponsors/rollbar-logo-ember-weekly.png"
+        advert: true
+        headlines:
+            -
+                title: "Rollbar - Turn Errors into Awesome"
+                description: "Find & fix JavaScript errors faster (and have fun doing it)! Quickly pinpoint what’s broken and why. Get the context and insights you need to defeat application errors, forever."
+                advert: true
+                link: http://synd.co/1VZG5At
+                domain: rollbar.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Retrieve Ember Data models from a non-REST API"
+                description: ""
+                link: http://emberigniter.com/retrieve-ember-data-models-non-rest-api/
+            -
+                title: "Saving Only Dirty Attributes"
+                description: ""
+                link: http://emberigniter.com/saving-only-dirty-attributes/
+            -
+                title: "Adding query parameters to a hasMany relationship"
+                description: ""
+                link: http://emberigniter.com/adding-query-parameters-hasmany-relationship/
+            -
+                title: "16 Open Source Ember.js Projects to Learn From"
+                description: ""
+                link: https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from
+            -
+                title: "The Ember.js Times - Issue #1"
+                description: ""
+                link: https://the-emberjs-times.ongoodbits.com/2016/05/03/issue-1
+            -
+                title: "Creating Reusable Page Layouts in Ember"
+                description: ""
+                link: https://spin.atomicobject.com/2016/05/03/reusable-page-layouts-ember/
+            -
+                title: "Creating an Ember Addon for Airtable API"
+                description: ""
+                link: https://medium.com/@benoror/creating-an-ember-addon-for-airtable-api-d9e38d7bef97#.c2cjxwinc
+            -
+                title: "eBook: Build Web Apps in 2 Weeks!"
+                description: ""
+                link: http://www.ember.rocks/
+            -
+                title: "Ember at AltSchool: Ambitious Problems and Benefits"
+                description: ""
+                link: https://medium.com/altschool-engineering/ember-at-altschool-ambitious-problems-and-benefits-48cfadd61b3d#.g0l3y38y2
+            -
+                title: "history.pushState & DOM Exception 18"
+                description: ""
+                link: http://jdurand.com/blog/2016/05/03/ember-history-pushstate-dom-exception-18/
+            -
+                title: "PEEP Stack (Part 6): Contextual Components & Animating your UI with Liquid Fire"
+                description: "Building a performant real-time web app with Ember Fastboot and Phoenix."
+                link: https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-6-14f29bf93a25
+            -
+                title: "ember-a11y Team Meeting Minutes - 2016-04-27"
+                description: ""
+                link: https://github.com/ember-a11y/core-notes/blob/ember-a11y/ember-a11y/2016-04/april-27.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-04-28"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-04/april-28.md
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Muffin - CMS powered by Ember"
+                description: ""
+                link: https://github.com/muffinjs/client
+            -
+                title: "ember-windoc: Window and Document Events (Scroll, Resize, Move, etc) the Ember Way"
+                description: ""
+                link: https://github.com/levanto-financial/ember-windoc
+            -
+                title: "ember-pin: Scroll-Triggered Fixed Pieces of UI"
+                description: ""
+                link: https://github.com/levanto-financial/ember-pin
+            -
+                title: "ember-element-query: Apply Styles to Elements Conditionally Based on Element's Own Width"
+                description: ""
+                link: https://www.npmjs.com/package/ember-element-query
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: " Remote Senior Ember.js Developer - Toptal"
+               description: "We're looking for seasoned Ember.js developers to take on challenging, fast-paced projects as part of an elite community of engineers. If you want to learn from senior Ember.js engineers and work with top clients from anywhere, apply today!"
+               link: https://www.toptal.com/emberjs/jobs?utm_source=ember_weekly&utm_medium=newsletter&utm_campaign=emberjs_jobs
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. (engineering.twitch.tv)"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Program With Erik: EmberConf Recap Round Table Podcast"
+                description: ""
+                link: http://www.programwitherik.com/emberconf-recap-round-table-podcast/
+            -
+                title: "Make a game with Ember by @mattmckenna"
+                description: ""
+                link: https://vimeo.com/165647735
+            -
+                title: "I Like The Way You Work It - All About Web Workers by @nolanlawson"
+                description: ""
+                link: https://vimeo.com/164442904
+            -
+                title: "Building A Better Company Through Open Source by @buritica"
+                description: ""
+                link: https://vimeo.com/164368744
+            -
+                title: "Ember Weekend Podcast #57: Google Can See Us Now"
+                description: ""
+                link: https://emberweekend.com/episodes/google-can-see-us-now
+            # -
+            #     title: "Ember Screencasts #14X: XXX"
+            #     description: "Plus a [new Pro video covering XXX](  ) ($) ."
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: London - 9th May
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/230865630/"
+            -
+                title: Raleigh - 9th May
+                link: "http://www.meetup.com/Triangle-Ember/events/230632775/"
+            -
+                title: Atlanta - 10th May
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/230274358/"
+            -
+                title: Southern California - 11th May
+                link: "http://www.meetup.com/Ember-SC/events/229658501/"
+            -
+                title: San Diego - 11th May
+                link: "http://www.meetup.com/sandiego-ember/events/229471358/"
+            -
+                title: Denver - 11th May
+                link: "http://www.meetup.com/Ember-js-Denver/events/230855224/"
+            -
+                title: London - 12th May
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/227825639/"
+            -
+                title: Boston - 12th May
+                link: "http://www.meetup.com/Boston-Ember-js/events/228867026/"
+            -
+                title: Montevideo - 12th May
+                link: "http://www.meetup.com/ember-montevideo/events/230853067/"
+            -
+                title: Bangalore - 14th May
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/230637377/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -1,0 +1,185 @@
+issue: 159
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.6.0 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.6.0-beta.4
+            -
+                title: "Ember Data v2.6.0 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/2.6.0-beta.4
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+        advert: true
+        headlines:
+            -
+                title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+                description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+                advert: true
+                link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The Ember.js Times: Issue #2"
+                description: ""
+                link: https://the-emberjs-times.ongoodbits.com/2016/05/11/issue-2
+            -
+                title: "Parallelizing Ember Tests Across CI Workers"
+                description: ""
+                link: https://spin.atomicobject.com/2016/05/15/ember-test-parallelization-circleci/
+            -
+                title: "Mocking File Inputs in JavaScript and Ember.js"
+                description: ""
+                link: http://nerds.intuo.io/2016/05/12/mocking-file-uploads-in-javascript.html
+            -
+                title: "Import an External Library as an ES6 Module in Your Ember App"
+                description: ""
+                link: http://codeandtechno.com/posts/import-an-external-library-as-an-ES6-module-in-ember-js/
+            -
+                title: "Writing an Ember Add-on that Wraps an NPM module"
+                description: ""
+                link: http://blog.88mph.io/2016/05/10/writing-an-ember-add-on-that-wraps-an-npm-module/
+            -
+                title: "Pushing JSON Directly Into an Ember Data 1.13+ Store"
+                description: ""
+                link: https://medium.com/@chrisdmasters/pushing-json-directly-into-an-ember-data-1-13-store-d91364f3ebc5#.45ego1ib3
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-simple-auth v1.1.0 Released"
+                description: ""
+                link: https://github.com/simplabs/ember-simple-auth/releases/tag/1.1.0
+            -
+                title: "ember-engines: Experimental Support for the Ember Engines RFC"
+                description: ""
+                link: https://github.com/dgeb/ember-engines
+            -
+                title: "Popsicle: Tiny Rack App to Serve Your Ember-CLI Apps"
+                description: "Also checkout [Backend](https://github.com/mariogintili/backend), a Rails starter app, JSON-API compliant + OAUTH 2 based authentication."
+                link: https://github.com/mariogintili/popsicle
+            -
+                title: "ember-share: Share your Local Ember Apps with the World Using ngrok"
+                description: ""
+                link: https://github.com/skaterdav85/ember-share
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+            -
+               title: "Full Stack Engineer at DataFox"
+               description: "DataFox is looking for full stack engineers that are passionate about data and great UI/UX.  If you are a risk-taking engineer who can take initiative and think creatively to solve complex data problems, get in touch!"
+               link: http://www.datafox.com/company/careers/
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #58: Get with the Times"
+                description: ""
+                link: https://emberweekend.com/episodes/get-with-the-times
+            -
+                title: "Functional Programming In Ember? The Ember-Redux Origin Story - Toran Billups"
+                description: ""
+                link: https://vimeo.com/166199795
+            -
+                title: "JavaScript Jabber: Ember and EmberConf with Michael North"
+                description: ""
+                link: https://devchat.tv/js-jabber/211-jsj-ember-and-emberconf-with-michael-north
+            -
+                title: "Working with Service Workers by @jkleinsc"
+                description: ""
+                link: https://vimeo.com/165661144
+            -
+                title: "Introduction to ember-graphql-adapter by @arkh4m"
+                description: ""
+                link: https://vimeo.com/166087239
+            -
+                title: "Agile <3 Ember by @artsyca"
+                description: ""
+                link: https://vimeo.com/165802790
+            -
+                title: "Start Me Up – The Code by @brendanohara"
+                description: ""
+                link: https://vimeo.com/165802749
+            -
+                title: "Make a game with Ember by @mattmckenna"
+                description: ""
+                link: https://vimeo.com/165647735
+            -
+                title: "Redesigning & Rewriting our Application in Ember.js - Jade Applegate"
+                description: ""
+                link: https://vimeo.com/166356964
+            -
+                title: "Ember Boston May 2016 Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=tgLHPSOmpWQ&feature=youtu.be
+            # -
+            #     title: "Ember Screencasts #14X: XXX"
+            #     description: "Plus a [new Pro video covering XXX](  ) ($) ."
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Raleigh - 16th May
+                link: "http://www.meetup.com/Triangle-Ember/events/230632833/"
+            -
+                title: San Francisco - 17th May
+                link: "http://www.meetup.com/Ember-SF/events/230149300/"
+            -
+                title: Adelaide - 17th May
+                link: "http://www.meetup.com/adelaidejs/events/231056803/"
+            -
+                title: Silicon Valley - 18th May
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/230537905/"
+            -
+                title: Cincinnati - 18th May
+                link: "http://www.meetup.com/embernati/events/230542192/"
+            -
+                title: London - 19th May
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/228104898/"
+            -
+                title: "GEMconf: San Francisco - 21st May"
+                link: https://www.bigmarker.com/global-ember-meetup/GEMconf-SF
+            -
+                title: Ember Global Meetup (Spanish) - 28th May
+                link: "https://www.bigmarker.com/global-ember-meetup/ES-S01E02-Componentes-m-s-componentes-CRUD-y-emprendimiento"
+            -
+                title: "EmberCamp London 2016 Conference - 12th July"
+                link: http://embercamp.com/
+
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
