@@ -1,4 +1,4 @@
-issue: 16
+issue: 160
 strapline: "Your weekly source of Ember news"
 content:
 
@@ -6,9 +6,13 @@ content:
         heading: "Headlines"
         headlines:
             -
-                title: ""
+                title: "Ember Data 2.5 and 2.6 Beta Released"
                 description: ""
-                link:
+                link: http://emberjs.com/blog/2016/05/03/ember-data-2-5-released.html
+            -
+                title: "Ember Data v2.5.3 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.5.3
             -
                 title: ""
                 description: ""
@@ -46,21 +50,29 @@ content:
         heading: "Reading"
         headlines:
             -
-                title: ""
+                title: "Global Accessibility Awareness Day"
                 description: ""
-                link:
+                link: http://emberjs.com/blog/2016/05/17/global-accessibility-awareness-day.html
             -
-                title: ""
+                title: "Globalization and Localization in Ember"
                 description: ""
-                link:
+                link: https://wetzelrice.com/blog/globalization-and-localization-in-ember
             -
-                title: ""
+                title: "Ember Fastboot Team Meeting Minutes - 2016-05-04"
                 description: ""
-                link:
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-05/may-04.md
             -
-                title: ""
+                title: "Ember Fastboot Team Meeting Minutes - 2016-05-11"
                 description: ""
-                link:
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-05/may-11.md
+            -
+                title: "Ember Fastboot Team Meeting Minutes - 2016-05-18"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-05/may-18.md
+            -
+                title: "Ember.js and GAAD"
+                description: ""
+                link: http://emberup.co/ember-js-and-gaad/
             -
                 title: ""
                 description: ""
@@ -124,34 +136,70 @@ content:
         heading: "Watch/Listen"
         headlines:
             -
-                title: ""
+                title: "DrupalCon New Orleans 2016: Amazing User Experiences with Drupal and Ember"
                 description: ""
-                link:
+                link: https://www.youtube.com/watch?v=O12qBp1lWUc
             -
                 title: ""
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #5X: XXX"
+                title: "Ember Weekend Podcast #59: GemConf Time"
                 description: ""
-                link:
+                link: https://emberweekend.com/episodes/gem-conf-time
             -
                 title: "Ember Land #1X: XXX"
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #14X: XXX"
+                title: "Ember Screencasts #140: Customizing the PacMan Addon"
+                description: "Plus a [new Pro video covering Serializers: Extracting Relationships](https://www.emberscreencasts.com/posts/141-serializers-extracting-relationships) ($) ."
+                link: https://www.emberscreencasts.com/posts/132-customizing-the-pacman-addon
+            -
+                title: "Ember Screencasts #142: Material Design with Ember Paper: Intro + CSS tricks"
+                description: "Plus a [new Pro video covering Serializers: keyForAttribute and keyForRelationship](https://www.emberscreencasts.com/posts/143-serializers-keyforattribute-and-keyforrelationship) ($) ."
+                link: https://www.emberscreencasts.com/posts/142-material-design-with-ember-paper-intro-css-tricks
+            -
+                title: "Ember Screencasts #144: Material Design with Ember Paper: Creating a Navbar"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
-                link:
+                link: https://www.emberscreencasts.com/posts/144-material-design-with-ember-paper-creating-a-navbar
 
 
     -
         heading: "Events"
         headlines:
             -
-                title: ""
-                description: ""
-                link:
+                title: Chicago - 24th May
+                link: "http://www.meetup.com/Chicago-Ember-js/events/231044800/"
+            -
+                title: Atlanta - 25th May
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/231217342/"
+            -
+                title: Seattle - 25th May
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/230552939/"
+            -
+                title: New York - 26th May
+                link: "http://www.meetup.com/EmberJS-NYC/events/230054339/"
+            -
+                title: Austin - 26th May
+                link: "http://www.meetup.com/Ember-ATX/events/230571987/"
+            -
+                title: Jacksonville Beach - 26th May
+                link: "http://www.meetup.com/EmberJax/events/231174745/"
+            -
+                title: Stockholm - 26th May
+                link: "http://www.meetup.com/Stockholm-Ember-js-Meetup/events/230710669/"
+            -
+                title: Melbourne - 26th May
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/230733537/"
+            -
+                title: Guatemala - 28th May
+                link: "http://www.meetup.com/ember-gt/events/231071093/"
+            -
+                title: Emberitas, Austin, Texas - 16th July
+                description: "A free one-day event to teach women to code ambitious web applications with Ember."
+                link: http://www.emberitas.com/
+
 
 
     # -
