@@ -14,37 +14,37 @@ content:
                 description: ""
                 link: https://github.com/emberjs/data/releases/tag/v2.5.3
             -
-                title: ""
+                title: "Ember-CLI v2.5.1 Released"
                 description: ""
-                link:
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.5.1
 
 
     # -
     #     heading: "From our sponsors"
     #     newsletterAd: true
 
-    -
-        heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
-        advert: true
-        headlines:
-            -
-                title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
-                description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
-                advert: true
-                link: https://ember-workshop.simplabs.com/
-
     # -
     #     heading: "From our sponsors"
-    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/4e743b31f9d7b4768d1f7c2889577e7ddeeb1a8c/assets/sponsors/hired-200-200-oneapplication.png"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
     #     advert: true
     #     headlines:
     #         -
-    #             title: "​​​Get Multiple Job Offers From Top Companies With 1 Application"
-    #             description: "​​​Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application."
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
     #             advert: true
-    #             link: http://synd.co/202XE53
-    #             domain: hired.com
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/4e743b31f9d7b4768d1f7c2889577e7ddeeb1a8c/assets/sponsors/hired-200-200-oneapplication.png"
+        advert: true
+        headlines:
+            -
+                title: "​​​Get Multiple Job Offers From Top Companies With 1 Application"
+                description: "​​​Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application."
+                advert: true
+                link: http://synd.co/202XE53
+                domain: hired.com
 
     -
         heading: "Reading"
@@ -74,21 +74,21 @@ content:
                 description: ""
                 link: http://emberup.co/ember-js-and-gaad/
             -
-                title: ""
+                title: "{{component helper}}"
                 description: ""
-                link:
+                link: https://dockyard.com/blog/2016/05/13/component-helper
             -
-                title: ""
+                title: "Saving Models and Their Relationships with JSON API"
                 description: ""
-                link:
+                link: http://emberigniter.com/saving-models-relationships-json-api/
             -
-                title: ""
+                title: "Acceptance Testing File Uploads in Ember 2.5+"
                 description: ""
-                link:
+                link: https://medium.com/@chrisdmasters/acceptance-testing-file-uploads-in-ember-2-5-1c9c8dbe5368#.xtn136a3t
             -
-                title: ""
+                title: "Fresh Baked Software"
                 description: ""
-                link:
+                link: https://gridium.com/fresh-baked-software/
             # -
             #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
             #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
@@ -97,25 +97,25 @@ content:
 
 
 
-    -
-        heading: "Code"
-        headlines:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
 
 
     -
@@ -123,34 +123,42 @@ content:
         advert: true
         headlines:
             -
-               title: "Senior JavaScript Engineer - Twitch"
-               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
-               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
-            -
                title: "Full Stack Engineer at DataFox"
                description: "DataFox is looking for full stack engineers that are passionate about data and great UI/UX.  If you are a risk-taking engineer who can take initiative and think creatively to solve complex data problems, get in touch!"
                link: http://www.datafox.com/company/careers/
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
 
 
     -
         heading: "Watch/Listen"
         headlines:
             -
+                title: "Progressive Web Apps Across All Frameworks - Google I/O 2016"
+                description: ""
+                link: https://www.youtube.com/watch?v=srdKq0DckXQ&feature=youtu.be&t=30m48s
+            -
                 title: "DrupalCon New Orleans 2016: Amazing User Experiences with Drupal and Ember"
                 description: ""
                 link: https://www.youtube.com/watch?v=O12qBp1lWUc
             -
-                title: ""
+                title: "Bulletproof CRUDs with Ember - Pablo Brasero Moreno"
                 description: ""
-                link:
+                link: https://vimeo.com/167609763
+            -
+                title: "The Art of Reduxion - Daniel Grant"
+                description: ""
+                link: https://vimeo.com/167609765
+            -
+                title: "A Startup, Why Ember?! - Laura Lebovic & Sam De Maeyer"
+                description: ""
+                link: https://vimeo.com/167609764
             -
                 title: "Ember Weekend Podcast #59: GemConf Time"
                 description: ""
                 link: https://emberweekend.com/episodes/gem-conf-time
-            -
-                title: "Ember Land #1X: XXX"
-                description: ""
-                link:
             -
                 title: "Ember Screencasts #140: Customizing the PacMan Addon"
                 description: "Plus a [new Pro video covering Serializers: Extracting Relationships](https://www.emberscreencasts.com/posts/141-serializers-extracting-relationships) ($) ."
@@ -161,8 +169,20 @@ content:
                 link: https://www.emberscreencasts.com/posts/142-material-design-with-ember-paper-intro-css-tricks
             -
                 title: "Ember Screencasts #144: Material Design with Ember Paper: Creating a Navbar"
-                description: "Plus a [new Pro video covering XXX](  ) ($) ."
+                description: "Plus a [new Pro video covering Serializers: Sending Data to the Server with Serialize](https://www.emberscreencasts.com/posts/145-serializers-sending-data-to-the-server-with-serialize) ($) ."
                 link: https://www.emberscreencasts.com/posts/144-material-design-with-ember-paper-creating-a-navbar
+            -
+                title: "Taming CSS in Ember.js Apps by Erik Bryn"
+                description: ""
+                link: https://www.youtube.com/watch?v=npXPiD-ou1U
+            -
+                title: "Profiling and Optimizing Ember by Landon Noss"
+                description: ""
+                link: https://www.youtube.com/watch?v=pl9FsyWQcO8
+            -
+                title: "Ember Accessibility by Ben Holmes"
+                description: ""
+                link: https://www.youtube.com/watch?v=WpqKVAb5WG0
 
 
     -
