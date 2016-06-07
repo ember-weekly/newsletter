@@ -1,0 +1,160 @@
+issue: 162
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Data Down Action... Down in Emberjs - Using Ember.Evented"
+                description: ""
+                link: https://www.netguru.co/blog/data-down-action-in-emberjs
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-05"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/docs-team/2016-05
+            -
+                title: "Twitch Hosts Global Ember Meetup Conference"
+                description: ""
+                link: https://medium.com/twitch-engineering/twitch-hosts-global-ember-meetup-conference-d852c0d2488f#.wipkgk2v2
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-visual-acceptance: Create Baseline Images to Test for CSS Regression"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cli-visual-acceptance
+            -
+                title: "ember-cli-mirage v0.2.0 Released"
+                description: ""
+                link: https://github.com/samselikoff/ember-cli-mirage/releases/tag/v0.2.0
+            -
+                title: "EmberJSThemes: Buy and Sell Ember.js Themes"
+                description: ""
+                link: http://www.emberjsthemes.com/index.php
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js Guides #1: Getting Started"
+                description: ""
+                link: https://www.youtube.com/watch?v=VmWSS6Ki8Qg
+            -
+                title: "Using The Phoenix Framework With Ember.js"
+                description: ""
+                link: https://www.youtube.com/watch?v=GtohBWjWRZg
+            # -
+            #     title: "Ember Weekend Podcast #5X: XXX"
+            #     description: ""
+            #     link:
+            -
+                title: "EmberConf 2016 Recap @ Silicon Valley Ember.js Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=hl7Bg8Euj-o
+            -
+                title: "Adaptive + Ember: Taking an Ambitious App Mobile"
+                description: ""
+                link: https://www.youtube.com/watch?v=nGHYQ_HcnC0
+            -
+                title: "EmberConf 2016 Recap - Michael Swanson @ EmberATX"
+                description: ""
+                link: https://www.youtube.com/watch?v=kno_R3Qao8w
+            -
+                title: "Ember Screencasts #148: ember-cli-deploy-Intro and Installation"
+                description: "Plus a [new Pro video covering ember-cli-deploy-Amazon S3](https://www.emberscreencasts.com/posts/149-ember-cli-deploy-amazon-s3) ($) ."
+                link: https://www.emberscreencasts.com/posts/148-ember-cli-deploy-intro-and-installation
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+            -
+               title: "Ambitious Full Stack Developer (Ember/Rails) at Fitbot - Chicago or Remote"
+               description: "Passionate about health & fitness? We're building a platform for personal trainers & strength coaches to deliver workouts online & train their clients remotely. This is your chance to get in on the ground floor of a fast growing startup!"
+               link: https://thefitbot.com/jobs.html
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Columbus - 6th June
+                link: "http://www.meetup.com/ember-columbus/events/231380632/"
+            -
+                title: San Diego - 8th June
+                link: "http://www.meetup.com/sandiego-ember/events/230253599/"
+            -
+                title: Montevideo - 8th June
+                link: "http://www.meetup.com/ember-montevideo/events/231194752/"
+            -
+                title: London - 9th June
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231092600/"
+            -
+                title: Boston - 9th June
+                link: "http://www.meetup.com/Boston-Ember-js/events/230977123/"
+            -
+                title: "The Ember Show (Global Ember Meetup) - 11th June"
+                description: "Mobile Applications with Cordova, Debugging Ember, ember-light-table, right-to-left"
+                link: https://www.bigmarker.com/global-ember-meetup/Debugging-Cordova3
+            -
+                title: Atlanta - 14th June
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/229882322/"
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+        headlines:
+            -
+                title: "CSS at BBC Sport (Part 1)"
+                description: ""
+                link: https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66#.kd54rudlk

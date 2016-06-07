@@ -1,0 +1,166 @@
+issue: 161
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v2.6.0 Beta 3"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.6.0-beta.3
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+    #             advert: true
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Introducing Subteams"
+                description: ""
+                link: http://emberjs.com/blog/2016/05/19/introducing-subteams.html
+            -
+                title: "Upgrading Mirage With JSCodeshift"
+                description: ""
+                link: https://blog.abuiles.com/blog/2016/05/27/upgrading-to-mirage-v0-dot-2-0-beta-dot-9-with-jscodeshift/
+            -
+                title: "Ember Fastboot Team Meeting Minutes - 2016-05-29"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2016-05/may-25.md
+            -
+                title: "How-To Guide: The Phoenix Framework And Ember.js"
+                description: ""
+                link: http://www.programwitherik.com/how-to-guide-the-phoenix-framework-and-ember-js-2/
+            -
+                title: "Complex Component Design in Ember - Part 4 - Use the Hash Helper"
+                description: ""
+                link: http://balinterdi.com/2016/05/26/complex-component-design-in-ember-part-4-use-the-hash-helper.html
+            -
+                title: "Ember Addon Pro-Tips - A Checklist"
+                description: ""
+                link: https://gist.github.com/BrianSipple/9f8090f2e868f10c45c5e63b44bbeaa1
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-hook: Decouple Tests from Fickle Class Names, Using Stable Data Attributes"
+                description: ""
+                link: https://github.com/Ticketfly/ember-hook
+            -
+                title: "ember-cli-push-js-shim: Native JavaScript Notifications"
+                description: ""
+                link: http://chrismasters.net/ember-cli-push-js-shim/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ambitious Full Stack Developer (Ember/Rails) at Fitbot - Chicago or Remote"
+               description: "Passionate about health & fitness? We're building a platform for personal trainers & strength coaches to deliver workouts online & train their clients remotely. This is your chance to get in on the ground floor of a fast growing startup!"
+               link: https://thefitbot.com/jobs.html
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember.js NYC, May 2016 [Full Meetup]"
+                description: ""
+                link: https://www.youtube.com/watch?v=b3mTGXjm10g
+            -
+                title: "App Structure - Robert Jackson @ Ember.js NYC, May 2016"
+                description: ""
+                link: https://youtu.be/b3mTGXjm10g?t=1321
+            -
+                title: "Taming CSS in Ember - Erik Bryn @ Ember.js NYC, May 2016"
+                description: ""
+                link: https://youtu.be/b3mTGXjm10g?t=4985
+            -
+                title: "Ember Screencasts #146: Material Design with ember-paper-Awesome Forms"
+                description: "Plus a [new Pro video covering Material Design with ember-paper-Colors](https://www.emberscreencasts.com/posts/147-material-design-with-ember-paper-colors) ($) ."
+                link: https://www.emberscreencasts.com/posts/146-material-design-with-ember-paper-awesome-forms
+            -
+                title: "Ember Weekend Podcast #60: Module Impossible"
+                description: ""
+                link: https://emberweekend.com/episodes/module-impossible
+            -
+                title: "Ember Land #21: Promoting assets"
+                description: ""
+                link: http://ember.land/episodes/21
+            -
+                title: "CodeNewbie Podcast #90: Creating EmberJS - Part I"
+                description: ""
+                link: http://www.codenewbie.org/podcast/creating-emberjs-part-i
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Portland - 31st May
+                link: "http://www.meetup.com/Ember-PDX/events/230498714/"
+            -
+                title: Toronto - 2nd June
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/231365589/"
+            -
+                title: Hamburg - 2nd June
+                link: "http://www.meetup.com/emberHH/events/230984832/"
+            -
+                title: Madison - 4th June
+                link: "http://www.meetup.com/mad-ember/events/230831943/"
+            -
+                title: Columbus - 6th June
+                link: "http://www.meetup.com/ember-columbus/events/231380632/"
+            -
+                title: Madison - 7th June
+                link: "http://www.meetup.com/mad-ember/events/230768364/"
+            -
+                title: San Diego - 8th June
+                link: "http://www.meetup.com/sandiego-ember/events/230253599/"
+            -
+                title: Montevideo - 8th June
+                link: "http://www.meetup.com/ember-montevideo/events/231194752/"
+
+
+    # -
+    #     heading: "Finally"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
