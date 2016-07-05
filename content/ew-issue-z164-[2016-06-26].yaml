@@ -1,0 +1,170 @@
+issue: 164
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.6.1 Released"
+                description: "Also [Ember v2.7.0 Beta 1 Released](https://github.com/emberjs/ember.js/releases/tag/v2.7.0-beta.2)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.6.1
+            -
+                title: "Ember-CLI v2.6.2 Released"
+                description: "Also [Ember-CLI v2.7.0 Beta 4 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.7.0-beta.4)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.6.2
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+    #             advert: true
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Face to Face Vegas, 6/11 - 6/12"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2016-06/june-11-12_F2F.md
+            -
+                title: "Go Offline with Ember"
+                description: ""
+                link: http://blog.planetargon.com/entries/2016/6/9/go-offline-with-ember
+            -
+                title: "Send HTML Elements to Another DOMension with Ember Wormhole"
+                description: ""
+                link: https://spin.atomicobject.com/2016/06/20/html-elements-ember-worhole
+            -
+                title: "Choosing a JavaScript Framework"
+                description: ""
+                link: https://medium.com/@ZombieCodeKill/choosing-a-javascript-framework-535745d0ab90#.7q4qk7j1k
+            -
+                title: "How To Keep Your Ember.js Project Up-To-Date"
+                description: ""
+                link: http://yoember.com/emberjs/how-to-keep-your-ember-js-project-up-to-date/
+            -
+                title: "emberdaily.tips: 1 Ember Tip Everyday by Email"
+                description: ""
+                link: http://www.emberdaily.tips/
+            -
+                title: "eBook: Ember Data in the Wild - Getting Ember Data to Work With Your API."
+                description: "Ember Weekly subscribers get $5 off before 30th June!"
+                link: https://leanpub.com/emberdatainthewild/c/emberweekly
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Redux Helpers: A Set of Ember Template Helpers for redux.js"
+                description: ""
+                link: http://jkusa.github.io/ember-redux-helpers/
+            -
+                title: "ember-cart: Shopping Cart Primitives for Ember Apps"
+                description: ""
+                link: https://www.npmjs.com/package/ember-cart
+            -
+                title: "ember-runloop-utils: Utilities to Help Avoid Using Observers"
+                description: ""
+                link: https://www.npmjs.com/package/ember-runloop-utils
+            -
+                title: "ember-time-machine: An Object State Management Solution"
+                description: ""
+                link: https://www.npmjs.com/package/ember-time-machine
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Building Mobile Applications with ember-cordova - Alex Blom"
+                description: ""
+                link: https://vimeo.com/172163041
+            -
+                title: "Debugging Ember - Vaidehi Joshi"
+                description: ""
+                link: https://vimeo.com/171994144
+            -
+                title: "Introduction to Ember Light Table - Offir Golan"
+                description: ""
+                link: https://vimeo.com/171991944
+            -
+                title: "Introduction to Right-to-Left with Ember - Samy Alzhrani"
+                description: ""
+                link: https://vimeo.com/171991847
+            -
+                title: "Ember Weekend Podcast #61: Today I Learnt"
+                description: ""
+                link: https://emberweekend.com/episodes/today-i-learnt
+            # -
+            #     title: "Ember Land #2X: XXX"
+            #     description: ""
+            #     link:
+            -
+                title: "Ember Screencasts #154: Router.js and the URL"
+                description: "Plus a [new Pro video covering the link-to helper](https://www.emberscreencasts.com/posts/155-the-link-to-helper) ($) ."
+                link: https://www.emberscreencasts.com/posts/154-routerjs-and-the-url
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Phoenix - 28th June
+                link: "http://www.meetup.com/EmberJS-Phoenix/events/231698158/"
+            -
+                title: München - 28th June
+                link: "http://www.meetup.com/Ember-js-Munich/events/231881195/"
+            -
+                title: Denver - 29th June
+                link: "http://www.meetup.com/Ember-js-Denver/events/231926021/"
+            -
+                title: Jacksonville Beach - 30th June
+                link: "http://www.meetup.com/EmberJax/events/231380753/"
+            -
+                title: Cape Town - 30th June
+                link: "http://www.meetup.com/EmberJS-Cape-Town/events/231800989/"
+            -
+                title: Columbus - 4th July
+                link: "http://www.meetup.com/ember-columbus/events/231901891/"
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+        headlines:
+            -
+                title: "Six Nifty ES6 Tricks"
+                description: ""
+                link: http://www.2ality.com/2016/05/six-nifty-es6-tricks.html

@@ -1,0 +1,203 @@
+issue: 163
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember.js 2.6 and 2.7 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/06/08/ember-2-6-and-2-7-beta-released.html
+            -
+                title: "Ember Data 2.6 and 2.7 Beta Released"
+                description: "Also [Ember Data v2.6.1 Released](https://github.com/emberjs/data/releases/tag/v2.6.1)"
+                link: http://emberjs.com/blog/2016/06/09/ember-data-2-6-released.html
+            -
+                title: "Ember-CLI v2.6.1 Released"
+                description: "Also [Ember-CLI v2.7.0 Beta 1 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.7.0-beta.1)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.6.1
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+    #             advert: true
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Bringing Ecto Changesets into Ember.js"
+                description: ""
+                link: https://emberway.io/bringing-ecto-changesets-into-ember-js-8e665ec70ab6#.imz4ob9u9
+            -
+                title: "Scroll to the Top on Every Page Load"
+                description: ""
+                link: https://spin.atomicobject.com/2016/06/06/ember-scroll-to-top/
+            -
+                title: "Understanding Dependency Injection in Ember"
+                description: ""
+                link: https://www.codeschool.com/blog/2016/06/14/understanding-dependency-injection-in-ember/
+            -
+                title: "Ember on Heroku: The Right Way"
+                description: ""
+                link: http://romulomachado.github.io/2016/05/30/ember-on-heroku-the-right-way.html
+            -
+                title: "Using “async” and “await” with ember-cli-page-object"
+                description: ""
+                link: https://wyeworks.com/blog/2016/6/13/using-async-and-await-with-ember-cli-page-object/
+            -
+                title: "How to Use JSON API & Ember in Non-CRUD Applications"
+                description: ""
+                link: http://www.strauss.io/blog/2016-how-to-use-json-api-ember-in-non-crud-applications.html
+            -
+                title: "Ember Addon Secrets"
+                description: ""
+                link: http://emberup.co/ember-addon-secrets/
+            -
+                title: "Ember Fastboot Team Meeting Minutes - 2016-06"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/fastboot-team/2016-06
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-06-09"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-06/june-09.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-form-builder: Simple and Easily Extensible Form Builder for Ember Apps"
+                description: ""
+                link: https://github.com/nibynic/ember-form-builder
+            -
+                title: "ember-changeset: Ember.js Flavored Changesets, Inspired by Ecto"
+                description: ""
+                link: https://github.com/poteto/ember-changeset
+            -
+                title: "ember-data-snippets: Ember Data Snippets for Atom"
+                description: ""
+                link: https://github.com/skaterdav85/ember-data-snippets
+            -
+                title: "ember-computed-template-string: ⚡ One-line String Computed Properties"
+                description: ""
+                link: https://github.com/intercom/ember-computed-template-string
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Ambitious Full Stack Developer (Ember/Rails) at Fitbot - Chicago or Remote"
+               description: "Passionate about health & fitness? We're building a platform for personal trainers & strength coaches to deliver workouts online & train their clients remotely. This is your chance to get in on the ground floor of a fast growing startup!"
+               link: https://thefitbot.com/jobs.html
+            -
+               title: "Senior JavaScript Engineer - Twitch"
+               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "CodeNewbie Podcast #91: Creating EmberJS - Part II"
+                description: ""
+                link: http://www.codenewbie.org/podcast/creating-emberjs-part-ii
+            -
+                title: "Ember Tutorial - Ember.js Guides #2"
+                description: ""
+                link: https://www.youtube.com/watch?v=SzGoQsUmOco
+            -
+                title: "Ember Tutorial - Ember.js Guides #3"
+                description: ""
+                link: https://www.youtube.com/watch?v=vV2WwVaAl6k
+            -
+                title: "EmberMap: Acceptance Testing"
+                description: "Learn how to write maintainable tests that verify your app's external behavior."
+                link: https://embermap.com/topics/acceptance-testing
+            -
+                title: "EmberMap: Refactorings"
+                description: "See how to apply core Ember techniques to existing code."
+                link: https://embermap.com/topics/refactorings
+            -
+                title: "Ember Screencasts #150: ember-cli-deploy - Connecting to Your API"
+                description: "Plus a [new Pro video covering ember-cli-deploy - Versioned Deploys](https://www.emberscreencasts.com/posts/151-ember-cli-deploy-versioned-deploys) ($) ."
+                link: https://www.emberscreencasts.com/posts/150-ember-cli-deploy-connecting-to-your-api
+            -
+                title: "Ember Screencasts #152: ember-cli-deploy - Lightning Strategy - Development"
+                description: "Plus a [new Pro video covering ember-cli-deploy - Lightning Pack - Production](https://www.emberscreencasts.com/posts/153-ember-cli-deploy-lightning-pack-part-2-production) ($) ."
+                link: https://www.emberscreencasts.com/posts/152-ember-cli-deploy-lightning-strategy-part-1-development
+            -
+                title: "Ember Weekend Podcast #61: League of Emburritos"
+                description: ""
+                link: https://emberweekend.com/episodes/league-of-emburritos
+            -
+                title: "Ember Weekend Podcast #62: Game Changeset Match"
+                description: ""
+                link: https://emberweekend.com/episodes/game-changeset-match
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Durham (Triangle Ember) - 22nd June
+                link: "http://www.meetup.com/Triangle-Ember/events/231872713/"
+            -
+                title: New York - 23rd June
+                link: "http://www.meetup.com/EmberJS-NYC/events/230054365/"
+            -
+                title: Austin - 23rd June
+                link: "http://www.meetup.com/Ember-ATX/events/230644596/"
+            -
+                title: Salt Lake City - 23rd June
+                link: "http://www.meetup.com/EmberJS-SLC/events/231436546/"
+            -
+                title: Phoenix - 28th June
+                link: "http://www.meetup.com/EmberJS-Phoenix/events/231698158/"
+            -
+                title: München - 28th June
+                link: "http://www.meetup.com/Ember-js-Munich/events/231881195/"
+            -
+                title: Denver - 29th June
+                link: "http://www.meetup.com/Ember-js-Denver/events/231926021/"
+            # -
+            #     title: Jacksonville Beach - 30th June
+            #     link: "http://www.meetup.com/EmberJax/events/231380753/"
+            # -
+            #     title: Cape Town - 30th June
+            #     link: "http://www.meetup.com/EmberJS-Cape-Town/events/231800989/"
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not! ¯\\_(ツ)_/¯"
+        headlines:
+            -
+                title: "Kalzumeus Podcast: Salary Negotiation"
+                description: ""
+                link: http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody

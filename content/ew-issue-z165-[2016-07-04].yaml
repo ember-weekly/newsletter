@@ -1,0 +1,157 @@
+issue: 165
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v 2.7.0 Beta 2"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.7.0-beta.2
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+    #             advert: true
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Component Dependency Injection in Ember.js"
+                description: ""
+                link: https://emberway.io/component-dependency-injection-in-ember-js-a46a39a5d30a#.f0ljgqd80
+            -
+                title: "Make your Ember.js Web App More Progressive - part 1"
+                description: "Also see [Part 2 - Offline Caching](https://tsubik.com/blog/make-your-emberjs-web-app-more-progressive-part-2-offline-caching)."
+                link: https://tsubik.com/blog/make-your-emberjs-web-app-more-progressive-part-1
+            -
+                title: "Help the Helper: Chasing the Cause of an Unstable Build in Travis"
+                description: ""
+                link: https://medium.com/life-at-kayako/help-the-helper-5d490357ae27#.2my2bf71g
+            -
+                title: "Quickly Building an Ember Application Backed by Socrata Open Data"
+                description: ""
+                link: https://dev.socrata.com/blog/2016/06/30/quickly-building-an-ember-app-backed-by-socrata-open-data.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-keyboard: KeyboardEvent manager for Ember"
+                description: ""
+                link: http://null-null-null.github.io/ember-keyboard/
+            -
+                title: "ember-service-worker - Pluggable Approach to Service Workers for Ember"
+                description: ""
+                link: https://github.com/dockyard/ember-service-worker
+            -
+                title: "ember-exam: Run Tests with Better Filtering, Randomization, Splitting, and Parallelization"
+                description: ""
+                link: https://github.com/trentmwillis/ember-exam
+            -
+                title: "Ember Twiddle v0.10.0 Released"
+                description: "See [changelog](https://github.com/ember-cli/ember-twiddle/releases/tag/v0.10.0)."
+                link: https://ember-twiddle.com/
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Senior JavaScript Engineer - Twitch"
+    #            description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
+    #            link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "JavaScript Jabber: Ember.js with Yehuda Katz"
+                description: ""
+                link: https://devchat.tv/js-jabber/218-jsj-ember-js-with-yehuda-katz
+            -
+                title: "Ember Screencasts #156: Navbar and Outlets"
+                description: "Plus a [new Pro video covering URL Parameters](https://www.emberscreencasts.com/posts/157-url-parameters) ($) ."
+                link: https://www.emberscreencasts.com/posts/156-navbar-and-outlets
+            -
+                title: "Ember Weekend Podcast #64: Instant Win"
+                description: ""
+                link: https://emberweekend.com/episodes/instant-win
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madison - 5th July
+                link: "http://www.meetup.com/mad-ember/events/230860410/"
+            -
+                title: Indianapolis - 6th July
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/231732027/"
+            -
+                title: Toronto - 7th July
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/231941059/"
+            -
+                title: Raleigh - 11th July
+                link: "http://www.meetup.com/Triangle-Ember/events/232257666/"
+            -
+                title: Washington - 11th July
+                link: "http://www.meetup.com/Ember-JS-DC/events/231858946/"
+            -
+                title: Vancouver - 11th July
+                link: "http://www.meetup.com/Vancouver-Ember-js/events/232309469/"
+            -
+                title: Columbus - 11th July
+                link: "http://www.meetup.com/ember-columbus/events/231901891/"
+            -
+                title: Atlanta - 12th July
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/231789480/"
+            -
+                title: Southern California - 13th July
+                link: "http://www.meetup.com/Ember-SC/events/230950446/"
+            -
+                title: San Diego - 13th July
+                link: "http://www.meetup.com/sandiego-ember/events/230718313/"
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+        headlines:
+            -
+                title: "How (and Why) SpaceX Will Colonize Mars"
+                description: "Not new but worth a (long) read!"
+                link: http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html

@@ -15,32 +15,20 @@ content:
                 link:
 
 
-    # -
-    #     heading: "From our sponsors"
-    #     newsletterAd: true
-
     -
         heading: "From our sponsors"
-        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
-        advert: true
-        headlines:
-            -
-                title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
-                description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
-                advert: true
-                link: https://ember-workshop.simplabs.com/
+        newsletterAd: true
 
     # -
     #     heading: "From our sponsors"
-    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/4e743b31f9d7b4768d1f7c2889577e7ddeeb1a8c/assets/sponsors/hired-200-200-oneapplication.png"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
     #     advert: true
     #     headlines:
     #         -
-    #             title: "​​​Get Multiple Job Offers From Top Companies With 1 Application"
-    #             description: "​​​Javascript developers are in demand, so shouldn't companies apply to you? On Hired, that's exactly how it works. Get 5+ job offers from companies like Uber, Square, and Facebook with 1 application."
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
     #             advert: true
-    #             link: http://synd.co/202XE53
-    #             domain: hired.com
+    #             link: https://ember-workshop.simplabs.com/
 
     -
         heading: "Reading"
@@ -114,10 +102,6 @@ content:
                title: "Senior JavaScript Engineer - Twitch"
                description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
                link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
-            -
-               title: "Ambitious Full Stack Developer (Ember/Rails) at Fitbot - Chicago or Remote"
-               description: "Passionate about health & fitness? We're building a platform for personal trainers & strength coaches to deliver workouts online & train their clients remotely. This is your chance to get in on the ground floor of a fast growing startup!"
-               link: https://thefitbot.com/jobs.html
 
 
     -
@@ -132,7 +116,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #5X: XXX"
+                title: "Ember Weekend Podcast #6X: XXX"
                 description: ""
                 link:
             -
@@ -140,7 +124,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #14X: XXX"
+                title: "Ember Screencasts #15X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 
@@ -155,7 +139,8 @@ content:
 
 
     # -
-    #     heading: "Finally"
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
     #     headlines:
     #         -
     #             title: ""
