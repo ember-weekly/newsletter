@@ -1,0 +1,211 @@
+issue: 166
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.7.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.7.0-beta.3
+            -
+                title: "Ember Data v2.7.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.7.0-beta.3
+            -
+                title: "Ember-CLI v2.7.0 Beta 5 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.7.0-beta.5
+
+    -
+        heading: "GEMconf Videos"
+        description: "All videos are available at [embermeetup.com/gemconf/sf-2016](https://www.embermeetup.com/gemconf/sf-2016)."
+        isList: true
+        headlines:
+            -
+                title: "Living Immutably by Charles Lowell"
+                isList: true
+                link: https://www.embermeetup.com/videos/living-immutably
+            -
+                title: "CSS Is Impossible by Chris Thoburn"
+                isList: true
+                link: https://www.embermeetup.com/videos/css-is-impossible
+            -
+                title: "Building Real-Time Applications with Ember and Web Sockets by Ben Limmer"
+                isList: true
+                link: https://www.embermeetup.com/videos/building-real-time-applications-with-ember-and-websockets
+            -
+                title: "Building an ambitious open source application by Joel Worrel"
+                isList: true
+                link: https://www.embermeetup.com/videos/building-an-ambitious-open-source-project
+            -
+                title: "Building excellent engineering culture by Juan Pablo Burritica"
+                isList: true
+                link: https://www.embermeetup.com/videos/building-excellent-engineering-culture
+            -
+                title: "You Should Pair More by Jorge LaFiesta"
+                isList: true
+                link: https://www.embermeetup.com/videos/you-should-pair-more
+            -
+                title: "Accessibility Tooling is an SDK Feature Nathan Hammond"
+                isList: true
+                link: https://www.embermeetup.com/videos/accessibility-tooling-is-an-sdk-feature
+            -
+                title: "Introduction to ember-user-activity by Jordan Hawker"
+                isList: true
+                link: https://www.embermeetup.com/videos/introduction-to-ember-user-activity
+            -
+                title: "Slates by Zach Wentz"
+                isList: true
+                link: https://www.embermeetup.com/videos/slates
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+    #             advert: true
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Creating a Custom Ember CLI Command"
+                description: ""
+                link: http://thejsguy.com/2016/07/10/creating-a-custom-ember-cli-command.html
+            -
+                title: "Continuous Visual Integration for Ember"
+                description: ""
+                link: https://blog.percy.io/continuous-visual-integration-for-ember-d9c438e7c4fa#.jg6wzzecq
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-light-table v 1.0.0 Released"
+                description: ""
+                link: https://github.com/offirgolan/ember-light-table/releases/tag/v1.0.0
+            -
+                title: "ember-reactive-helpers: Collection of Helpers to Aid in Reactive Template Programming"
+                description: ""
+                link: https://www.npmjs.com/package/ember-reactive-helpers
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior Software Engineer – Microsoft"
+               description: ""
+               link: https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=223174&jlang=EN&pp=SS
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Land #22: Instant Win!"
+                description: ""
+                link: http://ember.land/episodes/22
+            -
+                title: "Ember Weekend Podcast #65: Go catch'em all"
+                description: ""
+                link: https://emberweekend.com/episodes/go-catchem-all
+            -
+                title: "Ember Screencasts #158: Finding Records with URL Parameters"
+                description: "Plus a [new Pro video covering Nested Routes](https://www.emberscreencasts.com/posts/159-nested-routes) ($) ."
+                link: https://www.emberscreencasts.com/posts/158-finding-records-with-url-parameters
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Washington - 11th July
+                link: "http://www.meetup.com/Ember-JS-DC/events/231858946/"
+            -
+                title: Atlanta - 12th July
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/231789480/"
+            -
+                title: Madison - 12th July
+                link: "http://www.meetup.com/mad-ember/events/232444658/"
+            -
+                title: Southern California - 13th July
+                link: "http://www.meetup.com/Ember-SC/events/230950446/"
+            -
+                title: San Diego - 13th July
+                link: "http://www.meetup.com/sandiego-ember/events/230718313/"
+            -
+                title: Englewood - 13th July
+                link: "http://www.meetup.com/Ember-js-Denver/events/232417969/"
+            -
+                title: London - 14th July
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614809/"
+            -
+                title: Boston - 14th July
+                link: "http://www.meetup.com/Boston-Ember-js/events/231688652/"
+            -
+                title: Seattle - 14th July
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/232272037/"
+            -
+                title: Montevideo - 14th July
+                link: "http://www.meetup.com/ember-montevideo/events/231048416/"
+            -
+                title: Austin - 16th July
+                link: "http://www.meetup.com/Ember-ATX/events/232319482/"
+            -
+                title: Bangalore - 16th July
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/232340717/"
+            -
+                title: Portland - 19th July
+                link: "http://www.meetup.com/Ember-PDX/events/231777406/"
+            -
+                title: Adelaide - 19th July
+                link: "http://www.meetup.com/adelaidejs/events/232382983/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

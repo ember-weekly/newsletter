@@ -10,9 +10,9 @@ content:
                 description: ""
                 link:
             -
-                title: ""
+                title: "GEMconf - 9 Talks"
                 description: ""
-                link:
+                link: https://www.embermeetup.com/gemconf/sf-2016
 
 
     -
@@ -99,9 +99,9 @@ content:
         advert: true
         headlines:
             -
-               title: "Senior JavaScript Engineer - Twitch"
-               description: "Work on a product seen by more than 150 million users every month. Join Twitch's JavaScript team and build massively impactful products using Ember. ([engineering.twitch.tv](http://engineering.twitch.tv))"
-               link: https://jobs.lever.co/twitch/b70d9cec-5fef-4d40-a77b-a337ad5ba15e
+               title: "Senior Software Engineer – Microsoft"
+               description: ""
+               link: https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=223174&jlang=EN&pp=SS
 
 
     -
