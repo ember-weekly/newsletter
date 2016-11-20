@@ -2,34 +2,22 @@ issue: 185
 strapline: "Your weekly source of Ember news"
 content:
 
-    -
-        heading: "Headlines"
-        headlines:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
 
 
     # -
     #     heading: "From our sponsors"
     #     newsletterAd: true
-
-    -
-        heading: "From our sponsors"
-        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
-        advert: true
-        headlines:
-            -
-                title: "Access All the Best Tech Jobs With a 60-Second Application"
-                description: " On Underdog.io, the best tech companies in SF, LA, and NYC email you directly with new job opportunities. You're in control. No risk. No commitment. One application and done."
-                advert: true
-                link: https://underdog.io/?utm_medium=advertisement&utm_source=emberweekly&utm_campaign=homepage-2016-nov-17&utm_content=60secondapplication
-
 
     -
         heading: "Reading"
@@ -58,21 +46,21 @@ content:
                 description: ""
                 link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-11/november-10.md
             -
-                title: ""
+                title: "RFC: Deprecate Ember.K"
                 description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
+                link: https://github.com/cibernox/rfcs/blob/738bd4c646ed679693ef733f99e1a10ab93242af/text/0000-deprecate-ember-k.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
             # -
             #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
             #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
@@ -82,20 +70,32 @@ content:
 
 
     -
-        heading: "Code"
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/underdogio-logomark%403x.png"
+        advert: true
         headlines:
             -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
+                title: "Access All the Best Tech Jobs With a 60-Second Application"
+                description: " On Underdog.io, the best tech companies in SF, LA, and NYC email you directly with new job opportunities. You're in control. No risk. No commitment. One application and done."
+                advert: true
+                link: https://underdog.io/?utm_medium=advertisement&utm_source=emberweekly&utm_campaign=homepage-2016-nov-17&utm_content=60secondapplication
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
 
 
     # -
@@ -115,22 +115,22 @@ content:
                 title: "Ember Engines Live Coding - Ember London Project Night (November)"
                 description: ""
                 link: https://youtu.be/JsbtTk-rMRU?t=805
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: "Ember Weekend Podcast #7X: XXX"
-                description: ""
-                link:
-            -
-                title: "Ember Land #2X: XXX"
-                description: ""
-                link:
-            -
-                title: "Ember Screencasts #17X: XXX"
-                description: "Plus a [new Pro video covering XXX](  ) ($) ."
-                link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Ember Weekend Podcast #7X: XXX"
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Ember Land #2X: XXX"
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Ember Screencasts #17X: XXX"
+            #     description: "Plus a [new Pro video covering XXX](  ) ($) ."
+            #     link:
 
 
     -
