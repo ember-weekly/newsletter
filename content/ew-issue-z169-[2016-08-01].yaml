@@ -1,0 +1,219 @@
+issue: 169
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Announcing The Glimmer 2 Alpha"
+                description: "Also [Ember v.2.9.0 Alpha 2 Released](https://github.com/emberjs/ember.js/releases/tag/v2.9.0-alpha.2)."
+                link: http://emberjs.com/blog/2016/07/29/announcing-the-glimmer-2-alpha.html
+            -
+                title: "Ember v2.8.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.8.0-beta.2
+            -
+                title: "Ember-CLI v2.7.0 Released"
+                description: "Also [Ember-Cli v2.8.0 Beta 1 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.8.0-beta.1)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.7.0
+
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/simplabs-logo.png"
+        advert: true
+        headlines:
+            -
+                title: "Work with the Web Experts at simplabs!"
+                description: "simplabs offers Ember.js as well as Ruby on Rails and Elixir/Phoenix consulting. We are based in Munich, Germany and work with clients all over the world. We take ownership of projects, augment your internal dev team and offer workshops and training."
+                advert: true
+                link: https://simplabs.com/
+
+
+    -
+        heading: "Training"
+        advert: true
+        headlines:
+            -
+                title: "Authentication workshop with Rock 'n Roll Ember and EmberSherpa + access to training videos (8/18) 'emberweekly' for $50 off"
+                description: ""
+                advert: true
+                link: https://www.embermeetup.com/rock-and-roll-ember
+            -
+                title: "2 day Intermediate/Advanced Ember workshop with EmberWeekend + access to training videos (8/15-8/16) 'emberweeklygem' for 50% off"
+                description: ""
+                advert: true
+                link: https://www.embermeetup.com/gemconf/training
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Patterns from Ember Composable Helpers"
+                description: ""
+                link: https://dockyard.com/blog/2016/07/27/patterns-from-composable-helpers
+            -
+                title: "Write Better Ember Tests"
+                description: ""
+                link: https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.q14upaik3
+            -
+                title: "My Ember.js TDD workflow"
+                description: ""
+                link: https://blog.embermap.com/my-ember-js-tdd-workflow-47847c6dbdfa#.3lnszch26
+            -
+                title: "Embedding Ember in Existing Apps"
+                description: ""
+                link: https://spin.atomicobject.com/2016/07/30/embed-ember-js-existing-app/
+            -
+                title: "Summer of Ember - Debugging Ember"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2016/07/22/summer-of-ember-debugging-ember
+            -
+                title: "Six Useful Ember Addons For Testing"
+                description: ""
+                link: https://wyeworks.com/blog/2016/7/18/six-useful-ember-addons-for-testing/
+            -
+                title: "Better Tests Feedback with ember-qunit-nice-errors"
+                description: ""
+                link: https://wyeworks.com/blog/2016/7/29/better-tests-feedback-with-ember-qunit-nice-errors/
+            -
+                title: "Building Ambitious Web Applications with Ember.js"
+                description: ""
+                link: http://www.danielgynn.com/building-ember-apps/
+            -
+                title: "Migrating from Liquid Fire modals to Ember Elsewhere modals in Ember.js"
+                description: ""
+                link: https://medium.com/@chrisdmasters/migrating-from-liquid-fire-modals-to-ember-elsewhere-modals-in-ember-js-9f7142ff1dec#.dmp272csl
+            -
+                title: "New Ember Links Website"
+                description: ""
+                link: http://emberlinks.com/
+            -
+                title: "Ember Fastboot: Addon Author Guide"
+                description: ""
+                link: http://ember-fastboot.com/docs/addon-author-guide
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-07-28"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-07/july-28.md
+            -
+                title: "Ember Core Team Meeting Minutes (July) - 2016-07-{1,8,15,22,29}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-07
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-template-lint: Linter for Ember or Handlebars templates"
+                description: ""
+                link: https://github.com/rwjblue/ember-template-lint
+            -
+                title: "ember-a11y-testing: Suite of a11y Tests Run Within the Ember Testing Framework"
+                description: ""
+                link: https://github.com/ember-a11y/ember-a11y-testing
+            -
+                title: "ember-asset-loader: Asset loading support for Ember applications"
+                description: ""
+                link: https://github.com/trentmwillis/ember-asset-loader
+            -
+                title: "ember-ci: Continuious Integration & Testing Goodies for Ember.js (Travis, Circle-CI)"
+                description: ""
+                link: https://www.npmjs.com/package/ember-ci
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior Software Engineer – Microsoft"
+               description: ""
+               link: https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=223174&jlang=EN&pp=SS
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Introduction to liquid-fire by Edward Faulkner"
+                description: ""
+                link: https://vimeo.com/176708790
+            -
+                title: "Introduction to ember-power-select by Miguel Camba"
+                description: ""
+                link: https://vimeo.com/176708711
+            -
+                title: "Introduction to ember-infinity by Hugh Francis"
+                description: ""
+                link: https://vimeo.com/176706619
+            -
+                title: "Introduction to ember-i18n by James A Rosen"
+                description: ""
+                link: https://vimeo.com/176706583
+            -
+                title: "Ember-CLI deployment pipeline with TravisCI by Alexey Kulakov"
+                description: ""
+                link: https://vimeo.com/176668339
+            -
+                title: "Suz Hinton on Accessibility + Sam Selikoff on CLI Mirage - Ember.js NYC (July 2016)"
+                description: ""
+                link: https://www.youtube.com/watch?v=nyD7_b_Uc4s
+            -
+                title: "Ember + D3 - Ember.js SLC Meetup"
+                description: ""
+                link: https://www.youtube.com/watch?v=d2JcpbKILIg
+            -
+                title: "Ember Weekend Podcast #68: Alpha Something"
+                description: ""
+                link: https://emberweekend.com/episodes/alpha-something
+            -
+                title: "Ember Screencasts #164: Block Components"
+                description: "Plus a [new Pro video covering Yielding Data into Block Components](https://www.emberscreencasts.com/posts/165-yielding-data-into-block-components) ($) ."
+                link: https://www.emberscreencasts.com/posts/164-block-components
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madison - 2nd August
+                link: "http://www.meetup.com/mad-ember/events/230860434/"
+            -
+                title: San Diego - 4th August
+                link: "http://www.meetup.com/sandiego-ember/events/230148543/"
+            -
+                title: Toronto - 4th August
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/232864944/"
+            -
+                title: New York - 8th August
+                link: "http://www.meetup.com/EmberJS-NYC/events/232880003/"
+            -
+                title: Atlanta - 9th August
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/224570811/"
+
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+        headlines:
+            -
+                title: "Strategies for Healthier Dev"
+                description: ""
+                link: http://alistapart.com/article/strategies-for-healthier-dev

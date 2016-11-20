@@ -1,4 +1,4 @@
-issue: 18
+issue: 185
 strapline: "Your weekly source of Ember news"
 content:
 
@@ -19,38 +19,44 @@ content:
     #     heading: "From our sponsors"
     #     newsletterAd: true
 
-    # -
-    #     heading: "From our sponsors"
-    #     image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
-    #     advert: true
-    #     headlines:
-    #         -
-    #             title: "Let top tech companies apply to you on Indeed Prime​"
-    #             description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
-    #             advert: true
-    #             link: http://synd.co/2c1Ji0u
-    #             domain: indeed.com
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Access All the Best Tech Jobs With a 60-Second Application"
+                description: " On Underdog.io, the best tech companies in SF, LA, and NYC email you directly with new job opportunities. You're in control. No risk. No commitment. One application and done."
+                advert: true
+                link: https://underdog.io/?utm_medium=advertisement&utm_source=emberweekly&utm_campaign=homepage-2016-nov-17&utm_content=60secondapplication
 
 
     -
         heading: "Reading"
         headlines:
             -
-                title: "Ember XXX Team Meeting Minutes - 2016-0X-XX"
+                title: "Two-way Symmetric Relationships in Ember With JSON API - Part 1"
                 description: ""
-                link:
+                link: http://balinterdi.com/2016/11/17/two-way-symmetric-relationships-in-ember-with-jsonapi-part-1.html
             -
-                title: ""
+                title: "Run Ember Tests in Parallel on Circle CI"
                 description: ""
-                link:
+                link: http://blog.firstiwaslike.com/run-ember-tests-in-parallel-on-circleci/
             -
-                title: ""
+                title: "Ember & Phoenix Development with Docker Compose"
                 description: ""
-                link:
+                link: https://blog.natetodd.com/ember-phoenix-development-with-docker-compose/-
+                title: "Ember CLI Team Meeting Minutes - 2016-11-10"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-11/november-10.md
             -
-                title: ""
+                title: "Ember Docs Team Meeting Minutes - 2016-11-03"
                 description: ""
-                link:
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-11/november-03.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-11-10"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-11/november-10.md
             -
                 title: ""
                 description: ""
@@ -90,10 +96,6 @@ content:
                 title: ""
                 description: ""
                 link:
-            -
-                title: ""
-                description: ""
-                link:
 
 
     # -
@@ -110,15 +112,15 @@ content:
         heading: "Watch/Listen"
         headlines:
             -
-                title: ""
+                title: "Ember Engines Live Coding - Ember London Project Night (November)"
                 description: ""
-                link:
+                link: https://youtu.be/JsbtTk-rMRU?t=805
             -
                 title: ""
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #8X: XXX"
+                title: "Ember Weekend Podcast #7X: XXX"
                 description: ""
                 link:
             -
@@ -126,7 +128,7 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Screencasts #19X: XXX"
+                title: "Ember Screencasts #17X: XXX"
                 description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 
@@ -135,9 +137,18 @@ content:
         heading: "Events"
         headlines:
             -
-                title: ""
-                description: ""
-                link:
+                title: Raleigh - 28th November
+                link: "https://www.meetup.com/Triangle-Ember/events/235487481/"
+            -
+                title: San Francisco - 29th November
+                link: "https://www.meetup.com/Ember-SF/events/234482394/"
+            -
+                title: Atlanta - 30th November
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/235660574/"
+            -
+                title: Denver - 30th November
+                link: "https://www.meetup.com/Ember-js-Denver/events/235676711/"
+
 
 
     # -

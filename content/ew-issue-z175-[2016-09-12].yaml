@@ -1,0 +1,207 @@
+issue: 175
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember.js 2.8 and 2.9 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/09/08/ember-2-8-and-2-9-beta-released.html
+            -
+                title: "Ember Node.js LTS Support"
+                description: ""
+                link: http://emberjs.com/blog/2016/09/07/ember-node-lts-support.html
+            -
+                title: "Ember Data v2.8.0"
+                description: "Also [Ember Data v2.9.0 Beta 1](https://github.com/emberjs/data/releases/tag/v2.9.0-beta.1)"
+                link: https://github.com/emberjs/data/releases/tag/v2.8.0
+            -
+                title: "Ember CLI v2.8.0"
+                description: "Also [Ember CLI v2.9.0 Beta 1](https://github.com/ember-cli/ember-cli/releases/tag/v2.9.0-beta.1)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.8.0
+            -
+                title: "Ember Inspector v2.0.2"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/releases/tag/v2.0.2
+            -
+                title: "Ember Fastboot v1.0.0 Beta 9"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.9
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Let top tech companies apply to you on Indeed Prime​"
+                description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+                advert: true
+                link: http://synd.co/2c1Ji0u
+                domain: indeed.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The State of Affairs with Ember Actions"
+                description: ""
+                link: https://blog.embersherpa.com/the-state-of-affairs-with-ember-actions-15273e498722#.95082chsx
+            -
+                title: "A Real-time Recipe for Rails and Ember using Pusher"
+                description: ""
+                link: http://kellysutton.com/2016/09/10/realtime-apps-with-rails-ember-pusher.html
+            -
+                title: "Exporting Server-Side Types and Endpoints to Ember"
+                description: ""
+                link: https://spin.atomicobject.com/2016/09/08/exporting-server-side-types-endpoints-ember/
+            -
+                title: "Optimizing Ember Templates"
+                description: "Bare in mind that with Glimmer 2 some of the points brought up may no longer be valid as [pointed out by Godfrey Chan](https://medium.com/@chancancode/thanks-for-the-analysis-and-i-really-appreciate-that-square-is-sharing-their-work-with-other-ember-aaf004b0aae9#.42wdc5duc)."
+                link: https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e#.ind91cip4
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember Monitoring: Single Page App Monitoring 101"
+                advert: true
+                link: http://www.launchbit.com/taz/11357-6565-111
+                domain: newrelic.com
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-addon-tests: Test Ember CLI Addons Inside the Context of a Real Ember App"
+                description: ""
+                link: https://github.com/tomdale/ember-cli-addon-tests
+            -
+                title: "ember-cp-validations: Computed Property Based Validations"
+                description: ""
+                link: https://github.com/offirgolan/ember-cp-validations
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Common Ember Component Errors by Justin Ray"
+                description: " "
+                link: https://vimeo.com/182044202
+            -
+                title: "Ember + Firebase for Rapid App Development & Deployment by Emad Ibrahim"
+                description: ""
+                link: https://youtu.be/wYzhkM-omBM?t=250
+            -
+                title: "Progressive Web Apps by Brian Cardarella"
+                description: ""
+                link: https://www.youtube.com/watch?v=wYzhkM-omBM&feature=youtu.be&t=1970
+            -
+                title: "Ember Weekend Podcast #72: RFCs FTW"
+                description: ""
+                link: https://emberweekend.com/episodes/rfcs-ftw
+            -
+                title: "Ember Weekend Podcast #73: A New LTS!"
+                description: ""
+                link: https://emberweekend.com/episodes/a-new-lts
+            -
+                title: "Ember Screencasts #176: Shopping Cart Part 3 - Checkout and Payment with Stripe"
+                description: "Plus a [new Pro video Shopping Cart Part 4 - Sold Out](https://www.emberscreencasts.com/posts/177-shopping-cart-part-4-sold-out) ($) ."
+                link: https://www.emberscreencasts.com/posts/176-shopping-cart-part-3-checkout-and-payment-with-stripe
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Silicon Valley - 13th September
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/233290148/"
+            -
+                title: Atlanta - 13th September
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/233321687/"
+            -
+                title: Chicago - 14th September
+                link: "http://www.meetup.com/Chicago-Ember-js/events/233559877/"
+            -
+                title: Southern California - 14th September
+                link: "http://www.meetup.com/Ember-SC/events/230950670/"
+            -
+                title: San Diego - 14th September
+                link: "http://www.meetup.com/sandiego-ember/events/232578563/"
+            -
+                title: Amsterdam - 14th September
+                link: "http://www.meetup.com/Ember-js-Amsterdam/events/233420094/"
+            -
+                title: Dublin - 15th September
+                link: "http://www.meetup.com/emberjsdublin/events/233788210/"
+            -
+                title: Portland - 20th September
+                link: "http://www.meetup.com/Ember-PDX/events/233234703/"
+            -
+                title: Cincinnati - 21st September
+                link: "http://www.meetup.com/embernati/events/bdwqllyvmbcc/"
+            -
+                title: Philadelphia - 21st September
+                link: "http://www.meetup.com/EmberJS-Philly/events/233989040/"
+            -
+                title: Englewood - 21st September
+                link: "http://www.meetup.com/Ember-js-Denver/events/233982438/"
+            -
+                title: "Ember Global Meetup - 17th September"
+                description: "S02E09: Security, Authentication, Memory Management and Ember Sparkles"
+                link: https://www.bigmarker.com/global-ember-meetup/S02E09-Security-Authentication-Memory-Management-and-Ember-Sparkles
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

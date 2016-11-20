@@ -1,0 +1,185 @@
+issue: 181
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember.js 2.8-LTS, 2.9 and 2.10 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/10/17/ember-2-9-released.html
+            -
+                title: "Ember Data v2.9.0 Released"
+                description: "Also [Ember v2.10.0 Beta 2 Released](https://github.com/emberjs/data/releases/tag/v2.10.0-beta.2)"
+                link: https://github.com/emberjs/data/releases/tag/v2.9.0
+            -
+                title: "Ember-CLI v2.9.1 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.9.1
+            -
+                title: "Ember-CLI-FastBoot v1.0.0 Beta 11 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.11
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Let top tech companies apply to you on Indeed Prime​"
+                description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+                advert: true
+                link: http://synd.co/2c1Ji0u
+                domain: indeed.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Continuous Visual Integration for Ember Apps"
+                description: ""
+                link: http://balinterdi.com/2016/10/17/continuous-visual-integration-for-ember-apps.html
+            -
+                title: "Making Ember Objects More Strict: Only Access Defined Properties"
+                description: ""
+                link: https://spin.atomicobject.com/2016/10/19/strict-ember-objects/
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-10-06"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-10/october-06.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-10-13"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-10/october-13.md
+            -
+                title: "RFC: Add Support for Nested Saves (Ember-Data)"
+                description: ""
+                link: https://github.com/hjdivad/rfcs/blob/nested-save/text/0000-nested-save.md
+            -
+                title: "RFC: Improve Ajax  (Ember-Data)"
+                description: ""
+                link: https://github.com/pangratz/rfcs/blob/ember-data-improved-ajax/text/0000-ember-data-improved-ajax.md
+
+    # -
+    #     heading: "RFCs"
+    #     headlines:
+    #         -
+    #             title: "Ember-Data: Add Support for Nested Saves"
+    #             description: ""
+    #             link: https://github.com/hjdivad/rfcs/blob/nested-save/text/0000-nested-save.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: https://github.com/pangratz/rfcs/blob/ember-data-improved-ajax/text/0000-ember-data-improved-ajax.md
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-object-update: Update Ember Objects with Ease"
+                description: ""
+                link: https://github.com/cafreeman/ember-object-update
+            -
+                title: "ember-cli-node-modules-to-vendor: Easily Import Packages (Non-Ember Addons) from node_modules"
+                description: ""
+                link: https://github.com/kellyselden/ember-cli-node-modules-to-vendor
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #78: Progressive Ember Weekend"
+                description: ""
+                link: https://emberweekend.com/episodes/progressive-ember-weekend
+            -
+                title: "EmberMap: Friendly URLs with slugs"
+                description: ""
+                link: https://embermap.com/video/friendly-urls-with-slugs
+            -
+                title: "Ember Screencasts #188: Installing ember-cli-mirage"
+                description: "Plus a [new Pro video covering the ember-cli-mirage database](https://www.emberscreencasts.com/posts/189-testing-part-2-the-ember-cli-mirage-database) ($) ."
+                link: https://www.emberscreencasts.com/posts/188-testing-part-1-installing-ember-cli-mirage
+            -
+                title: "A Practical Introduction to Ember-CLI"
+                description: ""
+                link: https://www.youtube.com/watch?v=w8h7duqZVhY
+            -
+                title: "Playing Around with Ember Fastboot"
+                description: ""
+                link: https://www.youtube.com/watch?v=eZ-BY_tL1G4
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Cary - 24th October
+                link: "http://www.meetup.com/Triangle-Ember/events/233996473/"
+            -
+                title: Philadelphia - 24th October
+                link: "http://www.meetup.com/EmberJS-Philly/events/234458499/"
+            -
+                title: Atlanta - 26th October
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/235003688/"
+            -
+                title: Denver - 26th October
+                link: "http://www.meetup.com/Ember-js-Denver/events/235026375/"
+            -
+                title: Budapest - 26th October
+                link: "http://www.meetup.com/ember-bp/events/234938377/"
+            -
+                title: London - 27th October
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614871/"
+            -
+                title: New York - 27th October
+                link: "http://www.meetup.com/EmberJS-NYC/events/234303310/"
+            -
+                title: Salt Lake City - 27th October
+                link: "http://www.meetup.com/EmberJS-SLC/events/234944333/"
+            -
+                title: Madison - 1st November
+                link: "http://www.meetup.com/mad-ember/events/230860469/"
+            -
+                title: Chicago - 2nd November
+                link: "http://www.meetup.com/Chicago-Ember-js/events/234702561/"
+            -
+                title: Munich - 2nd November
+                link: "http://www.meetup.com/Ember-js-Munich/events/234522844/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

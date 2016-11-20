@@ -1,0 +1,180 @@
+issue: 183
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.9.1 Released"
+                description: " Also [Ember v2.8.3 Released](https://github.com/emberjs/ember.js/releases/tag/v2.8.3)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.9.1
+            -
+                title: "Ember v2.10.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.10.0-beta.3
+            -
+                title: "Ember-CLI-FastBoot v1.0.0 Beta 13 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta-13
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+        imageLg: true
+        advert: true
+        headlines:
+            -
+                title: "Level up your Ember Skills with simplabs' workshops!"
+                description: "simplabs offers Ember.js workshops ranging from a 3 day Ember.js Jumpstart (next one in Cologne, Germany in late November) to advanced workshops on techniques like complex component architectures, FastBoot, Testing as well as Authentication and Authorization."
+                advert: true
+                link: https://ember-workshops.simplabs.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Building a Sticky Chatbox"
+                description: ""
+                link: https://blog.embermap.com/building-a-sticky-chatbox-3d50272c2e0c#.ox5aik99u
+            -
+                title: "Make your Ember.js Web App More Progressive"
+                description: ""
+                link: https://tsubik.com/blog/make-your-emberjs-web-app-more-progressive-part-1/
+            -
+                title: "Getting Started with Ember and Data Down Actions Up"
+                description: ""
+                link: https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/
+            -
+                title: "RFC: JavaScript Module API"
+                description: ""
+                link: https://github.com/tomdale/rfcs/blob/js-modules/text/0000-javascript-module-api.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-math-helpers: Helpers for Basic Arithmetic"
+                description: ""
+                link: https://github.com/shipshapecode/ember-math-helpers
+            -
+                title: "ember-cli-rails: Unify Ember-CLI and Rails Workflows "
+                description: ""
+                link: http://thoughtbot.github.io/ember-cli-rails/
+            -
+                title: "ember-links-with-follower: Component to Render a Set of Links with a Follower Line Underneath"
+                description: ""
+                link: https://github.com/echobind/ember-links-with-follower#ember-links-with-follower
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Enemy of the State - State Management in Ember.js Apps"
+                description: ""
+                link: https://www.youtube.com/watch?v=XYCCU53JdgM
+            -
+                title: "Ember Microstates - Frontside Lunch and Learn"
+                description: ""
+                link: https://youtu.be/6ujzIah78_U?t=189
+            -
+                title: "Convention Over Configuration for your APIs - Deepan Aiyasamy"
+                description: ""
+                link: https://vimeo.com/189743459
+            -
+                title: "How to Create Web Applications by Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=sTwv3rRIMII
+            -
+                title: "Improving QA and Dev Collaboration With A Single State Tree"
+                description: ""
+                link: https://vimeo.com/187938033
+            -
+                title: "Ember Weekend Podcast #80: Help with the Maths"
+                description: ""
+                link: https://emberweekend.com/episodes/help-with-the-maths
+            -
+                title: "Ember Screencasts #192: Second and Third Acceptance Tests"
+                description: "Plus a [new Pro video covering CRUD with Acceptance Tests and Mirage](https://www.emberscreencasts.com/posts/193-testing-part-6-crud-with-acceptance-tests-and-mirage) ($) ."
+                link: https://www.emberscreencasts.com/posts/192-testing-part-5-second-and-third-acceptance-tests
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Diego - 9th November
+                link: "http://www.meetup.com/sandiego-ember/events/234323846/"
+            -
+                title: Ember.js DC - 9th November
+                link: "http://www.meetup.com/Ember-JS-DC/events/235131919/"
+            -
+                title: Montevideo - 9th November
+                link: "http://www.meetup.com/ember-montevideo/events/234883588/"
+            -
+                title: London - 10th November
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614832/"
+            -
+                title: Boston - 10th November
+                link: "http://www.meetup.com/Boston-Ember-js/events/233998608/"
+            -
+                title: Atlanta - 15th November
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/235003747/"
+            -
+                title: Stockholm - 15th November
+                link: "http://www.meetup.com/Stockholm-Ember-js-Meetup/events/234713180/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

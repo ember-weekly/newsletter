@@ -1,0 +1,173 @@
+issue: 170
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v.2.9.0 Alpha 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.9.0-alpha.3
+            -
+                title: "Ember-CLI v2.8.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.8.0-beta.2
+            -
+                title: "Ember-CLI-Fastboot v1.0.0 Beta 8 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.8
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+        advert: true
+        headlines:
+            -
+                title: "Ember Monitoring"
+                description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+                advert: true
+                link: http://www.launchbit.com/taz/11357-6547-111
+                domain: newrelic.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Faking GraphQL with ember-cli-mirage"
+                description: ""
+                link: https://emberway.io/faking-graphql-with-ember-cli-mirage-811e83937a5b#.o6sxb2rha
+            -
+                title: "Refactoring to Page Objects with ember-cli-page-object"
+                description: ""
+                link: http://thejsguy.com/2016/08/03/refactoring-to-page-objects-with-ember-cli-page-object.html
+            -
+                title: "Ember Data Team Meeting Minutes - 2016-08-08"
+                description: "Also [minutes form 2016-07-26](https://github.com/emberjs/core-notes/blob/master/ember-data/2016-07/july-26.md), [June 2016](https://github.com/emberjs/core-notes/tree/master/ember-data/2016-06), and [May 2016](https://github.com/emberjs/core-notes/tree/master/ember-data/2016-05)."
+                link: https://github.com/emberjs/core-notes/blob/master/ember-data/2016-08/august-02.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-08-04"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-08/august-04.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "intellij-emberjs: Ember.js Support for JetBrains IDEs (IntelliJ, WebStorm, etc)"
+                description: ""
+                link: https://github.com/Turbo87/intellij-emberjs
+            -
+                title: "ember-data-fastboot: Serializes and Restore an Ember Data store"
+                description: ""
+                link: https://www.npmjs.com/package/ember-data-fastboot
+            -
+                title: "ember-addons-inspector: Inspect the Addons Included in your Ember App or Ember Addon"
+                description: ""
+                link: https://www.npmjs.com/package/ember-addons-inspector
+            -
+                title: "ember-one-way-controls: Native one way input"
+                description: ""
+                link: https://github.com/DockYard/ember-one-way-controls
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Help us build Condé Nast’s next generation content platform!"
+               description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+               link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #69: Be More Verbose"
+                description: ""
+                link: https://emberweekend.com/episodes/be-more-verbose
+            -
+                title: "Ember Screencasts #166: Controllers in Ember 2"
+                description: "Plus a [new Pro video covering The Amazing Get Helper](https://www.emberscreencasts.com/posts/166-the-amazing-get-helper) ($) ."
+                link: https://www.emberscreencasts.com/posts/166-controllers-in-ember-2
+            -
+                title: "How To Deploy Your Ember.js Application Using Ember CLI Deploy - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=PijrQZwFygk
+            -
+                title: "Computed Properties - Scott Batson"
+                description: ""
+                link: https://www.youtube.com/watch?v=u6wFoO_TwLc
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 9th August
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/224570811/"
+            -
+                title: London - 11th August
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614813/"
+            -
+                title: Boston - 11th August
+                link: "http://www.meetup.com/Boston-Ember-js/events/232598287/"
+            -
+                title: Montevideo - 11th August
+                link: "http://www.meetup.com/ember-montevideo/events/232788150/"
+            -
+                title: Durham - 13th August
+                link: "http://www.meetup.com/Triangle-Ember/events/229347199/"
+            -
+                title: Saint Louis - 15th August
+                link: "http://www.meetup.com/STLEmber/events/231105075/"
+            -
+                title: Louisville - 16th August
+                link: "http://www.meetup.com/Ember-js-Louisville/events/233039212/"
+            -
+                title: Adelaide - 16th August
+                link: "http://www.meetup.com/adelaidejs/events/232880737/"
+            -
+                title: Cincinnati - 17th August
+                link: "http://www.meetup.com/embernati/events/232884746/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

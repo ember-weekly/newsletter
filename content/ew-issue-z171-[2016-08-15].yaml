@@ -1,0 +1,182 @@
+issue: 171
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v2.8.0 Beta 2"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.8.0-beta.2
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/simplabs-logo.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Work with the Web Experts at simplabs!"
+    #             description: "simplabs offers Ember.js as well as Ruby on Rails and Elixir/Phoenix consulting. We are based in Munich, Germany and work with clients all over the world. We take ownership of projects, augment your internal dev team and offer workshops and training."
+    #             advert: true
+    #             link: https://simplabs.com/
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+        advert: true
+        headlines:
+            -
+                title: "Ember Monitoring"
+                description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+                advert: true
+                link: http://www.launchbit.com/taz/11357-6547-111
+                domain: newrelic.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Using Dependency Injection to Write Better Tests"
+                description: ""
+                link: http://balinterdi.com/2016/08/11/using-dependency-injection-to-write-better-tests.html
+            -
+                title: "Improving Chat Rendering Performance"
+                description: ""
+                link: https://blog.twitch.tv/improving-chat-rendering-performance-1c0945b82764#.lnuq7btp7
+            -
+                title: "Consider Using JSON:API For Your API"
+                description: ""
+                link: http://thejsguy.com/2016/08/11/consider-using-json-api-for-your-api.html
+            -
+                title: "Non-standard REST Actions in Ember Data"
+                description: ""
+                link: https://emberigniter.com/non-standard-rest-actions-ember-data/
+            -
+                title: "How to set up a Basic Ember.js app"
+                description: ""
+                link: https://medium.freecodecamp.com/setting-up-a-basic-ember-js-app-c9323760c675#.1ziwjaqnz
+            -
+                title: "Learn Ember.js From Scratch: Tuts, Books, and Resources for Beginners"
+                description: ""
+                link: http://whatpixel.com/emberjs-best-learning-resources/
+            -
+                title: "Testing Async in Ember.js — Part One"
+                description: ""
+                link: https://medium.com/@chrisdmasters/testing-async-in-ember-js-part-one-7ec9bc070c0e#.d7jcf4xjb
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-08-11"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-08/august-11.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-08-11"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-08/august-11.md
+
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Help us build Condé Nast’s next generation content platform!"
+               description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+               link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Plotting a Course from the Past to the Future - Robert Jackson"
+                description: ""
+                link: https://www.youtube.com/watch?v=rJ-tVoW5nzY
+            -
+                title: "On the Bleeding Edge with Ember Engines - Kacey Coughlin"
+                description: ""
+                link: https://www.youtube.com/watch?v=m5J8AqSDHwc
+            -
+                title: "Route Recognition - Nathan Hammond"
+                description: ""
+                link: https://www.youtube.com/watch?v=vz9NhVsQrHc
+            -
+                title: "Using Ember-Cordova: Now with Icons and Improved LiveReload - Alex Blom"
+                description: ""
+                link: https://www.youtube.com/watch?v=WFhTpSe2hNE
+            -
+                title: "The Ember Inspector - Ember.js Guides #4"
+                description: ""
+                link: https://www.youtube.com/watch?v=laxMyrk9P10
+            -
+                title: "A Beginner’s Journey into Ember.js - Daniel Gynn"
+                description: ""
+                link: https://vimeo.com/178828815
+            -
+                title: "Ember Screencasts #168: Introduction to ember-changeset"
+                description: "Plus a [new Pro video covering Advanced ember-changeset - Visualizing Changes](https://www.emberscreencasts.com/posts/169-advanced-ember-changeset-visualizing-changes) ($) ."
+                link: https://www.emberscreencasts.com/posts/168-introduction-to-ember-changeset
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "So Ember Conference, San Diego, CA - 27th January 2017"
+                link: http://soember.com/
+            -
+                title: Louisville - 16th August
+                link: "http://www.meetup.com/Ember-js-Louisville/events/233039212/"
+            -
+                title: Adelaide - 16th August
+                link: "http://www.meetup.com/adelaidejs/events/232880737/"
+            -
+                title: Cincinnati - 17th August
+                link: "http://www.meetup.com/embernati/events/232884746/"
+            -
+                title: London - 18th August
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614853/"
+            -
+                title: Atlanta - 24th August
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/233061931/"
+            -
+                title: Southern California - 24th August
+                link: "http://www.meetup.com/Ember-SC/events/230950638/"
+
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+        headlines:
+            -
+                title: "A Visual History of Which Countries Have Dominated the Summer Olympics"
+                description: ""
+                link: http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html

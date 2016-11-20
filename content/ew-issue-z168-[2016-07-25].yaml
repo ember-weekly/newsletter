@@ -1,0 +1,184 @@
+issue: 168
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data 2.7 and 2.8 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/07/25/ember-data-2-7-released.html
+            -
+                title: "Ember.js 2.7 and 2.8 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2016/07/25/ember-2-7-and-2-8-beta-released.html
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "3 day Ember.js Workshop by simplabs, May 30th to June 1st in Munich"
+    #             description: "simplabs is organizing another 3 day Ember.js Workshop - this time in Munich from May 30th to June 1st. The workshop takes participants through building a full Ember.js application using modern Ember.js patterns like Data down, Actions up, contextual components, closure actions etc."
+    #             advert: true
+    #             link: https://ember-workshop.simplabs.com/
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Using Ember Data With JSON From Reddit"
+                description: ""
+                link: http://www.programwitherik.com/using-ember-data-with-json-data-from-reddit/
+            -
+                title: "Ember A11y Newsletter Edition #1"
+                description: ""
+                link: http://us13.campaign-archive2.com/?u=fecff46fa10e0aa0c3844b8a4&id=07cd8df92a&e=4189c149dd
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-07-14"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-07/july-14.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-06-30"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-06/june-30.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-07-21"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-07/july-21.md
+            -
+                title: "RFC: Ancillary Package Module Standardization"
+                description: ""
+                link: https://github.com/monegraph/rfcs/blob/ancillary-package-module-standardization/text/0000-ancillary-package-module-standardization.md
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Pair with ember-a11y"
+                description: ""
+                link: http://pair.ember-a11y.com/
+            -
+                title: "ember-composable-helpers v1.0.0 Released"
+                description: ""
+                link: https://github.com/DockYard/ember-composable-helpers/releases/tag/v1.0.0
+            -
+                title: "ember-router-scroll: Scroll to Top with Preserved Browser History Scroll Position"
+                description: ""
+                link: https://github.com/dollarshaveclub/ember-router-scroll
+            -
+                title: "ember-owner-test-utils: Easy Mechanism to Access and Override Ember Owner APIs in Test"
+                description: ""
+                link: https://github.com/rondale-sc/ember-owner-test-utils
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Deep Dive into Ember at SuitePad in Berlin!"
+               description: "Join our team of international engineers developing a mobile web application for the hotel industry. Our frontend, a guest-facing HTML5 & Ember.js single-page application is currently running on more than 10,000 tablets in hotel rooms across the globe."
+               link: https://suitepad.onapply.de/details/846/-Frontend-Engineer-(m-f)-Berlin--Deutschland.html
+            -
+               title: "Senior Software Engineer – Microsoft"
+               description: ""
+               link: https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=223174&jlang=EN&pp=SS
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Glimmer 2 Deep Dive with Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=vL8sCi1Bv6E
+            -
+                title: "The Ember Show S02E08: Mock Driven Development, TravisCI"
+                description: ""
+                link: https://vimeo.com/175446965
+            -
+                title: "Ember NYC: Ember Timeline - Michael Madrid"
+                description: ""
+                link: https://youtu.be/BIB7YSyTNyE?t=420
+            -
+                title: "Ember NYC: Using Service Workers - Nathan Hammond"
+                description: ""
+                link: https://youtu.be/BIB7YSyTNyE?t=2272
+            -
+                title: "Ember Tutorial - Working with Components"
+                description: ""
+                link: https://www.youtube.com/watch?v=HEyFyM3FL2g
+            -
+                title: "Modern Web Podcast S02E07: Accessibility for the Web - Meet these Dedicated Ember.js Community Members"
+                description: ""
+                link: http://modernweb.podbean.com/e/s02e07-accessibility-for-the-web-meet-these-dedicated-emberjs-community-members/
+            -
+                title: "Modern Web Podcast S03E02: D3 Solutions in Ember and Composable Helpers"
+                description: ""
+                link: http://modernweb.podbean.com/e/d3-ember/
+            -
+                title: "Modern Web Podcast S03E03: Authorization vs Authentication in Ember with Rock ‘n Roll Ember"
+                description: ""
+                link: http://modernweb.podbean.com/e/s03e03-authorization-vs-authentication-in-ember-with-rock-n-roll-ember/
+            -
+                title: "Ember Weekend Podcast #67: Nondeterministic Finite Podcast"
+                description: ""
+                link: https://emberweekend.com/episodes/nondeterministic-finite-podcast
+            -
+                title: "Ember Screencasts #162: Nested Components"
+                description: "Plus a [new Pro video covering Positional Params in Components](https://www.emberscreencasts.com/posts/163-positional-params-in-components) ($) ."
+                link: https://www.emberscreencasts.com/posts/162-nested-components
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco - 26th July
+                link: "http://www.meetup.com/Ember-SF/events/231368426/"
+            -
+                title: Denver - 27th July
+                link: "http://www.meetup.com/Ember-js-Denver/events/232418030/"
+            -
+                title: New York - 28th July
+                link: "http://www.meetup.com/EmberJS-NYC/events/232259891/"
+            -
+                title: Austin - 28th July
+                link: "http://www.meetup.com/Ember-ATX/events/231391005/"
+            -
+                title: Salt Lake City - 28th July
+                link: "http://www.meetup.com/EmberJS-SLC/events/232122321/"
+            -
+                title: Melbourne - 28th July
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/231047706/"
+            -
+                title: Durham - 1st August
+                link: "http://www.meetup.com/Triangle-Ember/events/232045044/"
+            -
+                title: Columbus - 1st August
+                link: "http://www.meetup.com/ember-columbus/events/232353534/"
+            -
+                title: Madison - 2nd August
+                link: "http://www.meetup.com/mad-ember/events/230860434/"
+            -
+                title: San Diego - 4th August
+                link: "http://www.meetup.com/sandiego-ember/events/230148543/"
+
+
+
+    -
+        heading: "Random"
+        description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+        headlines:
+            -
+                title: "Career.js Podcast"
+                description: "A podcast where three JavaScript developers discuss strategies and tips to help your career as a software developer."
+                link: http://careerjs.com/

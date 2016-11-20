@@ -1,0 +1,187 @@
+issue: 177
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v2.8.1"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.8.1
+            -
+                title: "Ember v2.9.0 Beta 3"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.9.0-beta.3
+            -
+                title: "Ember-CLI v2.9.0 Beta 2"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "​Let Top Tech Companies Apply to You on Indeed Prime"
+                description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+                advert: true
+                link: http://synd.co/2c1Ji0u
+                domain: indeed.com
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Ember Monitoring"
+    #             description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+    #             advert: true
+    #             link: http://www.launchbit.com/taz/11357-6547-111
+    #             domain: newrelic.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            # -
+            #     title: "Ember XXX Team Meeting Minutes - 2016-0X-XX"
+            #     description: ""
+            #     link:
+            -
+                title: "Easy Ember-Fastboot Deployment with Google Cloud"
+                description: ""
+                link: https://blog.embersherpa.com/easy-ember-fastboot-deployment-with-google-cloud-216160afe2b8#.ora3xd5xe
+            -
+                title: "Creating an Accordion with Contextual Components in Ember"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2016/09/23/creating-an-accordion-with-contextual-components-in-ember
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-fastboot-addon-tests: Test Your Addon is Compatibility Fastboot"
+                description: ""
+                link: https://github.com/kaliber5/ember-fastboot-addon-tests
+            -
+                title: "ember-hammertime: TouchAction (aka 'fastclick') Support for Ember Applications"
+                description: ""
+                link: https://github.com/runspired/ember-hammertime
+            -
+                title: "ember-cli-surge: Static Web Publishing"
+                description: ""
+                link: https://emberobserver.com/addons/ember-cli-surge
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Glimmer 2, Ember's new DOM rendering Virtual Machine"
+                description: ""
+                link: https://www.youtube.com/watch?v=l2nD1IxjHUI
+            -
+                title: "Things I Wish I Knew Before Starting an Ember Project - Bruno Tarmann"
+                description: ""
+                link: https://www.youtube.com/watch?v=B4m8U2jZ-N4
+            -
+                title: "Ember js Harnessing the Power of Convention over Configuration - Tracy Lee"
+                description: ""
+                link: https://www.youtube.com/watch?v=BJ9XDT2iCtw
+            -
+                title: "EmberMap: pauseTest"
+                description: ""
+                link: https://embermap.com/topics/refactorings/pause-test
+            -
+                title: "Ember Weekend Podcast #75: Stop, Hammertime"
+                description: ""
+                link: https://emberweekend.com/episodes/stop-comma-hammertime
+            -
+                title: "Ember Screencasts #180: Using Non-Ember Libraries with ember-inject-script"
+                description: "Plus a [new Pro video covering ember-let](https://www.emberscreencasts.com/posts/181-ember-let) ($) ."
+                link: https://www.emberscreencasts.com/posts/180-using-non-ember-libraries-with-ember-inject-script
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "Ember Fest 2016 - 27th/28th October"
+                link: "https://emberfest.eu/"
+            -
+                title: San Francisco - 27th September
+                link: "http://www.meetup.com/Ember-SF/events/232979367/"
+            -
+                title: Berlin - 27th September
+                link: "http://www.meetup.com/Ember-js-Berlin/events/233227519/"
+            -
+                title: Atlanta - 28th September
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/233556210/"
+            -
+                title: Denver - 28th September
+                link: "http://www.meetup.com/Ember-js-Denver/events/234134432/"
+            -
+                title: Melbourne - 29th September
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/232532542/"
+            -
+                title: Los Angeles - 1st October
+                link: "http://www.meetup.com/sandiego-ember/events/233063920/"
+            -
+                title: Columbus - 3rd October
+                link: "http://www.meetup.com/ember-columbus/events/232794900/"
+            -
+                title: Budapest - 3rd October
+                link: "http://www.meetup.com/ember-bp/events/234316949/"
+            -
+                title: Madison - 4th October
+                link: "http://www.meetup.com/mad-ember/events/230860461/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

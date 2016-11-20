@@ -1,0 +1,159 @@
+issue: 184
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI-Fastboot v1.0.0 Beta 13"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta-13
+            -
+                title: "EmberConf 2017 - Call for Papers (Closes 19th Nov)"
+                description: ""
+                link: http://cfp.emberconf.com/events/emberconf-2017
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Let top tech companies apply to you on Indeed Prime​"
+    #             description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+    #             advert: true
+    #             link: http://synd.co/2c1Ji0u
+    #             domain: indeed.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "From 0 to Terminal for Ember Development"
+                description: ""
+                link: https://blog.embersherpa.com/from-0-to-terminal-for-ember-development-7b02b04881d8#.rfi9gj31x
+            -
+                title: "Choosing Ember Over React in 2016"
+                description: ""
+                link: https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341#.1w68h41kg
+            -
+                title: "Why We Love Ember at British Gas"
+                description: ""
+                link: https://medium.com/@deepansubbiah/why-we-love-ember-at-british-gas-24099e045e54#.ltvty160u
+            -
+                title: "Dynamic CSS in Ember Templates"
+                description: ""
+                link: http://codeandtechno.com/posts/dynamic-css-in-ember-templates/
+            -
+                title: "Enable FastBoot in Your Ember App"
+                description: ""
+                link: http://balinterdi.com/2016/11/11/enable-fastboot-in-your-ember-app.html
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-11-11"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2016-11/november-11.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-11-04"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2016-11/november-04.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-10-{7,14,28}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-10
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-lifeline: Utility Methods to Help Manage Async, Object Lifecycles, and the Ember Runloop"
+                description: ""
+                link: https://github.com/rwjblue/ember-lifeline
+            -
+                title: "ember-burger-menu: An Off-Canvas Sidebar Component with a Collection of Animations"
+                description: ""
+                link: https://offirgolan.github.io/ember-burger-menu/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Boston Ember: Core Team Panel - Part 1 (November 2016)"
+                description: ""
+                link: https://www.youtube.com/watch?v=D9eLoUDUYxo
+            -
+                title: "Ember Weekend Podcast #81: The Less Overwhelming Framework"
+                description: ""
+                link: https://emberweekend.com/episodes/the-less-overwhelming-framework
+            -
+                title: "JavaScript Jabber: CLls – Ember Angular and React with Tracy Lee"
+                description: ""
+                link: https://devchat.tv/js-jabber/237-jsj-clls-ember-angular-and-react-with-tracy-lee
+            -
+                title: "Pilot Tech Talk #9 — Ember.js by Jacek Galanciak"
+                description: ""
+                link: https://www.youtube.com/watch?v=gqOIj1ws4tI
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 15th November
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/235003747/"
+            -
+                title: Stockholm - 15th November
+                link: "https://www.meetup.com/Stockholm-Ember-js-Meetup/events/234713180/"
+            -
+                title: London - 17th November
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/231614874/"
+            -
+                title: Cincinnati - 17th November
+                link: "https://www.meetup.com/embernati/events/235278624/"
+            -
+                title: Seattle - 17th November
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/234960660/"
+            -
+                title: Paris - 17th November
+                link: "https://www.meetup.com/EmberJS-Paris/events/234678842/"
+            -
+                title: Atlanta - 23rd November
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/rkflwlyvpbfc/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

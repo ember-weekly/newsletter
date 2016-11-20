@@ -1,0 +1,195 @@
+issue: 174
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.7.2 Released"
+                description: "Also [Ember v2.8.0 Beta 5 released](https://github.com/emberjs/ember.js/releases/tag/v2.8.0-beta.5)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.7.2
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+        imageLg: true
+        advert: true
+        headlines:
+            -
+                title: "Level up your Ember Skills with simplabs' workshops!"
+                description: "simplabs offers Ember.js workshops ranging from a 3 day Ember.js Jumpstart (next one in Cologne, Germany in late November) to advanced workshops on techniques like complex component architectures, FastBoot, Testing as well as Authentication and Authorization."
+                advert: true
+                link: https://ember-workshops.simplabs.com
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Ember Monitoring"
+    #             description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+    #             advert: true
+    #             link: http://www.launchbit.com/taz/11357-6547-111
+    #             domain: newrelic.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js + WordPress"
+                description: ""
+                link: https://blog.embersherpa.com/ember-js-wordpress-a771242b020b#.2rtlmb0gz
+            -
+                title: "JavaScript Frameworks: Distribution Channels for Good Ideas"
+                description: ""
+                link: https://medium.com/@tomdale/javascript-frameworks-distribution-channels-for-good-ideas-9f3b95c0e293#.ykfyum7a1
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-08-25"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-08/august-25.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "fastboot-docker: Ember FastBoot App Server in a Box"
+                description: ""
+                link: https://github.com/dollarshaveclub/fastboot-docker
+            -
+                title: "ember-cli-jsonapi-pagination: Dedicated Pagination Addon for JSON:API"
+                description: ""
+                link: https://github.com/BookingSync/ember-cli-jsonapi-pagination
+            -
+                title: "ember-test-component: Test Helper for Using Dependency Injected Components"
+                description: ""
+                link: https://github.com/poteto/ember-test-component
+            -
+                title: "ember-svg-jar: Easily Embed SVGs into Your Ember App"
+                description: ""
+                link: https://github.com/ivanvotti/ember-svg-jar
+            -
+                title: "ember-model-validator: Add Validation Support to Ember-Data Models"
+                description: ""
+                link: https://github.com/esbanarango/ember-model-validator
+
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Screencasts #174: Shopping Cart Part 1 - Basics"
+                description: "Plus a [new Pro video - Shopping Cart Part 2: Persistence with LocalStorage](https://www.emberscreencasts.com/posts/175-shopping-cart-part-2-persistence-with-localstorage) ($) ."
+                link: https://www.emberscreencasts.com/posts/174-shopping-cart-part-1-basics
+            -
+                title: "Build a Drum Machine #3 - Bars, Beats and Sixteenths"
+                description: ""
+                link: https://www.youtube.com/watch?v=6jR631ejVGI
+            -
+                title: "Ember.js, DevOps, and You: Lessons Learned From Building an Ember Addon - Iheanyi Ekechukwu"
+                description: ""
+                link: https://www.youtube.com/watch?v=VYfqIWqOKEQ
+            # -
+            #     title: "Ember Weekend Podcast #7X: XXX"
+            #     description: ""
+            #     link:
+            -
+                title: "Introduction to Customizing Ember Data Serializers and Adapters - Jeffrey Cherewaty"
+                description: ""
+                link: https://www.youtube.com/watch?v=6aWauA9-fV8
+            -
+                title: "I Can Write My App With No Handlebars - Lauren Tan"
+                description: ""
+                link: https://www.youtube.com/watch?v=2VQNK_sO9pQ
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Washington - 6th September
+                link: "http://www.meetup.com/Ember-JS-DC/events/232309032/"
+            -
+                title: Columbus - 6th September
+                link: "http://www.meetup.com/ember-columbus/events/232794790/"
+            -
+                title: Madison - 6th September
+                link: "http://www.meetup.com/mad-ember/events/230860425/"
+            -
+                title: Indianapolis - 7th September
+                link: "http://www.meetup.com/Ember-js-Indianapolis/events/233116557/"
+            -
+                title: London - 8th September
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614815/"
+            -
+                title: Raleigh - 8th September
+                link: "http://www.meetup.com/Triangle-Ember/events/233560049/"
+            -
+                title: Boston - 8th September
+                link: "http://www.meetup.com/Boston-Ember-js/events/233186863/"
+            -
+                title: Montevideo - 8th September
+                link: "http://www.meetup.com/ember-montevideo/events/233169418/"
+            -
+                title: New York - 12th September
+                link: "http://www.meetup.com/EmberJS-NYC/events/233811134/"
+            -
+                title: Atlanta - 13th September
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/233321687/"
+            -
+                title: Silicon Valley - 13th September
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/233290148/"
+            -
+                title: "Ember Global Meetup - 17th September"
+                description: "S02E09: Security, Authentication, Memory Management and Ember Sparkles"
+                link: https://www.bigmarker.com/global-ember-meetup/S02E09-Security-Authentication-Memory-Management-and-Ember-Sparkles
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

@@ -14,7 +14,11 @@
 {{#each content}}
 <div class="news-section">
     {{#if image}}
-        <img src="{{image}}" style="margin-bottom: 10px; margin-top: 10px;display:block; width: 100px;" />
+        {{#if imageLg}}
+            <img src="{{image}}" style="margin-bottom: 10px; margin-top: 10px;display:block; width: 250px;" />
+        {{else}}
+            <img src="{{image}}" style="margin-bottom: 10px; margin-top: 10px;display:block; width: 100px;" />
+        {{/if}}
     {{else}}
         <h1 style="display: block;font-family: 'Helvetica Neue', helvetica, arial, sans-serif;font-size: 16px;font-style: normal;font-weight: bold;line-height: 200%;letter-spacing: normal;margin: 0;text-align: left;color: #888888 !important;">
             {{heading}}

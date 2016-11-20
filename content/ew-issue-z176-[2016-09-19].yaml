@@ -1,0 +1,229 @@
+issue: 176
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.8.1 Released"
+                description: "Also [Ember v2.9.0 Beta 2 Released](https://github.com/emberjs/ember.js/releases/tag/v2.9.0-beta.2)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.8.1
+            -
+                title: "Ember Inspector v2.0.0"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/releases/tag/v2.0.0
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        syndicate: true
+        headlines:
+            -
+                title: "Let top tech companies apply to you on Indeed Prime​"
+                description: "​​Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+                advert: true
+                link: http://synd.co/2c1Ji0u
+                domain: indeed.com
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Ember Monitoring"
+    #             description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+    #             advert: true
+    #             link: http://www.launchbit.com/taz/11357-6547-111
+    #             domain: newrelic.com
+
+    -
+        heading: "EmberComp London 2016"
+        description: "All videos are available at [Ember Meetup Videos](https://www.youtube.com/playlist?list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW)."
+        isList: true
+        headlines:
+            -
+                title: "Opening Keynote by Yehuda Katz & Tom Dale"
+                isList: true
+                link: https://www.youtube.com/watch?v=OcUzuQ_31co&index=2&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "From the Past into the Future by Robert Jackson"
+                isList: true
+                link: https://www.youtube.com/watch?v=lwAcD8CYTY8&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW&index=1
+            -
+                title: "I Can Write My App with No Handlebars by Lauren Tan"
+                isList: true
+                link: https://www.youtube.com/watch?v=ZpM4cV7rfj0&index=3&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "A Pluggable Approach to Service Workers by Marten Schilstra"
+                isList: true
+                link: https://www.youtube.com/watch?v=y6QNDNoXO_8&index=4&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "Crafting the Perfect Computed Property by Serena Fritsch"
+                isList: true
+                link: https://www.youtube.com/watch?v=l4KCEoa29GE&index=5&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "Authentication and Session Management in FastBoot by Marco Otte-Witte"
+                isList: true
+                link: https://www.youtube.com/watch?v=jcAgi7fpTw8&index=6&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "Elementary, My Dear Watson by Léonie Watson"
+                isList: true
+                link: https://www.youtube.com/watch?v=Js7NGjZEdGY&index=8&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "Taming CSS in Ember.js Applications by Erik Bryn"
+                isList: true
+                link: https://www.youtube.com/watch?v=g6tsm2YQKuI&index=9&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+            -
+                title: "Mini Talks - Ember-CLI-Deploy, Elm, Authmaker, Ember-Changeset"
+                isList: true
+                link: https://www.youtube.com/watch?v=5QmVfpUUkYE&index=7&list=PL4eq2DPpyBbmrPasP06vK7cUkPUCNn_rW
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Data Flow in Ember Applications"
+                description: ""
+                link: https://blog.embermap.com/passing-data-around-your-ember-application-c4fe1e06e90#.lpb4p3ddz
+            -
+                title: "Understanding Ember's Resolver"
+                description: ""
+                link: https://dockyard.com/blog/2016/09/14/understanding-ember-s-resolver
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-09-{2,9,16}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-09
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-09-15"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-09/september-15.md
+            -
+                title: "Creating a Serverless Web App with Node.js, Ember.js and PaaS services: Airtable, Hyperdev & Surge.sh"
+                description: ""
+                link: https://medium.com/the-backlog-by-nimbo-x/creating-a-serverless-web-app-with-node-js-ember-js-and-paas-services-hyperdev-surge-sh-8e3ebe263a76#.udcq1ore5
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "1 Senior Developer (Node.js) and 2 Junior Developers (Ember.js)"
+               description: "Billy, a Portland-based startup that provides cloud-based accounting software for small businesses, is looking to hire one Senior Back-End Developer (Node.js) and two Junior Front-End Developers (Ember.js) immediately."
+               link: http://siliconflorist.com/jobs/view/fast-growing-startup-seeks-ambitious-senior-developer
+            # -
+            #    title: ""
+            #    description: ""
+            #    link:
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "The Polygot Developer: An Ember in the Land of Web Frameworks"
+                description: ""
+                link: https://overcast.fm/+G2EyGyfYU
+            -
+                title: "Ember Weekend Podcast #74: Above The Fold"
+                description: ""
+                link: https://emberweekend.com/episodes/above-the-fold
+            -
+                title: "Ember Screencasts #179: Giving Back"
+                description: "How can you give back to the Ember Community?"
+                link: https://www.emberscreencasts.com/posts/179-giving-back
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Portland - 20th September
+                link: "http://www.meetup.com/Ember-PDX/events/233234703/"
+            -
+                title: Cincinnati - 21st September
+                link: "http://www.meetup.com/embernati/events/234159693/"
+            -
+                title: Philadelphia - 21st September
+                link: "http://www.meetup.com/EmberJS-Philly/events/233989040/"
+            -
+                title: Englewood - 21st September
+                link: "http://www.meetup.com/Ember-js-Denver/events/233982438/"
+            -
+                title: New York - 22nd September
+                link: "http://www.meetup.com/EmberJS-NYC/events/233776147/"
+            -
+                title: Austin - 22nd September
+                link: "http://www.meetup.com/Ember-ATX/events/231396131/"
+            -
+                title: San Francisco - 27th September
+                link: "http://www.meetup.com/Ember-SF/events/232979367/"
+            -
+                title: Berlin - 27th September
+                link: "http://www.meetup.com/Ember-js-Berlin/events/233227519/"
+            -
+                title: Atlanta - 28th September
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/233556210/"
+            -
+                title: Denver - 28th September
+                link: "http://www.meetup.com/Ember-js-Denver/events/234134432/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

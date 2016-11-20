@@ -1,0 +1,184 @@
+issue: 172
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.7.1 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.7.1
+            -
+                title: "Ember v2.8.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.8.0-beta.3
+            -
+                title: "Ember v2.9.0 Alpha 4 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.9.0-alpha.4
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/simplabs-logo.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Work with the Web Experts at simplabs!"
+    #             description: "simplabs offers Ember.js as well as Ruby on Rails and Elixir/Phoenix consulting. We are based in Munich, Germany and work with clients all over the world. We take ownership of projects, augment your internal dev team and offer workshops and training."
+    #             advert: true
+    #             link: https://simplabs.com/
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+        advert: true
+        headlines:
+            -
+                title: "Ember Monitoring"
+                description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+                advert: true
+                link: http://www.launchbit.com/taz/11357-6565-111
+                domain: newrelic.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Lessons learned from four years with Ember"
+                description: ""
+                link: https://blog.embermap.com/good-ember-developer-bad-ember-developer-7f9d52c6a0b5#.1bbrvavn9
+            -
+                title: "Typecasting Form Fields in Ember"
+                description: ""
+                link: https://alisdair.mcdiarmid.org/typecasting-form-fields-in-ember/
+            -
+                title: "Many-to-Many Relationships with Ember CLI Mirage"
+                description: ""
+                link: https://www.loadsys.com/many-many-relationships-ember-cli-mirage/
+            -
+                title: "Open Source Ember Apps"
+                description: ""
+                link: https://github.com/EmberSherpa/open-source-ember-apps#open-source-ember-apps
+            -
+                title: "An Ember Debugging Flowchart"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-08-11"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-08/august-18.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-08-{05,12,19}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-08
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Acceptance Testing with Page Objects from Ember Map"
+                description: ""
+                advert: true
+                link: https://embermap.com/topics/acceptance-testing
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-inert-polyfill: Enables use of the HTML `inert` Attribute"
+                description: ""
+                link: https://github.com/BrianSipple/ember-inert-polyfill
+            -
+                title: "ember-cli-vibrant-js-shim: Extract Prominent Colors from an Image using Vibrant.js"
+                description: ""
+                link: http://chrismasters.net/ember-cli-vibrant-js-shim/
+            -
+                title: "ember-cli-funnel: Exclude Files from an Ember Build"
+                description: ""
+                link: https://github.com/kellyselden/ember-cli-funnel
+            -
+                title: "ember-remodal: An Intensely Usable Modal Add-on for Ember"
+                description: ""
+                link: https://github.com/sethbrasile/ember-remodal
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Help us build Condé Nast’s next generation content platform!"
+               description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+               link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #70: Back From Training"
+                description: ""
+                link: https://emberweekend.com/episodes/back-from-training
+            -
+                title: "Ember Screencasts #16X: Are You Sure You Want To Leave This Page?"
+                description: "Plus a [new Pro video covering ember-changeset-validations](https://www.emberscreencasts.com/posts/171-introduction-to-ember-changeset-validations) ($) ."
+                link: https://www.emberscreencasts.com/posts/170-are-you-sure-you-want-to-leave-this-page
+            -
+                title: "Let's build a drum machine in Ember.js #1"
+                description: ""
+                link: https://www.youtube.com/watch?v=dDPAUcxQ3lA
+            -
+                title: "Using Ember Data With The JSON Serializer"
+                description: ""
+                link: https://www.youtube.com/watch?v=VFkK3XABpJI
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 24th August
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/233061931/"
+            -
+                title: Southern California - 24th August
+                link: "http://www.meetup.com/Ember-SC/events/230950638/"
+            -
+                title: New York - 25th August
+                link: "http://www.meetup.com/EmberJS-NYC/events/232972124/"
+            -
+                title: Austin - 25th August
+                link: "http://www.meetup.com/Ember-ATX/events/231396129/"
+            -
+                title: Hamburg - 25th August
+                link: "http://www.meetup.com/emberHH/events/232973563/"
+            -
+                title: Melbourne - 25th August
+                link: "http://www.meetup.com/EmberJS-Melbourne/events/231047762/"
+            -
+                title: Bangalore - 27th August
+                link: "http://www.meetup.com/EmberJS-Bangalore/events/233206222/"
+            -
+                title: Denver - 31st August
+                link: "http://www.meetup.com/Ember-js-Denver/events/232960423/"
+            -
+                title: Toronto - 1st September
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/233419078/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

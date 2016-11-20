@@ -1,0 +1,173 @@
+issue: 167
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.6.2 Released"
+                description: "Also [Ember v2.7.0 Beta 4 Released](https://github.com/emberjs/ember.js/releases/tag/v2.7.0-beta.4)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.6.2
+            -
+                title: "Ember-CLI v2.6.3 Released"
+                description: "Also [Ember-CLI v2.7.0 Beta 6 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.7.0-beta.6)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.6.3
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/8120234ff2bfab6b50b9784545ed3b015eef1eb2/assets/sponsors/rollbar-logo-ember-weekly.png"
+        advert: true
+        headlines:
+            -
+                title: "Rollbar - Turn Errors into Awesome"
+                description: "Find & fix JavaScript errors faster (and have fun doing it)! Quickly pinpoint what’s broken and why. Get the context and insights you need to defeat application errors, forever."
+                advert: true
+                link: http://synd.co/29x0c3E
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Building an Ember App Without a Back-End"
+                description: ""
+                link: https://www.codeschool.com/blog/2016/07/07/building-an-ember-app-without-a-back-end/
+            -
+                title: "Make Your Ember.js Web App More Progressive - Part 3: Offline Data"
+                description: ""
+                link: https://tsubik.com/blog/make-your-emberjs-web-app-more-progressive-part-3-offline-data
+            -
+                title: "Things to Consider When Adding Websocket Updates to Ember apps"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2016/07/15/things-to-consider-when-adding-websocket-updates-to-ember-apps
+            -
+                title: "Testing Flexi Breakpoints"
+                description: ""
+                link: https://emberway.io/testing-flexi-breakpoints-d4390ba075d4#.2chqtm3hw
+            -
+                title: "route-recognizer"
+                description: ""
+                link: http://www.nathanhammond.com/route-recognizer
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-06-23"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-06/june-23.md
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-06-30"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-06/june-30.md
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-07-07"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-07/july-07.md
+            -
+                title: "Rock and Roll with Ember hits 1k customers and Balint Erdi, the author, does a giveaway with great prizes"
+                description: ""
+                link: http://balinterdi.com/rock-and-roll-with-ember-1k-customers-giveaway/
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-side-menu: Mobile Friendly Ember Menu Component Using CSS Transitions"
+                description: ""
+                link: https://tsubik.com/ember-side-menu/
+            -
+                title: "ember-dnd-helpers: Helpers for Building Drag and Drop Interfaces"
+                description: ""
+                link: https://github.com/EmberSherpa/ember-dnd-helpers
+            -
+                title: "ember-light-table: Lightweight, Contextual Component Based Table"
+                description: ""
+                link: http://offirgolan.github.io/ember-light-table/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior Software Engineer – Microsoft"
+               description: ""
+               link: https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=223174&jlang=EN&pp=SS
+            -
+               title: "Deep Dive into Ember at SuitePad in Berlin!"
+               description: "Join our team of international engineers developing a mobile web application for the hotel industry. Our frontend, a guest-facing HTML5 & Ember.js single-page application is currently running on more than 10,000 tablets in hotel rooms across the globe."
+               link: https://suitepad.onapply.de/details/846/-Frontend-Engineer-(m-f)-Berlin--Deutschland.html
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Inside Glimmer 2: What Is A Compiler? - Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=vg5A_UOGShg
+            -
+                title: "Ember Asset Sizes Analytics - Dave Laird"
+                description: ""
+                link: https://www.youtube.com/watch?v=1ILCiU_Il-Q&feature=youtu.be
+            -
+                title: "Why is CI Broken? - Kelly Selden"
+                description: ""
+                link: https://www.youtube.com/watch?v=0kDQLcOfLVg
+            -
+                title: "Ember Weekend Podcast #66: Bug Integrat"
+                description: ""
+                link: https://emberweekend.com/episodes/bug-integrat
+            -
+                title: "Ember Screencasts #160: Introduction to Visual Regression Testing"
+                description: "Plus a [new Pro video covering Sorting in Ember 2.0 (Replacing SortableMixin)](https://www.emberscreencasts.com/posts/161-sorting-in-ember-20-replacing-sortablemixin) ($) ."
+                link: https://www.emberscreencasts.com/posts/160
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Portland - 19th July
+                link: "http://www.meetup.com/Ember-PDX/events/231777406/"
+            -
+                title: Adelaide - 19th July
+                link: "http://www.meetup.com/adelaidejs/events/232382983/"
+            -
+                title: Silicon Valley - 20th July
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/231966692/"
+            -
+                title: Cincinnati - 20th July
+                link: "http://www.meetup.com/embernati/events/231435320/"
+            -
+                title: London - 21st July
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614846/"
+            -
+                title: Boston - 21st July
+                link: "http://www.meetup.com/Boston-Ember-js/events/231688652/"
+            -
+                title: San Francisco - 26th July
+                link: "http://www.meetup.com/Ember-SF/events/231368426/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

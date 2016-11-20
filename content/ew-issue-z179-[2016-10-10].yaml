@@ -1,0 +1,197 @@
+issue: 179
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.8.2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.8.2
+            -
+                title: "Ember v2.9.0 Beta 5 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.9.0-beta.5
+            -
+                title: "Ember v2.10.0 Alpha 1 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.10.0-alpha.1
+            -
+                title: "Ember Data v2.9.0 Beta 4 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.9.0-beta.4
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "​​Let top tech companies apply to you on Indeed Prime​"
+                description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+                advert: true
+                link: http://synd.co/2c1Ji0u
+                domain: indeed.com
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Ember Monitoring"
+    #             description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+    #             advert: true
+    #             link: http://www.launchbit.com/taz/11357-6547-111
+    #             domain: newrelic.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Refactoring Promise Patterns"
+                description: ""
+                link: http://balinterdi.com/2016/10/05/refactoring-promise-patterns.html
+            -
+                title: "Retiring Ember Suave"
+                description: ""
+                link: https://dockyard.com/blog/2016/09/30/retiring-ember-suave
+            -
+                title: "How to Contribute to Ember"
+                description: ""
+                link: https://dockyard.com/blog/2016/09/30/how-to-contribute-to-ember
+            -
+                title: "Building a Save as You Type Editor with Ember Concurrency"
+                description: ""
+                link: https://medium.com/@LinehanConor/building-a-save-as-you-type-editor-with-ember-concurrency-3709c56bc266#.xp102bwbf
+            -
+                title: "A Belated Post-Mortem of an Ember Rewrite and Other Thoughts on Ember"
+                description: ""
+                link: https://www.bidvine.com/blog/belated-post-mortem-ember-rewrite/
+            -
+                title: "EmberConf 2017: Call for Papers Open!"
+                description: ""
+                link: http://emberconf.com/become-a-speaker.html
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-09-22"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-09/september-22.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-09-29"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-09/september-29.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-improved-cp: ReadOnly by Default Computed Properties"
+                description: ""
+                link: https://github.com/stefanpenner/ember-improved-cp
+            -
+                title: "ember-changeset-cp-validations: Ember CP Validations Support for Ember Changeset"
+                description: ""
+                link: https://github.com/offirgolan/ember-changeset-cp-validations
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember Screencasts #184: Github OAuth2 Authentication with Torii"
+                description: "Plus a [new Pro video covering formatting dates with ember-moment](https://www.emberscreencasts.com/posts/185-formatting-dates-with-ember-moment) ($) ."
+                link: https://www.emberscreencasts.com/posts/184-github-oauth2-authentication-with-torii
+            -
+                title: "Ember Weekend Podcast #76: Ember.Weekend.readOnly"
+                description: ""
+                link: https://emberweekend.com/episodes/ember-weekend-readonly
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 11th October
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/234319724/"
+            -
+                title: Philadelphia - 11th October
+                link: "http://www.meetup.com/EmberJS-Philly/events/234458499/"
+            -
+                title: Silicon Valley - 12th October
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/234109488/"
+            -
+                title: Chicago - 12th October
+                link: "http://www.meetup.com/Chicago-Ember-js/events/234136497/"
+            -
+                title: San Diego - 12th October
+                link: "http://www.meetup.com/sandiego-ember/events/233662520/"
+            -
+                title: Seattle - 12th October
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/234289509/"
+            -
+                title: Boston - 13th October
+                link: "http://www.meetup.com/Boston-Ember-js/events/233909468/"
+            -
+                title: Montevideo - 13th October
+                link: "http://www.meetup.com/ember-montevideo/events/234151564/"
+            -
+                title: Raleigh - 17th October
+                link: "http://www.meetup.com/Triangle-Ember/events/234589007/"
+            -
+                title: New York - 18th October
+                link: "http://www.meetup.com/EmberJS-NYC/events/234672187/"
+            -
+                title: Ember ATX - 18th October
+                link: "http://www.meetup.com/Ember-ATX/events/234624158/"
+            -
+                title: Cincinnati - 19th October
+                link: "http://www.meetup.com/embernati/events/bdwqllyvnbzb/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

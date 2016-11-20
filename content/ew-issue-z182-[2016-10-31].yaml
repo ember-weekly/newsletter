@@ -1,0 +1,191 @@
+issue: 182
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.10.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.10.0-beta.2
+            -
+                title: "Ember-CLI-FastBoot v1.0.0 Beta 12 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.12
+            -
+                title: "Ember Inspector v2.0.4 Released"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/releases/tag/v2.0.4
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "http://mightydeals.s3.amazonaws.com/alt-teaser-images/2392/flowerpower.jpg"
+        advert: true
+        imageLg: true
+        headlines:
+            -
+                title: "MightyDeals: Gorgeous Flower Graphics Bundle - only $25!"
+                description: ""
+                advert: true
+                link: http://www.mightydeals.com/deal/flower-power-graphics-mega-bundle.html?ref=emberflowerbundle
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Updating Relationships Independently in JSON:API with Ember Data"
+                description: ""
+                link: http://thejsguy.com/2016/10/28/updating-relationships-independently-in-json-api-with-ember-data.html
+            -
+                title: "The Ember Guide For Complete Beginners"
+                description: ""
+                link: https://martndemus.github.io/ember-guides-for-complete-beginners/
+            -
+                title: "Ember Service Worker - EmberFest Edition"
+                description: ""
+                link: https://speakerdeck.com/martndemus/ember-service-worker-emberfest-edition
+            -
+                title: "Build Pacman: Learn Modern Javascript, HTML5 Canvas, and a bit of EmberJS (Free eBook)"
+                description: ""
+                link: http://www.jeffreybiles.com/build-pacman
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2016-10-27"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-10/october-27.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-data-fastboot: Serializes and Restores the Ember-Data Store for Fastboot"
+                description: ""
+                link: https://github.com/cardstack/ember-data-fastboot
+            -
+                title: "ember-awesome-macros: A Collection of Ember Computed Macros"
+                description: ""
+                link: https://github.com/kellyselden/ember-awesome-macros
+            -
+                title: "ember-tabs: Makes Atom Work Better with Ember Pods"
+                description: ""
+                link: https://atom.io/packages/ember-tabs
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember Weekend Podcast #79: Boots and Shoeboxes"
+                description: ""
+                link: https://emberweekend.com/episodes/boots-and-shoeboxes
+            -
+                title: "Ember Screencasts #190: Testing Part 3 - Test Runners"
+                description: "Plus a [new Pro video covering Acceptance Tests](https://www.emberscreencasts.com/posts/191-testing-part-4-our-first-acceptance-test) ($) ."
+                link: https://www.emberscreencasts.com/posts/190-testing-part-3-test-runners
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madison - 1st November
+                link: "https://www.meetup.com/mad-ember/events/230860469/"
+            -
+                title: Chicago - 2nd November
+                link: "https://www.meetup.com/Chicago-Ember-js/events/234702561/"
+            -
+                title: Munich - 2nd November
+                link: "https://www.meetup.com/Ember-js-Munich/events/234522844/"
+            -
+                title: Saint Louis - 3rd November
+                link: "https://www.meetup.com/STLEmber/events/234943799/"
+            -
+                title: Toronto - 3rd November
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/234991398/"
+            -
+                title: Columbus - 7th November
+                link: "https://www.meetup.com/ember-columbus/events/234755392/"
+            -
+                title: Atlanta - 8th November
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/235003747/"
+            -
+                title: San Diego - 9th November
+                link: "https://www.meetup.com/sandiego-ember/events/234323846/"
+            -
+                title: Arlington - 9th November
+                link: "https://www.meetup.com/Ember-JS-DC/events/235131919/"
+            -
+                title: Web Summit Ember.js Meetup, Lisbon - 9th November
+                link: https://www.facebook.com/events/1709769769341427/
+            -
+                title: London - 10th November
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/231614832/"
+            -
+                title: Boston - 10th November
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998608/"
+            -
+                title: Montevideo - 10th November
+                link: "https://www.meetup.com/ember-montevideo/events/234883588/"
+            -
+                title: Melbourne - 10th November
+                link: "https://www.meetup.com/EmberJS-Melbourne/events/235142080/"
+            -
+                title: "So Ember Conference, San Diego, CA - 27th January 2017"
+                link: http://soember.com/?tickets=onsale
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

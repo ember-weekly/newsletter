@@ -1,0 +1,206 @@
+issue: 180
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/NewRelic-logo-square.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Ember Monitoring"
+    #             description: "Running Ember? No matter what JS framework, monitor your Single Page App with New Relic."
+    #             advert: true
+    #             link: http://www.launchbit.com/taz/11357-6547-111
+    #             domain: newrelic.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js Components with DOM Dependencies"
+                description: ""
+                link: https://spin.atomicobject.com/2016/10/14/ember-js-dom-dependencies/?
+            -
+                title: "Why I'm Working on Yarn - Yehuda Katz"
+                description: ""
+                link: http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/
+            -
+                title: "Ember and Rails 5 with JSON API - Updated for Ember v2.8.0"
+                description: "[Part 2 - Building an Ember Bookstore App](https://emberigniter.com/building-user-interface-around-ember-data-app/) also updated."
+                link: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Let top tech companies apply to you on Indeed Prime​"
+                description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+                advert: true
+                link: http://synd.co/2c1Ji0u
+                domain: indeed.com
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-data-fetch-support: Replaces $.ajax with Fetch in Ember-Data"
+                description: ""
+                link: https://github.com/kellyselden/ember-data-fetch-support
+            -
+                title: "input-with-floating-label: Simple Input with Accessible Floating Labels"
+                description: ""
+                link: https://github.com/ryanlabouve/input-with-floating-label
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #77: Unravelling a Package Manager"
+                description: ""
+                link: https://emberweekend.com/episodes/unravelling-a-package-manager
+            -
+                title: "Ember Concurrency Past, Present, Future - Alex Matchneer"
+                description: ""
+                link: https://www.youtube.com/watch?v=0kpEnxjNF-I
+            -
+                title: "What About Mobile? (ember-cordova) - JD Fiscus"
+                description: ""
+                link: https://www.youtube.com/watch?v=m_lASywwK6w
+            -
+                title: "Reactive Programming in Ember.js - EmberSherpa/Taras Mankovski"
+                description: "Also checkout a version of [Reactive Programming in Ember.js](https://vimeo.com/183067079) from the Global Ember Meetup"
+                link: https://youtu.be/7u5fufUaU4Q?t=330
+            -
+                title: "A Customer Support Chrome Extension with Ember CLI - Luke Melia"
+                description: ""
+                link: https://youtu.be/7u5fufUaU4Q?t=3220
+            -
+                title: "Visualizing New York's Jazz Scene with Ember, D3, and Phoenix Isaac Ezer"
+                description: ""
+                link: https://youtu.be/7u5fufUaU4Q?t=5051
+            -
+                title: "Frontend Strategy for Start-Ups with Ember.js - Brendan OHara"
+                description: ""
+                link: https://vimeo.com/182941462
+            -
+                title: "Ember Blueprints for Fun and Profit - Chris McCuller"
+                description: ""
+                link: https://vimeo.com/181582060
+            -
+                title: "Turning Learning Into Teaching - Todd Jordan"
+                description: "Experiences from the Ember Learning Team"
+                link: https://vimeo.com/182941645
+            -
+                title: "Ember Blueprints"
+                description: ""
+                link: https://www.youtube.com/watch?v=Jh5zbOXYAHA&feature=youtu.be&t=660
+            -
+                title: "Designing with Ember"
+                description: ""
+                link: https://youtu.be/Jh5zbOXYAHA?t=4075
+            -
+                title: "Handlebars {{trick}} or {{treat}}"
+                description: ""
+                link: https://youtu.be/Jh5zbOXYAHA?t=1650
+            -
+                title: "Nest v Flat with Ember Data"
+                description: "Find slides in [BioBright's blog post](https://blog.biobright.org/nest-v-flat-with-ember-data-b07449b685bd#.c6793i7fq)"
+                link: https://www.youtube.com/watch?v=Jh5zbOXYAHA&feature=youtu.be&t=4075
+            -
+                title: "Ember Denver August 2016"
+                description: ""
+                link: https://youtu.be/MrILOIxEe4I?t=60
+            -
+                title: "Ember Screencasts #186: Editing Individual Fields - with Cancel Option"
+                description: "Plus a [new Pro video covering User-proofing critical data](https://www.emberscreencasts.com/posts/187-user-proofing-critical-data-while-maintaining-privacy-and-performance) ($) ."
+                link: https://www.emberscreencasts.com/posts/186-editing-individual-fields-with-cancel-option
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: New York - 18th October
+                link: "http://www.meetup.com/EmberJS-NYC/events/234672187/"
+            -
+                title: Ember ATX - 18th October
+                link: "http://www.meetup.com/Ember-ATX/events/234624158/"
+            -
+                title: Cincinnati - 19th October
+                link: "http://www.meetup.com/embernati/events/234841717/"
+            -
+                title: London - 20th October
+                link: "http://www.meetup.com/London-Emberjs-User-Group/events/231614819/"
+            -
+                title: Cape Town - 20th October
+                link: "http://www.meetup.com/EmberJS-Cape-Town/events/234638204/"
+            -
+                title: Madison - 22nd October
+                link: "http://www.meetup.com/mad-ember/events/234675058/"
+            -
+                title: Cary - 24th October
+                link: "http://www.meetup.com/Triangle-Ember/events/233996473/"
+            -
+                title: Philadelphia - 24th October
+                link: "http://www.meetup.com/EmberJS-Philly/events/234458499/"
+            -
+                title: San Diego - 25th October
+                link: "http://www.meetup.com/sandiego-ember/events/234787957/"
+            -
+                title: Atlanta - 26th October
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/rkflwlyvnbjc/"
+            -
+                title: New York - 27th October
+                link: "http://www.meetup.com/EmberJS-NYC/events/234303310/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

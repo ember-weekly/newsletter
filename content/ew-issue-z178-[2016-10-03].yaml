@@ -1,0 +1,213 @@
+issue: 178
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.9.0 Beta 4"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.9.0-beta.4
+            -
+                title: "Ember Data v2.9.0 Beta 3"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.9.0-beta.3
+            -
+                title: "Ember Inspector v2.0.3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/releases/tag/v2.0.3
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/2fd09aa6bd6864353c32c86e6aec7242773649c4/assets/sponsors/simplabs-ember-workshop.gif"
+        imageLg: true
+        advert: true
+        headlines:
+            -
+                title: "Level up your Ember Skills with simplabs' workshops!"
+                description: "simplabs offers Ember.js workshops ranging from a 3 day Ember.js Jumpstart (next one in Cologne, Germany in late November) to advanced workshops on techniques like complex component architectures, FastBoot, Testing as well as Authentication and Authorization."
+                advert: true
+                link: https://ember-workshops.simplabs.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The Guide to Promises in Computed Properties"
+                description: ""
+                link: https://emberigniter.com/guide-promises-computed-properties/
+            -
+                title: "Customize Ember Blueprints"
+                description: ""
+                link: https://echobind.com/blog/customize-ember-blueprints/
+            -
+                title: "Ember-CLI Fingerprinting and Dynamic Assets"
+                description: ""
+                link: https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6#.9tcwnuruj
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-09-08"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-09/september-08.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2016-09-22"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2016-09/september-22.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                # title: "Front End Happy Hour Podcast: A Flight of JavaScript Frameworks"
+                # description: ""
+                # link: http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-airtable: Ember Addon for Airtable APIs"
+                description: ""
+                link: https://github.com/benoror/ember-airtable
+            -
+                title: "ember-metrics: Integrate Multiple Analytics Providers Through One API"
+                description: ""
+                link: https://emberobserver.com/addons/ember-metrics
+            -
+                title: "ember-highcharts: Highcharts, HighStock and HighMaps Components"
+                description: ""
+                link: https://emberobserver.com/addons/ember-highcharts
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "New: EmberSchool.com - A Comprehensive Online Ember Training Program ($)"
+                description: ""
+                link: https://www.emberschool.com/
+            -
+                title: "Future State of Ember - Yehuda Katz"
+                description: ""
+                link: https://www.youtube.com/watch?v=Pd0gilezBDw
+            -
+                title: "Glimmer Compiler - Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=JlUZPV2ubSY
+            -
+                title: "Continuous Visual Integration for Ember - Mike Fotinakis"
+                description: ""
+                link: https://www.youtube.com/watch?v=iECnXK9EqA4
+            -
+                title: "Building Node Libraries for Ember - Dean Sofer"
+                description: ""
+                link: https://www.youtube.com/watch?v=kmRsjnTZXpE
+            -
+                title: "Liquid Tether V2 - Chris Garrett"
+                description: ""
+                link: https://www.youtube.com/watch?v=Wx6FUJ8GYyk
+            -
+                title: "Decoupled Drupal and Ember - DrupalCon Dublin 2016"
+                description: ""
+                link: https://www.youtube.com/watch?v=qiY8H6UWDm0
+            -
+                title: "Ember.js Token Based Authentication Without a Library - Izel Nakri"
+                description: ""
+                link: https://www.youtube.com/watch?v=ltQUVGBx0tA
+            -
+                title: "Ember Fundamentals: Ember's Object Model - Marten Schilstra"
+                description: ""
+                link: https://www.youtube.com/watch?v=wS_hF_zVZqI
+            -
+                title: "Ember Tutorial - Working with Services (Part 1)"
+                description: "And check out [Part 2](https://www.youtube.com/watch?v=2x59kcI6lGY)."
+                link: https://www.youtube.com/watch?v=LtOAbva-S7Q
+            -
+                title: "Build a Drum Machine #4: Test Driving the Heartbeat"
+                description: ""
+                link: https://www.youtube.com/watch?v=NG4yUhe-7cU
+            -
+                title: "Ember Guides: The Ember Inspector"
+                description: ""
+                link: https://www.youtube.com/watch?v=9TMaFhYwC6g
+            -
+                title: "Ember Screencasts #182: ember-math-helpers"
+                description: "Plus a [new Pro video covering ember-pikaday](https://www.emberscreencasts.com/posts/183-ember-pikaday-2x) ($) ."
+                link: https://www.emberscreencasts.com/posts/182-ember-math-helpers
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madison - 4th October
+                link: "http://www.meetup.com/mad-ember/events/230860461/"
+            -
+                title: Toronto - 6th October
+                link: "http://www.meetup.com/Toronto-Ember-JS-Meetup/events/234290448/"
+            -
+                title: Paris - 6th October
+                link: "http://www.meetup.com/EmberJS-Paris/events/233842729/"
+            -
+                title: Southern California - 8th October
+                link: "http://www.meetup.com/Ember-SC/events/230950848/"
+            -
+                title: Los Angeles - 8th October
+                link: "http://www.meetup.com/sandiego-ember/events/233063920/"
+            -
+                title: Atlanta - 11th October
+                link: "http://www.meetup.com/Ember-Atlanta-Meetup/events/234319724/"
+            -
+                title: Philadelphia - 11th October
+                link: "http://www.meetup.com/EmberJS-Philly/events/234458499/"
+            -
+                title: Silicon Valley - 12th October
+                link: "http://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/234109488/"
+            -
+                title: Chicago - 12th October
+                link: "http://www.meetup.com/Chicago-Ember-js/events/234136497/"
+            -
+                title: San Diego - 12th October
+                link: "http://www.meetup.com/sandiego-ember/events/233662520/"
+            -
+                title: Seattle - 12th October
+                link: "http://www.meetup.com/Ember-js-Seattle-Meetup/events/234289509/"
+            -
+                title: Boston - 13th October
+                link: "http://www.meetup.com/Boston-Ember-js/events/233909468/"
+            -
+                title: Montevideo - 13th October
+                link: "http://www.meetup.com/ember-montevideo/events/234151564/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
