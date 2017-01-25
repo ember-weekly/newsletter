@@ -1,0 +1,197 @@
+issue: 191
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember 2.11 and 2.12 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2017/01/23/ember-2-11-released.html
+            -
+                title: "Ember-CLI v2.11 Released"
+                description: "Also [v2.12.0 Beta 1 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.12.0-beta.1)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.11.0
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        advert: true
+        headlines:
+            -
+                title: "Create beautiful websites faster with Webydo, an all-in-one web design platform"
+                description: "Design, launch and manage beautiful, pixel-perfect websites in no time. Like Photoshop, for the web."
+                advert: true
+                link: http://go.hackingui.com/emberweby24012017
+                domain: webydo.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Safety of the Herd"
+                description: ""
+                link: https://blog.embermap.com/safety-of-the-herd-8d64f9170299#.iq5bm5vyf
+            -
+                title: "App-like Scrolling and Transitions with Ember.js and Liquid Fire"
+                description: ""
+                link: https://medium.com/@isaacezer/app-like-scrolling-and-transitions-with-ember-js-and-liquid-fire-bce2ad9a13ac#.fyo5hfrgr
+            -
+                title: "Thoughtworks Technology Radar: Ember.js = Adopt"
+                description: ""
+                link: https://www.thoughtworks.com/radar/languages-and-frameworks
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-01-13"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-01/january-13.md
+            -
+                title: "RFC: JavaScript Modules API [Merged]"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/master/text/0176-javascript-module-api.md
+            -
+                title: "RFC: Allow the `with` helper accept named arguments"
+                description: ""
+                link: https://github.com/lolmaus/rfcs/blob/with-helper-named-arguments/text/0000-with-helper-named-arguments.md
+            -
+                title: "RFC: Nested Glimmer Syntax + attr/component-centric slots"
+                description: ""
+                link: https://github.com/machty/rfcs/blob/nested-handlebars/text/0000-nested-handlebars-syntax.md
+            -
+                title: "RFC: Template import directives"
+                description: ""
+                link: https://github.com/martndemus/rfcs/blob/102edbec6d67be8479375a8682c3c258f034df61/text/0000-template-import-directives.md
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "[Glimmer #392] Represent Opcodes as Integers in Wire-Format"
+                description: ""
+                link: https://github.com/tildeio/glimmer/pull/392
+            -
+                title: "Diagonal Routes: Route explorer for Ember Apps"
+                description: ""
+                link: http://alexspeller.com/ember-diagonal/route/post.new
+            -
+                title: "ember-phoenix-shim: Use phoenix.js in Your Ember Project"
+                description: ""
+                link: https://github.com/dustinfarris/ember-phoenix-shim
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Why is CI Broken? - Kelly Selden"
+                description: ""
+                link: https://www.youtube.com/watch?v=0kDQLcOfLVg
+            -
+                title: "Learn Ember CSS Transitions Addon - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=doQ9XnOWMMo
+            -
+                title: "Ember Weekend Podcast #87: Ember Diagon Alley"
+                description: ""
+                link: https://emberweekend.com/episodes/ember-diagon-alley
+            -
+                title: "Ember Weekend Podcast #88: Code Searching and Herd Safety"
+                description: ""
+                link: https://emberweekend.com/episodes/code-searching-and-herd-safety
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco - 24th January
+                link: "https://www.meetup.com/Ember-SF/events/235084588/"
+            -
+                title: Portland - 24th January
+                link: "https://www.meetup.com/Ember-PDX/events/236506211/"
+            -
+                title: Atlanta - 25th January
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/236712328/"
+            -
+                title: Denver - 25th January
+                link: "https://www.meetup.com/Ember-js-Denver/events/236198165/"
+            -
+                title: New York - 26th January
+                link: "https://www.meetup.com/EmberJS-NYC/events/236236763/"
+            -
+                title: San Diego - 26th January
+                link: "https://www.meetup.com/sandiego-ember/events/235018949/"
+            -
+                title: Austin - 26th January
+                link: "https://www.meetup.com/Ember-ATX/events/231396145/"
+            -
+                title: Paris - 26th January
+                link: "https://www.meetup.com/EmberJS-Paris/events/235691588/"
+            -
+                title: So Ember Conference - San Diego - 27th January
+                link: "http://soember.com/"
+            -
+                title: Tokyo - 2nd February
+                link: "https://emberjs.doorkeeper.jp/events/56135"
+            -
+                title: Toronto - 2nd February
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/236965721/"
+            -
+                title: Columbus - 6th February
+                link: "https://www.meetup.com/ember-columbus/events/dvlzzlywdbjb/"
+            -
+                title: Madison - 7th February
+                link: "https://www.meetup.com/mad-ember/events/wbqmslywdbkb/"
+            -
+                title: Munich - 7th February
+                link: "https://www.meetup.com/Ember-js-Munich/events/236787811/"
+            -
+                title: Chicago - 8th February
+                link: "https://www.meetup.com/Chicago-Ember-js/events/236257269/"
+            -
+                title: San Diego - 8th February
+                link: "https://www.meetup.com/sandiego-ember/events/wkkswlywdblb/"
+            -
+                title: Seattle - 8th February
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/236737591/"
+            -
+                title: London - 9th February
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237130214/"
+            -
+                title: Boston - 9th February
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998625/"
+            -
+                title: Montevideo - 9th February
+                link: "https://www.meetup.com/ember-montevideo/events/235609511/"
+
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

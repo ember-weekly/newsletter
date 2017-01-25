@@ -1,0 +1,296 @@
+issue: 189
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Security Incident - AWS S3 Access Key Exposure"
+                description: ""
+                link: http://emberjs.com/blog/2016/12/14/security-incident-aws-s3-key-exposure.html
+            -
+                title: "Ember v2.10.2 Released"
+                description: "Also [Ember v2.11.0 Beta 4](https://github.com/emberjs/ember.js/releases/tag/v2.11.0-beta.4)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.10.2
+            -
+                title: "Ember Data v2.11.0 Released"
+                description: "Also [Ember Data v2.12.0 Beta 1 Released](https://github.com/emberjs/data/releases/tag/v2.12.0-beta.1)"
+                link: https://github.com/emberjs/data/releases/tag/v2.11.0
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/segment-logo-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Analytics for lazy developers. Sign up today for free."
+                description: "Meet Segment, the last integration you’ll ever use. Collect data with a single API, then send it to hundreds of different tools for analytics, marketing, and data warehousing."
+                advert: true
+                link: http://synd.co/2iKRtlu
+                domain: segment.com
+
+    -
+        heading: "Wicked Good Ember 2016 Videos"
+        headlines:
+            -
+                title: "Day 1 Keynote - Chris McCord & Dan McClain"
+                description: ""
+                link: https://www.youtube.com/watch?v=R_qnlXYm0J8&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=7
+            -
+                title: "Maintaining Your Tests at Scale - Trent Willis"
+                description: ""
+                link: https://www.youtube.com/watch?v=GIa1ICukuMI&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=1
+            -
+                title: "Test Driven Development in Ember Twiddle - Gaurav Munjal"
+                description: ""
+                link: https://www.youtube.com/watch?v=95JD7zNKvfI&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=2
+            -
+                title: "Journey to the Center of Ember Test Helpers - Liz Baillie"
+                description: ""
+                link: https://www.youtube.com/watch?v=fnRLCeEBObw&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=3
+            -
+                title: "Beyond 60FPS - Chris Thoburn"
+                description: ""
+                link: https://www.youtube.com/watch?v=ZJYYgKRVHCU&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=4
+            -
+                title: "Building an Ember Addon - Katie Gengler"
+                description: ""
+                link: https://www.youtube.com/watch?v=ex5aYMezm3E&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=5
+            -
+                title: "Memory Management & the Search for Performance - Kelly Senna "
+                description: ""
+                link: https://www.youtube.com/watch?v=wWMNRxIG-DM&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=6
+            -
+                title: "Wicked Good Ember 2016 - Promo Video"
+                description: ""
+                link: https://www.youtube.com/watch?v=1KBr0pBIwwc&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=8
+            -
+                title: "Delightful UX for Distributed Systems - Mike North "
+                description: ""
+                link: https://www.youtube.com/watch?v=ujgwRPxivoc&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=9
+            -
+                title: "Ember.js and DevOps: Lessons Learned About Deployment - Iheanyi Ekechukwu "
+                description: ""
+                link: https://www.youtube.com/watch?v=Y3Ta1cshtEY&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=10
+            -
+                title: "Elmber - Philip Poots"
+                description: ""
+                link: https://www.youtube.com/watch?v=uMtjuEyNhOY&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=11
+            -
+                title: "Taming CSS in Ember.js Apps - Erik Bryn"
+                description: ""
+                link: https://www.youtube.com/watch?v=rRZuoxoN9zU&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=12
+            -
+                title: "Wicked Good Ember 2016 - Lightning Talks"
+                description: ""
+                link: https://www.youtube.com/watch?v=rkdLYdpg9dk&list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G&index=13
+            -
+                title: "Closing Keynote Day 2 - Tom Dale"
+                description: ""
+                link: https://www.youtube.com/watch?v=katGgAORrBw&t=10s
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "I’m Joining LinkedIn - Tom Dale"
+                description: ""
+                link: https://medium.com/@tomdale/im-joining-linkedin-3dca5d75495f#.b0qr04hpb
+            -
+                title: "ember-concurrency (or: How I Learned to Stop Worrying and Love the Task)"
+                description: ""
+                link: https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t
+            -
+                title: "Ember Engines at Scale - Paul Abraham"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale
+            -
+                title: "How Ember.js made me a better developer in 2016"
+                description: ""
+                link: https://medium.com/@martinmalinda/how-ember-js-made-me-a-better-developer-in-2016-7c6543f7fa03#.nbippx9sy
+            -
+                title: "Ember CLI Mirage Logo Indiegogo Campaign"
+                description: ""
+                link: https://www.indiegogo.com/projects/ember-cli-mirage-logo-design#/
+            -
+                title: "Introducing ember-elm - Write Elm in Your Ember.js App"
+                description: ""
+                link: https://medium.com/@nucleartide/introducing-ember-elm-d47f2af73aff#.pi2mq8jls
+            -
+                title: "Use ES2017’s async/await in your Ember Project Today!"
+                description: ""
+                link: https://spin.atomicobject.com/2016/12/29/async-await-ember-project/
+            -
+                title: "Exploring Ember Closure Actions Part 2: New Patterns"
+                description: ""
+                link: http://ryanlabouve.com/ember-closure-action-explorations-pt-2
+            -
+                title: "Ember Addons I Use Every Time"
+                description: ""
+                link: http://ryanlabouve.com/embers-addons-i-use-every-time
+            -
+                title: "Ember Building Blocks - Balint Erdi"
+                description: ""
+                link: https://s3-eu-west-1.amazonaws.com/rarwe-book/ember-building-blocks.pdf
+            -
+                title: "Do return an RSVP.hash() from your routes' model hooks!"
+                description: ""
+                link: http://lolma.us/en/blog/route-model-hook-rsvp-hash/
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-12-15"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-12/december-15.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-21-{1,15,22}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/docs-team/2016-12
+
+
+
+    # -
+    #     heading: "Code"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: https://s3-eu-west-1.amazonaws.com/rarwe-book/ember-building-blocks.pdf
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: https://www.youtube.com/watch?v=p9-nfFIg8vk
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link: https://www.youtube.com/watch?v=P9MYRNkqECQ
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #86: Node Years Eve"
+                description: ""
+                link: https://emberweekend.com/episodes/node-years-eve
+            -
+                title: "Ember Weekend Podcast #85: Open Issues For Private API Usage"
+                description: ""
+                link: https://emberweekend.com/episodes/open-issues-for-private-api-usage
+            -
+                title: "Frontend Happy Hour: Ember - Gin & Tomster"
+                description: ""
+                link: http://frontendhappyhour.com/episodes/ember-gin-&-tomster/
+            -
+                title: "Ember Screencasts Videos Now All Free!"
+                description: ""
+                link: https://www.emberscreencasts.com
+            -
+                title: "Generators in JavaScript - Balint Erdi"
+                description: ""
+                link: https://www.youtube.com/watch?v=kG3dnaKgs28
+            -
+                title: "Hacking the Ember Router - Richard Machielse"
+                description: ""
+                link: https://www.youtube.com/watch?v=X6dJE_LdC9k
+            -
+                title: "RFCs for changes to Ember - Marten Schilstra"
+                description: ""
+                link: https://www.youtube.com/watch?v=Z2Pu1wOADNE
+            -
+                title: "Ember CLI Bloggr Example with Ember Pouch and Offline-First - Martin Broerse"
+                description: ""
+                link: https://www.youtube.com/watch?v=IG06pa0S3NU
+            -
+                title: "Forms in Ember - Ben Holmes"
+                description: ""
+                link: https://www.youtube.com/watch?v=bSI2tAnuWoo
+            -
+                title: "Lazy Engines - Trent Willis"
+                description: ""
+                link: https://www.youtube.com/watch?v=XkpIvAp0S9w
+            -
+                title: "Ember Business Value Propositions - Nathan Hammond"
+                description: ""
+                link: https://www.youtube.com/watch?v=B9Wnbg3fy3I
+            -
+                title: "Ember Data, Best Practices Now and in the Future - DC Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=u-DX-P5srWs
+            -
+                title: "Ember Route Action Helper Tutorial - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=ZC5UdCCfG3Y
+            -
+                title: "Using Asynchronous Tasks in Ember.js With Ember Concurrency - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=eBght_3Hzxo
+            -
+                title: "Working With Ember Addons Ember Wormhole - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=P9MYRNkqECQ
+            -
+                title: "Javascript Framework Debate - React vs. Ember vs. Angular 2 (+ Meteor)"
+                description: ""
+                link: https://www.youtube.com/watch?v=p9-nfFIg8vk
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 10th January
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/236365858/"
+            -
+                title: Chicago - 11th January
+                link: "https://www.meetup.com/Chicago-Ember-js/events/235432659/"
+            -
+                title: London - 12th January
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/231614839/"
+            -
+                title: Boston - 12th January
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998623/"
+            -
+                title: Saint Louis - 12th January
+                link: "https://www.meetup.com/STLEmber/events/235449761/"
+            -
+                title: Montevideo - 12th January
+                link: "https://www.meetup.com/ember-montevideo/events/236668213/"
+            -
+                title: Durham - 18th January
+                link: "https://www.meetup.com/Triangle-Ember/events/236204829/"
+            -
+                title: Los Angeles - 18th January
+                link: "https://www.meetup.com/Ember-LA/events/236710700/"
+            -
+                title: Salt Lake City - 19th January
+                link: "https://www.meetup.com/EmberJS-SLC/events/236129346/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

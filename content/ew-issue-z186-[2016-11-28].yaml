@@ -1,0 +1,167 @@
+issue: 186
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember.js v2.10.0 Released"
+                description: "Also [Ember.js v2.11.0 Beta 1 Released](https://github.com/emberjs/ember.js/releases/tag/v2.11.0-beta.1)."
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.10.0
+            -
+                title: "Ember Data v2.10.0 Released"
+                description: "Also [Ember Data v2.11.0 Beta 1 Released](https://github.com/emberjs/data/releases/tag/v2.11.0-beta.1)."
+                link: https://github.com/emberjs/data/releases/tag/v2.10.0
+
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Let top tech companies apply to you on Indeed Prime​"
+    #             description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+    #             advert: true
+    #             link: http://synd.co/2c1Ji0u
+    #             domain: indeed.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember – Conventions over Conventions"
+                description: ""
+                link: http://www.corrspt.com/blog/2016/11/28/ember-conventions-over-conventions/
+            -
+                title: "Go Offline with Ember"
+                description: ""
+                link: http://blog.planetargon.com/entries/go-offline-with-ember
+            -
+                title: "RFC: Deprecate Ember Data Initializers"
+                description: ""
+                link: https://github.com/bmac/rfcs/blob/919279f4d488c44622a88f2eb8a5996185383aa7/text/0181-deprecate-ember-data-initializers.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-formly:  JavaScript Powered Forms for Ember"
+                description: ""
+                link: https://emberobserver.com/addons/ember-formly
+            -
+                title: "ember-shell: Customizable OS-like Shell, to Run Ember Apps Powered by ember-engines"
+                description: ""
+                link: https://emberobserver.com/addons/ember-shell
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Experienced Ember Developer"
+               description: "Fitzdares is looking for an experienced Ember developer to join a small team to dream up and deliver a best of breed gaming app that will set the tone across the bookmaking industry. London based with 80% remote."
+               link: https://fitzdares.com/careers/ember
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #82: Ember I Choose You!"
+                description: ""
+                link: https://emberweekend.com/episodes/ember-i-choose-you
+            -
+                title: "Boston Ember: Core Team Panel - Part 2 (November 2016)"
+                description: ""
+                link: https://www.youtube.com/watch?v=y7aHMj6VVJY
+            -
+                title: "12 Reasons I Still Choose Ember.js - Ryan Tablada"
+                description: ""
+                link: https://www.youtube.com/watch?v=nOCMppWZ0Qs
+            -
+                title: "How To Override Ember.js Addons - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=LIsA0LRMFag
+            -
+                title: "Ember-Concurrency + Electron + Midi + Ableton - Alex Matchneer"
+                description: ""
+                link: https://www.youtube.com/watch?v=oiRkPPrh_m4
+            -
+                title: "How Hybrid Works (and How to Build it with Ember-Cordova) - Alex Blom"
+                description: ""
+                link: https://www.youtube.com/watch?v=OJ0Cq0EqpsA
+            # -
+            #     title: "Ember Screencasts #19X: XXX"
+            #     description: "Plus a [new Pro video covering XXX](  ) ($) ."
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: San Francisco - 29th November
+                link: "https://www.meetup.com/Ember-SF/events/234482394/"
+            -
+                title: Atlanta - 30th November
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/235660574/"
+            -
+                title: Denver - 30th November
+                link: "https://www.meetup.com/Ember-js-Denver/events/235676711/"
+            -
+                title: Toronto - 1st December
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/235735042/"
+            -
+                title: Hamburg - 1st December
+                link: "https://www.meetup.com/emberHH/events/235462324/"
+            -
+                title: Columbus - 5th December
+                link: "https://www.meetup.com/ember-columbus/events/235616646/"
+            -
+                title: Madison - 6th December
+                link: "https://www.meetup.com/mad-ember/events/230860453/"
+            -
+                title: Boston - 8th December
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998614/"
+            -
+                title: Salt Lake City - 8th December
+                link: "https://www.meetup.com/EmberJS-SLC/events/235167334/"
+            -
+                title: Montevideo - 8th December
+                link: "https://www.meetup.com/ember-montevideo/events/235541895/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

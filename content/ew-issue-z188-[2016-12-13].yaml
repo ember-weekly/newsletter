@@ -1,0 +1,181 @@
+issue: 188
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.11.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.11.0-beta.3
+            -
+                title: "EmberConf 2017 Speakers Announced"
+                description: ""
+                link: http://emberconf.com/speakers.html
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/compose.png"
+        advert: true
+        headlines:
+            -
+                title: "Cloud Hosted Databases: 9 DBs to choose from, 5 min setup, auto-scaling, Cloud hosted. FREE for 30 Days."
+                description: ""
+                advert: true
+                link: http://www.launchbit.com/taz/11357-6687-111
+                domain: compose.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember 2.10 and Glimmer 2 Performance Improvements"
+                description: ""
+                link: http://blog.deveo.com/ember-2-10-and-glimmer-2-performance-improvements-2/
+            -
+                title: "Using ember-changeset with ember-redux"
+                description: ""
+                link: https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a#.87at3he8a
+            -
+                title: "Creating a Multi-Step Form with Ember"
+                description: ""
+                link: http://romulomachado.github.io/2016/12/06/multi-step-form-with-ember.html
+            -
+                title: "Ember Tips: Computed Properties and Arrow Functions? Not a Good Idea"
+                description: ""
+                link: https://karolgalanciak.com/blog/2016/12/11/ember-tips-computed-properties-and-arrow-functions-not-a-good-idea/
+            -
+                title: "Open Sourcing percy-web"
+                description: ""
+                link: https://blog.percy.io/open-sourcing-percy-web-a58411a1a8f6#.xay3cgqcv
+            -
+                title: "Out-of-the-box FastBoot Support in Ember Simple Auth"
+                description: ""
+                link: http://simplabs.com/blog/2016/12/06/out-of-the-box-fastboot-support-in-ember-simple-auth.html
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-11-17"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-11/november-17.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2016-12-01"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2016-12/december-01.md
+            -
+                title: "Ember CLI RFC: Use Globally Installed Package Managers"
+                description: ""
+                link: https://github.com/Turbo87/ember-cli-rfcs/blob/use-global-package-managers/active/0000-use-global-package-managers.md
+            -
+                title: "Ember CLI RFC: Make Addons Honour App's Transpilation by Default"
+                description: ""
+                link: https://github.com/cibernox/rfcs-1/blob/control-transpilation/active/0000-control-transpilation.md
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-power-select: v1.0.0 Released"
+                description: ""
+                link: https://github.com/cibernox/ember-power-select/releases/tag/v1.0.0
+            -
+                title: "Help Needed: Ember Data Deprecation Guide"
+                description: ""
+                link: https://github.com/emberjs/data/issues/4695
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Maintaining Your Tests at Scale - Trent Willis (Wicked Good Ember 2016)"
+                description: ""
+                link: https://www.youtube.com/watch?v=GIa1ICukuMI
+            -
+                title: "Test Driven Development in Ember Twiddle - Gaurav Munjal (Wicked Good Ember 2016)"
+                description: ""
+                link: https://www.youtube.com/watch?v=95JD7zNKvfI
+            -
+                title: "Building Secure Ember.js Applications - Philippe De Ryck"
+                description: ""
+                link: https://vimeo.com/194786486
+            -
+                title: "Ember Weekend Podcast #84: Run Ember Data Canary"
+                description: ""
+                link: https://emberweekend.com/episodes/run-ember-data-canary
+            -
+                title: "Introduction to Ember.js - Ravidu Lashan"
+                description: ""
+                link: https://www.youtube.com/watch?v=8gcMvzjIC4Y
+            -
+                title: "Drupal on Fire: Ember, JSON API, and Decoupled Drupal 8 - Preston So"
+                description: ""
+                link: https://www.youtube.com/watch?v=e0Tmvc298Ks
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 13th December
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/235943884/"
+            -
+                title: Chicago - 14th December
+                link: "https://www.meetup.com/Chicago-Ember-js/events/235432684/"
+            -
+                title: Atlanta - 28th December
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/rkflwlyvqblc/"
+            -
+                title: Columbus - 2nd January
+                link: "https://www.meetup.com/ember-columbus/events/dvlzzlywcbdb/"
+            -
+                title: Madison - 3rd January
+                link: "https://www.meetup.com/mad-ember/events/236028096/"
+            -
+                title: New York - 9th January
+                link: "https://www.meetup.com/EmberJS-NYC/events/236223604/"
+            -
+                title: Atlanta - 10th January
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/lchnflywcbnb/"
+            -
+                title: Chicago - 11th January
+                link: "https://www.meetup.com/Chicago-Ember-js/events/235432659/"
+            -
+                title: Montevideo - 12th January
+                link: "https://www.meetup.com/ember-montevideo/events/dcmxckywcbqb/"
+            -
+                title: Boston - 12th January
+                link: https://www.meetup.com/Boston-Ember-js/events/233998623/
+
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

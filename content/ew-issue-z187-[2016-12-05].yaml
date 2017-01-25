@@ -1,0 +1,161 @@
+issue: 187
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember 2.10 and 2.11 Beta Released"
+                description: "Also [Ember v2.11.0 Beta 2](https://github.com/emberjs/ember.js/releases/tag/v2.11.0-beta.2)."
+                link: http://emberjs.com/blog/2016/11/30/ember-2-10-released.html
+            -
+                title: "Ember-CLI v2.10.0 Released"
+                description: "Also [Ember-CLI v2.11.0 Beta 1 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.11.0-beta.1)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.10.0
+
+    -
+        heading: "From our sponsors"
+        image: "https://raw.githubusercontent.com/ember-weekly/ember-weekly/master/assets/sponsors/underdogio-logomark%403x.png"
+        advert: true
+        headlines:
+            -
+                title: "Access All the Best Tech Jobs With a 60-Second Application"
+                description: " On Underdog.io, the best tech companies in SF, LA, and NYC email you directly with new job opportunities. You're in control. No risk. No commitment. One application and done."
+                advert: true
+                link: https://underdog.io/?utm_medium=advertisement&utm_source=emberweekly&utm_campaign=homepage-2016-nov-17&utm_content=60secondapplication
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "5 Things to Know About Ember 2.10 and Glimmer 2"
+                description: ""
+                link: http://madhatted.com/2016/11/30/5-things-to-know-about-ember-2-10-and-glimmer-2
+            -
+                title: "Two-way Symmetric Relationships in Ember With JSON API - Part 2"
+                description: ""
+                link: http://balinterdi.com/2016/11/29/two-way-symmetric-relationships-in-ember-with-jsonapi-part-2.html
+            -
+                title: "Tomster and Travis, sitting in a tree: Ember at Travis CI"
+                description: ""
+                link: https://blog.travis-ci.com/2016-11-28-ember-at-travis
+            -
+                title: "Sending Actions Up to the Data Owner"
+                description: ""
+                link: https://emberigniter.com/send-closure-actions-up-data-owner/
+            -
+                title: "How To Do an \"if equals\" Conditional Comparison in Handlebars"
+                description: ""
+                link: https://emberigniter.com/how-to-equals-conditional-comparison-handlebars/
+            -
+                title: "Pemberly at LinkedIn"
+                description: ""
+                link: https://engineering.linkedin.com/blog/2016/12/pemberly-at-linkedin
+            -
+                title: "Four Noble Truths of Ember.js"
+                description: ""
+                link: https://spin.atomicobject.com/2016/11/29/ember-js-for-beginners/
+            -
+                title: "Ember RFC: POST to Fastboot"
+                description: ""
+                link: https://github.com/bcardarella/rfcs/blob/e2ec7549f9ec2c4931fe33c1c42b276de316683e/text/0000-post-to-fastboot.md
+            -
+                title: "Ember RFC: Track Unique History Location State"
+                description: ""
+                link: https://github.com/bcardarella/rfcs/blob/0ad4c1360f77b6db637417c1f97fa79239e29ecb/text/0000-track-unique-history-location-state.md
+            -
+                title: "Ember-CLI RFC: Replace PhantomJS with Firefox"
+                description: ""
+                link: https://github.com/ember-cli/rfcs/blob/firefox/active/0000-firefox-in-ci.md
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Engines Website: Composable applications for ambitious user experiences."
+                description: ""
+                link: http://ember-engines.com/
+            -
+                title: "ember-cli-postcss: Use postcss to Process Your CSS with a Large Selection of Plug-ins"
+                description: ""
+                link: https://emberobserver.com/addons/ember-cli-postcss
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+               title: "Senior Full-Time Remote Ember.js Developer"
+               description: " Deveo is looking for an Ember.js developer to join our remote team."
+               link:  https://deveo.workable.com/jobs/383290
+            -
+               title: "Experienced Ember Developer"
+               description: "Fitzdares is looking for an experienced Ember developer to join a small team to dream up and deliver a best of breed gaming app that will set the tone across the bookmaking industry. London based with 80% remote."
+               link: https://fitzdares.com/careers/ember
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Component Patterns - Todd Jordan"
+                description: ""
+                link: https://www.youtube.com/watch?v=jNhxQkQyRi0
+            -
+                title: "Glimmer 2 Internals Playlist"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PLpAr6J-75N24C-XQgIUDMtcgaurV4GDTZ
+            -
+                title: "Ember Weekend Podcast #83: Glimmery Engines"
+                description: ""
+                link: https://emberweekend.com/episodes/glimmery-engines
+            -
+                title: "Go Rails: Ember with Rails Introduction Series"
+                description: ""
+                link: https://gorails.com/series/ember-with-rails-introduction
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Madison - 6th December
+                link: "https://www.meetup.com/mad-ember/events/230860453/"
+            -
+                title: Salt Lake City - 8th December
+                link: "https://www.meetup.com/EmberJS-SLC/events/235167334/"
+            -
+                title: Montevideo - 8th December
+                link: "https://www.meetup.com/ember-montevideo/events/235541895/"
+            -
+                title: Amsterdam - 8th December
+                link: "https://www.meetup.com/Ember-js-Amsterdam/events/236041958/"
+            -
+                title: Washington DC - 12th December
+                link: "https://www.meetup.com/Ember-JS-DC/events/235648454/"
+            -
+                title: Madrid - 12th December
+                link: "https://www.meetup.com/Ember-js-Madrid/events/236023140/"
+            -
+                title: Atlanta - 13th December
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/235943884/"
+            -
+                title: Chicago - 14th December
+                link: "https://www.meetup.com/Chicago-Ember-js/events/235432684/"
+            -
+                title: San Diego - 14th December
+                link: "https://www.meetup.com/sandiego-ember/events/235686318/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

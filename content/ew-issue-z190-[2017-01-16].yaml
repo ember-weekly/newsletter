@@ -1,0 +1,185 @@
+issue: 190
+strapline: "Your weekly source of Ember news"
+content:
+
+    # -
+    #     heading: "Headlines"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "New Features for ember-test-selectors"
+                description: ""
+                link: https://simplabs.com/blog/2017/01/13/ember-test-selectors.html
+            # -
+            #     title: "Ember Weekend Podcast #8X: XXX"
+            #     description: ""
+            #     link: http://ryanlabouve.com/ember-closure-action-explorations-pt-1
+            -
+                title: "RFC: Local Template Blocks (as a Precursor to Block Slot Syntax)"
+                description: ""
+                link: https://github.com/machty/rfcs/blob/local-blocks/text/0000-local-template-blocks.md
+            -
+                title: "RFC: `let` it be: Bind Names to Values in Templates "
+                description: ""
+                link: https://github.com/cowboyd/rfcs/blob/let-keyword/text/0000-let.md
+            -
+                title: "RFC: Deprecate Component `eventManager`"
+                description: ""
+                link: https://github.com/GavinJoyce/rfcs/blob/c0106e2051afa06e97bf86cfb8a6b9ba94ae4f36/text/0000-deprecate-custom-event-manager.md
+            -
+                title: "Ember-CLI RFC: Standarise Targets"
+                description: ""
+                link: https://github.com/cibernox/rfcs-1/blob/standarize-targets/active/0000-standarise-targets.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-01-06"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-01/january-06.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2016-12-{02,16,23}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2016-12
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-01-12"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2017-01/january-12.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-01-05"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2017-01/january-05.md
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/segment-logo-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Analytics for lazy developers. Sign up today for free."
+                description: "Meet Segment, the last integration you’ll ever use. Collect data with a single API, then send it to hundreds of different tools for analytics, marketing, and data warehousing."
+                advert: true
+                link: http://synd.co/2iKRtlu
+                domain: segment.com
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Observer Code Search"
+                description: ""
+                link: https://emberobserver.com/code-search
+            -
+                title: "ember-bootstrap: Ember-CLI Addon for Using Twitter Bootstrap in Ember.js App"
+                description: ""
+                link: http://www.ember-bootstrap.com/
+            -
+                title: "Ember Basic Dropdown"
+                description: ""
+                link: https://www.ember-basic-dropdown.com/
+            -
+                title: "ember-cli-anybar: Non-intrusive Build Notification System Built atop AnyBar"
+                description: ""
+                link: https://github.com/dollarshaveclub/ember-cli-anybar
+            -
+                title: "ember-macro-helpers: Macro Helpers for Making Your Own Fancy Macros"
+                description: ""
+                link: https://github.com/kellyselden/ember-macro-helpers
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Tutorial - Mixins"
+                description: ""
+                link: https://www.youtube.com/watch?v=eIaVvx7udfE
+            -
+                title: "Top 5 Ember.js Tutorials and Resources for Beginners"
+                description: ""
+                link: http://www.programwitherik.com/top-5-ember-js-tutorials-and-resources-for-beginners-video/
+            # -
+            #     title: "Ember Weekend Podcast #8X: XXX"
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Durham - 18th January
+                link: "https://www.meetup.com/Triangle-Ember/events/236204829/"
+            -
+                title: Atlanta - 18th January
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/236882496/"
+            -
+                title: Los Angeles - 18th January
+                link: "https://www.meetup.com/Ember-LA/events/236710700/"
+            -
+                title: Salt Lake City - 19th January
+                link: "https://www.meetup.com/EmberJS-SLC/events/236129346/"
+            -
+                title: Cary - 24th January
+                link: "https://www.meetup.com/Triangle-Ember/events/236400646/"
+            -
+                title: San Francisco - 24th January
+                link: "https://www.meetup.com/Ember-SF/events/235084588/"
+            -
+                title: Portland - 24th January
+                link: "https://www.meetup.com/Ember-PDX/events/236506211/"
+            -
+                title: Atlanta - 25th January
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/236712328/"
+            -
+                title: Denver - 25th January
+                link: "https://www.meetup.com/Ember-js-Denver/events/236198165/"
+            -
+                title: New York - 26th January
+                link: "https://www.meetup.com/EmberJS-NYC/events/236236763/"
+            -
+                title: San Diego - 26th January
+                link: "https://www.meetup.com/sandiego-ember/events/235018949/"
+            -
+                title: Austin - 26th January
+                link: "https://www.meetup.com/Ember-ATX/events/231396145/"
+            -
+                title: Paris - 26th January
+                link: "https://www.meetup.com/EmberJS-Paris/events/235691588/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

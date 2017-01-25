@@ -1,4 +1,4 @@
-issue: 18
+issue: 19
 strapline: "Your weekly source of Ember news"
 content:
 
@@ -36,7 +36,7 @@ content:
         heading: "Reading"
         headlines:
             -
-                title: "Ember XXX Team Meeting Minutes - 2016-0X-XX"
+                title: "Ember XXX Team Meeting Minutes - 2017-0X-XX"
                 description: ""
                 link:
             -
