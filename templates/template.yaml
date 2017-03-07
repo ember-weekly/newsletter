@@ -36,52 +36,43 @@ content:
         heading: "Reading"
         headlines:
             -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
                 title: "Ember XXX Team Meeting Minutes - 2017-0X-XX"
                 description: ""
                 link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            -
-                title: ""
-                description: ""
-                link:
-            # -
-            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
-            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
-            #     advert: true
-            #     link: https://www.continuousupgrades.com
 
 
 
     -
         heading: "Code"
         headlines:
-            -
-                title: ""
-                description: ""
-                link:
             -
                 title: ""
                 description: ""
@@ -101,9 +92,9 @@ content:
     #     advert: true
     #     headlines:
     #         -
-    #            title: "Help us build Condé Nast’s next generation content platform!"
-    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
-    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+    #            title: ""
+    #            description: ""
+    #            link:
 
 
     -
@@ -118,16 +109,12 @@ content:
                 description: ""
                 link:
             -
-                title: "Ember Weekend Podcast #8X: XXX"
+                title: ""
                 description: ""
                 link:
             -
-                title: "Ember Land #2X: XXX"
+                title: "Ember Weekend Podcast #9X: XXX"
                 description: ""
-                link:
-            -
-                title: "Ember Screencasts #19X: XXX"
-                description: "Plus a [new Pro video covering XXX](  ) ($) ."
                 link:
 
 
@@ -139,12 +126,3 @@ content:
                 description: ""
                 link:
 
-
-    # -
-    #     heading: "Random"
-    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
-    #     headlines:
-    #         -
-    #             title: ""
-    #             description: ""
-    #             link:

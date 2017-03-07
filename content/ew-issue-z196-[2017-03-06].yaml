@@ -1,0 +1,182 @@
+issue: 196
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "2017 Ember Community Survey"
+                description: ""
+                link: http://emberjs.com/blog/2017/02/28/2017-ember-community-survey.html
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/rollbar-launchbit-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Know what errors lurk in your code?"
+                description: "Rollbar automatically detects and alerts you when code breaks. Get the stack trace, source code, and number of affected users to help you defeat impactful errors. Give Rollbar a try, for free!"
+                advert: true
+                link: http://synd.co/2jvQSWv
+                domain: rollbar.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Improving Ember App Page Load Times Using the App Shell Model"
+                description: ""
+                link: https://dockyard.com/blog/2017/02/17/page-load-improvements-with-app-shell
+            -
+                title: "Building a Keyboard Manager Service in Ember.JS"
+                description: ""
+                link: https://medium.com/icarus-wings/building-a-keyboard-manager-service-in-ember-js-4012861a5d6f#.mur8g3tvu
+            -
+                title: "Getting Started with Rails and Ember CLI"
+                description: ""
+                link: https://spin.atomicobject.com/2017/03/06/rails-ember-cli/
+            -
+                title: "Debugging Your Assumptions, Ember Edition"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2017/02/17/debugging-your-assumptions-ember-edition
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            -
+                title: "Ember RFC: Include ember-cli-dependency-lint in the Default App Blueprint"
+                description: ""
+                link: https://github.com/dfreeman/ember-cli-rfcs/blob/77b8051295799adeac45b4fc9fc48a27bd1be064/active/0000-dependency-lint.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-02-24"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-02/february-24.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2017-03-02"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-03/march-02.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-02-{02,16,23}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/docs-team/2017-02
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-native-dom-helpers: Test Helpers that Fire Native Events"
+                description: ""
+                link: https://github.com/cibernox/ember-native-dom-helpers
+            -
+                title: "ember-key-manager: Service for (Un)Binding Keyboard Up and Down Events"
+                description: ""
+                link: https://github.com/IcarusWorks/ember-key-manager
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Jobs"
+        advert: true
+        headlines:
+            -
+                title: "Find Top Developers Fast"
+                description: "We help companies like Airbnb, Pfizer, and Artsy find great developers. Let us find your next great hire. Get started today."
+                advert: true
+                link: http://go.hackingui.com/embertop080317
+                domain: toptal.com
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #92: Actual Newsy Things"
+                description: ""
+                link: https://emberweekend.com/episodes/actual-newsy-things
+            -
+                title: "Frontside Podcast Ep 60: Ember and Fastboot with Jonathan Jackson"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/60
+            -
+                title: "Frontside Podcast Ep 56: Ember vs. Elm: The Showdown with Philip Poots"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/56
+            -
+                title: "EmberMap: Use Chrome's Inspector to Debug an Addon"
+                description: ""
+                link: https://embermap.com/video/use-chrome-s-inspector-to-debug-an-addon
+            -
+                title: "How Do You Add Environmental Variables to Ember.js? - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=pX7pM0tBTfo
+            -
+                title: "A Fun Hack for Capturing Changes to an Ember Object Graph - Jamie White"
+                description: ""
+                link: https://pusher.com/sessions/meetup/front-end-london/a-fun-hack-for-capturing-changes-to-an-ember-object-graph
+            -
+                title: "Things You Should Never Do with Ember Template Helpers - Alex Speller"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/things-you-should-never-do-with-ember-template-helpers
+            -
+                title: "JSONAPI, .Net Core, EmberJS (Part 1) - Jared Nance"
+                description: "Also check out [part 2](https://www.youtube.com/watch?v=_d53rG2i9pY)."
+                link: https://www.youtube.com/watch?v=KAMuo6K7VcE
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: "EmberConf 2017, March 28/29 - Get Your Tickets Before They're Gone!"
+                description: ""
+                link: http://emberconf.com/
+            -
+                title: Berlin - 7th March
+                link: "https://www.meetup.com/Ember-js-Berlin/events/237878042/"
+            -
+                title: London - 8th March
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237900450/"
+            -
+                title: Chicago - 8th March
+                link: "https://www.meetup.com/Chicago-Ember-js/events/237887978/"
+            -
+                title: San Diego - 8th March
+                link: "https://www.meetup.com/sandiego-ember/events/237776052/"
+            -
+                title: Englewood - 8th March
+                link: "https://www.meetup.com/Ember-js-Denver/events/238213876/"
+            -
+                title: Boston - 9th March
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998638/"
+            -
+                title: Vancouver - 9th March
+                link: "https://www.meetup.com/Vancouver-Ember-js/events/237941026/"
+            -
+                title: Montevideo - 9th March
+                link: "https://www.meetup.com/ember-montevideo/events/237790271/"
+            -
+                title: New York - 13th March
+                link: "https://www.meetup.com/EmberJS-NYC/events/238072578/"
+            -
+                title: Atlanta - 14th March
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237914755/"
+            -
+                title: Los Angeles - 15th March
+                link: "https://www.meetup.com/Ember-LA/events/236800386/"
+            -
+                title: Bangalore - 17th March
+                link: "https://www.meetup.com/EmberJS-Bangalore/events/238200970/"
+
+
+

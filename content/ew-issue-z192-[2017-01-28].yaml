@@ -1,0 +1,207 @@
+issue: 192
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v2.11.1 Released"
+                description: "Also [Ember Data v2.12.0 Beta 3 Released](https://github.com/emberjs/data/releases/tag/v2.12.0-beta.3)"
+                link: https://github.com/emberjs/data/releases/tag/v2.11.1
+            -
+                title: "Ember-CLI-Fastboot v1.0.0 Beta 15 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.15
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/hired-2017-02--125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Try Hired and Get Access to the Best Ember Jobs"
+                description: "If you’re looking for new opportunities in Ember, but don’t want to deal with the hassle of applications, try Hired and let the companies apply to you! Plus get up-front salary and equity information."
+                advert: true
+                link: http://synd.co/2kCktti
+                domain: hired.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Rendering Ember components from Rails"
+                description: ""
+                link: https://labs.kollegorna.se/blog/2017/01/rendering-ember-components-from-rails/
+            -
+                title: "A Note on Actions"
+                description: ""
+                link: https://embermap.com/notes/26-a-note-on-actions
+            -
+                title: "Ember Observer's Code Search"
+                description: ""
+                link: http://codeallday.com/blog/code-search-in-ember-observer/
+            -
+                title: "Ember Testing (Unit, Integration & Acceptance)"
+                description: ""
+                link: http://voidcanvas.com/ember-testing/
+            -
+                title: "The Ember.js Times - Issue #3"
+                description: ""
+                link: https://the-emberjs-times.ongoodbits.com/2017/02/02/issue-3
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-01-27"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-01/january-27.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-01-20"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-01/january-20.md
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-service-worker: A Pluggable Approach to Service Workers for Ember"
+                description: ""
+                link: http://ember-service-worker.com/
+            -
+                title: "ember-number-to-words: Converting Number Digits into Words"
+                description: ""
+                link: https://github.com/FutoRicky/ember-number-to-words
+            -
+                title: "Ember Sparks: Ambitious UI Components for Ember Apps"
+                description: ""
+                link: http://ember-sparks.com/
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #89: Not On A Weekend"
+                description: ""
+                link: https://emberweekend.com/episodes/not-on-a-weekend
+            -
+                title: "Eat Your Greens! A beginners' guide to Broccoli.js - Oli Griffiths"
+                description: ""
+                link: https://youtu.be/JTzvYJBxwyI?t=135
+            -
+                title: "Introducing Ember Vudu - Daniel Hunninghake"
+                description: ""
+                link: https://youtu.be/JTzvYJBxwyI?t=1541
+            -
+                title: "Ember Redux - Dustin Farris"
+                description: ""
+                link: https://youtu.be/JTzvYJBxwyI?t=2546
+            -
+                title: "Ember in 2017 - Tom Dale"
+                description: ""
+                link: https://youtu.be/JTzvYJBxwyI?t=3944
+            -
+                title: "Ember CSS Transitions Tutorial - Erik Hanchett"
+                description: ""
+                link: http://www.programwitherik.com/ember-css-transitions-tutorial-video/
+            -
+                title: "Learn the Phoenix Framework Add Ember.js - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=glRloutP3dY
+            -
+                title: "Learn the Ember Liquid Fire Addon - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=MfLTRLz98SQ
+            -
+                title: "Upgrading Ember.js Applications - Ben Limmer"
+                description: ""
+                link: https://www.youtube.com/watch?v=ToVdJjHiKco&list=PLfne56e-i2p_xN8A0VYg95IYGlZg9pZGD
+            -
+                title: "This.JavaScript 01/28 - Vue, React, Angular, RxJS, Polymer & Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=InOWBvseRYU&feature=youtu.be
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 7th February
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237205129/"
+            -
+                title: Madison - 7th February
+                link: "https://www.meetup.com/mad-ember/events/237386037/"
+            -
+                title: Munich - 7th February
+                link: "https://www.meetup.com/Ember-js-Munich/events/236787811/"
+            -
+                title: Chicago - 8th February
+                link: "https://www.meetup.com/Chicago-Ember-js/events/236257269/"
+            -
+                title: San Diego - 8th February
+                link: "https://www.meetup.com/sandiego-ember/events/237172213/"
+            -
+                title: Seattle - 8th February
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/236737591/"
+            -
+                title: London - 9th February
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237130214/"
+            -
+                title: Boston - 9th February
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998625/"
+            -
+                title: Montevideo - 9th February
+                link: "https://www.meetup.com/ember-montevideo/events/235609511/"
+            -
+                title: Raleigh - 15th February
+                link: "https://www.meetup.com/Triangle-Ember/events/235966101/"
+            -
+                title: Atlanta - 15th February
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237205119/"
+            -
+                title: Los Angeles - 15th February
+                link: "https://www.meetup.com/Ember-LA/events/236801222/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

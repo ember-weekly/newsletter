@@ -1,0 +1,164 @@
+issue: 195
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v2.11.3 Released"
+                description: "Also [Ember Data v2.12.0 Beata 4](https://github.com/emberjs/data/releases/tag/v2.12.0-beta.4) Released."
+                link: https://github.com/emberjs/data/releases/tag/v2.11.3
+            -
+                title: "EmberConf 2017, March 28/29 - Get Your Tickets Before They're Gone!"
+                description: ""
+                link: http://emberconf.com/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/rollbar-launchbit-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Know what errors lurk in your code?"
+                description: "Rollbar automatically detects and alerts you when code breaks. Get the stack trace, source code, and number of affected users to help you defeat impactful errors. Give Rollbar a try, for free!"
+                advert: true
+                link: http://synd.co/2jvQSWv
+                domain: rollbar.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember.js and Electron: Build Desktop Apps with Web Technologies"
+                description: ""
+                link: https://www.bignerdranch.com/blog/ember-js-and-electron-build-desktop-apps-with-web-technologies/
+            -
+                title: "Under the Hood of the League Client’s Hextech UI"
+                description: ""
+                link: https://engineering.riotgames.com/news/under-hood-league-client%E2%80%99s-hextech-ui
+            -
+                title: "Do Not Confuse Environment for Deploy Target"
+                description: ""
+                link: http://blog.deveo.com/do-not-confuse-environment-for-deploy-target/
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-02-17"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-02/february-17.md
+            -
+                title: "Ember CLI Team Meeting Minutes - 2017-02-23"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-02/febuary-23.md
+            -
+                title: "Ember RFC: Dynamic Import Syntax Transformation"
+                description: ""
+                link: https://github.com/frederikbosch/rfcs/blob/e2d825bafe295c91486c13b2674bfb6416ec6331/active/0000-dynamic-import-syntaxt.md
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-initials: Generate Users Avatars with Their Initials"
+                description: ""
+                link: https://exelord.github.io/ember-initials/
+            -
+                title: "eslint-plugin-ember: Set of Rules for Ember Apps Based on Good Practices"
+                description: ""
+                link: https://github.com/netguru/eslint-plugin-ember
+            -
+                title: "ember-cli-dependency-lint: Verify Only One Version of Any Given Addon"
+                description: ""
+                link: https://github.com/salsify/ember-cli-dependency-lint
+            -
+                title: "ember-cli-one-script: Combines Your vendor.js and <your-app-name>.js"
+                description: ""
+                link: https://github.com/DockYard/ember-cli-one-script
+            -
+                title: "ember-emojione: EmojiOne Helper and Component"
+                description: ""
+                link: https://github.com/Deveo/ember-emojione/
+
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Intermediate Test Driven Development - Toran Billups"
+                description: ""
+                link: http://toranbillups.com/blog/archive/2017/02/21/intermediate-test-driven-development/
+            -
+                title: "Building Delicious Forms with Ember.js - Ben Holmes"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/building-delicious-forms-with-emberjs
+            -
+                title: "Leveraging HTML5 Animations Using CSS3, Ember.js, and Friends - Jessica Jordan"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/leveraging-html5-animations-using-css3-emberjs-and-friends
+            -
+                title: "Testing EmberJS Addons - Nathan Hammond"
+                description: ""
+                link: https://www.youtube.com/watch?v=IdTpNz_3Ec8
+            -
+                title: "EmberJS Server Side Render (SSR) ember-fastboot - Chris Watts"
+                description: ""
+                link: https://www.youtube.com/watch?v=Xoi4HklCfh8
+            -
+                title: "Ember Weekend Podcast #91: One Script to Serve Them All"
+                description: ""
+                link: https://emberweekend.com/episodes/one-script-to-serve-them-all
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Toronto - 2nd March
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/237703244/"
+            -
+                title: Columbus - 6th March
+                link: "https://www.meetup.com/ember-columbus/events/237526901/"
+            -
+                title: Berlin - 7th March
+                link: "https://www.meetup.com/Ember-js-Berlin/events/237878042/"
+            -
+                title: Chicago - 8th March
+                link: "https://www.meetup.com/Chicago-Ember-js/events/237887978/"
+            -
+                title: San Diego - 8th March
+                link: "https://www.meetup.com/sandiego-ember/events/237776052/"
+            -
+                title: Boston - 9th March
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998638/"
+            -
+                title: Vancouver - 9th March
+                link: "https://www.meetup.com/Vancouver-Ember-js/events/237941026/"
+            -
+                title: Montevideo - 9th March
+                link: "https://www.meetup.com/ember-montevideo/events/237790271/"
+
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

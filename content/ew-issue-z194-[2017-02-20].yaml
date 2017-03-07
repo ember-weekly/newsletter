@@ -1,0 +1,156 @@
+issue: 194
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.11.2 Released"
+                description: "Also [Ember v2.12.0 Released](https://github.com/emberjs/ember.js/releases/tag/v2.12.0-beta.2)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.11.2
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/rollbar-launchbit-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Know what errors lurk in your code?"
+                description: "Rollbar automatically detects and alerts you when code breaks. Get the stack trace, source code, and number of affected users to help you defeat impactful errors. Give Rollbar a try, for free!"
+                advert: true
+                link: http://synd.co/2jvQSWv
+                domain: rollbar.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "The 2017 Ember Community Survey Preview"
+                description: ""
+                link: http://madhatted.com/2017/2/17/the-2017-ember-community-survey-preview
+            -
+                title: "Encapsulate Relationship Logic In Your Ember Data Model"
+                description: ""
+                link: http://thejsguy.com/2017/02/20/encapsulate-relationship-logic-in-your-ember-data-model.html
+            -
+                title: "How we Test 200k Lines Ember Application in <10 Minutes. Again!"
+                description: ""
+                link: https://hackernoon.com/how-we-got-tests-for-200k-lines-ember-application-running-10-minutes-again-1fa7a4c5af2f#.u60cnecd1
+            -
+                title: "More Robust Browser-Side Networking"
+                description: ""
+                link: https://spin.atomicobject.com/2017/02/15/browser-side-networking/
+            -
+                title: "Class Based Computed Properties"
+                description: ""
+                link: https://simplabs.com/blog/2017/02/01/class-based-computed-properties.html
+            -
+                title: "Clean Ember Addon Component Customization with ember-spread"
+                description: ""
+                link: http://blog.firstiwaslike.com/clean-ember-addon-component-customization-with-ember-spread/
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-api-store: Storage Adapter for Ember to Compatible APIs"
+                description: ""
+                link: https://emberobserver.com/addons/ember-api-store
+            -
+                title: "ember-custom-actions: Trigger Custom API Actions"
+                description: ""
+                link: https://exelord.github.io/ember-custom-actions/
+            -
+                title: "ember-responsive: Ember-aware way of Dealing with Media Queries"
+                description: ""
+                link: https://emberobserver.com/addons/ember-responsive
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Learn the Phoenix Framework Edit/Delete a Post Ember.js - Part 5"
+                description: ""
+                link: https://www.youtube.com/watch?v=Y98bIIZ6tBg
+            -
+                title: "The World of Ember Macros and How to Create Them - Kelly Selden"
+                description: ""
+                link: https://www.youtube.com/watch?v=kIDIa1NBZZI
+            -
+                title: "JS.Interactive 02/18 - Vue, React, Angular, RxJS, Polymer, Ember"
+                description: ""
+                link: https://www.youtube.com/watch?v=CEeJ9JYquTU
+            -
+                title: "EmberMap: Routing Service"
+                description: ""
+                link: https://embermap.com/video/routing-service
+            # -
+            #     title: "Ember Weekend Podcast #8X: XXX"
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Atlanta - 22nd February
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237205168/"
+            -
+                title: Denver - 22nd February
+                link: "https://www.meetup.com/Ember-js-Denver/events/236198270/"
+            -
+                title: London - 23rd February
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237697778/"
+            -
+                title: New York - 23rd February
+                link: "https://www.meetup.com/EmberJS-NYC/events/236236776/"
+            -
+                title: Austin - 23rd February
+                link: "https://www.meetup.com/Ember-ATX/events/231396146/"
+            -
+                title: Salt Lake City - 23rd February
+                link: "https://www.meetup.com/EmberJS-SLC/events/237317307/"
+            -
+                title: Raleigh - 27th February
+                link: "https://www.meetup.com/Triangle-Ember/events/237496451/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:

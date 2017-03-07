@@ -1,0 +1,173 @@
+issue: 193
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v2.11.1 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.11.1
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/rollbar-launchbit-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Know what errors lurk in your code?"
+                description: "Rollbar automatically detects and alerts you when code breaks. Get the stack trace, source code, and number of affected users to help you defeat impactful errors. Give Rollbar a try, for free!"
+                advert: true
+                link: http://synd.co/2jvQSWv
+                domain: rollbar.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Is Your Ember App Too Big? Split It Up with Ember Engines"
+                description: ""
+                link: https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-engines/
+            -
+                title: "Cascade Deleting Relationships in Ember Data"
+                description: ""
+                link: http://thejsguy.com/2017/02/10/cascade-deleting-relationships-in-ember-data.html
+            -
+                title: "Previewing revisions with ember-cli-deploy-s3-index"
+                description: ""
+                link: http://blog.firstiwaslike.com/previewing-revisions-with-ember-cli-deploy-s3-index/
+            -
+                title: "Build an Offline Demo of your Ember App with Ember CLI Mirage"
+                description: ""
+                link: https://spin.atomicobject.com/2017/02/13/ember-app-offline-demo/
+            -
+                title: "Measuring and Optimizing Performance of Single-Page Applications (SPA) Using RUM"
+                description: ""
+                link: https://engineering.linkedin.com/blog/2017/02/measuring-and-optimizing-performance-of-single-page-applications
+            -
+                title: "Using npm libraries in Ember CLI"
+                description: ""
+                link: https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-02-{3,10}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2017-02
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-02-02"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2017-02/february-02.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-01-{19,26}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/docs-team/2017-01
+            -
+                title: "Ember CLI Team Meeting Minutes - 2017-02-{3,10}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember-cli/2017-02
+            -
+                title: "Ember RFC: Contextual Helpers"
+                description: ""
+                link: https://github.com/cibernox/rfcs/blob/contextual-helpers/text/0000-contextual-helpers.md#summary
+            -
+                title: "Ember-CLI RFC: Enable Dependency Management with Yarn"
+                description: ""
+                link: https://github.com/ember-cli/rfcs/blob/3b52954a0357f6098966174f36084bef8256c173/active/0000-enable-yarn-usage.md#summary
+            # -
+            #     title: "Continuous Ember Upgrades - A New Service That Lets You Spend Time Building, Not Upgrading"
+            #     description: "Upgrading is the first thing to be dropped from a schedule, but you know you'll pay for it later. Spend your time building your app without worrying about falling behind -- we won't let you."
+            #     advert: true
+            #     link: https://www.continuousupgrades.com
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-fastboot-app-tests: FastBoot testing support"
+                description: ""
+                link: https://github.com/kaliber5/ember-fastboot-app-tests
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: "Help us build Condé Nast’s next generation content platform!"
+    #            description: "Copilot is our CMS powering over 15 Condé Nast brands such as Vogue, GQ, and Vanity Fair. The platform is powered by Node.js services and an Ember.js editor application. We are looking to expand our New York and Austin based teams with strong engineers who love working on ambitious web applications."
+    #            link: http://condenast.avature.net/careers/JobDetail/Austin-Software-Engineer-Copilot-Application/6831
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Update on Ember Jan '17 at This.JavaScript with Matthew Beale, Ember Core Team"
+                description: ""
+                link: https://www.youtube.com/watch?v=OWvWNMvz64U
+            -
+                title: "Learn the Phoenix Framework: Add a Post Ember.js Part 4 - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=c6ZVbXZara8
+            -
+                title: "EmberMap: Ember Exam - Speed up your test suite"
+                description: ""
+                link: https://embermap.com/video/ember-exam
+            -
+                title: "Ember Weekend Podcast #90: Testing Fastboot"
+                description: ""
+                link: https://emberweekend.com/episodes/testing-fastboot
+            -
+                title: "Frontside Podcast Ep 55: Redux and Ember with Toran Billups"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/55
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: Raleigh - 15th February
+                link: "https://www.meetup.com/Triangle-Ember/events/235966101/"
+            -
+                title: Atlanta - 15th February
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237205119/"
+            -
+                title: Los Angeles - 15th February
+                link: "https://www.meetup.com/Ember-LA/events/236801222/"
+            -
+                title: Boston - 16th February
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998625/"
+            -
+                title: Atlanta - 22nd February
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237205168/"
+            -
+                title: Denver - 22nd February
+                link: "https://www.meetup.com/Ember-js-Denver/events/236198270/"
+            -
+                title: New York - 23rd February
+                link: "https://www.meetup.com/EmberJS-NYC/events/236236776/"
+            -
+                title: Austin - 23rd February
+                link: "https://www.meetup.com/Ember-ATX/events/231396146/"
+            -
+                title: Salt Lake City - 23rd February
+                link: "https://www.meetup.com/EmberJS-SLC/events/237317307/"
+
+
+    # -
+    #     heading: "Random"
+    #     description: "Random non-Ember.js content that I found interesting this week. You might too...or you might not!"
+    #     headlines:
+    #         -
+    #             title: ""
+    #             description: ""
+    #             link:
