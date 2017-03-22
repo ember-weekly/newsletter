@@ -1,0 +1,164 @@
+issue: 198
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "2017 Ember Community Survey - ENDS 21st MARCH!!"
+                description: ""
+                link: http://emberjs.com/ember-community-survey-2017/
+            -
+                title: "Ember, Ember-CLI & Ember-Data 2.12 and 2.13 Beta Released"
+                description: ""
+                link: http://emberjs.com/blog/2017/03/19/ember-2-12-released.html
+
+    -
+        heading: "From our sponsors"
+        newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Let top tech companies apply to you on Indeed Prime​"
+    #             description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+    #             advert: true
+    #             link: http://synd.co/2c1Ji0u
+    #             domain: indeed.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Glimmer: Blazing Fast Rendering for Ember.js, Part 1"
+                description: ""
+                link: https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1
+            -
+                title: "Lessons From an Ember-Node App"
+                description: ""
+                link: http://bdavidxyz.com/blog/lessons-from-ember-node-app/
+            -
+                title: "Perspectives of Client Side Rendering"
+                description: ""
+                link: https://blog.meetserenity.com/2017/03/perspectives-of-client-side-rendering/
+            -
+                title: "Javascript Frameworks: A futile attempt at objectivity"
+                description: ""
+                link: https://medium.com/@mattburgess/javascript-frameworks-a-futile-attempt-at-objectivity-adf6e75d2fbe#.ojnmuso85
+            -
+                title: "Ember RFC: Add dasherized-test-name-generator-option"
+                description: ""
+                link: https://github.com/GabrielCW/rfcs/blob/12f13a096d892aaa45fc3501d5dab0d8365bbbf6/0000-dasherized-test-name-generator-option.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-03-{03,10}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/ember.js/2017-03
+            - 
+                title: "Freelancer Michael Wong on Lessons Learned"
+                description: "Michael Wong's shares how to stand out in a crowded marketplace and his secrets to long-term success"
+                advert: true
+                link: http://go.hackingui.com/adobeember22032017
+                domain: "adobe.com"
+            
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-apollo-client: Addon for Apollo Client and GraphQL"
+                description: ""
+                link: https://github.com/bgentry/ember-apollo-client
+            -
+                title: "ember-cli-transformicons: Transformicons Components for Ember"
+                description: ""
+                link: http://alexdiliberto.com/ember-cli-transformicons
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Glimmer for Fun and Profit - Robbie Pitts"
+                description: ""
+                link: https://www.youtube.com/watch?v=NcZPrm-rlrg
+            -
+                title: "The Making of a Component Guide - Dan Wenzel"
+                description: ""
+                link: https://www.youtube.com/watch?v=PpYwxbPPfE4
+            -
+                title: "Deploying Ember to Pagefront - Weston Sewell"
+                description: ""
+                link: https://www.youtube.com/watch?v=xzsEunzRjCQ
+            -
+                title: "Deploying Ember FastBoot to Heroku - Terence Lee"
+                description: ""
+                link: https://www.youtube.com/watch?v=JHm81kkf_-4
+            -
+                title: "Deploying Ember to GitHub Pages - Rob DeLuca"
+                description: ""
+                link: https://www.youtube.com/watch?v=jx2TEN_XHnc
+            -
+                title: "Living Immutably - Charles Lowell"
+                description: ""
+                link: https://www.youtube.com/watch?v=_lMz6OSR494
+            -
+                title: "JSONAPI, .Net Core, EmberJS - Part 5 (Persisting Data) - Jared Nance"
+                description: ""
+                link: https://www.youtube.com/watch?v=bZ1D_aYGJnU&list=PLu4Bq53iqJJAo1RF0TY4Q5qCG7n9AqSZf&index=7
+            -
+                title: "Building a \"functioning\" web app w/ decoupled D8 & Ember in 30 days - Trent Stromkins"
+                description: ""
+                link: https://www.youtube.com/watch?v=eABJgq72OkE
+            -
+                title: "Getting Started with Ember 2 - Plursight ($)"
+                description: ""
+                link: https://www.pluralsight.com/courses/ember-2-getting-started
+            -
+                title: "Ember Weekend Podcast #94: No Frost Giants"
+                description: ""
+                link: https://emberweekend.com/episodes/no-frost-giants
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: San Francisco - 21st March
+                link: "https://www.meetup.com/Ember-SF/events/237197671/"
+            - 
+                title: Atlanta - 22nd March
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238146227/"
+            - 
+                title: New York - 23rd March
+                description: "[Watch live on Youtube](https://www.youtube.com/watch?v=3jpWLnZEP8Q)."
+                link: "https://www.meetup.com/EmberJS-NYC/events/237703168/"
+            - 
+                title: Austin - 23rd March
+                link: "https://www.meetup.com/Ember-ATX/events/238239583/"
+            - 
+                title: Vancouver - 23rd March
+                link: "https://www.meetup.com/Vancouver-Ember-js/events/238310767/"
+            - 
+                title: Columbus - 3rd April
+                link: "https://www.meetup.com/ember-columbus/events/dvlzzlywgbfb/"
+
+

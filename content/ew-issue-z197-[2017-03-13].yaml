@@ -1,0 +1,179 @@
+issue: 197
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+
+            -
+                title: "Ember v2.11.3 Released"
+                description: "Also [Ember v2.12.0 Beta 3 Released](https://github.com/emberjs/ember.js/releases/tag/v2.12.0-beta.3)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.11.3
+            -
+                title: "Ember Data v2.12.0 Released"
+                description: "Also [Ember Data v2.13.0 Beta 1 Released](https://github.com/emberjs/data/releases/tag/v2.13.0-beta.1)"
+                link: https://github.com/emberjs/data/releases/tag/v2.12.0
+            -
+                title: "Ember-CLI v2.12.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.12.0-beta.2
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/rollbar-launchbit-125x125.png"
+        advert: true
+        headlines:
+            -
+                title: "Know what errors lurk in your code?"
+                description: "Rollbar automatically detects and alerts you when code breaks. Get the stack trace, source code, and number of affected users to help you defeat impactful errors. Give Rollbar a try, for free!"
+                advert: true
+                link: http://synd.co/2jvQSWv
+                domain: rollbar.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Resetting scroll in Ember.js"
+                description: ""
+                link: https://blog.twobucks.co/resetting-scroll-in-ember-js/
+            -
+                title: "PromiseProxyMixin: Pure Ember Alternative to ember-concurrency"
+                description: ""
+                link: http://blog.deveo.com/promiseproxymixin-pure-ember-alternative-to-ember-concurrency/
+            -
+                title: "Why I prefer Ember.js over Angular & React.js"
+                description: ""
+                link: http://voidcanvas.com/prefer-ember-js-angular-react-js/
+            -
+                title: "A Component in 7 Lines of JavaScript — ember-paper, ember-pickaday Together"
+                description: ""
+                link: https://medium.com/@cs3b/a-component-in-7-lines-of-javascript-17207f6e58db#.ssfy8rh5b
+            -
+                title: "Getting Started with Rails and Ember CLI"
+                description: ""
+                link: https://spin.atomicobject.com/2017/03/06/rails-ember-cli/
+            -
+                title: "Ember RFC: Custom Components API"
+                description: ""
+                link: https://github.com/emberjs/rfcs/blob/custom-components/text/0000-custom-components.md
+            -
+                title: "Ember-CLI RFC: Pre-build Addons"
+                description: ""
+                link: https://github.com/trentmwillis/rfcs-1/blob/pre-build/active/0000-prebuild-addons.md
+            -
+                title: "Ember-CLI RFC: Include ember-cli-dependency-lint in the default app blueprint"
+                description: ""
+                link: https://github.com/dfreeman/ember-cli-rfcs/blob/4b8997ffbdc23cf32aaeba860ceb8db44ea9aa1a/active/0000-dependency-lint.md
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-03-03"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-03/march-03.md
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-mocha: Mocha / Chai Testing for Your Ember App"
+                description: ""
+                link: https://emberobserver.com/addons/ember-cli-mocha
+            -
+                title: "ember-computed-change-gate: Only Trigger Observers When Result of Computed Property Changes"
+                description: ""
+                link: https://emberobserver.com/addons/ember-computed-change-gate
+            -
+                title: "ember-data-model-fragments: Sub-Models Similar to belongsTo and hasMany relationships, Managed Through Parent"
+                description: ""
+                link: https://emberobserver.com/addons/ember-data-model-fragments
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #93: Survey Study Time"
+                description: ""
+                link: https://emberweekend.com/episodes/survey-study-time
+            -
+                title: "Learning Ember Actions an Intermediate Guide - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=QsJYM111GsM
+            -
+                title: "W.W.E.D. (What would Ember.js do?)"
+                description: "What would Ember look like if it was a server side framework?"
+                link: https://www.youtube.com/watch?v=IGUP1Yt4-Dc&feature=youtu.be
+            -
+                title: "Journey through Ember.js Glue: Intro - Mike North"
+                description: "Also see the second video on [Booting Up](https://www.youtube.com/watch?v=BEteW2srG0w&list=PLk9PtblnhxXitqrqwQ1JT6e4g9XgvTk3K&index=2)."
+                link: https://www.youtube.com/watch?v=YiA1-2HGcFo&list=PLk9PtblnhxXitqrqwQ1JT6e4g9XgvTk3K&index=1
+            -
+                title: "Animate the Web With Ember.js – Jessica Jordan"
+                description: ""
+                link: https://www.youtube.com/watch?v=35idfBa4xhk
+            -
+                title: "Ember.js + Rails + Capybara = ❤️ – Robert Schäfer"
+                description: ""
+                link: https://www.youtube.com/watch?v=xSukVhdX0DI
+            -
+                title: "JSONAPI, .Net Core, EmberJS (Part 3) - Jared Nance"
+                description: "Also check out [part 4](https://www.youtube.com/watch?v=t1AkdwwmTMg&list=PLu4Bq53iqJJAo1RF0TY4Q5qCG7n9AqSZf&index=4) and [part 5](https://www.youtube.com/watch?v=bZ1D_aYGJnU&index=5&list=PLu4Bq53iqJJAo1RF0TY4Q5qCG7n9AqSZf)."
+                link: https://www.youtube.com/watch?v=1hV9id7efqI&index=3&list=PLu4Bq53iqJJAo1RF0TY4Q5qCG7n9AqSZf
+            -
+                title: "Ember.js Solutions Tutorial - Packt Video"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PLTgRMOcmRb3NNi3-bykzjbmw5MgYkWxBr
+            -
+                title: "Building Paraşüt with Ember.js by Sean Yu"
+                description: ""
+                link: https://www.youtube.com/watch?v=Fa08nE3slkg
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Atlanta - 14th March
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/237914755/"
+            - 
+                title: Los Angeles - 15th March
+                link: "https://www.meetup.com/Ember-LA/events/236800386/"
+            - 
+                title: Madrid - 16th March
+                link: "https://www.meetup.com/Ember-js-Madrid/events/238313865/"
+            - 
+                title: Bangalore - 17th March
+                link: "https://www.meetup.com/EmberJS-Bangalore/events/238200970/"
+            - 
+                title: San Francisco - 21st March
+                link: "https://www.meetup.com/Ember-SF/events/237197671/"
+            - 
+                title: Atlanta - 22nd March
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238146227/"
+            - 
+                title: New York - 23rd March
+                link: "https://www.meetup.com/EmberJS-NYC/events/237703168/"
+            - 
+                title: Austin - 23rd March
+                link: "https://www.meetup.com/Ember-ATX/events/238239583/"
+            - 
+                title: Vancouver - 23rd March
+                link: "https://www.meetup.com/Vancouver-Ember-js/events/238310767/"
+
+
