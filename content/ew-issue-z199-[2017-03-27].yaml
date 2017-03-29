@@ -1,0 +1,164 @@
+issue: 199
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v2.12.1 Released"
+                description: "Also [Ember-CLI v2.13.0 Beta 2 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.13.0-beta.2)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.12.1
+            -
+                title: "Ember-Data v2.13.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/emberjs/data/releases/tag/v2.13.0-beta.3
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/simplabs-gif.gif"
+        advert: true
+        headlines:
+            -
+                title: "Pro Ember.js: An advanced 2-day training event in Berlin"
+                description: "We'll tackle progressive web apps, modular architecture patterns, performance tuning, authentication & more!"
+                advert: true
+                link: http://ember-workshop.simplabs.com
+                domain: simplabs.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "On Computed Properties vs. Helpers"
+                description: ""
+                link: https://simplabs.com/blog/2017/03/21/on-computed-properties-vs-helpers.html
+            -
+                title: "What is Accessibility and Why Should We Care? - 8 Part Ember Series"
+                description: ""
+                link: http://krivaten.com/what-is-accessibility/
+            -
+                title: "Our Path to Ember: How we are Moving our Frontend From Rails to Ember"
+                description: ""
+                link: https://blog.dockbit.com/our-path-to-ember-bd6ebbf0b94a
+            -
+                title: "How Ember Observer Searches Addon Source Code"
+                description: ""
+                link: http://codeallday.com/blog/how-ember-observer-searches-addon-source-code/
+            -
+                title: "Test Driven Ember - Testing Holding a Button"
+                description: ""
+                link: https://karolgalanciak.com/blog/2017/03/26/test-driven-ember-testing-holding-button/
+            -
+                title: "Ultimate Guide on How to Write Smoke Tests for Ember + Rails Stack"
+                description: ""
+                link: https://blog.rubyroidlabs.com/2017/03/smoke-rails-ember/
+            -
+                title: "[EPIC] Decouple Ember tests from the globals resolver"
+                description: ""
+                link: https://github.com/emberjs/ember.js/issues/15058
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-03-16"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-03/march-16.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-03-23"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-03/march-23.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-03-{2,9,23}"
+                description: ""
+                link: https://github.com/emberjs/core-notes/tree/master/docs-team/2017-03
+            -
+                title: "Find the perfect domain name for your next side project"
+                description: "Hover & Hacking UI are offering 10% off any domain name including hundreds of fun extensions. Hover also has the best domain mgmt. system."
+                link: http://go.hackingui.com/hoverember270317
+                advert: true
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "atom-ember-components: Atom package to See All Controllers/Components That Are Rendering the Component"
+                description: ""
+                link: https://atom.io/packages/atom-ember-components
+            -
+                title: "ember-speak: Add speech-to-text (STT) and text-to-speech (TTS) to your Ember app"
+                description: ""
+                link: https://tsteuwer.github.io/ember-speak/
+            -
+                title: "ember-appmetrics: Easily Measure Metrics in Your Ember"
+                description: ""
+                link: https://github.com/gokatz/ember-appmetrics/tree/master
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Learning Ember Actions an Intermediate Guide - Erik Hanchett"
+                description: ""
+                link: https://www.youtube.com/watch?v=QsJYM111GsM
+            -
+                title: "Manual Testing: Just Add Ember - Suz Hinton"
+                description: ""
+                link: https://www.youtube.com/watch?v=QV9rfsRZiWM&t=391s
+            -
+                title: "The Future of Ember Testing, Today - Robert Jackson"
+                description: ""
+                link: https://www.youtube.com/watch?v=QV9rfsRZiWM&t=1624s
+            -
+                title: "Particle Systems in Ember - Matt Hayes"
+                description: ""
+                link: https://www.youtube.com/watch?v=nxnynYOgko0&t=214s
+            -
+                title: "Named Block / Slot Syntax - Alex Matchneer"
+                description: ""
+                link: https://www.youtube.com/watch?v=nxnynYOgko0&t=1378s
+            -
+                title: "3 Days to MVP with Authmaker - Chris Manson"
+                description: ""
+                link: https://www.youtube.com/watch?v=5YsWGLkt5N8
+            -
+                title: "Ember Weekend Podcast #95: Breath of the Tomster"
+                description: ""
+                link: https://emberweekend.com/episodes/breath-of-the-tomster
+            -
+                title: "Ember Weekend Podcast #96: Should Have Packed Rain Gear"
+                description: ""
+                link: https://emberweekend.com/episodes/should-have-packed-rain-gear
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Portland - 27th March
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/238677144/"
+            - 
+                title: Columbus - 3rd April
+                link: "https://www.meetup.com/ember-columbus/events/238743363/"
+            - 
+                title: Seattle - 6th April
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/238136145/"
+            - 
+                title: Washington, DC - 6th April
+                link: "https://www.meetup.com/Ember-JS-DC/events/237739025/"
+
