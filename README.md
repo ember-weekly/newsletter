@@ -17,3 +17,7 @@ Generating HTML
 ```
 grunt news
 ```
+
+Sources
+
+Import `ember-weekly-sources.html` into your browser for sources bookmarks.
