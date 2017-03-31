@@ -48,13 +48,17 @@ content:
         heading: "Reading"
         headlines:
             -
+                title: "EmberConf 2017 Summary"
+                description: ""
+                link: https://github.com/poteto/emberconf-2017
+            -
                 title: "Rendering 10 Million Items with {{vertical-collection}} and Ember.js"
                 description: ""
                 link: https://build.addepar.com/engineering/rendering-10-million-items-with-vertical-collection/
             -
-                title: "EmberConf 2017 Summary"
+                title: "Lessons learned building a REST API theme for WordPress (with Ember)"
                 description: ""
-                link: https://github.com/poteto/emberconf-2017
+                link: https://blog.meetserenity.com/2017/03/lessons-learned-building-rest-api-theme-wordpress/
             -
                 title: "Ember CLI Team Meeting Minutes - 2017-03-16"
                 description: ""
