@@ -59,14 +59,6 @@ content:
                 title: "Lessons learned building a REST API theme for WordPress (with Ember)"
                 description: ""
                 link: https://blog.meetserenity.com/2017/03/lessons-learned-building-rest-api-theme-wordpress/
-            -
-                title: "Ember CLI Team Meeting Minutes - 2017-03-16"
-                description: ""
-                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-03/march-16.md
-            -
-                title: "Ember CLI Team Meeting Minutes - 2017-03-23"
-                description: ""
-                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-03/march-23.md
 
 
 
@@ -103,23 +95,15 @@ content:
             -
                 title: "EmberConf 2017 Day 1"
                 description: ""
-                link: https://www.youtube.com/watch?v=6j080toMEKk&t=22602s
+                link: https://www.youtube.com/watch?v=6j080toMEKk
             -
                 title: "EmberConf 2017 Day 2"
                 description: ""
                 link: https://www.youtube.com/watch?v=ZCHFjGSCqP4
             -
-                title: "Creating an Ember Addon"
+                title: "Creating an Ember Addon - Scott Batson"
                 description: ""
                 link: https://www.youtube.com/watch?v=bhJ6YzBIoWo
-            -
-                title: "Ember.js NYC, March 2017"
-                description: ""
-                link: https://www.youtube.com/watch?v=QV9rfsRZiWM
-            -
-                title: "Ember Weekend Podcast #96: Should Have Packed Rain Gear"
-                description: ""
-                link: http://emberweekend.com/episodes/should-have-packed-rain-gear
 
 
     -
