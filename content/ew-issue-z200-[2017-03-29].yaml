@@ -1,0 +1,192 @@
+issue: 200
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Announcing Glimmer.js"
+                description: ""
+                link: https://glimmerjs.com/
+            -
+                title: "Ember Community Survey 2017 Results"
+                description: ""
+                link: https://emberjs.com/ember-community-survey-2017/
+            -
+                title: "Ember-CLI v2.13.0 Beta 3 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.13.0-beta.3
+            -
+                title: "Ember Fastboot v1.0.0 Beta 16 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.16
+
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/simplabs-gif.gif"
+        advert: true
+        headlines:
+            -
+                title: "Pro Ember.js: An advanced 2-day training event in Berlin"
+                description: "We'll tackle progressive web apps, modular architecture patterns, performance tuning, authentication & more!"
+                advert: true
+                link: http://ember-workshop.simplabs.com
+                domain: simplabs.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "EmberConf 2017 Summary"
+                description: ""
+                link: https://github.com/poteto/emberconf-2017
+            -
+                title: "Rendering 10 Million Items with {{vertical-collection}} and Ember.js"
+                description: ""
+                link: https://build.addepar.com/engineering/rendering-10-million-items-with-vertical-collection/
+            -
+                title: "Lessons learned building a REST API theme for WordPress (with Ember)"
+                description: ""
+                link: https://blog.meetserenity.com/2017/03/lessons-learned-building-rest-api-theme-wordpress/
+            -
+                title: "Why I’m excited about GlimmerJS"
+                description: ""
+                link: https://medium.com/@edwards/why-im-excited-about-glimmerjs-3631bd0c95c4
+            -
+                title: "Less than *ambitious* websites with Ember.js"
+                description: ""
+                link: https://www.codementor.io/sheriffderek/less-than-ambitious-websites-with-ember-js-5mtthoijp
+            -
+                title: "Better UI testing in Ember"
+                description: ""
+                link: https://medium.com/appaloosa-store-engineering/better-ui-testing-in-ember-5d272b0a5cf3
+            -
+                title: "Is Your Ember App Too Big? Split it up with Ember Engines, Part 2"
+                description: ""
+                link: https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-engines-part-2/
+            -
+                title: "EmberConf 2017 CliffsNotes"
+                description: ""
+                link: http://alexdiliberto.com/posts/emberconf-2017-cliffsnotes/
+            -
+                title: "Neat Facts About JavaScript & Ember"
+                description: ""
+                link: https://medium.com/@isaacezer/neat-facts-about-javascript-ember-2a3c4b3bb40b
+            -
+                title: "Inline SVG with Ember-Concurrency"
+                description: ""
+                link: http://hbrysiewicz.com/2017-03-30-inline-svg.html
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Bug Widget"
+                description: ""
+                link: https://github.com/elwayman02/ember-bug-widget
+            -
+                title: "Ember CLI Hoverintent"
+                description: ""
+                link: https://github.com/elwayman02/ember-cli-hoverintent
+            -
+                title: "Ember-Tumblr Demo"
+                description: ""
+                link: http://github.jhawk.co/ember-tumblr/
+            -
+                title: "Hotjar: Crazy tool that lets you actually watch your visitors use your site"
+                description: "Truly understand your web and mobile site visitors and make improvements immediately. Try it for free."
+                link: http://go.hackingui.com/hotjarember030417
+                domain: hotjar.com
+                advert: true
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberConf 2017 Day 1"
+                description: ""
+                link: https://www.youtube.com/watch?v=6j080toMEKk
+            -
+                title: "EmberConf 2017 Day 2"
+                description: ""
+                link: https://www.youtube.com/watch?v=ZCHFjGSCqP4
+            -
+                title: "Ember.js' future, with Tom Dale"
+                description: ""
+                link: https://www.linkedin.com/pulse/emberjs-future-tom-dale-greg-leffler
+            -
+                title: "Creating an Ember Addon - Scott Batson"
+                description: ""
+                link: https://www.youtube.com/watch?v=bhJ6YzBIoWo
+            -
+                title: "Audacious Enterprise GIS Apps with Ember.js"
+                description: ""
+                link: https://www.youtube.com/watch?v=7Bvr7cEQNCg
+    
+    -
+        heading: "So Ember 2017 Videos"
+        headlines:
+            -
+               title: "Keynote - Luke Melia"
+               description: ""
+               link: https://www.youtube.com/watch?v=FJp2f0VHSzU
+            -
+               title: "A journey through Ember.js glue - Mike North"
+               description: ""
+               link: https://www.youtube.com/watch?v=Femu3l8eS7U
+            -
+               title: "DOMless* Rendering with Ember - Miguel Andrade"
+               description: ""
+               link: https://www.youtube.com/watch?v=nkiZ_cWoQMk
+            -
+               title: "Failing Fast: Haskell Inspired Error Handling in Ember - Daniel Chappel"
+               description: ""
+               link: https://www.youtube.com/watch?v=BssIi9TDYFI
+            -
+               title: "Lazy Loading Engines Anything but Lazy - Trent Willis"
+               description: ""
+               link: https://www.youtube.com/watch?v=7ZP9-AIvrBU
+            -
+               title: "Building Accessible Applications: A Reasonable Approach - Melanie Sumner"
+               description: ""
+               link: https://www.youtube.com/watch?v=qxvNXBT03AY
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Seattle - 6th April
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/238136145/"
+            - 
+                title: Washington DC - 6th April
+                link: "https://www.meetup.com/Ember-JS-DC/events/237739025/"
+            - 
+                title: Toronto - 6th April
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/238755300/"
+            - 
+                title: Raleigh - 10th April
+                link: "https://www.meetup.com/Triangle-Ember/events/235966115/"
+            - 
+                title: Atlanta - 11th April
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238731803/"
+            -
+                title: Chicago - 12th April
+                link: "https://www.meetup.com/Chicago-Ember-js/events/237551101/"
+            - 
+                title: San Diego - 12th April
+                link: "https://www.meetup.com/sandiego-ember/events/wkkswlywgbqb/"
