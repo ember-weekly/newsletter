@@ -118,8 +118,31 @@ content:
     -
         heading: "Events"
         headlines:
-            -
-                title: ""
-                description: ""
-                link:
+            - 
+                title: Ember.JS DC - 8th April
+                link: "https://www.meetup.com/Ember-JS-DC/events/239023540/"
+            - 
+                title: Raleigh - 11th April
+                link: "https://www.meetup.com/Triangle-Ember/events/235966115/"
+            - 
+                title: Atlanta - 12th April
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238731803/"
+            - 
+                title: Chicago Ember.js - 13th April
+                link: "https://www.meetup.com/Chicago-Ember-js/events/237551101/"
+            - 
+                title: San Diego - 13th April
+                link: "https://www.meetup.com/sandiego-ember/events/239031696/"
+            - 
+                title: London - 14th April
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237900517/"
+            - 
+                title: Boston - 14th April
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998645/"
+            - 
+                title: Salt Lake City - 14th April
+                link: "https://www.meetup.com/EmberJS-SLC/events/238218417/"
+            - 
+                title: Montevideo - 14th April
+                link: "https://www.meetup.com/ember-montevideo/events/238644520/"
 
