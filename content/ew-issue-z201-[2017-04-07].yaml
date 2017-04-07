@@ -108,10 +108,66 @@ content:
                 title: "Getting Started With Glimmer.js A Quick First Look"
                 description: ""
                 link: https://www.youtube.com/watch?v=IaW3rlE42I0
+
+     -
+        heading: "EmberConf 2017"
+        headlines:
             -
-                title: ""
+                title: "Opening Keynote by Yehuda Katz & Tom Dale"
                 description: ""
-                link:
+                link: https://www.youtube.com/watch?v=TEuY4GqwrUE
+            -
+                title: "Going Progressive with Ember by Samanta De Barros"
+                description: ""
+                link: https://www.youtube.com/watch?v=OR1Tk_bwmZo
+            -
+                title: " A Neurobiologist's Guide to Mind Manipulation by Casey Watts"
+                description: ""
+                link: https://www.youtube.com/watch?v=AtefvXagutM
+            -
+                title: "Understanding JavaScript Performance by Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=7ylQThr3EeQ
+            -
+                title: " Counter-spells and the Art of Keeping Your Application Safe by Ingrid Epure"
+                description: ""
+                link: https://www.youtube.com/watch?v=kPar8n9zaHo
+            -
+                title: " Rebuilding Tumblr as a Single Page App by Oli Griffiths"
+                description: ""
+                link: https://www.youtube.com/watch?v=tIfyQ12zfqs
+            -
+                title: "Animate the Web with Ember.js by Jessica Jordan"
+                description: ""
+                link: https://www.youtube.com/watch?v=wFJPIjRTIVU
+            -
+                title: " Data Loading Patterns with JSON API by Balint Erdi"
+                description: ""
+                link: https://www.youtube.com/watch?v=kPxiiAGMSzE
+            -
+                title: "Higher Order Components by Miguel Camba"
+                description: ""
+                link: https://www.youtube.com/watch?v=MpFudGJn2J0
+            -
+                title: "SVG Animation and Interaction in Ember by Jen Weber"
+                description: ""
+                link: https://www.youtube.com/watch?v=ZC3lD_DFlkc
+            -
+                title: "Empowering the Next Million Creators by Edward Faulkner"
+                description: ""
+                link: https://www.youtube.com/watch?v=Sa5eqBfzpCw
+            -
+                title: "Mastering Ember from the Perspective of a N00b by Madison Kerndt"
+                description: ""
+                link: https://www.youtube.com/watch?v=lfdkFNfIkks
+            -
+                title: "State, Time, and Concurrency by Alex Matchneer"
+                description: ""
+                link: https://www.youtube.com/watch?v=VEzVDOmY-dc
+            -
+                title: "Confessions of an Ember Addon Author by Lauren Elizabeth Tan"
+                description: ""
+                link: https://www.youtube.com/watch?v=JN0FRg-BqbE
 
 
 
