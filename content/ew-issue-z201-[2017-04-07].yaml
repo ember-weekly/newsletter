@@ -1,0 +1,125 @@
+issue: 201
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "EmberConf 2017: State of the Union"
+                description: ""
+                link: https://emberjs.com/blog/2017/04/05/emberconf-2017-state-of-the-union.html
+            -
+                title: "The Glimmer VM: Boots Fast and Stays Fast"
+                description: ""
+                link: http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    # -
+    #     heading: "From our sponsors"
+    #     image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/indeed-Logo_150x150.png"
+    #     advert: true
+    #     headlines:
+    #         -
+    #             title: "Let top tech companies apply to you on Indeed Prime​"
+    #             description: "Top software engineers are using Indeed Prime to land their dream job. Interested companies reach out with salary & equity upfront. Free for job seekers. Get $2k from Indeed Prime when you're hired."
+    #             advert: true
+    #             link: http://synd.co/2c1Ji0u
+    #             domain: indeed.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Testing Ember Component Actions When Components Build On Top Of Components"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2017/03/17/testing-ember-component-actions-when-components-build-on-top-of-components
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+            -
+                title: ""
+                description: ""
+                link:
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-modal-dialog: Beggar's Point (v1.0.0)"
+                description: ""
+                link: https://github.com/yapplabs/ember-modal-dialog/releases/tag/v1.0.0
+            -
+                title: "ember-modal-dialog: Rags to Riches (v2.0.0-beta.0)"
+                description: ""
+                link: https://github.com/yapplabs/ember-modal-dialog/releases/tag/v2.0.0-beta.0
+            -
+                title: "Vim + Ember.js: vim-emberlayout"
+                description: ""
+                link: https://github.com/sukima/vim-emberlayout
+            -
+                title: "ember-web-workers"
+                description: ""
+                link: https://github.com/BBVAEngineering/ember-web-workers
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "A journey through Ember.js glue - Mike North"
+                description: ""
+                link: https://www.youtube.com/watch?v=UpUtVGW43hY
+            -
+                title: "Getting Started With Glimmer.js A Quick First Look"
+                description: ""
+                link: https://www.youtube.com/watch?v=IaW3rlE42I0
+            -
+                title: ""
+                description: ""
+                link:
+
+
+
+    -
+        heading: "Events"
+        headlines:
+            -
+                title: ""
+                description: ""
+                link:
+
