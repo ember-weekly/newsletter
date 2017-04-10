@@ -15,7 +15,7 @@ content:
                 link: http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/
 
 
-   -   
+    -   
         heading: "From our sponsors"
         image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/simplabs-gif.gif"
         advert: true
@@ -135,17 +135,13 @@ content:
                 description: ""
                 link: https://www.youtube.com/watch?v=ZC3lD_DFlkc
             -
-                title: "Mastering Ember from the Perspective of a N00b by Madison Kerndt"
-                description: ""
-                link: https://www.youtube.com/watch?v=lfdkFNfIkks
-            -
                 title: "State, Time, and Concurrency by Alex Matchneer"
                 description: ""
                 link: https://www.youtube.com/watch?v=VEzVDOmY-dc
             -
                 title: "Confessions of an Ember Addon Author by Lauren Elizabeth Tan"
                 description: ""
-                link: https://www.youtube.com/watch?v=JN0FRg-BqbE
+                link: https://www.youtube.com/watch?v=ln_DvmQsvis
             -
                 title: "A Design System at Scale by Melissa Roman"
                 description: ""
