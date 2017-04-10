@@ -90,6 +90,10 @@ content:
                 title: "Getting Started With Glimmer.js A Quick First Look"
                 description: ""
                 link: https://www.youtube.com/watch?v=IaW3rlE42I0
+            -
+                 title: "Introduction to Ember Power Calendar"
+                 description: ""
+                 link: https://pusher.com/sessions/meetup/ember-london/introduction-to-ember-power-calendar
 
     -
         heading: "EmberConf 2017"
