@@ -1,0 +1,239 @@
+issue: 201
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "EmberConf 2017: State of the Union"
+                description: ""
+                link: https://emberjs.com/blog/2017/04/05/emberconf-2017-state-of-the-union.html
+            -
+                title: "The Glimmer VM: Boots Fast and Stays Fast"
+                description: ""
+                link: http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/
+
+
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/simplabs-gif.gif"
+        advert: true
+        headlines:
+            -
+                title: "Pro Ember.js: An advanced 2-day training event in Berlin"
+                description: "We'll tackle progressive web apps, modular architecture patterns, performance tuning, authentication & more!"
+                advert: true
+                link: http://ember-workshop.simplabs.com
+                domain: simplabs.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Testing Ember Component Actions When Components Build On Top Of Components"
+                description: ""
+                link: https://www.mutuallyhuman.com/blog/2017/03/17/testing-ember-component-actions-when-components-build-on-top-of-components
+            -
+                title: "Authentication with Ember.js and Passport"
+                description: ""
+                link: https://medium.com/@duizendnegen/authentication-with-ember-js-and-passport-2b5767a74703
+            -
+                title: "Multiple Yield Blocks with Contextual Components in Ember.js"
+                description: ""
+                link: http://yoranbrondsema.com/multiple-yield-blocks-contextual-components-ember-js/
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-modal-dialog: Beggar's Point (v1.0.0)"
+                description: ""
+                link: https://github.com/yapplabs/ember-modal-dialog/releases/tag/v1.0.0
+            -
+                title: "ember-modal-dialog: Rags to Riches (v2.0.0-beta.0)"
+                description: ""
+                link: https://github.com/yapplabs/ember-modal-dialog/releases/tag/v2.0.0-beta.0
+            -
+                title: "Vim + Ember.js: vim-emberlayout"
+                description: ""
+                link: https://github.com/sukima/vim-emberlayout
+            -
+                title: "ember-web-workers"
+                description: ""
+                link: https://github.com/BBVAEngineering/ember-web-workers
+            -
+                title: "Gemini 2 - fast and safe way to clean up duplicate files on mac"
+                description: "Cut the chaos and free up enormous disk space by safely, and automatically mass removing duplicate files"
+                link: http://go.hackingui.com/macpawember100417
+                domain: macpaw.com
+                advert: true
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Getting Started With Glimmer.js A Quick First Look"
+                description: ""
+                link: https://www.youtube.com/watch?v=IaW3rlE42I0
+            -
+                 title: "Introduction to Ember Power Calendar"
+                 description: ""
+                 link: https://pusher.com/sessions/meetup/ember-london/introduction-to-ember-power-calendar
+
+    -
+        heading: "EmberConf 2017"
+        headlines:
+            -
+                title: "Opening Keynote by Yehuda Katz & Tom Dale"
+                description: ""
+                link: https://www.youtube.com/watch?v=TEuY4GqwrUE
+            -
+                title: "Going Progressive with Ember by Samanta De Barros"
+                description: ""
+                link: https://www.youtube.com/watch?v=OR1Tk_bwmZo
+            -
+                title: "A Neurobiologist's Guide to Mind Manipulation by Casey Watts"
+                description: ""
+                link: https://www.youtube.com/watch?v=AtefvXagutM
+            -
+                title: "Understanding JavaScript Performance by Godfrey Chan"
+                description: ""
+                link: https://www.youtube.com/watch?v=7ylQThr3EeQ
+            -
+                title: "Counter-spells and the Art of Keeping Your Application Safe by Ingrid Epure"
+                description: ""
+                link: https://www.youtube.com/watch?v=kPar8n9zaHo
+            -
+                title: "Animate the Web with Ember.js by Jessica Jordan"
+                description: ""
+                link: https://www.youtube.com/watch?v=wFJPIjRTIVU
+            -
+                title: "Data Loading Patterns with JSON API by Balint Erdi"
+                description: ""
+                link: https://www.youtube.com/watch?v=kPxiiAGMSzE
+            -
+                title: "Higher Order Components by Miguel Camba"
+                description: ""
+                link: https://www.youtube.com/watch?v=MpFudGJn2J0
+            -
+                title: "SVG Animation and Interaction in Ember by Jen Weber"
+                description: ""
+                link: https://www.youtube.com/watch?v=ZC3lD_DFlkc
+            -
+                title: "State, Time, and Concurrency by Alex Matchneer"
+                description: ""
+                link: https://www.youtube.com/watch?v=VEzVDOmY-dc
+            -
+                title: "Confessions of an Ember Addon Author by Lauren Elizabeth Tan"
+                description: ""
+                link: https://www.youtube.com/watch?v=ln_DvmQsvis
+            -
+                title: "A Design System at Scale by Melissa Roman"
+                description: ""
+                link: https://www.youtube.com/watch?v=x1Lr9OGpkok
+            -
+                title: "Ember Engines as an Application Platform by Todd Jordan"
+                description: ""
+                link: https://www.youtube.com/watch?v=LqQi6e_Rlnw
+            -
+                title: "Learning Ember: From Start to Ship by Gabrielle Jameson"
+                description: ""
+                link: https://www.youtube.com/watch?v=7Z3Jr6NDq_g
+            -
+                title: "An Animated Guide to Ember Internals by Gavin Joyce"
+                description: ""
+                link: https://www.youtube.com/watch?v=A5k2u7AZf6g
+            -
+                title: " Accessible by Default: The Layered Workflow by Melanie Sumner"
+                description: ""
+                link: https://www.youtube.com/watch?v=IHH2TRFxArY
+            -
+                title: "Spin Me a Yarn by Serena Frisch"
+                description: ""
+                link: https://www.youtube.com/watch?v=4VsLIBb5kxM
+            -
+                title: "Closing Keynote by Sarah Mei"
+                description: ""
+                link: https://www.youtube.com/watch?v=mz3l_oEA2cU
+            -
+                title: "MiniTalk: Instrumenting Ember Apps with Heimdall by Chris Thoburn"
+                description: ""
+                link: https://www.youtube.com/watch?v=MxmVV3dcXZk
+            -
+                title: "MiniTalk: Typescript & Ember by Daniel Rosenwasser"
+                description: ""
+                link: https://www.youtube.com/watch?v=951HiqnNQ1w
+            -
+                title: "MiniTalk: Ember + VR: Bring Your A-Frame by Kelly Selden"
+                description: ""
+                link: https://www.youtube.com/watch?v=I3o3lV_yfIE
+            -
+                title: "MiniTalk: Baby's First Open Source Project by Liz Baillie"
+                description: ""
+                link: https://www.youtube.com/watch?v=F1UQLBIezHk
+            -
+                title: "MiniTalk: Magnum A.P.I. Adventures in Docs by Todd Jordan & David Baker"
+                description: ""
+                link: https://www.youtube.com/watch?v=043GIQQDkO8
+            -
+                title: "MiniTalk: What's New in QUnit by Trent Willis"
+                description: ""
+                link: https://www.youtube.com/watch?v=8SzNe0gy_mY
+
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Raleigh - 10th April
+                link: "https://www.meetup.com/Triangle-Ember/events/235966115/"
+            - 
+                title: Atlanta - 11th April
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238731803/"
+            - 
+                title: Chicago - 12th April
+                link: "https://www.meetup.com/Chicago-Ember-js/events/237551101/"
+            - 
+                title: San Diego - 12th April
+                link: "https://www.meetup.com/sandiego-ember/events/239031696/"
+            - 
+                title: London - 13th April
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237900517/"
+            - 
+                title: Boston - 13th April
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998645/"
+            - 
+                title: Salt Lake City - 13th April
+                link: "https://www.meetup.com/EmberJS-SLC/events/238218417/"
+            - 
+                title: Montevideo - 13th April
+                link: "https://www.meetup.com/ember-montevideo/events/238644520/"
+            - 
+                title: Bangalore - 15th April
+                link: "https://www.meetup.com/EmberJS-Bangalore/events/238497988/"
+            - 
+                title: Cary - 18th April
+                link: "https://www.meetup.com/Triangle-Ember/events/238327283/"
+            - 
+                title: Berlin - 18th April
+                link: "https://www.meetup.com/Ember-js-Berlin/events/238594739/"
+            - 
+                title: Los Angeles - 19th April
+                link: "https://www.meetup.com/Ember-LA/events/237760562/"
+
