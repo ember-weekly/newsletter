@@ -1,0 +1,155 @@
+issue: 207
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Torii Vulnerability Disclosure"
+                description: ""
+                link: https://medium.com/@bantic/torii-vulnerability-disclosure-dd98b6d88ec3
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/125x125_NL_Codeship_darkblue.png"
+        advert: true
+        headlines:
+            -
+                title: "Try Codeship Pro: A fully customizable Continuous Integration service with native Docker support"
+                description: "Test and deploy your microservices and push to any registry. Codeship Pro comes with a local CLI tool to run your builds locally and guarantees 100% parity between your development and production environment."
+                advert: true
+                link: https://codeship.com/features/pro/?utm_source=EmberWeeklyPro&utm_medium=email&utm_campaign=EmberWeeklyNewsletterPro
+                # domain: codeship.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember Route Hooks — A Complete Look"
+                description: ""
+                link: https://alexdiliberto.com/posts/ember-route-hooks-a-complete-look/    
+            -
+                title: "Ember Simple Auth vs. Torii: OAuth2 Implicit Grant in Your Ember App"
+                description: ""
+                link: http://willengler.com/ember-oauth2-1/
+            -
+                title: "EmberJS Authentication Tutorial"
+                description: ""
+                link: https://auth0.com/blog/emberjs-authentication-tutorial/
+            -
+                title: "Ember RFC: Single File Components"
+                description: ""
+                link: https://github.com/DHedgecock/rfcs/blob/single-file-components/text/0000-single-file-components.md
+            -
+                title: "Ember-CLI RFC: Enhance `ember install"
+                description: ""
+                link: https://github.com/kellyselden/ember-cli-rfcs/blob/ember-install/active/0000-ember-install.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-05-18"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2017-05/may-18.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-05-25"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2017-05/may-25.md
+            -
+                title: "Learn from customers faster with NomNom"
+                description: "Get all your customer feedback and user research in one place"
+                link: http://go.hackingui.com/NomNomEmberWeekly290517
+                domain: nomnom.it
+                advert: true
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Scroll Preview: Addon to Preview the Scroll Progress of the Page"
+                description: ""
+                link: https://gowthamrm.github.io/ember-scroll-preview/
+            -
+                title: "ember-socket-guru: Easy Integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels"
+                description: ""
+                link: https://github.com/netguru/ember-socket-guru
+            -
+                title: "eslint-plugin-ember v3.4.0 Released"
+                description: ""
+                link: https://github.com/netguru/eslint-plugin-ember/releases/tag/v3.4.0
+            -
+                title: "ember-cli-conditional-compile: Conditional Compilation of Feature Flags"
+                description: ""
+                link: https://emberobserver.com/addons/ember-cli-conditional-compile
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #103: The Prime Ember Stack"
+                description: ""
+                link: https://emberweekend.com/episodes/the-prime-ember-stack
+            -
+                title: "Upgrading a Large Legacy Ember Application - Nate Pendleton & Tom Lagier"
+                description: ""
+                link: https://www.youtube.com/watch?v=EohcAx7Hb0g
+            -
+                title: "Design Considerations for a Modern Data Table - Devendra Desai"
+                description: ""
+                link: https://www.youtube.com/watch?v=M6MHWgHjoJs
+            # -
+            #     title: ""
+            #     description: ""
+            #     link: 
+            -
+                title: "Program With Erik: My First Web Developer Conference EmberConf Day 2"
+                description: ""
+                link: https://www.youtube.com/watch?v=65YtZ4tRQAQ
+            -
+                title: "Making the Jump: How Desktop-Era Frameworks Can Thrive on Mobile - Tom Dale (JSConf EU 2017)"
+                description: ""
+                link: https://www.youtube.com/watch?v=PU94cgLuw9I
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Denver - 31st May
+                link: "https://www.meetup.com/Ember-js-Denver/events/240188251/"
+            - 
+                title: Toronto - 1st June
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/240082910/"
+            - 
+                title: Columbus - 5th June
+                link: "https://www.meetup.com/ember-columbus/events/dvlzzlywjbhb/"
+            - 
+                title: Montevideo - 5th June
+                link: "https://www.meetup.com/ember-montevideo/events/240009965/"
+            - 
+                title: Berlin - 6th June
+                link: "https://www.meetup.com/Ember-js-Berlin/events/240178402/"
+            - 
+                title: Boston - 8th June
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998656/"
+            - 
+                title: Bangalore - 10th June
+                link: "https://www.meetup.com/EmberJS-Bangalore/events/240120550/"
+

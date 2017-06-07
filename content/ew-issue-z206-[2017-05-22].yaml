@@ -1,0 +1,156 @@
+issue: 206
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.13.2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.13.2
+            -
+                title: "Ember CLI v2.13.2 Released"
+                description: "Also [Ember CLI v2.14.0 Beat 2 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.14.0-beta.2)"
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.13.2
+            -
+                title: "Ember CLI Fastboot v1.0.0 RC 1 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-rc.1
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/125x125_NL_Codeship_darkblue.png"
+        advert: true
+        headlines:
+            -
+                title: "Try Codeship Basic: A free, simple out-of-the-box Continuous Integration service in the Cloud"
+                description: "Thousands of customers use Codeship Basic every day. Its pre-installed CI dependencies make your testing and deployment work out of the box. The average setup time for Codeship Basic is less than 3 minutes."
+                advert: true
+                link: https://codeship.com/features/basic/?utm_source=EmberWeeklyBasic&utm_medium=email&utm_campaign=EmberWeeklyNewsletterBasic
+                # domain: codeship.com
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Maintainable User Interface Testing with Ember"
+                description: ""
+                link: https://emberway.io/maintainable-user-interface-testing-with-ember-40f1b58040b6
+            -
+                title: "Ember Redux Guides"
+                description: ""
+                link: http://www.ember-redux.com/guides/
+            -
+                title: "Netflix OSS: Batch Requests with Ruby on Rails and Ember.js"
+                description: ""
+                link: https://medium.com/netflix-techblog/netflix-oss-batch-requests-with-ruby-on-rails-and-ember-js-4dfdd4b351da
+            -
+                title: "Cosine Similarity in Ember JS"
+                description: ""
+                link: https://medium.com/@sumn2u/cosine-similarity-in-ember-js-e13835cd2782
+            -
+                title: "Online Master's in Information Design and Strategy"
+                description: "This online, part-time program at Northwestern University is taught by industry leaders and top professors"
+                link: http://go.hackingui.com/NorthwesternEmberWeekly080517
+                domain: northwestern.edu
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Help! Add-ons Prep for fastboot 1.0.0"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/issues/387
+            -
+                title: "ember-cli-prop-types: React PropTypes for Ember CLI"
+                description: ""
+                link: https://github.com/healthsparq/ember-cli-prop-types
+            -
+                title: "fastboot-pool: Manage Ember FastBoot memory usage using process pools"
+                description: ""
+                link: https://github.com/kellyselden/fastboot-pool
+            -
+                title: "Cake.Ember: Extends Cake with ability to run the Ember CLI"
+                description: ""
+                link: https://github.com/cake-contrib/Cake.Ember
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #102: Like A Blog For Your Ears"
+                description: ""
+                link: https://emberweekend.com/episodes/like-a-blog-for-your-ears
+            -
+                title: "My First Web Developer Conference Emberconf 2017 Vlog"
+                description: ""
+                link: https://www.youtube.com/watch?v=oDOiUTc1tek&feature=youtu.be
+            -
+                title: "Real World Ember Podcast - Season 1"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PLr3okzgCi52dHNAse-GGzsM8P2ak9yOk5
+            -
+                title: "Glimmer web-component tutorial - Working Digital Clock"
+                description: ""
+                link: https://www.youtube.com/watch?v=bj7LBjqrM3k
+            -
+                title: "EmberScreencasts Now Free on YouTube"
+                description: ""
+                link: https://www.youtube.com/playlist?list=PLr3okzgCi52eJdx-URu5RVVRf4c8FPXoO
+            -
+                title: "Ember.js – A safe bet for your web needs - Netguru Digital Forum #04"
+                description: ""
+                link: https://www.youtube.com/watch?v=WzHsEz-5Z8o
+            -
+                title: "Ember London - May 2017"
+                description: ""
+                link: https://www.youtube.com/watch?v=GUqUUnRUetA
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: San Francisco - 23rd May
+                link: "https://www.meetup.com/Ember-SF/events/237197949/"
+            - 
+                title: Hamburg - 23rd May
+                link: "https://www.meetup.com/emberHH/events/239324240/"
+            - 
+                title: Atlanta - 24th May
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/239999559/"
+            - 
+                title: Seattle - 24th May
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/239959557/"
+            - 
+                title: Munich - 24th May
+                link: "https://www.meetup.com/Ember-js-Munich/events/239931246/"
+            - 
+                title: London - 25th May
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237900435/"
+            - 
+                title: New York - 25th May
+                link: "https://www.meetup.com/EmberJS-NYC/events/239881850/"
+            - 
+                title: Austin - 25th May
+                link: "https://www.meetup.com/Ember-ATX/events/239569396/"
+            - 
+                title: Budapest - 25th May
+                link: "https://www.meetup.com/ember-bp/events/239320855/"
+            - 
+                title: Toronto - 1st June
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/240082910/"

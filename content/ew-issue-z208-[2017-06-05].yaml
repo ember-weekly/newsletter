@@ -1,0 +1,153 @@
+issue: 208
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.13.3"
+                description: "Also [Ember v2.14.0 Beta 3 Released](https://github.com/emberjs/ember.js/releases/tag/v2.14.0-beta.3)"
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.13.3
+            -
+                title: "Ember-CLI-Fastboot v1.0.0 RC 2"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-rc.2
+
+
+    -
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/125x125_NL_Codeship_darkblue.png"
+        advert: true
+        headlines:
+            -
+                title: "Try Codeship Basic: A free, simple out-of-the-box Continuous Integration service in the Cloud"
+                description: "Thousands of customers use Codeship Basic every day. Its pre-installed CI dependencies make your testing and deployment work out of the box. The average setup time for Codeship Basic is less than 3 minutes."
+                advert: true
+                link: https://codeship.com/features/basic/?utm_source=EmberWeeklyBasic&utm_medium=email&utm_campaign=EmberWeeklyNewsletterBasic
+                # domain: codeship.com
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Each-in helper"
+                description: ""
+                link: https://embermap.com/notes/53-each-in-helper
+            -
+                title: "From Angular to Ember"
+                description: ""
+                link: https://eng.verizondigitalmedia.com/2017/05/30/from-angular-to-ember/
+            -
+                title: "Ember.js Module Unification Update & Contribution Tips"
+                description: ""
+                link: https://madhatted.com/2017/5/30/ember-js-module-unification-update-and-contribution-tips
+            -
+                title: "How 201 Created Teaches Ember.js"
+                description: ""
+                link: https://madhatted.com/2017/6/1/how-201-created-teaches-ember-js
+            -
+                title: "A New Concurrency Primitive"
+                description: ""
+                link: https://goodcontent.zone/a-new-concurrency-primitive-39eab08c2494
+            -
+                title: "ComputedProperty Getters & Setters with Ember.js"
+                description: ""
+                link: https://medium.com/@herom/my-sweet-shadow-computedproperty-getters-setters-with-ember-js-b89d925e06dd
+            -
+                title: "Ember Simple Auth vs. Torii: OAuth2 Implicit Grant in Your Ember App"
+                description: ""
+                link: http://willengler.com/ember-oauth2-1/
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-05-26"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-05/may-26.md
+            -
+                title: "Ember-CLI Team Meeting Minutes - 2017-06-01"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-06/june-01.md
+            -
+                title: "Learn from customers faster with NomNom"
+                description: "Get all your customer feedback and user research in one place"
+                link: http://go.hackingui.com/NomNomEmberWeekly050617
+                domain: nomnom.it
+                advert: true
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-template-module-name-remover"
+                description: "Remove module names from compiled template meta."
+                link: https://github.com/rwjblue/ember-template-module-name-remover
+            -
+                title: "ember-native-dom-helpers-codemod"
+                description: "Codemod to transform your jQuery based ember tests to use ember-native-dom-helpers."
+                link: https://github.com/simonihmig/ember-native-dom-helpers-codemod
+            -
+                title: "ember-console"
+                description: "A console (REPL) for your fastboot enabled Ember app."
+                link: https://github.com/stefanpenner/ember-console
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #104: It's not a Mirage anymore"
+                description: ""
+                link: https://emberweekend.com/episodes/not-a-mirage-anymore
+            -
+                title: "EmberConf 2017: Closing Keynote by Sarah Mei"
+                description: ""
+                link: https://www.youtube.com/watch?v=UDp6eDCi1Vo
+            -
+                title: "ember-cli-date-text-box with Dan Nelson"
+                description: ""
+                link: https://www.youtube.com/watch?v=PM8xaiHqBHg
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Berlin - 6th June
+                link: "https://www.meetup.com/Ember-js-Berlin/events/240178402/"
+            - 
+                title: London - 8th June
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/239900060/"
+            - 
+                title: Boston - 8th June
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998656/"
+            - 
+                title: Raleigh - 13th June
+                link: "https://www.meetup.com/Triangle-Ember/events/240202462/"
+            - 
+                title: New York - 13th June
+                link: "https://www.meetup.com/EmberJS-NYC/events/240193649/"
+            - 
+                title: Atlanta - 13th June
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/240233365/"
+            - 
+                title: Chicago - 14th June
+                link: "https://www.meetup.com/Chicago-Ember-js/events/240082228/"
+            - 
+                title: Seattle - 15th June
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/240165346/"

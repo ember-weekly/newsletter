@@ -1,0 +1,208 @@
+issue: 205
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember v2.14.0 Beta 2 Released"
+                description: ""
+                link: https://github.com/emberjs/ember.js/releases/tag/v2.14.0-beta.2
+            -
+                title: "Ember Data v2.13.1 Released"
+                description: "Also [Ember Data v2.14.0 Beta 2 Released](https://github.com/emberjs/data/releases/tag/v2.14.0-beta.2)"
+                link: https://github.com/emberjs/data/releases/tag/v2.13.1
+            -
+                title: "Ember CLI v2.13.1 Released"
+                description: ""
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.13.1
+            -
+                title: "Ember Inspector v2.0.6 Released"
+                description: ""
+                link: https://github.com/emberjs/ember-inspector/releases/tag/v2.0.6
+
+
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/square-rasterized-150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Continuous visual reviews for Ember apps - Percy.io"
+                description: "Percy automatically shows your team upcoming visual changes right in your GitHub pull requests. Quickly review UI changes, approve updates, and catch UI bugs before your users do.  Save your engineering team from stress and testing time."
+                advert: true
+                link: https://percy.io/?utm_source=ember_weekly&utm_medium=email&utm_campaign=ember_weekly_4&utm_content=continuous_visual_reviews_2
+                # domain: percy.io
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Stubbing Components in Ember Integration Tests"
+                description: ""
+                link: http://thejsguy.com/2017/05/05/stubbing-components-in-ember-integration-tests.html
+            -
+                title: "Broccoli Debugging"
+                description: ""
+                link: http://rwjblue.com/2017/05/09/broccoli-debugging/
+            -
+                title: "A11Y: An Accessibility Guide For Ember Developers"
+                description: ""
+                link: http://blog.melsumner.com/accessibility/a11y-accessibility-guide-ember-developers/
+            -
+                title: "Demystifying Ember: Asynchronous Side-Effects in Testing"
+                description: ""
+                link: http://drive.secondstreet.com/demystifying-ember-asynchronous-side-effects-in-testing/
+            -
+                title: "Feature envy in component design"
+                description: ""
+                link: https://embermap.com/notes/50-feature-envy
+            -
+                title: "The History of Ember.js: An Interview With Tom Dale at EmberConf - Part One"
+                description: ""
+                link: https://blog.heroku.com/history-of-emberjs
+            -
+                title: "The Future of Ember.js: An Interview With Tom Dale at EmberConf - Part Two"
+                description: ""
+                link: https://blog.heroku.com/future-of-emberjs
+            -
+                title: "How Ember Data Loads Async Relationships: Part 1"
+                description: ""
+                link: http://www.amielmartin.com/blog/2017/05/05/how-ember-data-loads-relationships-part-1/
+            -
+                title: "Upgradin’ in Style: How to upgrade Ember CLI"
+                description: ""
+                link: https://emberweekend.com/blog/2017/05/13/upgradin-in-style-how-to-upgrade-ember-cli/
+            -
+                title: "Making Your Ember Application Livable"
+                description: ""
+                link: https://spin.atomicobject.com/2017/05/08/livable-code-ember/
+            -
+                title: "Typing Your Ember - Using TypeScript with Ember.js"
+                description: ""
+                link: http://www.chriskrycho.com/typing-your-ember.html
+            -
+                title: "Ember Computed Sort based on multiple changing properties"
+                description: ""
+                link: https://medium.com/@jenweber/ember-computed-sort-based-on-multiple-changing-properties-f9a4d4fe4f56
+            -
+                title: "Ember Core Team Meeting Minutes - 2017-05-12"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember.js/2017-05/may-12.md
+            -
+                title: "Ember Docs Team Meeting Minutes - 2017-04-13"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/docs-team/2017-04/april-14.md
+            -
+                title: "RFC: Named Blocks"
+                description: ""
+                link: https://github.com/machty/rfcs/blob/named-blocks/text/0000-named-blocks.md
+            -
+                title: "Do You Build WordPress Sites?"
+                description: "Earn top commissions by promoting the Jetpack products millions of WordPress professionals love."
+                link: http://go.hackingui.com/JetpackEmberWeekly010517
+                domain: jetpack.com
+                advert: true
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-tri-state: Conditionally Render Content Based on the State of Promises"
+                description: ""
+                link: https://www.npmjs.com/package/ember-tri-state
+            -
+                title: "ember-divider-dots: Customizable Component for Rendering SVG Section Dividers."
+                description: ""
+                link: https://github.com/BrianSipple/ember-divider-dots
+            -
+                title: "ember-attacher: Tooltips and Popovers Made Easy"
+                description: ""
+                link: https://kybishop.github.io/ember-attacher/
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "An Introduction to Glimmer - Ruslan Zavacky"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/an-introduction-to-glimmer
+            -
+                title: "Improving the UX of Ember Based Applications Is the Developer's Job - Kuba Niechcial"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/improving-the-ux-of-ember-based-applications-is-the-developers-job
+            -
+                title: "Ember Concurrency - Sam deMaeyer"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/ember-concurrency
+            -
+                title: "Making the Web Frameworks Titans Feel Tiny - Marten Schilstra"
+                description: ""
+                link: https://www.youtube.com/watch?v=1PLQEhyySMo&t=1160s
+            -
+                title: "Ember Weekend Podcast #100: The Centennial"
+                description: ""
+                link: https://emberweekend.com/episodes/the-centennial
+            -
+                title: "Ember Weekend Podcast #101: The Broccoli Through the Trees"
+                description: ""
+                link: https://emberweekend.com/episodes/the-broccoli-through-the-trees
+            -
+                title: "Frontside Podcast Ep 69: Redux Part II with Toran Billups"
+                description: ""
+                link: https://frontsidethepodcast.simplecast.fm/69
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: New York - 17th May
+                link: "https://www.meetup.com/EmberJS-NYC/events/239549883/"
+            - 
+                title: Marina del Rey - 17th May
+                link: "https://www.meetup.com/Ember-LA/events/237760613/"
+            -
+                title: "Netguru Digital Forum Webinar: Ember.js - a safe bet for your web needs - 18th May"
+                description: ""
+                link: https://www.netguru.co/digital-forum
+            - 
+                title: San Francisco - 23rd May
+                link: "https://www.meetup.com/Ember-SF/events/237197949/"
+            - 
+                title: Hamburg - 23rd May
+                link: "https://www.meetup.com/emberHH/events/239324240/"
+            - 
+                title: Atlanta - 24th May
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/239999559/"
+            - 
+                title: Seattle - 24th May
+                link: "https://www.meetup.com/Ember-js-Seattle-Meetup/events/239959557/"
+            - 
+                title: Munich - 24th May
+                link: "https://www.meetup.com/Ember-js-Munich/events/239931246/"
+            - 
+                title: New York - 25th May
+                link: "https://www.meetup.com/EmberJS-NYC/events/239881850/"
+            - 
+                title: Austin - 25th May
+                link: "https://www.meetup.com/Ember-ATX/events/239569396/"
+            - 
+                title: Budapest - 25th May
+                link: "https://www.meetup.com/ember-bp/events/239320855/"
+

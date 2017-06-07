@@ -1,0 +1,148 @@
+issue: 204
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember 2.13 and 2.14 Beta Released"
+                description: ""
+                link: https://emberjs.com/blog/2017/04/29/ember-2-13-released.html
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/square-rasterized-150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Easy visual testing for your Ember app"
+                description: "Easily see what’s changed in your Ember app’s UI, every time you push a commit to GitHub.   Percy automatically shows you what’s changed, with handy before and after screenshots. Quickly review UI changes, approve updates, and catch UI bugs before your users do."
+                advert: true
+                link: https://percy.io/?utm_source=ember_weekly&utm_medium=email&utm_campaign=ember_weekly_3&utm_content=easy_visual_testing_for_your_ember_app
+                # domain: percy.io
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Does Glimmer mean the death of Ember?"
+                description: ""
+                link: http://rwjblue.com/2017/04/26/does-glimmer-kill-ember/
+            -
+                title: "Ember Actions: Best Practices"
+                description: ""
+                link: https://medium.com/@jordanvincent/ember-actions-best-practices-442be5eed88d
+            -
+                title: "Ember Tips: Managing Timeouts and Delays"
+                description: ""
+                link: https://karolgalanciak.com/blog/2017/04/30/ember-quick-tips-managing-timeouts-and-delays/
+            -
+                title: "Pure Computed Properties in Ember"
+                description: ""
+                link: https://spin.atomicobject.com/2017/04/26/ember-pure-computed-properties/
+            -
+                title: "Going to ng-conf as an Ember.js user"
+                description: ""
+                link: https://medium.com/@tarasm/going-to-ng-conf-as-an-ember-js-user-212804ded0
+            -
+                title: "Lessons from a year in JavaScript — AngularJS vs EmberJS"
+                description: ""
+                link: https://medium.com/@bradleybirch09/lessons-from-a-year-in-javascript-angularjs-vs-emberjs-40c88d6f4d95
+            -
+                title: "RFC: Automatic SSL in development"
+                description: ""
+                link: https://github.com/davewasmer/ember-cli-rfcs/blob/devcert-ssl/active/0000-devcert-ssl.md
+            -
+                title: "Do You Build WordPress Sites?"
+                description: "Earn top commissions by promoting the Jetpack products millions of WordPress professionals love."
+                link: http://go.hackingui.com/godemb240417
+                domain: jetpack.com
+                advert: true
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "ember-cli-conditional-compile: Conditional Compilation (Feature Flags)"
+                description: ""
+                link: https://emberobserver.com/addons/ember-cli-conditional-compile
+            -
+                title: "ember-inline-svg: Render SVG Images Inline"
+                description: ""
+                link: https://emberobserver.com/addons/ember-inline-svg
+            # -
+            #     title: ""
+            #     description: ""
+            #     link:
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #99: It all starts out simple"
+                description: ""
+                link: https://emberweekend.com/episodes/it-all-starts-out-simple
+            -
+                title: "Ember Redux - Toran Billups"
+                description: ""
+                link: https://vimeo.com/212534548
+            -
+                title: "EmberMap: Small composability wins"
+                description: ""
+                link: https://embermap.com/video/small-composability-wins
+            -
+                title: "EmberJS: A Fitting Face for a D8 Backend - DrupalCon Baltimore 2017"
+                description: ""
+                link: https://www.youtube.com/watch?v=KPAmFxc4WC4
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Montevideo - 2nd May
+                link: "https://www.meetup.com/ember-montevideo/events/239365086/"
+            - 
+                title: Silicon Valley - 3rd May
+                link: "https://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/238858907/"
+            - 
+                title: Boston - 4th May
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998650/"
+            - 
+                title: Toronto - 4th May
+                link: "https://www.meetup.com/Toronto-Ember-JS-Meetup/events/239469570/"
+            - 
+                title: "Berlin - 8th May"
+                description: "Also [Drinks @ Restaurant Maximilians](https://www.meetup.com/Ember-js-Berlin/events/238784278/)."
+                link: "https://www.meetup.com/Ember-js-Berlin/events/239480902/"
+            - 
+                title: New York - 9th May
+                link: "https://www.meetup.com/EmberJS-NYC/events/239541566/"
+            - 
+                title: Atlanta - 9th May
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/239486547/"
+            - 
+                title: Chicago - 10th May
+                link: "https://www.meetup.com/Chicago-Ember-js/events/237941861/"
+            - 
+                title: San Diego - 10th May
+                link: "https://www.meetup.com/sandiego-ember/events/wkkswlywhbnb/"
+

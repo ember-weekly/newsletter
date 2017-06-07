@@ -1,0 +1,187 @@
+issue: 202
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember Data v2.12.2 Released"
+                description: "Also [Ember Data v2.13.0 Beta 4](https://github.com/emberjs/data/releases/tag/v2.13.0-beta.4) released"
+                link: https://github.com/emberjs/data/releases/tag/v2.12.2
+            
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/square-rasterized-150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Continuous visual reviews for Ember apps - Percy.io"
+                description: "Percy automatically shows your team upcoming visual changes right in your GitHub pull requests. Quickly review UI changes, approve updates, and catch UI bugs before your users do."
+                advert: true
+                link: https://percy.io/?utm_source=ember_weekly&utm_medium=email&utm_campaign=ember_weekly_1&utm_content=continuous_visual_reviews
+                # domain: percy.io
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Glimmer.js: What’s the Deal with TypeScript?"
+                description: ""
+                link: https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0
+            -
+                title: "The Future of Ember’s Testing and the Beheading of jQuery"
+                description: ""
+                link: http://miguelcamba.com/blog/2017/04/11/the-future-of-embers-testing-and-the-beheading-of-jquery/
+            -
+                title: "Ember-Electron 2: Building Desktop Apps with Ember and Electron"
+                description: ""
+                link: https://felixrieseberg.com/ember-electron-2/
+            -
+                title: "Acceptance testing — Best Practice: Page Object"
+                description: ""
+                link: https://medium.com/@cs3b/acceptance-testing-with-page-object-nesting-8c3c7384f367
+            -
+                title: "Ember with Yarn vs NPM"
+                description: ""
+                link: https://medium.com/front-end-hacking/ember-with-yarn-vs-npm-667bc83db733
+            -
+                title: "Cell Zero goes to Ember Conf 2017"
+                description: ""
+                link: https://spin.atomicobject.com/2017/04/16/cell-zero-ember-conf-2017/
+            -
+                title: "Intro to Ember Authentication"
+                description: ""
+                link: http://www.projectforrest.com/path/86
+            -
+                title: "Ember CLI Team Meeting Minutes - 2017-04-06"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/ember-cli/2017-04/april-06.md
+            -
+                title: "Ember Fastboot Team Meeting Minutes - 2017-04-07"
+                description: ""
+                link: https://github.com/emberjs/core-notes/blob/master/fastboot-team/2017-04/april-07.md
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Glimmer.js TodoMVC demo"
+                description: ""
+                link: https://github.com/glimmerjs/todomvc-demo
+            -
+                title: "Ember Electron v2.0.0 Released"
+                description: ""
+                link: https://ember-electron.js.org/
+            -
+                title: "ember-route-recognizer: Resolve Ember.js routes by path in Node.js"
+                description: ""
+                link: https://github.com/peopleconnectus/ember-route-recognizer
+            -
+                title: "ember-svg-jar v0.10.0 Released"
+                description: ""
+                link: https://github.com/ivanvotti/ember-svg-jar
+            -
+                title: "New & awesome tool: now you can see how your visitors are truly using your site"
+                description: "Hotjar is an easy way to truly understand your web and mobile site visitors. Find your hottest opportunities for growth today."
+                link: http://go.hackingui.com/hotjarember170417
+                domain: hotjar.com
+                advert: true
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "Ember Weekend Podcast #97: Glimmer Weekend"
+                description: ""
+                link: https://emberweekend.com/episodes/glimmer-weekend
+            -
+                title: "Ember Weekend Podcast #98: Memory Management & Glimmer DI"
+                description: ""
+                link: https://emberweekend.com/episodes/memory-management-and-glimmer-di
+            -
+                title: "EmberConf 2017: Rebuilding Tumblr as a Single Page App by Oli Griffiths"
+                description: ""
+                link: https://www.youtube.com/watch?v=284BfgZ_-nE&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT&index=32
+            -
+                title: "EmberConf 2017: Empowering the Next Million Creators by Edward Faulkner"
+                description: ""
+                link: https://www.youtube.com/watch?v=9DsBHKj90EY
+            -
+                title: "EmberConf 2017: Mastering Ember from the Perspective of a N00b by Madison Kerndt"
+                description: ""
+                link: https://www.youtube.com/watch?v=BdUL_txyqcw
+            -
+                title: "EmberMap: Ember Test Selectors"
+                description: ""
+                link: https://embermap.com/video/ember-test-selectors
+            -
+                title: "The Art of Mastering Ember - Laura Lebovic"
+                description: ""
+                link: https://pusher.com/sessions/meetup/ember-london/the-art-of-mastering-ember
+            -
+                title: "The Wheel of Type - Charles Lowell"
+                description: ""
+                link: https://www.youtube.com/watch?v=4OCjlkKBvXQ
+            -
+                title: "Using Ember Charts with D3.js — Matt Payne"
+                description: ""
+                link: https://www.youtube.com/watch?v=LQ7HD7Abd58
+            -
+                title: "Recording Ember Acceptance Tests Automatically - Test Recorder Series - Part 2"
+                description: ""
+                link: https://www.youtube.com/watch?v=PdIdG8yF02s
+
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Cary - 18th April
+                link: "https://www.meetup.com/Triangle-Ember/events/238327283/"
+            - 
+                title: Atlanta - 18th April
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/239271619/"
+            - 
+                title: Montevideo - 18th April
+                link: "https://www.meetup.com/ember-montevideo/events/238644520/"
+            - 
+                title: Berlin - 18th April
+                link: "https://www.meetup.com/Ember-js-Berlin/events/238594739/"
+            - 
+                title: Los Angeles - 19th April
+                link: "https://www.meetup.com/Ember-LA/events/237760562/"
+            - 
+                title: Portland - 19th April
+                link: "https://www.meetup.com/Ember-PDX/events/239107357/"
+            - 
+                title: Amsterdam - 25th April
+                link: "https://www.meetup.com/Ember-js-Amsterdam/events/238737296/"
+            - 
+                title: Atlanta - 26th April
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238939528/"
+            - 
+                title: Denver - 26th April
+                link: "https://www.meetup.com/Ember-js-Denver/events/236198292/"
+            - 
+                title: London - 27th April
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237900428/"
+            - 
+                title: Vancouver - 27th April
+                link: "https://www.meetup.com/Vancouver-Ember-js/events/239277846/"
+
+

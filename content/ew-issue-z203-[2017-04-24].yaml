@@ -1,0 +1,156 @@
+issue: 203
+strapline: "Your weekly source of Ember news"
+content:
+
+    -
+        heading: "Headlines"
+        headlines:
+            -
+                title: "Ember-CLI v2.12.2 Released"
+                description: "Also [Ember-CLI v2.13.0 Beat 4 Released](https://github.com/ember-cli/ember-cli/releases/tag/v2.13.0-beta.4)."
+                link: https://github.com/ember-cli/ember-cli/releases/tag/v2.12.2
+            -
+                title: "Ember-CLI-Fastboot v1.0.0 Beta 18 Released"
+                description: ""
+                link: https://github.com/ember-fastboot/ember-cli-fastboot/releases/tag/v1.0.0-beta.18
+
+
+    # -
+    #     heading: "From our sponsors"
+    #     newsletterAd: true
+
+    -   
+        heading: "From our sponsors"
+        image: "https://github.com/ember-weekly/ember-weekly/raw/master/assets/sponsors/square-rasterized-150x150.png"
+        advert: true
+        headlines:
+            -
+                title: "Want to prevent UI bugs sneaking into your Ember app?"
+                description: "Percy shows your team upcoming visual changes right in your GitHub pull requests. Quickly review UI changes, approve updates, and catch UI bugs before your users do."
+                advert: true
+                link: https://percy.io/?utm_source=ember_weekly&utm_medium=email&utm_campaign=ember_weekly_2&utm_content=prevent_ui_bugs_sneaking_into_your_ember_apps
+                # domain: percy.io
+
+
+    -
+        heading: "Reading"
+        headlines:
+            -
+                title: "Ember CLI Targets"
+                description: ""
+                link: http://rwjblue.com/2017/04/21/ember-cli-targets/
+            -
+                title: "Deploying Glimmer Apps"
+                description: ""
+                link: http://rwjblue.com/2017/04/18/deploying-glimmer-apps/
+            -
+                title: "Organizing Data Flow with Ember"
+                description: ""
+                link: https://www.salsify.com/blog/engineering/smart-and-dumb-components-in-ember
+            -
+                title: "TIL: Async custom ember-CP-validations with ember-concurrency"
+                description: ""
+                link: http://blog.firstiwaslike.com/til-async-custom-ember-cp-validations-with-ember-concurrency/
+            -
+                title: "ember-rideshare"
+                description: ""
+                link: https://dunningpostor.com/ember-rideshare/
+            -
+                title: "Implementing Instant Job Listing Pages - LinkedIn"
+                description: ""
+                link: https://engineering.linkedin.com/blog/2017/04/implementing-instant-job-listing-pages
+            -
+                title: "RFC: Deprecate `resetNamespace`"
+                description: ""
+                link:  https://github.com/cibernox/rfcs/blob/deprecate_reset_namespace/text/0000-deprecate-reset-namespace.md
+            -
+                title: "What you didn't know about class and attribute bindings in Ember"
+                description: ""
+                link: http://blog.deveo.com/what-you-didnt-know-about-class-and-attribute-bindings-in-ember
+            -
+                title: "Free eBook: How to start a WordPress maintenance business"
+                description: "Our 50+ page eBook covers everything you need to know to start your WordPress maintenance business."
+                link: http://go.hackingui.com/godemb240417
+                domain: godaddy.com
+                advert: true
+
+
+
+    -
+        heading: "Code"
+        headlines:
+            -
+                title: "Ember Language Server VSCode Extension"
+                description: ""
+                link: https://marketplace.visualstudio.com/items?itemName=emberjs.vscode-ember
+            -
+                title: "ember-window-messenger: PostMessage Built with Promises"
+                description: ""
+                link: https://www.npmjs.com/package/ember-window-messenger
+            -
+                title: "ember-cli-gravatar: Component For Gravatar Image Tags"
+                description: ""
+                link: https://github.com/johnotander/ember-cli-gravatar
+
+
+    # -
+    #     heading: "Jobs"
+    #     advert: true
+    #     headlines:
+    #         -
+    #            title: ""
+    #            description: ""
+    #            link:
+
+
+    -
+        heading: "Watch/Listen"
+        headlines:
+            -
+                title: "EmberMap: Intro to Broccoli.js"
+                description: ""
+                link: https://embermap.com/topics/intro-to-broccoli
+            -
+                title: "EmberConf 2017: Rebuilding Tumblr as a Single Page App by Oli Griffiths"
+                description: ""
+                link: https://www.youtube.com/watch?v=AqJk9P66dsU
+            -
+                title: "Intro to Frontend JavaScript Framework Ember.JS - Sandino Nunez"
+                description: ""
+                link: https://www.youtube.com/watch?v=_dW2acYgHFY
+
+
+    -
+        heading: "Events"
+        headlines:
+            - 
+                title: Amsterdam - 25th April
+                link: "https://www.meetup.com/Ember-js-Amsterdam/events/238737296/"
+            - 
+                title: Atlanta - 26th April
+                link: "https://www.meetup.com/Ember-Atlanta-Meetup/events/238939528/"
+            - 
+                title: Denver - 26th April
+                link: "https://www.meetup.com/Ember-js-Denver/events/236198292/"
+            - 
+                title: London - 27th April
+                link: "https://www.meetup.com/London-Emberjs-User-Group/events/237900428/"
+            - 
+                title: Austin - 27th April
+                link: "https://www.meetup.com/Ember-ATX/events/231396150/"
+            - 
+                title: Vancouver - 27th April
+                link: "https://www.meetup.com/Vancouver-Ember-js/events/239277846/"
+            - 
+                title: Columbus - 1st May
+                link: "https://www.meetup.com/ember-columbus/events/238959767/"
+            - 
+                title: Montevideo - 2nd May
+                link: "https://www.meetup.com/ember-montevideo/events/239365086/"
+            - 
+                title: Silicon Valley - 3rd May
+                link: "https://www.meetup.com/Silicon-Valley-EmberJS-Meetup/events/238858907/"
+            - 
+                title: Boston - 4th May
+                link: "https://www.meetup.com/Boston-Ember-js/events/233998650/"
+
